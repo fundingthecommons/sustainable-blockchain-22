@@ -18,7 +18,7 @@ blocks:
       src: >-
         http://res.cloudinary.com/protocolai/image/upload/v1643128562/Hall_of_Fame_grccee.png
     label: ''
-    headline: Microgen
+    headline: Sustainable Blockchain
     subhead: A site builder for Web 3.0
     body: |
       Make modern web 3.0 ready websites with a real-time visual editor.
@@ -162,6 +162,5 @@ blocks:
         buttonLabel: Visit Site
     navigationLabel: Made with Microgen
     _template: photoCards
-meta:
 ---
 
