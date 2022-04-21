@@ -22,6 +22,12 @@ blocks:
     subhead: ''
     body: "\_Two days of talks, workshops and discussions on how we can work together to develop and build greener blockchain solutions.\n"
     buttons:
+      - label: Submit a Session
+        link: /
+        type: solid
+        buttonFillStyles: bg-primary
+        textColor: black
+        backgroundColor: primary
       - label: Register
         link: 'https://github.com/filecoin-project/microgen'
         type: solid
