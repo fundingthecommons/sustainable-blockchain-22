@@ -18,12 +18,11 @@ blocks:
       src: >-
         http://res.cloudinary.com/protocolai/image/upload/v1643128562/Hall_of_Fame_grccee.png
     label: ''
-    headline: Sustainable Blockchain
-    subhead: A site builder for Web 3.0
-    body: |
-      Make modern web 3.0 ready websites with a real-time visual editor.
+    headline: Sustainable Blockchain Summit EU
+    subhead: ''
+    body: "\_Two days of talks, workshops and discussions on how we can work together to develop and build greener blockchain solutions.\n"
     buttons:
-      - label: Get Started
+      - label: Register
         link: 'https://github.com/filecoin-project/microgen'
         type: solid
         buttonFillStyles: bg-primary
