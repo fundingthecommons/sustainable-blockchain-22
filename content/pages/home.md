@@ -48,16 +48,12 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - headline: Modern Features
+      - headline: ''
+        accentColor: primary
+      - headline: Submit a Talk
         subhead: ''
-        text: >
-          Responsive design, open graph social sharing and google analytics on
-          every site.
-      - headline: Custom Design
-        subhead: ''
-        text: >
-          Customize the look and feel of your site with a realtime visual
-          editor, without writing a single line of code.
+        text: ''
+        accentColor: primary
     navigationLabel: Features
     _template: textCards
   - style:
