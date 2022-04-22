@@ -58,15 +58,10 @@ blocks:
     background:
       fillStyles: bg-gray-light
     label: ''
-    headline: Features
+    headline: ''
     subhead: ''
     body: ''
     items:
-      - headline: Deploy Quickly
-        subhead: ''
-        text: >
-          Get a website complete with a visual CMS deployed in less than an hour
-          on your choice of static host.
       - headline: Modern Features
         subhead: ''
         text: >
@@ -77,10 +72,6 @@ blocks:
         text: >
           Customize the look and feel of your site with a realtime visual
           editor, without writing a single line of code.
-      - headline: Git Based
-        subhead: ''
-        text: |
-          Version controlled content and design.
     navigationLabel: Features
     _template: textCards
   - style:
