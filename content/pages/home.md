@@ -63,10 +63,16 @@ blocks:
       textStyles: text-black font-sans text-md mb-0
       contentOrder: labelHeadingsContent
     label: ''
-    headline: 'Partners '
-    subhead: Here is a subhead
-    body: |
-      This is a rich text component you can add hyperlinks, etc.
+    headline: 'Insert partner logos  - see folder '
+    subhead: ''
+    body: ''
+    buttons:
+      - label: 'Sponsor '
+        link: /
+        type: solid
+        buttonFillStyles: bg-primary
+        textColor: white
+        backgroundColor: primary
     _template: banner
   - style:
       textAlignment: text-left
@@ -74,10 +80,10 @@ blocks:
       padding: pt-14 pb-20 pr-20 pl-20
       contentWidth: w-full
       columns: '2'
-      labelStyles: text-black  text-xl mb-0 font-bold
-      headlineStyles: text-white  text-6xl mb-10 font-bold
-      subheadStyles: text-black  text-3xl mb-0 font-bold
-      textStyles: text-black  text-lg mb-0 font-bold
+      labelStyles: text-black undefined text-xl mb-0 font-bold
+      headlineStyles: text-white undefined text-6xl mb-10 font-bold
+      subheadStyles: text-black undefined text-3xl mb-0 font-bold
+      textStyles: text-black undefined text-lg mb-0 font-bold
       contentOrder: labelHeadingsContent
     cardStyle:
       fillStyles: bg-primary
