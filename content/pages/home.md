@@ -41,16 +41,17 @@ blocks:
     background:
       fillStyles: bg-primary
     label: ''
-    headline: Learn More
+    headline: 'Agenda - Coming Soon! '
     subhead: ''
     body: ''
     buttons:
-      - label: Get Started
-        link: 'https://github.com/filecoin-project/microgen'
+      - label: Submit a talk
+        link: ''
         type: solid
         buttonFillStyles: bg-white
         textColor: primary
         backgroundColor: white
+    navigationLabel: Agenda
     _template: banner
   - style:
       textAlignment: text-left
