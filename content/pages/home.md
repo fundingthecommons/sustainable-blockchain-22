@@ -29,41 +29,6 @@ blocks:
         backgroundColor: primary
     _template: feature
   - style:
-      textAlignment: left
-      padding: pt-20 pb-20 pr-20 pl-20
-      columns: '2'
-      labelStyles: text-black font-sans text-xl mb-0 font-bold
-      headlineStyles: text-black  text-5xl mb-11 font-bold
-      subheadStyles: text-black  text-3xl mb-0 font-bold
-      textStyles: text-black  text-lg mb-0 font-bold
-      contentOrder: labelHeadingsContent
-    cardStyle:
-      fillStyles: bg-white
-      padding: pt-4 pb-4 pr-5 pl-7
-      type: solid
-      borderStyles: border-primary undefinedundefined
-      labelStyles: 'text-black undefined text-sm mb-0 '
-      headlineStyles: text-primary undefined text-xl mb-2 font-bold
-      subheadStyles: 'text-black undefined text-lg mb-0 '
-      textStyles: 'text-black undefined undefined mb-0 '
-      buttonType: outline
-      buttonTextColor: accent4
-    background:
-      fillStyles: bg-gray-light
-    label: ''
-    headline: ''
-    subhead: ''
-    body: ''
-    items:
-      - headline: ''
-        accentColor: primary
-      - headline: Submit a Talk
-        subhead: ''
-        text: ''
-        accentColor: primary
-    navigationLabel: Features
-    _template: textCards
-  - style:
       textAlignment: text-center
       minHeight: min-h-0
       padding: pt-7 pb-10 pr-0
@@ -87,15 +52,6 @@ blocks:
         textColor: primary
         backgroundColor: white
     _template: banner
-  - style:
-      minHeight: min-h-0
-      fullWidth: false
-      padding: pt-10 pb-10 pr-20 pl-20
-    background:
-      fillStyles: bg-black
-    markup: <p class="text-white">I am an embed</p>
-    navigationLabel: Embed
-    _template: embed
   - style:
       textAlignment: text-left
       minHeight: min-h-0
@@ -121,7 +77,7 @@ blocks:
     background:
       fillStyles: bg-accent1
     label: ''
-    headline: Made with Microgen
+    headline: SBS USA - Watch Again
     subhead: ''
     body: ''
     items:
@@ -145,7 +101,7 @@ blocks:
           filler text.
         link: 'https://hackathons.filecoin.io/asia-hackathon-season/'
         buttonLabel: Visit Site
-    navigationLabel: Made with Microgen
+    navigationLabel: SBS USA 2022
     _template: photoCards
 ---
 
