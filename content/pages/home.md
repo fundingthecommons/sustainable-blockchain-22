@@ -20,6 +20,13 @@ blocks:
     headline: Sustainable Blockchain Summit EU
     subhead: ''
     body: "\_Two days of talks, workshops and discussions on how we can work together to develop and build greener blockchain solutions.\n"
+    buttons:
+      - label: Register
+        link: /
+        type: solid
+        buttonFillStyles: bg-primary
+        textColor: white
+        backgroundColor: primary
     _template: feature
   - style:
       textAlignment: left
