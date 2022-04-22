@@ -45,7 +45,7 @@ blocks:
     subhead: ''
     body: ''
     buttons:
-      - label: Submit a talk
+      - label: Apply to Speak
         link: ''
         type: solid
         buttonFillStyles: bg-white
