@@ -15,8 +15,7 @@ blocks:
     background:
       fillStyles: from-accent1 to-black bg-gradient-to-br
     image:
-      src: >-
-        http://res.cloudinary.com/protocolai/image/upload/v1643128562/Hall_of_Fame_grccee.png
+      src: ''
     label: ''
     headline: Sustainable Blockchain Summit EU
     subhead: ''
