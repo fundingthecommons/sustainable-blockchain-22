@@ -27,6 +27,12 @@ blocks:
         buttonFillStyles: bg-primary
         textColor: white
         backgroundColor: primary
+      - label: Apply to Speak
+        link: /
+        type: solid
+        buttonFillStyles: bg-accent4
+        textColor: black
+        backgroundColor: primary
     _template: feature
   - style:
       textAlignment: text-center
@@ -44,14 +50,23 @@ blocks:
     headline: 'Agenda - Coming Soon! '
     subhead: ''
     body: ''
-    buttons:
-      - label: Apply to Speak
-        link: ''
-        type: solid
-        buttonFillStyles: bg-white
-        textColor: primary
-        backgroundColor: white
     navigationLabel: Agenda
+    _template: banner
+  - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pr-10 pb-20 pl-10
+      width: normal
+      labelStyles: text-black font-sans text-sm mb-0
+      headlineStyles: text-black font-sans text-5xl mb-0
+      subheadStyles: text-black font-sans text-3xl mb-0
+      textStyles: text-black font-sans text-md mb-0
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: 'Partners '
+    subhead: Here is a subhead
+    body: |
+      This is a rich text component you can add hyperlinks, etc.
     _template: banner
   - style:
       textAlignment: text-left
