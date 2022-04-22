@@ -73,6 +73,7 @@ blocks:
         buttonFillStyles: bg-primary
         textColor: white
         backgroundColor: primary
+    navigationLabel: Sponsor
     _template: banner
   - style:
       textAlignment: text-left
