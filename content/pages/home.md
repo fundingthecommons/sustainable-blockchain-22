@@ -78,6 +78,48 @@ blocks:
   - style:
       textAlignment: text-left
       minHeight: min-h-0
+      padding: pt-20 pr-20 pb-20 pl-20
+      contentWidth: w-full
+      columns: '3'
+      labelStyles: text-black font-sans text-sm mb-0
+      headlineStyles: text-black font-sans text-5xl mb-0
+      subheadStyles: text-black font-sans text-3xl mb-0
+      textStyles: text-black font-sans text-md mb-0
+      contentOrder: labelHeadingsContent
+    cardStyle:
+      fillStyles: bg-gray
+      padding: pt-4 pb-4 pr-4 pl-4
+      type: solid
+      imageStyles: ' undefined undefined undefined'
+      labelStyles: 'text-black undefined text-sm mb-0 '
+      headlineStyles: 'text-black undefined text-2xl mb-0 '
+      subheadStyles: 'text-black undefined text-lg mb-0 '
+      textStyles: 'text-black undefined text-sm mb-0 '
+      buttonType: solid
+      buttonFillStyles: ''
+      buttonTextColor: primary
+    label: ''
+    headline: This is a headline
+    subhead: Here is a subhead
+    body: |
+      This is a rich text component you can add hyperlinks, etc.
+    items:
+      - headline: Here's Another Card
+        subhead: ''
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+      - headline: Here's Another Card
+        subhead: ''
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+      - headline: Here's Another Card
+        subhead: ''
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+    _template: photoCards
+  - style:
+      textAlignment: text-left
+      minHeight: min-h-0
       padding: pt-14 pb-20 pr-20 pl-20
       contentWidth: w-full
       columns: '2'
