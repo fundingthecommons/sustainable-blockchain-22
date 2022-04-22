@@ -47,33 +47,10 @@ blocks:
     background:
       fillStyles: bg-primary
     label: ''
-    headline: 'Agenda - Coming Soon! '
+    headline: 'Coming Soon! '
     subhead: ''
     body: ''
     navigationLabel: Agenda
-    _template: banner
-  - style:
-      textAlignment: text-left
-      minHeight: min-h-0
-      padding: pt-20 pr-10 pb-20 pl-10
-      width: normal
-      labelStyles: text-black font-sans text-sm mb-0
-      headlineStyles: text-black font-sans text-5xl mb-0
-      subheadStyles: text-black font-sans text-3xl mb-0
-      textStyles: text-black font-sans text-md mb-0
-      contentOrder: labelHeadingsContent
-    label: ''
-    headline: 'Insert partner logos  - see folder '
-    subhead: ''
-    body: ''
-    buttons:
-      - label: 'Sponsor '
-        link: /
-        type: solid
-        buttonFillStyles: bg-primary
-        textColor: white
-        backgroundColor: primary
-    navigationLabel: Sponsor
     _template: banner
   - style:
       textAlignment: text-left
@@ -117,6 +94,29 @@ blocks:
         text: |
           This is a rich text component you can add hyperlinks, etc.
     _template: photoCards
+  - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pr-10 pb-20 pl-10
+      width: normal
+      labelStyles: text-black font-sans text-sm mb-0
+      headlineStyles: text-black font-sans text-5xl mb-0
+      subheadStyles: text-black font-sans text-3xl mb-0
+      textStyles: text-black font-sans text-md mb-0
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: 'Insert partner logos  - see folder '
+    subhead: ''
+    body: ''
+    buttons:
+      - label: 'Sponsor '
+        link: /
+        type: solid
+        buttonFillStyles: bg-primary
+        textColor: white
+        backgroundColor: primary
+    navigationLabel: Sponsor
+    _template: banner
   - style:
       textAlignment: text-left
       minHeight: min-h-0
