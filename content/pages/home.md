@@ -76,10 +76,10 @@ blocks:
       buttonFillStyles: ''
       buttonTextColor: primary
     label: ''
-    headline: This is a headline
-    subhead: Here is a subhead
+    headline: 'Speakers '
+    subhead: ''
     body: |
-      This is a rich text component you can add hyperlinks, etc.
+      Our speakers are builders,&#x20;
     items:
       - headline: Here's Another Card
         subhead: ''
@@ -148,7 +148,7 @@ blocks:
     items:
       - image:
           src: >-
-            http://res.cloudinary.com/protocolai/image/upload/v1638476735/hackathons_z7pwah.png
+            http://res.cloudinary.com/protocolai/image/upload/v1650740340/events-filecoin/02-DecarbonizeCrypto_f5y8ma.png
         headline: Hackathons
         subhead: ''
         text: >
