@@ -157,11 +157,11 @@ blocks:
       - image:
           src: >-
             http://res.cloudinary.com/protocolai/image/upload/v1650740349/events-filecoin/04-IncentivizingCollective_mribo5.png
-        headline: Asia Hackathon Season
+        headline: 'Incentivizing Collective Climate Action Panel '
         subhead: ''
         text: ''
-        link: 'https://hackathons.filecoin.io/asia-hackathon-season/'
-        buttonLabel: Visit Site
+        link: 'https://youtu.be/lrg1V1kRwGo'
+        buttonLabel: Watch Now
     navigationLabel: SBS USA 2022
     _template: photoCards
 ---
