@@ -149,13 +149,11 @@ blocks:
       - image:
           src: >-
             http://res.cloudinary.com/protocolai/image/upload/v1650740340/events-filecoin/02-DecarbonizeCrypto_f5y8ma.png
-        headline: Hackathons
+        headline: ''
         subhead: ''
-        text: >
-          This is where you might talk about the card, if this wasn't just
-          filler text.
-        link: 'https://hackathons.filecoin.io/'
-        buttonLabel: Visit Site
+        text: ''
+        link: 'https://youtu.be/4Xb6zP88Fxw'
+        buttonLabel: Watch Now
       - image:
           src: >-
             http://res.cloudinary.com/protocolai/image/upload/v1638476723/asia-season_sn2gv8.png
