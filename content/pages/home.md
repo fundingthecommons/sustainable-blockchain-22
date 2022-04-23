@@ -156,12 +156,10 @@ blocks:
         buttonLabel: Watch Now
       - image:
           src: >-
-            http://res.cloudinary.com/protocolai/image/upload/v1638476723/asia-season_sn2gv8.png
+            http://res.cloudinary.com/protocolai/image/upload/v1650740349/events-filecoin/04-IncentivizingCollective_mribo5.png
         headline: Asia Hackathon Season
         subhead: ''
-        text: >
-          This is where you might talk about the card, if this wasn't just
-          filler text.
+        text: ''
         link: 'https://hackathons.filecoin.io/asia-hackathon-season/'
         buttonLabel: Visit Site
     navigationLabel: SBS USA 2022
