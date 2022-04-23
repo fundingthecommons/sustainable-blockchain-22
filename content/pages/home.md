@@ -142,7 +142,7 @@ blocks:
     background:
       fillStyles: bg-accent1
     label: ''
-    headline: SBS USA - Watch Again
+    headline: SBS USA 2022 - Watch Again
     subhead: ''
     body: ''
     items:
