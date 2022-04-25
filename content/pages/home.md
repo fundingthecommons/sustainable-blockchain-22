@@ -21,16 +21,22 @@ blocks:
     subhead: ''
     body: "\_Two days of talks, workshops and discussions on how we can work together to develop and build greener blockchain solutions.\n"
     buttons:
+      - label: Apply to Speak
+        link: /
+        type: solid
+        buttonFillStyles: bg-accent4
+        textColor: black
+        backgroundColor: primary
       - label: Register
         link: /
         type: solid
         buttonFillStyles: bg-primary
         textColor: white
         backgroundColor: primary
-      - label: Apply to Speak
+      - label: Sponsor
         link: /
         type: solid
-        buttonFillStyles: bg-accent4
+        buttonFillStyles: bg-gray-light
         textColor: black
         backgroundColor: primary
     _template: feature
@@ -94,29 +100,6 @@ blocks:
         text: |
           This is a rich text component you can add hyperlinks, etc.
     _template: photoCards
-  - style:
-      textAlignment: text-left
-      minHeight: min-h-0
-      padding: pt-20 pr-10 pb-20 pl-10
-      width: normal
-      labelStyles: text-black font-sans text-sm mb-0
-      headlineStyles: text-black font-sans text-5xl mb-0
-      subheadStyles: text-black font-sans text-3xl mb-0
-      textStyles: text-black font-sans text-md mb-0
-      contentOrder: labelHeadingsContent
-    label: ''
-    headline: 'Insert partner logos  - see folder '
-    subhead: ''
-    body: ''
-    buttons:
-      - label: 'Sponsor '
-        link: /
-        type: solid
-        buttonFillStyles: bg-primary
-        textColor: white
-        backgroundColor: primary
-    navigationLabel: Sponsor
-    _template: banner
   - style:
       textAlignment: text-left
       minHeight: min-h-0
