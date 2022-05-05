@@ -1,7 +1,8 @@
 fragment GlobalParts on Global {
   siteUrl
-  favicon
   gtmId
+  favicon
+  rule
   colors {
     __typename
     primary
@@ -14,6 +15,53 @@ fragment GlobalParts on Global {
     gray
     grayDark
     black
+  }
+  fonts {
+    __typename
+    font1
+    font2
+    font3
+    font4
+  }
+  sizeLeading {
+    __typename
+    textXs
+    textSm
+    textMd
+    textLg
+    textXl
+    text2xl
+    text3xl
+    text4xl
+    text5xl
+    text6xl
+    text7xl
+    text8xl
+  }
+  buttons {
+    __typename
+    primaryRule
+    primaryFill
+    primaryBorder
+    primaryTypography
+    primaryPadding
+    primaryRounded
+    secondaryRule
+    secondaryFill
+    secondaryBorder
+    secondaryTypography
+    secondaryPadding
+    secondaryRounded
+    minorRule
+    minorFill
+    minorBorder
+    minorTypography
+    minorPadding
+    minorRounded
+  }
+  links {
+    __typename
+    color
   }
   logo {
     __typename
@@ -36,6 +84,7 @@ fragment GlobalParts on Global {
     navBackgroundColor
     padding
   }
+  rule2
   blocks {
     __typename
     ... on GlobalBlocksFeature {
@@ -85,9 +134,6 @@ fragment GlobalParts on Global {
         label
         link
         type
-        buttonFillStyles
-        textColor
-        backgroundColor
       }
       rule2
       navigationLabel
@@ -120,8 +166,6 @@ fragment GlobalParts on Global {
         textStyles
         buttonTitle
         buttonType
-        buttonFillStyles
-        buttonTextColor
       }
       background {
         __typename
@@ -147,9 +191,6 @@ fragment GlobalParts on Global {
         label
         link
         type
-        buttonFillStyles
-        textColor
-        backgroundColor
       }
       items {
         __typename
@@ -195,7 +236,6 @@ fragment GlobalParts on Global {
         textStyles
         buttonTitle
         buttonType
-        buttonTextColor
       }
       background {
         __typename
@@ -221,9 +261,6 @@ fragment GlobalParts on Global {
         label
         link
         type
-        buttonFillStyles
-        textColor
-        backgroundColor
       }
       items {
         __typename
@@ -232,7 +269,6 @@ fragment GlobalParts on Global {
         text
         link
         buttonLabel
-        accentColor
       }
       navigationLabel
     }
@@ -279,9 +315,6 @@ fragment GlobalParts on Global {
         label
         link
         type
-        buttonFillStyles
-        textColor
-        backgroundColor
       }
       navigationLabel
     }
@@ -308,6 +341,132 @@ fragment GlobalParts on Global {
         }
       }
       markup
+      navigationLabel
+    }
+    ... on GlobalBlocksTailwindFeature {
+      tailwind {
+        __typename
+        section
+        wrap
+        imageWrap
+        image
+        contentWrap
+        content
+        label
+        headline
+        subhead
+        text
+        buttons
+        button
+      }
+      image {
+        __typename
+        src
+        alt
+      }
+      background {
+        __typename
+        fillStyles
+        src
+        position
+        ornaments {
+          __typename
+          src
+          alignment
+          width
+          height
+          xOffset
+          yOffset
+        }
+      }
+      rule
+      label
+      headline
+      subhead
+      body
+      buttons {
+        __typename
+        label
+        link
+      }
+      rule2
+      navigationLabel
+    }
+    ... on GlobalBlocksTailwindCards {
+      tailwind {
+        __typename
+        section
+        wrap
+        imageWrap
+        image
+        contentWrap
+        content
+        label
+        headline
+        subhead
+        text
+        buttons
+        button
+        rule
+        cardWrap
+        card
+        cardImageWrap
+        cardImage
+        cardContentWrap
+        cardContent
+        cardLabel
+        cardHeadline
+        cardSubhead
+        cardText
+        cardButtons
+        cardButton
+      }
+      image {
+        __typename
+        src
+        alt
+      }
+      background {
+        __typename
+        fillStyles
+        src
+        position
+        ornaments {
+          __typename
+          src
+          alignment
+          width
+          height
+          xOffset
+          yOffset
+        }
+      }
+      rule
+      label
+      headline
+      subhead
+      body
+      buttons {
+        __typename
+        label
+        link
+        type
+      }
+      items {
+        __typename
+        image {
+          __typename
+          src
+          alt
+        }
+        label
+        headline
+        subhead
+        text
+        link
+        buttonLabel
+      }
+      rule2
       navigationLabel
     }
   }
@@ -369,9 +528,6 @@ fragment PagesParts on Pages {
         label
         link
         type
-        buttonFillStyles
-        textColor
-        backgroundColor
       }
       rule2
       navigationLabel
@@ -404,8 +560,6 @@ fragment PagesParts on Pages {
         textStyles
         buttonTitle
         buttonType
-        buttonFillStyles
-        buttonTextColor
       }
       background {
         __typename
@@ -431,9 +585,6 @@ fragment PagesParts on Pages {
         label
         link
         type
-        buttonFillStyles
-        textColor
-        backgroundColor
       }
       items {
         __typename
@@ -479,7 +630,6 @@ fragment PagesParts on Pages {
         textStyles
         buttonTitle
         buttonType
-        buttonTextColor
       }
       background {
         __typename
@@ -505,9 +655,6 @@ fragment PagesParts on Pages {
         label
         link
         type
-        buttonFillStyles
-        textColor
-        backgroundColor
       }
       items {
         __typename
@@ -516,7 +663,6 @@ fragment PagesParts on Pages {
         text
         link
         buttonLabel
-        accentColor
       }
       navigationLabel
     }
@@ -563,9 +709,6 @@ fragment PagesParts on Pages {
         label
         link
         type
-        buttonFillStyles
-        textColor
-        backgroundColor
       }
       navigationLabel
     }
@@ -592,6 +735,132 @@ fragment PagesParts on Pages {
         }
       }
       markup
+      navigationLabel
+    }
+    ... on PagesBlocksTailwindFeature {
+      tailwind {
+        __typename
+        section
+        wrap
+        imageWrap
+        image
+        contentWrap
+        content
+        label
+        headline
+        subhead
+        text
+        buttons
+        button
+      }
+      image {
+        __typename
+        src
+        alt
+      }
+      background {
+        __typename
+        fillStyles
+        src
+        position
+        ornaments {
+          __typename
+          src
+          alignment
+          width
+          height
+          xOffset
+          yOffset
+        }
+      }
+      rule
+      label
+      headline
+      subhead
+      body
+      buttons {
+        __typename
+        label
+        link
+      }
+      rule2
+      navigationLabel
+    }
+    ... on PagesBlocksTailwindCards {
+      tailwind {
+        __typename
+        section
+        wrap
+        imageWrap
+        image
+        contentWrap
+        content
+        label
+        headline
+        subhead
+        text
+        buttons
+        button
+        rule
+        cardWrap
+        card
+        cardImageWrap
+        cardImage
+        cardContentWrap
+        cardContent
+        cardLabel
+        cardHeadline
+        cardSubhead
+        cardText
+        cardButtons
+        cardButton
+      }
+      image {
+        __typename
+        src
+        alt
+      }
+      background {
+        __typename
+        fillStyles
+        src
+        position
+        ornaments {
+          __typename
+          src
+          alignment
+          width
+          height
+          xOffset
+          yOffset
+        }
+      }
+      rule
+      label
+      headline
+      subhead
+      body
+      buttons {
+        __typename
+        label
+        link
+        type
+      }
+      items {
+        __typename
+        image {
+          __typename
+          src
+          alt
+        }
+        label
+        headline
+        subhead
+        text
+        link
+        buttonLabel
+      }
+      rule2
       navigationLabel
     }
   }

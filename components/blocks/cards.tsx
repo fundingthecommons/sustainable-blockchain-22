@@ -15,7 +15,7 @@ const Card = ({ data, index, cardstyle, parentField = ""  }) => {
       <div>
         {data.image && (
           <img
-            alt={data.image.alt}
+            alt={data.image.alt || data.headline}
             src={data.image.src}
             className={`w-full ${cardstyle?.imageStyles}`}
             data-tinafield={`${parentField}.${index}.image`}
@@ -44,9 +44,6 @@ const Card = ({ data, index, cardstyle, parentField = ""  }) => {
           <Buttons buttons={[{
             link: data.link,
             label: data.buttonLabel,
-            textColor: cardstyle?.buttonType === 'link' ? cardstyle?.accentColor : cardstyle?.buttonTextColor,
-            backgroundColor: data.accentColor ? data.accentColor : cardstyle?.accentColor,
-            buttonFillStyles: cardstyle?.buttonFillStyles,
             type: cardstyle?.buttonType
           }]} className="absolute bottom-4"  data-tinafield={`${parentField}.${index}.link`} />
         )}
