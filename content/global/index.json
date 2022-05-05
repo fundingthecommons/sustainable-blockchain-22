@@ -61,16 +61,10 @@
     "imageMargin": "24"
   },
   "nav": {
-    "navItems": [
-      {
-        "label": "Nav Item",
-        "link": "/"
-      }
-    ],
     "navAlignment": "text-right",
     "navTypeStyle": "text-white font-1 text-base mb-0 ",
     "navBackgroundColor": "from-primary to-accent2 bg-gradient-to-br",
-    "padding": "pt-10 pb-10 pr-20 pl-20 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5"
+    "padding": "pt-5 pb-10 pr-20 pl-20 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5"
   },
   "blocks": [
     {

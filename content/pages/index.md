@@ -2,82 +2,44 @@
 draft: true
 blocks:
   - style:
-      alignment: flex-row-reverse text-left items-center
-      featureContent: w-1/2 min-h-0
-      padding: pt-40 pb-16 pr-7 pl-20
-      featureImage: object-center object-scale-down
-      imagePadding: pt-12 pb-4 pr-0 pl-0
+      alignment: 'flex-row-reverse text-left items-center '
+      featureContent: 'w-1/2 min-h-0 '
+      padding: pt-20 pb-16 pr-7 pl-20
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-10 pb-4 pr-0 pl-0
       labelStyles: text-white font-sans text-xl mb-0 font-bold
       headlineStyles: text-primary font-sans text-6xl mb-0 font-bold
       subheadStyles: text-gray font-sans text-2xl mb-7 font-bold
-      textStyles: text-white font-sans text-lg mb-11
+      textStyles: 'text-white font-sans text-lg mb-11 '
       contentOrder: labelHeadingsContent
     background:
       fillStyles: from-accent1 to-black bg-gradient-to-br
     image:
-      src: >-
-        http://res.cloudinary.com/protocolai/image/upload/v1643128562/Hall_of_Fame_grccee.png
+      src: ''
     label: ''
-    headline: Microgen
-    subhead: A site builder for Web 3.0
-    body: |
-      Make modern web 3.0 ready websites with a real-time visual editor.
+    headline: Sustainable Blockchain Summit EU
+    subhead: ''
+    body: "\_Two days of talks, workshops and discussions on how we can work together to develop and build greener blockchain solutions.\n"
     buttons:
-      - label: Get Started
-        link: 'https://github.com/filecoin-project/microgen'
+      - label: Apply to Speak
+        link: /
+        type: solid
+        buttonFillStyles: bg-accent4
+        textColor: black
+        backgroundColor: primary
+      - label: Register
+        link: /
         type: solid
         buttonFillStyles: bg-primary
         textColor: white
-        backgroundColor: black
+        backgroundColor: primary
+      - label: Sponsor
+        link: /
+        type: solid
+        buttonFillStyles: bg-gray-light
+        textColor: black
+        backgroundColor: primary
     _template: feature
-  - style:
-      textAlignment: left
-      padding: pt-20 pb-20 pr-20 pl-20
-      columns: '2'
-      labelStyles: text-black font-sans text-xl mb-0 font-bold
-      headlineStyles: text-black  text-5xl mb-11 font-bold
-      subheadStyles: text-black  text-3xl mb-0 font-bold
-      textStyles: text-black  text-lg mb-0 font-bold
-      contentOrder: labelHeadingsContent
-    cardStyle:
-      fillStyles: bg-white
-      padding: pt-4 pb-4 pr-5 pl-7
-      type: solid
-      borderStyles: border-primary undefinedundefined
-      labelStyles: 'text-black undefined text-sm mb-0 '
-      headlineStyles: text-primary undefined text-xl mb-2 font-bold
-      subheadStyles: 'text-black undefined text-lg mb-0 '
-      textStyles: 'text-black undefined undefined mb-0 '
-      buttonType: outline
-      buttonTextColor: accent4
-    background:
-      fillStyles: bg-gray-light
-    label: ''
-    headline: Features
-    subhead: ''
-    body: ''
-    items:
-      - headline: Deploy Quickly
-        subhead: ''
-        text: >
-          Get a website complete with a visual CMS deployed in less than an hour
-          on your choice of static host.
-      - headline: Modern Features
-        subhead: ''
-        text: >
-          Responsive design, open graph social sharing and google analytics on
-          every site.
-      - headline: Custom Design
-        subhead: ''
-        text: >
-          Customize the look and feel of your site with a realtime visual
-          editor, without writing a single line of code.
-      - headline: Git Based
-        subhead: ''
-        text: |
-          Version controlled content and design.
-    navigationLabel: Features
-    _template: textCards
   - style:
       textAlignment: text-center
       minHeight: min-h-0
@@ -91,36 +53,63 @@ blocks:
     background:
       fillStyles: bg-primary
     label: ''
-    headline: Learn More
+    headline: 'Coming Soon! '
     subhead: ''
     body: ''
-    buttons:
-      - label: Get Started
-        link: 'https://github.com/filecoin-project/microgen'
-        type: solid
-        buttonFillStyles: bg-white
-        textColor: primary
-        backgroundColor: white
+    navigationLabel: Agenda
     _template: banner
   - style:
+      textAlignment: text-left
       minHeight: min-h-0
-      fullWidth: false
-      padding: pt-10 pb-10 pr-20 pl-20
-    background:
-      fillStyles: bg-black
-    markup: <p class="text-white">I am an embed</p>
-    navigationLabel: Embed
-    _template: embed
+      padding: pt-20 pr-20 pb-20 pl-20
+      contentWidth: w-full
+      columns: '3'
+      labelStyles: text-black font-sans text-sm mb-0
+      headlineStyles: text-black font-sans text-5xl mb-0
+      subheadStyles: text-black font-sans text-3xl mb-0
+      textStyles: text-black font-sans text-md mb-0
+      contentOrder: labelHeadingsContent
+    cardStyle:
+      fillStyles: bg-gray
+      padding: pt-4 pb-4 pr-4 pl-4
+      type: solid
+      imageStyles: ' undefined undefined undefined'
+      labelStyles: 'text-black undefined text-sm mb-0 '
+      headlineStyles: 'text-black undefined text-2xl mb-0 '
+      subheadStyles: 'text-black undefined text-lg mb-0 '
+      textStyles: 'text-black undefined text-sm mb-0 '
+      buttonType: solid
+      buttonFillStyles: ''
+      buttonTextColor: primary
+    label: ''
+    headline: 'Speakers '
+    subhead: ''
+    body: |
+      Our speakers are builders,&#x20;
+    items:
+      - headline: Here's Another Card
+        subhead: ''
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+      - headline: Here's Another Card
+        subhead: ''
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+      - headline: Here's Another Card
+        subhead: ''
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+    _template: photoCards
   - style:
       textAlignment: text-left
       minHeight: min-h-0
       padding: pt-14 pb-20 pr-20 pl-20
       contentWidth: w-full
       columns: '2'
-      labelStyles: text-black  text-xl mb-0 font-bold
-      headlineStyles: text-white  text-6xl mb-10 font-bold
-      subheadStyles: text-black  text-3xl mb-0 font-bold
-      textStyles: text-black  text-lg mb-0 font-bold
+      labelStyles: text-black undefined text-xl mb-0 font-bold
+      headlineStyles: text-white undefined text-6xl mb-10 font-bold
+      subheadStyles: text-black undefined text-3xl mb-0 font-bold
+      textStyles: text-black undefined text-lg mb-0 font-bold
       contentOrder: labelHeadingsContent
     cardStyle:
       fillStyles: bg-primary
@@ -136,32 +125,27 @@ blocks:
     background:
       fillStyles: bg-accent1
     label: ''
-    headline: Made with Microgen
+    headline: SBS USA 2022 - Watch Again
     subhead: ''
     body: ''
     items:
       - image:
           src: >-
-            http://res.cloudinary.com/protocolai/image/upload/v1638476735/hackathons_z7pwah.png
-        headline: Hackathons
+            http://res.cloudinary.com/protocolai/image/upload/v1650740340/events-filecoin/02-DecarbonizeCrypto_f5y8ma.png
+        headline: ''
         subhead: ''
-        text: >
-          This is where you might talk about the card, if this wasn't just
-          filler text.
-        link: 'https://hackathons.filecoin.io/'
-        buttonLabel: Visit Site
+        text: ''
+        link: 'https://youtu.be/4Xb6zP88Fxw'
+        buttonLabel: Watch Now
       - image:
           src: >-
-            http://res.cloudinary.com/protocolai/image/upload/v1638476723/asia-season_sn2gv8.png
-        headline: Asia Hackathon Season
+            http://res.cloudinary.com/protocolai/image/upload/v1650740349/events-filecoin/04-IncentivizingCollective_mribo5.png
+        headline: 'Incentivizing Collective Climate Action Panel '
         subhead: ''
-        text: >
-          This is where you might talk about the card, if this wasn't just
-          filler text.
-        link: 'https://hackathons.filecoin.io/asia-hackathon-season/'
-        buttonLabel: Visit Site
-    navigationLabel: Made with Microgen
+        text: ''
+        link: 'https://youtu.be/lrg1V1kRwGo'
+        buttonLabel: Watch Now
+    navigationLabel: SBS USA 2022
     _template: photoCards
-meta:
 ---
 
