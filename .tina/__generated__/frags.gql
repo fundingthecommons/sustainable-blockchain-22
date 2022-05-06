@@ -864,6 +864,13 @@ fragment PagesParts on Pages {
       navigationLabel
     }
     ... on PagesBlocksSpeakerCards {
+      style {
+        __typename
+        labelStyles
+        headlineStyles
+        subheadStyles
+        textStyles
+      }
       background {
         __typename
         fillStyles
@@ -880,7 +887,10 @@ fragment PagesParts on Pages {
         }
       }
       rule
+      label
       headline
+      subhead
+      body
       cards {
         __typename
         imageSrc

@@ -19074,6 +19074,82 @@
               },
               "fields": [
                 {
+                  "type": "object",
+                  "label": "Style",
+                  "name": "style",
+                  "ui": {
+                    "component": "group"
+                  },
+                  "fields": [
+                    {
+                      "type": "string",
+                      "label": "Label",
+                      "name": "labelStyles",
+                      "ui": {
+                        "component": "typeControl"
+                      },
+                      "namespace": [
+                        "pages",
+                        "blocks",
+                        "speakerCards",
+                        "style",
+                        "labelStyles"
+                      ]
+                    },
+                    {
+                      "type": "string",
+                      "label": "Headline",
+                      "name": "headlineStyles",
+                      "ui": {
+                        "component": "typeControl"
+                      },
+                      "namespace": [
+                        "pages",
+                        "blocks",
+                        "speakerCards",
+                        "style",
+                        "headlineStyles"
+                      ]
+                    },
+                    {
+                      "type": "string",
+                      "label": "Subhead",
+                      "name": "subheadStyles",
+                      "ui": {
+                        "component": "typeControl"
+                      },
+                      "namespace": [
+                        "pages",
+                        "blocks",
+                        "speakerCards",
+                        "style",
+                        "subheadStyles"
+                      ]
+                    },
+                    {
+                      "type": "string",
+                      "label": "Text",
+                      "name": "textStyles",
+                      "ui": {
+                        "component": "typeControl"
+                      },
+                      "namespace": [
+                        "pages",
+                        "blocks",
+                        "speakerCards",
+                        "style",
+                        "textStyles"
+                      ]
+                    }
+                  ],
+                  "namespace": [
+                    "pages",
+                    "blocks",
+                    "speakerCards",
+                    "style"
+                  ]
+                },
+                {
                   "label": "Background",
                   "name": "background",
                   "type": "object",
@@ -19321,6 +19397,17 @@
                   ]
                 },
                 {
+                  "label": "Label",
+                  "name": "label",
+                  "type": "string",
+                  "namespace": [
+                    "pages",
+                    "blocks",
+                    "speakerCards",
+                    "label"
+                  ]
+                },
+                {
                   "label": "Headline",
                   "name": "headline",
                   "type": "string",
@@ -19329,6 +19416,28 @@
                     "blocks",
                     "speakerCards",
                     "headline"
+                  ]
+                },
+                {
+                  "label": "Subhead",
+                  "name": "subhead",
+                  "type": "string",
+                  "namespace": [
+                    "pages",
+                    "blocks",
+                    "speakerCards",
+                    "subhead"
+                  ]
+                },
+                {
+                  "label": "Body",
+                  "name": "body",
+                  "type": "rich-text",
+                  "namespace": [
+                    "pages",
+                    "blocks",
+                    "speakerCards",
+                    "body"
                   ]
                 },
                 {

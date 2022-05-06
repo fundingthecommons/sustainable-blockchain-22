@@ -19,6 +19,48 @@ export const speakerCardsBlockSchema: TinaTemplate = {
     },
   },
   fields: [
+    {
+      type: "object",
+      label: "Style",
+      name: "style",
+      ui: {
+        component: "group",
+      },
+      fields: [
+        {
+          type: "string",
+          label: "Label",
+          name: "labelStyles",
+          ui: {
+            component: "typeControl"
+          }
+        },
+        {
+          type: "string",
+          label: "Headline",
+          name: "headlineStyles",
+          ui: {
+            component: "typeControl"
+          }
+        },
+        {
+          type: "string",
+          label: "Subhead",
+          name: "subheadStyles",
+          ui: {
+            component: "typeControl"
+          }
+        },
+        {
+          type: "string",
+          label: "Text",
+          name: "textStyles",
+          ui: {
+            component: "typeControl"
+          }
+        },
+      ]
+    },
     backgroundSchema,
     {
       label: "",
@@ -29,9 +71,24 @@ export const speakerCardsBlockSchema: TinaTemplate = {
       },
     },
     {
+      label: "Label",
+      name: "label",
+      type: "string",
+    },
+    {
       label: "Headline",
       name: "headline",
       type: "string",
+    },
+    {
+      label: "Subhead",
+      name: "subhead",
+      type: "string",
+    },
+    {
+      label: "Body",
+      name: "body",
+      type: "rich-text",
     },
     {
       label: "Cards",

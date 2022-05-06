@@ -92,7 +92,7 @@ export const Header = ({
 
           {/* Mobile Nav */}
           <Logo className={`absolute top-4 left-4 hidden sm:block`} />
-          <div className="absolute top-0 p-4 right-0 hidden sm:block" onClick={() => setNavOpen(!navOpen)}>
+          <div className="absolute top-0 p-4 right-0 hidden" onClick={() => setNavOpen(!navOpen)}>
             <Burger color="white" isOpen={navOpen}  />
           </div>
           <ul style={navStyles} className={`${navClasses} ${nav.navTypeStyle} ${nav.navAlignment} flex-grow list-none hidden sm:block mt-16`}>

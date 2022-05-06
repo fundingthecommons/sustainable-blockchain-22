@@ -81,12 +81,11 @@ const imageContainerCss = (data) => {
 }
 
 const imageCss = (data) => {
-  const padding = data.style?.imagePadding
   const stretchStates = ["object-cover", "object-contain"]
   const shouldStretch = stretchStates.some(item => data.style?.featureImage?.includes(item));
   const height = shouldStretch ? "absolute inset-0 h-full" : ""
   const imageClasses = removeSubstring(data.style.featureImage, "to-edge")
-  return `w-full ${height} ${padding} ${imageClasses}`;
+  return `w-full ${height} ${imageClasses}`;
 };
 
 export const Feature = ({ data, parentField = "" }) => {

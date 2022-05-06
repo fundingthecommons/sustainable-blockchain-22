@@ -2,7 +2,7 @@
 draft: true
 blocks:
   - style:
-      alignment: 'flex-row-reverse text-left items-center '
+      alignment: 'flex-row-reverse text-left items-center sm:flex-col'
       featureContent: 'w-1/2 min-h-0 '
       padding: pt-80 pb-20 pr-10 pl-20
       featureImage: 'object-center object-scale-down '
@@ -49,9 +49,16 @@ blocks:
     headline: 'Coming Soon! '
     subhead: ''
     body: ''
-    navigationLabel: Agenda
+    navigationLabel: ''
     _template: banner
-  - headline: This is the main headline
+  - style:
+      labelStyles: 'undefined undefined undefined undefined '
+      headlineStyles: text-accent2 font-1 text-5xl undefined font-bold
+      subheadStyles: 'text-accent2 font-1 text-xl mb-10 '
+      textStyles: 'undefined undefined undefined undefined '
+    headline: Speakers
+    subhead: 'Our speakers are builders:'
+    body: ''
     cards:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1651791008/sustainable-blockchain/bio-alan-ransil_l1mres.png
@@ -59,58 +66,16 @@ blocks:
         title: Filecoin Green Project Lead at Protocol Labs
         label: March 13th
         headline: 'Decarbonize Crypto, Decarbonize the World'
+        text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1651791008/sustainable-blockchain/bio-alan-ransil_l1mres.png
         name: Alan Ransil
         title: Filecoin Green Project Lead at Protocol Labs
         label: March 13th
         headline: 'Decarbonize Crypto, Decarbonize the World'
-    _template: speakerCards
-  - style:
-      textAlignment: text-left
-      minHeight: min-h-0
-      padding: pt-20 pb-10 pr-20 pl-20
-      contentWidth: w-full
-      columns: '2'
-      labelStyles: 'text-black undefined text-sm mb-0 '
-      headlineStyles: text-accent2 undefined text-5xl mb-0 font-bold
-      subheadStyles: 'text-accent2 undefined text-lg mb-0 '
-      textStyles: 'text-accent2 undefined text-xl mb-10 '
-      contentOrder: labelHeadingsContent
-    cardStyle:
-      fillStyles: bg-accent4
-      padding: pt-8 pb-8 pr-8 pl-8
-      type: solid
-      imageStyles: h-56 object-contain object-left mb-3
-      labelStyles: 'text-accent2 undefined text-sm mb-2 '
-      headlineStyles: text-primary undefined text-lg mb-4 font-bold
-      subheadStyles: 'text-accent2 undefined text-sm mb-0 '
-      textStyles: 'text-accent2 undefined text-sm mb-0 '
-      buttonType: primary
-    label: ''
-    headline: 'Speakers '
-    subhead: ''
-    body: |
-      Our speakers are builders,&#x20;
-    items:
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1651791008/sustainable-blockchain/bio-alan-ransil_l1mres.png
-        label: March 13th
-        headline: 'Decarbonize Crypto, Decarbonize the World'
-        subhead: 'Alan Ransil,'
-        text: |
-          \*Filecoin Green Project Lead \*at Protocol Labs
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1651791008/sustainable-blockchain/bio-alan-ransil_l1mres.png
-        label: March 13th
-        headline: 'Decarbonize Crypto, Decarbonize the World'
-        subhead: 'Alan Ransil,'
-        text: |
-          *Filecoin Green Project Lead* at Protocol Labs
+        text: ''
     navigationLabel: Speakers
-    _template: photoCards
+    _template: speakerCards
   - style:
       textAlignment: text-left
       minHeight: min-h-0
@@ -147,6 +112,7 @@ blocks:
         headline: ''
         subhead: ''
         text: ''
+    navigationLabel: Sponsors
     _template: photoCards
   - style:
       textAlignment: text-left

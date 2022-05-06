@@ -1,12 +1,9 @@
 import * as React from "react";
+import { Content } from "../content";
 import { Section } from "../section";
 import { TinaMarkdown } from "tinacms/dist/rich-text";
 
 const Card = ({ data, index, parentField = ""  }) => {
-  const ornaments = [
-    "img/bio-ornament-1.svg",
-    "img/bio-ornament-2.svg"
-  ]
   return (
     <div className="relative" data-tinafield={`${parentField}.${index}`}>
       <div className="absolute -top-2 -bottom-2 left-36 right-0 -z-1 bg-accent4"></div>
@@ -22,7 +19,7 @@ const Card = ({ data, index, parentField = ""  }) => {
             data-tinafield={`${parentField}.${index}.image`}
           />
         )}
-        <div className="pl-64 pr-8 py-8" >
+        <div className="p-8 pl-64" >
           {data.label && (
             <p
               className="text-sm text-accent2 mb-2"
@@ -61,11 +58,26 @@ const Card = ({ data, index, parentField = ""  }) => {
 
 export const SpeakerCards = ({ data, parentField = "" }) => {
   return (
-    <Section className="max-w-desktop-full mx-auto px-12" background={data.background} navigationLabel={data.navigationLabel}>
-      <div className="">
+    <Section className="max-w-desktop-full mx-auto px-12 py-20" background={data.background} navigationLabel={data.navigationLabel}>
+      {/* <div className="">
         {data.headline && <h2 className="font-bold font-display2 text-xl uppercase text-center text-white mb-8" data-tinafield={`${parentField}.headline`}>{data.headline}</h2>}
-      </div>
-      <div className="speaker-cards grid grid-cols-2 gap-10 md:grid-cols-1">
+      </div> */}
+      <Content
+        label = {data.label}
+        headline = {data.headline}
+        subhead = {data.subhead}
+        body = {data.body}
+        buttons = {data.buttons}
+        labelStyles = {data.style?.labelStyles}
+        headlineStyles = {data.style?.headlineStyles}
+        subheadStyles = {data.style?.subheadStyles}
+        textStyles = {data.style?.textStyles}
+        alignment = {data.style?.alignment}
+        order = {data.style?.contentOrder}
+        width = "w-full"
+        parentField={parentField}
+      />
+      <div className="speaker-cards grid grid-cols-2 gap-10 sm:grid-cols-1">
         {data.cards && (
           data.cards.map(function (block, index) {
             return <Card

@@ -1059,6 +1059,13 @@ type PagesBlocksTailwindCards {
   navigationLabel: String
 }
 
+type PagesBlocksSpeakerCardsStyle {
+  labelStyles: String
+  headlineStyles: String
+  subheadStyles: String
+  textStyles: String
+}
+
 type PagesBlocksSpeakerCardsBackgroundOrnaments {
   src: String
   alignment: String
@@ -1085,9 +1092,13 @@ type PagesBlocksSpeakerCardsCards {
 }
 
 type PagesBlocksSpeakerCards {
+  style: PagesBlocksSpeakerCardsStyle
   background: PagesBlocksSpeakerCardsBackground
   rule: String
+  label: String
   headline: String
+  subhead: String
+  body: JSON
   cards: [PagesBlocksSpeakerCardsCards]
   rule2: String
   navigationLabel: String
@@ -2110,6 +2121,13 @@ input PagesBlocksTailwindCardsMutation {
   navigationLabel: String
 }
 
+input PagesBlocksSpeakerCardsStyleMutation {
+  labelStyles: String
+  headlineStyles: String
+  subheadStyles: String
+  textStyles: String
+}
+
 input PagesBlocksSpeakerCardsBackgroundOrnamentsMutation {
   src: String
   alignment: String
@@ -2136,9 +2154,13 @@ input PagesBlocksSpeakerCardsCardsMutation {
 }
 
 input PagesBlocksSpeakerCardsMutation {
+  style: PagesBlocksSpeakerCardsStyleMutation
   background: PagesBlocksSpeakerCardsBackgroundMutation
   rule: String
+  label: String
   headline: String
+  subhead: String
+  body: JSON
   cards: [PagesBlocksSpeakerCardsCardsMutation]
   rule2: String
   navigationLabel: String
