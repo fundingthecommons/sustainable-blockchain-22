@@ -3,11 +3,11 @@
   "gtmId": "",
   "favicon": "https://res.cloudinary.com/protocolai/image/upload/v1649882296/filecoin-favicon_rn3bfm.png",
   "colors": {
-    "primary": "#0090FF",
-    "accent1": "#0E4465",
-    "accent2": "#1BBF6E",
-    "accent3": "#2DD0DB",
-    "accent4": "#00D0DB",
+    "primary": "#51B848",
+    "accent1": "#60CCF3",
+    "accent2": "#2A2F80",
+    "accent3": "#EAF9FF",
+    "accent4": "#E7FBE5",
     "white": "#FFFFFF",
     "grayLight": "#E8E8EF",
     "gray": "#B0B0BF",
@@ -15,18 +15,18 @@
     "black": "#000000"
   },
   "fonts": {
-    "font1": "Inter:wght@400;700",
+    "font1": "Open Sans:wght@400;700",
     "font2": "Archivo:wght@400;700",
     "font3": "Rufina:wght@400;700",
     "font4": "IBM Plex Mono:wght@400;700"
   },
   "sizeLeading": {
-    "textXs": "12/20",
-    "textSm": "14/24",
-    "textMd": "16/28",
-    "textLg": "18/34",
-    "textXl": "24/32",
-    "text2xl": "34/42",
+    "textXs": "14/20",
+    "textSm": "16/20",
+    "textMd": "18/28",
+    "textLg": "19/22",
+    "textXl": "23/36",
+    "text2xl": "34/43",
     "text3xl": "28/40",
     "text4xl": "32/44",
     "text5xl": "39/48",
@@ -37,12 +37,13 @@
   "buttons": {
     "primaryFill": "bg-primary",
     "primaryBorder": "border-accent3 border-r-0",
-    "primaryTypography": "text-white font-2 text-sm mb-0 font-bold",
-    "primaryPadding": "pt-2.5 pb-2.5 pr-6 pl-6",
-    "primaryRounded": "rounded",
-    "secondaryBorder": "border-white border-2",
-    "secondaryTypography": "text-white undefined text-sm undefined font-bold",
-    "secondaryPadding": "pt-2 pb-2 pr-6 pl-6",
+    "primaryTypography": "text-white font-1 text-lg mb-0 ",
+    "primaryPadding": "pt-3 pb-3 pr-6 pl-6",
+    "primaryRounded": "rounded-sm",
+    "secondaryFill": "bg-accent1",
+    "secondaryBorder": "border-white border-0",
+    "secondaryTypography": "text-white undefined text-lg undefined ",
+    "secondaryPadding": "pt-3 pb-3 pr-6 pl-6",
     "secondaryRounded": "rounded-md",
     "minorBorder": "border-white border-0",
     "minorTypography": "text-white undefined text-sm undefined font-bold",
@@ -55,16 +56,16 @@
   "logo": {
     "logoType": "Microgen",
     "logoTypeStyle": "text-white undefined text-base undefined font-bold",
-    "image": "http://res.cloudinary.com/protocolai/image/upload/v1646088242/cryptonet/protocol-logo_ewn4sv.png",
-    "imageWidth": "48",
-    "imageHeight": "48",
+    "image": "https://res.cloudinary.com/protocolai/image/upload/v1651785834/sustainable-blockchain/sustainable-blockchain-logo_b9ofib.svg",
+    "imageWidth": "480",
+    "imageHeight": "176",
     "imageMargin": "24"
   },
   "nav": {
     "navAlignment": "text-right",
-    "navTypeStyle": "text-white font-1 text-base mb-0 ",
-    "navBackgroundColor": "from-primary to-accent2 bg-gradient-to-br",
-    "padding": "pt-5 pb-10 pr-20 pl-20 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5"
+    "navTypeStyle": "text-accent2 font-1 text-xl mb-0 ",
+    "navBackgroundColor": "bg-accent4",
+    "padding": "pt-12 pb-10 pr-20 pl-20 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5"
   },
   "blocks": [
     {
@@ -80,7 +81,7 @@
         "contentOrder": "labelHeadingsContent"
       },
       "background": {
-        "fillStyles": "bg-primary"
+        "fillStyles": "bg-accent2"
       },
       "label": "",
       "headline": "",

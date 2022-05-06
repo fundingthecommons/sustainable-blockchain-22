@@ -4,51 +4,44 @@ blocks:
   - style:
       alignment: 'flex-row-reverse text-left items-center '
       featureContent: 'w-1/2 min-h-0 '
-      padding: pt-20 pb-16 pr-7 pl-20
+      padding: pt-80 pb-20 pr-10 pl-20
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-10 pb-4 pr-0 pl-0
-      labelStyles: text-white font-sans text-xl mb-0 font-bold
-      headlineStyles: text-primary font-sans text-6xl mb-0 font-bold
-      subheadStyles: text-gray font-sans text-2xl mb-7 font-bold
-      textStyles: 'text-white font-sans text-lg mb-11 '
+      labelStyles: text-white undefined text-xl mb-0 font-bold
+      headlineStyles: text-primary undefined text-6xl mb-0 font-bold
+      subheadStyles: text-gray undefined text-2xl mb-7 font-bold
+      textStyles: 'text-accent2 undefined text-xl mb-11 '
       contentOrder: labelHeadingsContent
     background:
-      fillStyles: from-accent1 to-black bg-gradient-to-br
+      fillStyles: bg-accent4
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1651787328/sustainable-blockchain/banner-background_kjnfxs.svg
+      position: object-top
     image:
       src: ''
     label: ''
-    headline: Sustainable Blockchain Summit EU
+    headline: ''
     subhead: ''
-    body: "\_Two days of talks, workshops and discussions on how we can work together to develop and build greener blockchain solutions.\n"
+    body: >
+      Two days of talks, workshops and discussions on how we can work together
+      to develop and build greener blockchain solutions.
     buttons:
-      - label: Apply to Speak
-        link: /
-        type: solid
-        buttonFillStyles: bg-accent4
-        textColor: black
-        backgroundColor: primary
       - label: Register
         link: /
-        type: solid
-        buttonFillStyles: bg-primary
-        textColor: white
-        backgroundColor: primary
-      - label: Sponsor
+        type: primary
+      - label: Apply to Speak
         link: /
-        type: solid
-        buttonFillStyles: bg-gray-light
-        textColor: black
-        backgroundColor: primary
+        type: secondary
     _template: feature
   - style:
       textAlignment: text-center
       minHeight: min-h-0
-      padding: pt-7 pb-10 pr-0
+      padding: pt-10 pb-12 pr-0 undefined
       width: normal
-      labelStyles: text-black  text-xl mb-0 font-bold
-      headlineStyles: text-white  text-6xl mb-3 font-bold
-      subheadStyles: text-black  text-3xl mb-0 font-bold
-      textStyles: text-black  text-lg mb-0 font-bold
+      labelStyles: text-black undefined text-xl mb-0 font-bold
+      headlineStyles: text-white undefined text-6xl mb-0 font-bold
+      subheadStyles: text-black undefined text-3xl mb-0 font-bold
+      textStyles: text-black undefined text-lg mb-0 font-bold
       contentOrder: labelHeadingsContent
     background:
       fillStyles: bg-primary
@@ -61,44 +54,84 @@ blocks:
   - style:
       textAlignment: text-left
       minHeight: min-h-0
-      padding: pt-20 pr-20 pb-20 pl-20
+      padding: pt-20 pb-10 pr-20 pl-20
       contentWidth: w-full
-      columns: '3'
-      labelStyles: text-black font-sans text-sm mb-0
-      headlineStyles: text-black font-sans text-5xl mb-0
-      subheadStyles: text-black font-sans text-3xl mb-0
-      textStyles: text-black font-sans text-md mb-0
+      columns: '2'
+      labelStyles: 'text-black undefined text-sm mb-0 '
+      headlineStyles: text-accent2 undefined text-5xl mb-0 font-bold
+      subheadStyles: 'text-accent2 undefined text-lg mb-0 '
+      textStyles: 'text-accent2 undefined text-xl mb-10 '
       contentOrder: labelHeadingsContent
     cardStyle:
-      fillStyles: bg-gray
-      padding: pt-4 pb-4 pr-4 pl-4
+      fillStyles: bg-accent4
+      padding: pt-8 pb-8 pr-8 pl-8
       type: solid
-      imageStyles: ' undefined undefined undefined'
-      labelStyles: 'text-black undefined text-sm mb-0 '
-      headlineStyles: 'text-black undefined text-2xl mb-0 '
-      subheadStyles: 'text-black undefined text-lg mb-0 '
-      textStyles: 'text-black undefined text-sm mb-0 '
-      buttonType: solid
-      buttonFillStyles: ''
-      buttonTextColor: primary
+      imageStyles: h-56 object-contain object-left mb-3
+      labelStyles: 'text-accent2 undefined text-sm mb-2 '
+      headlineStyles: text-primary undefined text-lg mb-4 font-bold
+      subheadStyles: 'text-accent2 undefined text-sm mb-0 '
+      textStyles: 'text-accent2 undefined text-sm mb-0 '
+      buttonType: primary
     label: ''
     headline: 'Speakers '
     subhead: ''
     body: |
       Our speakers are builders,&#x20;
     items:
-      - headline: Here's Another Card
-        subhead: ''
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1651791008/sustainable-blockchain/bio-alan-ransil_l1mres.png
+        label: March 13th
+        headline: 'Decarbonize Crypto, Decarbonize the World'
+        subhead: 'Alan Ransil,'
         text: |
-          This is a rich text component you can add hyperlinks, etc.
-      - headline: Here's Another Card
-        subhead: ''
+          *Filecoin Green Project Lead *at Protocol Labs
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1651791008/sustainable-blockchain/bio-alan-ransil_l1mres.png
+        label: March 13th
+        headline: 'Decarbonize Crypto, Decarbonize the World'
+        subhead: 'Alan Ransil,'
         text: |
-          This is a rich text component you can add hyperlinks, etc.
-      - headline: Here's Another Card
+          *Filecoin Green Project Lead* at Protocol Labs
+    navigationLabel: Speakers
+    _template: photoCards
+  - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-10 pb-20 pr-20 pl-20
+      contentWidth: w-full
+      columns: '3'
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: text-accent2 font-1 text-5xl mb-0 font-bold
+      subheadStyles: 'text-accent2 font-1 text-xl mb-10 '
+      textStyles: 'text-black font-1 undefined mb-0 '
+      contentOrder: labelHeadingsContent
+    cardStyle:
+      fillStyles: bg-gray
+      padding: pt-4 pr-4 pb-4 pl-4
+      labelStyles: text-black text-sm mb-0
+      headlineStyles: text-black text-2xl mb-0
+      subheadStyles: text-black text-lg mb-0
+      textStyles: text-black text-sm mb-0
+      buttonType: solid
+    label: ''
+    headline: Sponsors
+    subhead: Sponsors
+    body: ''
+    items:
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1651785833/sustainable-blockchain/protocol-labs_hvocql.svg
+        headline: ''
         subhead: ''
-        text: |
-          This is a rich text component you can add hyperlinks, etc.
+        text: ''
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1651785834/sustainable-blockchain/filecoin-foundation_ulljtq.svg
+        headline: ''
+        subhead: ''
+        text: ''
     _template: photoCards
   - style:
       textAlignment: text-left
@@ -107,26 +140,25 @@ blocks:
       contentWidth: w-full
       columns: '2'
       labelStyles: text-black undefined text-xl mb-0 font-bold
-      headlineStyles: text-white undefined text-6xl mb-10 font-bold
-      subheadStyles: text-black undefined text-3xl mb-0 font-bold
-      textStyles: text-black undefined text-lg mb-0 font-bold
+      headlineStyles: text-accent2 undefined text-5xl mb-0 font-bold
+      subheadStyles: 'text-accent2 undefined text-xl mb-10 '
+      textStyles: 'text-accent2 undefined text-lg mb-0 '
       contentOrder: labelHeadingsContent
     cardStyle:
-      fillStyles: bg-primary
-      padding: pt-5 pb-5 pr-5 pl-5
-      type: solid
-      imageStyles: '   '
-      labelStyles: 'text-white  text-sm mb-0 '
-      headlineStyles: 'text-white  text-2xl mb-0 '
-      subheadStyles: 'text-white  text-lg mb-0 '
-      textStyles: 'text-white   mb-0 '
-      buttonType: outline
-      buttonTextColor: white
-    background:
       fillStyles: bg-accent1
+      padding: pt-0 pb-5 pr-5 pl-5
+      type: solid
+      imageStyles: ' undefined undefined mb-0'
+      labelStyles: 'text-white undefined text-sm mb-0 '
+      headlineStyles: 'text-white undefined text-2xl mb-0 '
+      subheadStyles: 'text-white undefined text-lg mb-0 '
+      textStyles: 'text-white undefined undefined mb-0 '
+      buttonType: secondary
+    background:
+      fillStyles: bg-accent3
     label: ''
-    headline: SBS USA 2022 - Watch Again
-    subhead: ''
+    headline: SBS USA 2022
+    subhead: Watch Again
     body: ''
     items:
       - image:
@@ -140,7 +172,7 @@ blocks:
       - image:
           src: >-
             http://res.cloudinary.com/protocolai/image/upload/v1650740349/events-filecoin/04-IncentivizingCollective_mribo5.png
-        headline: 'Incentivizing Collective Climate Action Panel '
+        headline: ''
         subhead: ''
         text: ''
         link: 'https://youtu.be/lrg1V1kRwGo'
