@@ -19043,6 +19043,418 @@
                 "blocks",
                 "tailwindCards"
               ]
+            },
+            {
+              "name": "speakerCards",
+              "label": "Speaker Cards",
+              "ui": {
+                "defaultItem": {
+                  "headline": "This is the main headline",
+                  "cards": [
+                    {
+                      "name": "Name",
+                      "title": "Title",
+                      "label": "Label",
+                      "headline": "Headline"
+                    },
+                    {
+                      "name": "Name",
+                      "title": "Title",
+                      "label": "Label",
+                      "headline": "Headline"
+                    },
+                    {
+                      "name": "Name",
+                      "title": "Title",
+                      "label": "Label",
+                      "headline": "Headline"
+                    }
+                  ]
+                }
+              },
+              "fields": [
+                {
+                  "label": "Background",
+                  "name": "background",
+                  "type": "object",
+                  "fields": [
+                    {
+                      "type": "string",
+                      "label": "Background",
+                      "name": "fillStyles",
+                      "ui": {
+                        "component": "fillControl"
+                      },
+                      "namespace": [
+                        "pages",
+                        "blocks",
+                        "speakerCards",
+                        "background",
+                        "fillStyles"
+                      ]
+                    },
+                    {
+                      "label": "Image",
+                      "name": "src",
+                      "type": "image",
+                      "ui": {
+                        "clearable": true
+                      },
+                      "namespace": [
+                        "pages",
+                        "blocks",
+                        "speakerCards",
+                        "background",
+                        "src"
+                      ]
+                    },
+                    {
+                      "label": "Image Position",
+                      "name": "position",
+                      "ui": {
+                        "component": "select"
+                      },
+                      "type": "string",
+                      "options": [
+                        {
+                          "label": "Center",
+                          "value": "object-center"
+                        },
+                        {
+                          "label": "Top",
+                          "value": "object-top"
+                        },
+                        {
+                          "label": "Right Top",
+                          "value": "object-right-top"
+                        },
+                        {
+                          "label": "Right",
+                          "value": "object-right"
+                        },
+                        {
+                          "label": "Right Bottom",
+                          "value": "object-right-bottom"
+                        },
+                        {
+                          "label": "Bottom",
+                          "value": "object-bottom"
+                        },
+                        {
+                          "label": "Left Bottom",
+                          "value": "object-left-bottom"
+                        },
+                        {
+                          "label": "Left",
+                          "value": "object-left"
+                        },
+                        {
+                          "label": "Left Top",
+                          "value": "object-left-top"
+                        }
+                      ],
+                      "namespace": [
+                        "pages",
+                        "blocks",
+                        "speakerCards",
+                        "background",
+                        "position"
+                      ]
+                    },
+                    {
+                      "label": "Ornaments",
+                      "name": "ornaments",
+                      "type": "object",
+                      "list": true,
+                      "fields": [
+                        {
+                          "label": "Image",
+                          "name": "src",
+                          "type": "image",
+                          "ui": {
+                            "clearable": true
+                          },
+                          "namespace": [
+                            "pages",
+                            "blocks",
+                            "speakerCards",
+                            "background",
+                            "ornaments",
+                            "src"
+                          ]
+                        },
+                        {
+                          "label": "Alignment",
+                          "name": "alignment",
+                          "ui": {
+                            "component": "select"
+                          },
+                          "type": "string",
+                          "options": [
+                            {
+                              "label": "Center",
+                              "value": "center"
+                            },
+                            {
+                              "label": "Top",
+                              "value": "top"
+                            },
+                            {
+                              "label": "Right Top",
+                              "value": "top-right"
+                            },
+                            {
+                              "label": "Right",
+                              "value": "right"
+                            },
+                            {
+                              "label": "Right Bottom",
+                              "value": "bottom-right"
+                            },
+                            {
+                              "label": "Bottom",
+                              "value": "bottom"
+                            },
+                            {
+                              "label": "Left Bottom",
+                              "value": "bottom-left"
+                            },
+                            {
+                              "label": "Left",
+                              "value": "left"
+                            },
+                            {
+                              "label": "Left Top",
+                              "value": "top-left"
+                            }
+                          ],
+                          "namespace": [
+                            "pages",
+                            "blocks",
+                            "speakerCards",
+                            "background",
+                            "ornaments",
+                            "alignment"
+                          ]
+                        },
+                        {
+                          "label": "Width",
+                          "name": "width",
+                          "type": "string",
+                          "namespace": [
+                            "pages",
+                            "blocks",
+                            "speakerCards",
+                            "background",
+                            "ornaments",
+                            "width"
+                          ]
+                        },
+                        {
+                          "label": "Height",
+                          "name": "height",
+                          "type": "string",
+                          "namespace": [
+                            "pages",
+                            "blocks",
+                            "speakerCards",
+                            "background",
+                            "ornaments",
+                            "height"
+                          ]
+                        },
+                        {
+                          "label": "X Offset",
+                          "name": "xOffset",
+                          "type": "string",
+                          "namespace": [
+                            "pages",
+                            "blocks",
+                            "speakerCards",
+                            "background",
+                            "ornaments",
+                            "xOffset"
+                          ]
+                        },
+                        {
+                          "label": "Y Offset",
+                          "name": "yOffset",
+                          "type": "string",
+                          "namespace": [
+                            "pages",
+                            "blocks",
+                            "speakerCards",
+                            "background",
+                            "ornaments",
+                            "yOffset"
+                          ]
+                        }
+                      ],
+                      "namespace": [
+                        "pages",
+                        "blocks",
+                        "speakerCards",
+                        "background",
+                        "ornaments"
+                      ]
+                    }
+                  ],
+                  "namespace": [
+                    "pages",
+                    "blocks",
+                    "speakerCards",
+                    "background"
+                  ]
+                },
+                {
+                  "label": "",
+                  "name": "rule",
+                  "type": "string",
+                  "ui": {
+                    "component": "ruledTitle"
+                  },
+                  "namespace": [
+                    "pages",
+                    "blocks",
+                    "speakerCards",
+                    "rule"
+                  ]
+                },
+                {
+                  "label": "Headline",
+                  "name": "headline",
+                  "type": "string",
+                  "namespace": [
+                    "pages",
+                    "blocks",
+                    "speakerCards",
+                    "headline"
+                  ]
+                },
+                {
+                  "label": "Cards",
+                  "name": "cards",
+                  "type": "object",
+                  "list": true,
+                  "ui": {
+                    "component": "itemListField"
+                  },
+                  "fields": [
+                    {
+                      "label": "Image",
+                      "name": "imageSrc",
+                      "type": "image",
+                      "ui": {
+                        "clearable": true
+                      },
+                      "namespace": [
+                        "pages",
+                        "blocks",
+                        "speakerCards",
+                        "cards",
+                        "imageSrc"
+                      ]
+                    },
+                    {
+                      "label": "Speaker Name",
+                      "name": "name",
+                      "type": "string",
+                      "namespace": [
+                        "pages",
+                        "blocks",
+                        "speakerCards",
+                        "cards",
+                        "name"
+                      ]
+                    },
+                    {
+                      "label": "Speaker Title",
+                      "name": "title",
+                      "type": "string",
+                      "namespace": [
+                        "pages",
+                        "blocks",
+                        "speakerCards",
+                        "cards",
+                        "title"
+                      ]
+                    },
+                    {
+                      "label": "Label",
+                      "name": "label",
+                      "type": "string",
+                      "namespace": [
+                        "pages",
+                        "blocks",
+                        "speakerCards",
+                        "cards",
+                        "label"
+                      ]
+                    },
+                    {
+                      "label": "Headline",
+                      "name": "headline",
+                      "type": "string",
+                      "namespace": [
+                        "pages",
+                        "blocks",
+                        "speakerCards",
+                        "cards",
+                        "headline"
+                      ]
+                    },
+                    {
+                      "label": "Text",
+                      "name": "text",
+                      "type": "rich-text",
+                      "namespace": [
+                        "pages",
+                        "blocks",
+                        "speakerCards",
+                        "cards",
+                        "text"
+                      ]
+                    }
+                  ],
+                  "namespace": [
+                    "pages",
+                    "blocks",
+                    "speakerCards",
+                    "cards"
+                  ]
+                },
+                {
+                  "label": "",
+                  "name": "rule2",
+                  "type": "string",
+                  "ui": {
+                    "component": "ruledTitle"
+                  },
+                  "namespace": [
+                    "pages",
+                    "blocks",
+                    "speakerCards",
+                    "rule2"
+                  ]
+                },
+                {
+                  "label": "Navigation Label",
+                  "name": "navigationLabel",
+                  "description": "Add a jump to this section to the navigation.",
+                  "type": "string",
+                  "namespace": [
+                    "pages",
+                    "blocks",
+                    "speakerCards",
+                    "navigationLabel"
+                  ]
+                }
+              ],
+              "namespace": [
+                "pages",
+                "blocks",
+                "speakerCards"
+              ]
             }
           ],
           "namespace": [

@@ -51,6 +51,21 @@ blocks:
     body: ''
     navigationLabel: Agenda
     _template: banner
+  - headline: This is the main headline
+    cards:
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1651791008/sustainable-blockchain/bio-alan-ransil_l1mres.png
+        name: Alan Ransil
+        title: Filecoin Green Project Lead at Protocol Labs
+        label: March 13th
+        headline: 'Decarbonize Crypto, Decarbonize the World'
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1651791008/sustainable-blockchain/bio-alan-ransil_l1mres.png
+        name: Alan Ransil
+        title: Filecoin Green Project Lead at Protocol Labs
+        label: March 13th
+        headline: 'Decarbonize Crypto, Decarbonize the World'
+    _template: speakerCards
   - style:
       textAlignment: text-left
       minHeight: min-h-0
@@ -85,7 +100,7 @@ blocks:
         headline: 'Decarbonize Crypto, Decarbonize the World'
         subhead: 'Alan Ransil,'
         text: |
-          *Filecoin Green Project Lead *at Protocol Labs
+          \*Filecoin Green Project Lead \*at Protocol Labs
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1651791008/sustainable-blockchain/bio-alan-ransil_l1mres.png

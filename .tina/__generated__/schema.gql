@@ -1059,7 +1059,41 @@ type PagesBlocksTailwindCards {
   navigationLabel: String
 }
 
-union PagesBlocks = PagesBlocksFeature | PagesBlocksPhotoCards | PagesBlocksTextCards | PagesBlocksBanner | PagesBlocksEmbed | PagesBlocksTailwindFeature | PagesBlocksTailwindCards
+type PagesBlocksSpeakerCardsBackgroundOrnaments {
+  src: String
+  alignment: String
+  width: String
+  height: String
+  xOffset: String
+  yOffset: String
+}
+
+type PagesBlocksSpeakerCardsBackground {
+  fillStyles: String
+  src: String
+  position: String
+  ornaments: [PagesBlocksSpeakerCardsBackgroundOrnaments]
+}
+
+type PagesBlocksSpeakerCardsCards {
+  imageSrc: String
+  name: String
+  title: String
+  label: String
+  headline: String
+  text: JSON
+}
+
+type PagesBlocksSpeakerCards {
+  background: PagesBlocksSpeakerCardsBackground
+  rule: String
+  headline: String
+  cards: [PagesBlocksSpeakerCardsCards]
+  rule2: String
+  navigationLabel: String
+}
+
+union PagesBlocks = PagesBlocksFeature | PagesBlocksPhotoCards | PagesBlocksTextCards | PagesBlocksBanner | PagesBlocksEmbed | PagesBlocksTailwindFeature | PagesBlocksTailwindCards | PagesBlocksSpeakerCards
 
 type PagesMeta {
   pageTitle: String
@@ -2076,6 +2110,40 @@ input PagesBlocksTailwindCardsMutation {
   navigationLabel: String
 }
 
+input PagesBlocksSpeakerCardsBackgroundOrnamentsMutation {
+  src: String
+  alignment: String
+  width: String
+  height: String
+  xOffset: String
+  yOffset: String
+}
+
+input PagesBlocksSpeakerCardsBackgroundMutation {
+  fillStyles: String
+  src: String
+  position: String
+  ornaments: [PagesBlocksSpeakerCardsBackgroundOrnamentsMutation]
+}
+
+input PagesBlocksSpeakerCardsCardsMutation {
+  imageSrc: String
+  name: String
+  title: String
+  label: String
+  headline: String
+  text: JSON
+}
+
+input PagesBlocksSpeakerCardsMutation {
+  background: PagesBlocksSpeakerCardsBackgroundMutation
+  rule: String
+  headline: String
+  cards: [PagesBlocksSpeakerCardsCardsMutation]
+  rule2: String
+  navigationLabel: String
+}
+
 input PagesBlocksMutation {
   feature: PagesBlocksFeatureMutation
   photoCards: PagesBlocksPhotoCardsMutation
@@ -2084,6 +2152,7 @@ input PagesBlocksMutation {
   embed: PagesBlocksEmbedMutation
   tailwindFeature: PagesBlocksTailwindFeatureMutation
   tailwindCards: PagesBlocksTailwindCardsMutation
+  speakerCards: PagesBlocksSpeakerCardsMutation
 }
 
 input PagesMetaMutation {
