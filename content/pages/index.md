@@ -30,7 +30,7 @@ blocks:
         link: /
         type: primary
       - label: Apply to Speak
-        link: /
+        link: 'https://protocollabs.typeform.com/SBS-Paris-CFP'
         type: secondary
     _template: feature
   - style:
