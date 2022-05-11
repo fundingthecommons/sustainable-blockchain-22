@@ -65,7 +65,7 @@ blocks:
   - style:
       textAlignment: text-left
       minHeight: min-h-0
-      padding: pt-10 pb-20 pr-20 pl-20
+      padding: pt-10 pb-0 pr-20 pl-20
       contentWidth: w-full
       columns: '3'
       labelStyles: 'text-black font-1 text-sm mb-0 '
@@ -74,7 +74,6 @@ blocks:
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     cardStyle:
-      fillStyles: bg-gray
       padding: pt-4 pb-4 pr-0 pl-0
       type: solid
       imageStyles: ' undefined undefined undefined'
@@ -102,6 +101,26 @@ blocks:
         text: ''
     navigationLabel: Sponsors
     _template: photoCards
+  - style:
+      alignment: 'flex-row-reverse text-left items-center '
+      featureContent: 'w-1/2 min-h-0 '
+      padding: pt-0 pb-20 pr-10 pl-20
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-20 pb-20 pr-20 pl-10
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: 'text-black font-1 text-5xl mb-0 '
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-black font-1 undefined mb-0 '
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: ''
+    subhead: ''
+    body: ''
+    buttons:
+      - label: Become a Sponsor
+        link: 'https://protocollabs.typeform.com/SBSParisSponsor'
+        type: primary
+    _template: feature
   - style:
       textAlignment: text-left
       minHeight: min-h-0
