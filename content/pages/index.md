@@ -27,7 +27,8 @@ blocks:
       to develop and build greener blockchain solutions.
     buttons:
       - label: Register
-        link: /
+        link: >-
+          https://www.eventbrite.com/e/sustainable-blockchain-summit-tickets-336114797407
         type: primary
       - label: Apply to Speak
         link: 'https://protocollabs.typeform.com/SBS-Paris-CFP'
