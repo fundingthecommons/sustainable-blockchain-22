@@ -2,11 +2,11 @@
 draft: true
 blocks:
   - style:
-      alignment: 'flex-row-reverse text-left items-center sm:flex-col'
+      alignment: 'flex-row text-left items-center sm:flex-col'
       featureContent: 'w-1/2 min-h-0 '
-      padding: pt-80 pb-20 pr-10 pl-20
+      padding: pt-0 pb-0 pr-0 pl-0
       featureImage: 'object-center object-scale-down '
-      imagePadding: pt-10 pb-4 pr-0 pl-0
+      imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: text-white undefined text-xl mb-0 font-bold
       headlineStyles: text-primary undefined text-6xl mb-0 font-bold
       subheadStyles: text-gray undefined text-2xl mb-7 font-bold
@@ -18,7 +18,8 @@ blocks:
         https://res.cloudinary.com/protocolai/image/upload/v1651787328/sustainable-blockchain/banner-background_kjnfxs.svg
       position: object-top
     image:
-      src: ''
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1651785834/sustainable-blockchain/sustainable-blockchain-logo_b9ofib.svg
     label: ''
     headline: ''
     subhead: ''
@@ -33,6 +34,36 @@ blocks:
         link: /
         type: secondary
     _template: feature
+  - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pb-20 pr-10 pl-10
+      width: narrow
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: 'text-black font-1 text-5xl mb-0 '
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-accent2 font-1 text-xl mb-10 '
+      contentOrder: labelHeadingsContent
+    background:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1651787328/sustainable-blockchain/banner-background_kjnfxs.svg
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1651785834/sustainable-blockchain/sustainable-blockchain-logo_b9ofib.svg
+    label: ''
+    headline: ''
+    subhead: ''
+    body: >
+      Two days of talks, workshops and discussions on how we can work together
+      to develop and build greener blockchain solutions.
+    buttons:
+      - label: Register
+        link: /
+        type: primary
+      - label: Apply to Speak
+        link: /
+        type: secondary
+    _template: banner
   - style:
       textAlignment: text-center
       minHeight: min-h-0
@@ -88,13 +119,14 @@ blocks:
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     cardStyle:
-      fillStyles: bg-gray
-      padding: pt-4 pr-4 pb-4 pl-4
-      labelStyles: text-black text-sm mb-0
-      headlineStyles: text-black text-2xl mb-0
-      subheadStyles: text-black text-lg mb-0
-      textStyles: text-black text-sm mb-0
-      buttonType: solid
+      padding: pt-0 pb-0 pr-0 pl-0
+      type: solid
+      imageStyles: h-24 object-fill object-left undefined
+      labelStyles: 'text-black undefined text-sm mb-0 '
+      headlineStyles: 'text-black undefined text-2xl mb-0 '
+      subheadStyles: 'text-black undefined text-lg mb-0 '
+      textStyles: 'text-black undefined text-sm mb-0 '
+      buttonType: primary
     label: ''
     headline: Sponsors
     subhead: Sponsors

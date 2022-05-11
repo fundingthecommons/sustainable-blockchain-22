@@ -12,20 +12,25 @@ export default function AlignmentControl({ field, input, meta }) {
   const layoutOptions = [
     { label: "left image", value: "flex-row"},
     { label: "right image", value: "flex-row-reverse"},
+    { label: "top image", value: "flex-col"},
+    { label: "bottom image", value: "flex-col-reverse"},
   ]
   const [layout, setLayout] = useState(getStyleMatch(layoutOptions, input.value) || "image-left");
+
   const textAlignOptions = [
     { label: "text-left", value: "text-left"},
     { label: "text-center", value: "text-center"},
     { label: "text-right", value: "text-right"},
   ]
   const [textAlign, setTextAlign] = useState(getStyleMatch(textAlignOptions, input.value) || "text-left");
+  
   const contentAlignOptions = [
     { label: "items-start", value: "items-start"},
     { label: "items-center", value: "items-center"},
     { label: "items-end", value: "items-end"},
   ]
   const [contentAlign, setContentAlign] = useState(getStyleMatch(contentAlignOptions, input.value) || "items-start");
+  
   const layoutOptionsMobile = [
     { label: "top image", value: "sm:flex-col"},
     { label: "bottom image", value: "sm:flex-col-reverse"},
