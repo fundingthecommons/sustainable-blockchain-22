@@ -26,7 +26,7 @@ blocks:
       Two days of talks, workshops and discussions on how we can work together
       to develop and build greener blockchain solutions.
     buttons:
-      - label: Register
+      - label: Get Your Ticket
         link: >-
           https://www.eventbrite.com/e/sustainable-blockchain-summit-tickets-336114797407
         type: primary
