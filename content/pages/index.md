@@ -3,13 +3,13 @@ draft: true
 blocks:
   - style:
       alignment: 'flex-col text-left items-start items-start-vertical '
-      featureContent: 'w-1/2 min-h-0 '
+      featureContent: 'w-2/3 min-h-0 '
       padding: 'pt-0 pb-20 pr-20 pl-20 sm:pt-0 sm:pb-10 sm:pr-10 sm:pl-10'
       featureImage: 'object-left object-scale-down '
       imagePadding: 'pt-28 pb-10 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-10 sm:pl-10'
       labelStyles: text-white undefined text-xl mb-0 font-bold
       headlineStyles: text-primary undefined text-3xl mb-0 font-bold
-      subheadStyles: 'text-accent2 undefined text-base mb-7 '
+      subheadStyles: text-accent2 undefined text-base mb-7 font-bold
       textStyles: 'text-accent2 undefined text-xl mb-11 '
       contentOrder: labelHeadingsContent
     background:
