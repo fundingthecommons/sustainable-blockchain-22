@@ -74,7 +74,7 @@ export const Content = ({
   order,
   width,
   parentField,
-  className
+  className = ""
 }) => {
   return (
     <div className={`flex flex-col ${width} ${className}`}>

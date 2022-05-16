@@ -8,7 +8,7 @@ const removeSubstring = (value: string, substring: string) => {
 }
 
 const contentWrapClasses = (data) => {
-  const widthClass: string = data.style?.featureContent?.split(" ").find(item => item.includes("w-"))
+  const widthClass: string = data.style?.featureContent?.split(" ").find(item => item.includes("w-")) || ""
   const alignmentClasses: string[] = data?.style?.alignment?.split(" ") || []
   const leftImage = alignmentClasses.includes('flex-row')
   const vertical: boolean = alignmentClasses.some(item => ["flex-col", "flex-col-reverse"].includes(item))
@@ -77,7 +77,7 @@ const imageWrapClasses = (data) => {
     "w-4/5": "w-1/5",
     "w-full": "w-0",
   }
-  const widthClass = inverseWidths[contentWidthClass];
+  const widthClass = inverseWidths[contentWidthClass] || "";
 
   // Width classes
   let widthClasses = ""
