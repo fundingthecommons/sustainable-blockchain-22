@@ -8,8 +8,8 @@ blocks:
       featureImage: 'object-left object-scale-down '
       imagePadding: 'pt-28 pb-10 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-10 sm:pl-10'
       labelStyles: text-white undefined text-xl mb-0 font-bold
-      headlineStyles: text-primary undefined text-6xl mb-0 font-bold
-      subheadStyles: text-gray undefined text-2xl mb-7 font-bold
+      headlineStyles: text-primary undefined text-3xl mb-0 font-bold
+      subheadStyles: 'text-accent2 undefined text-base mb-7 '
       textStyles: 'text-accent2 undefined text-xl mb-11 '
       contentOrder: labelHeadingsContent
     background:
@@ -21,8 +21,8 @@ blocks:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1651785834/sustainable-blockchain/sustainable-blockchain-logo_b9ofib.svg
     label: ''
-    headline: ''
-    subhead: ''
+    headline: 'July 22-23, 2022'
+    subhead: 'Le 28 George V28 Avenue George V,  Paris France '
     body: >
       Two days of talks, workshops and discussions on how we can work together
       to develop and build greener blockchain solutions.
