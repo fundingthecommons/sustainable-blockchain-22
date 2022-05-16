@@ -3,10 +3,10 @@ draft: true
 blocks:
   - style:
       alignment: 'flex-col text-left items-start items-start-vertical '
-      featureContent: 'w-full min-h-0 '
-      padding: pt-0 pb-20 pr-0 pl-0
+      featureContent: 'w-1/2 min-h-0 '
+      padding: 'pt-0 pb-20 pr-20 pl-20 sm:pt-0 sm:pb-10 sm:pr-10 sm:pl-10'
       featureImage: 'object-left object-scale-down '
-      imagePadding: pt-32 pb-20 pr-0 pl-0
+      imagePadding: 'pt-28 pb-10 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-10 sm:pl-10'
       labelStyles: text-white undefined text-xl mb-0 font-bold
       headlineStyles: text-primary undefined text-6xl mb-0 font-bold
       subheadStyles: text-gray undefined text-2xl mb-7 font-bold
@@ -38,10 +38,12 @@ blocks:
   - style:
       textAlignment: text-center
       minHeight: min-h-0
-      padding: pt-10 pb-12 pr-0 undefined
+      padding: 'pt-10 pb-12 pr-0 undefined sm:pt-5 sm:pb-6 sm:pr-0 sm:pl-0'
       width: normal
       labelStyles: text-black undefined text-xl mb-0 font-bold
-      headlineStyles: text-white undefined text-6xl mb-0 font-bold
+      headlineStyles: >-
+        text-white undefined text-6xl mb-0 font-bold sm:text-white sm:font-1
+        sm:text-4xl sm:mb-0 sm:font-bold
       subheadStyles: text-black undefined text-3xl mb-0 font-bold
       textStyles: text-black undefined text-lg mb-0 font-bold
       contentOrder: labelHeadingsContent
@@ -66,7 +68,7 @@ blocks:
   - style:
       textAlignment: text-left
       minHeight: min-h-0
-      padding: pt-10 pb-0 pr-20 pl-20
+      padding: 'pt-0 pb-0 pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
       contentWidth: w-full
       columns: '3'
       labelStyles: 'text-black font-1 text-sm mb-0 '
@@ -103,11 +105,11 @@ blocks:
     navigationLabel: Sponsors
     _template: photoCards
   - style:
-      alignment: 'flex-row-reverse text-left items-center '
-      featureContent: 'w-1/2 min-h-0 '
-      padding: pt-0 pb-20 pr-10 pl-20
+      alignment: 'flex-col text-left items-center items-start-vertical '
+      featureContent: 'w-full min-h-0 '
+      padding: 'pt-0 pb-20 pr-20 pl-20 sm:pt-0 sm:pb-10 sm:pr-10 sm:pl-10'
       featureImage: 'object-center object-scale-down '
-      imagePadding: pt-20 pb-20 pr-20 pl-10
+      imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-sm mb-0 '
       headlineStyles: 'text-black font-1 text-5xl mb-0 '
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
@@ -125,7 +127,7 @@ blocks:
   - style:
       textAlignment: text-left
       minHeight: min-h-0
-      padding: pt-14 pb-20 pr-20 pl-20
+      padding: 'pt-14 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-10 sm:pl-10'
       contentWidth: w-full
       columns: '2'
       labelStyles: text-black undefined text-xl mb-0 font-bold
