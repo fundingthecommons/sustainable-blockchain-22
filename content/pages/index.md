@@ -2,11 +2,11 @@
 draft: true
 blocks:
   - style:
-      alignment: 'flex-row-reverse text-left items-center sm:flex-col'
-      featureContent: 'w-1/2 min-h-0 '
-      padding: pt-80 pb-20 pr-10 pl-20
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-10 pb-4 pr-0 pl-0
+      alignment: 'flex-col text-left items-start items-start-vertical '
+      featureContent: 'w-full min-h-0 '
+      padding: pt-0 pb-20 pr-0 pl-0
+      featureImage: 'object-left object-scale-down '
+      imagePadding: pt-32 pb-20 pr-0 pl-0
       labelStyles: text-white undefined text-xl mb-0 font-bold
       headlineStyles: text-primary undefined text-6xl mb-0 font-bold
       subheadStyles: text-gray undefined text-2xl mb-7 font-bold
@@ -18,7 +18,8 @@ blocks:
         https://res.cloudinary.com/protocolai/image/upload/v1651787328/sustainable-blockchain/banner-background_kjnfxs.svg
       position: object-top
     image:
-      src: ''
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1651785834/sustainable-blockchain/sustainable-blockchain-logo_b9ofib.svg
     label: ''
     headline: ''
     subhead: ''
