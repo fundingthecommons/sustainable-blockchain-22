@@ -65,7 +65,7 @@ export const Header = ({
 
   return (
     <section className="relative">
-      <div className={`${sectionClasses} sm:h-screen absolute z-40 top-0 left-0 right-0`}>
+      <div className={`${sectionClasses} sm:hidden sm:h-screen absolute z-40 top-0 left-0 right-0`}>
         <div style={backgroundStyles} className={`${backgroundClasses} ${nav.navBackgroundColor} transition duration-400 absolute inset-0 -z-1 hidden sm:block`}></div>
         <div className={`max-w-desktop-full mx-auto ${nav?.padding}`}>
           
@@ -91,7 +91,7 @@ export const Header = ({
           </div>
 
           {/* Mobile Nav */}
-          <Logo className={`absolute top-4 left-4 hidden sm:block`} />
+          <Logo className={`absolute top-4 left-4 hidden`} />
           <div className="absolute top-0 p-4 right-0 hidden" onClick={() => setNavOpen(!navOpen)}>
             <Burger color="white" isOpen={navOpen}  />
           </div>

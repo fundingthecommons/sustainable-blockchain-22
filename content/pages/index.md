@@ -170,5 +170,12 @@ blocks:
         buttonLabel: Watch Now
     navigationLabel: SBS USA 2022
     _template: photoCards
+meta:
+  pageTitle: Sustainable Blockchain Summit EU
+  pageDescription: >-
+    Two days of talks, workshops and discussions on how we can work together to
+    develop and build greener blockchain solutions.
+  siteImageSrc: >-
+    https://res.cloudinary.com/protocolai/image/upload/v1652804891/sustainable-blockchain/sustainable-blockchain-social_olpshl.jpg
 ---
 
