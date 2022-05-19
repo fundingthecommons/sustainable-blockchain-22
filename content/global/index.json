@@ -1,5 +1,5 @@
 {
-  "siteUrl": "microgen.vercel.app",
+  "siteUrl": "sbs.tech",
   "gtmId": "",
   "favicon": "https://res.cloudinary.com/protocolai/image/upload/v1649882296/filecoin-favicon_rn3bfm.png",
   "desktopWidth": "1200",
@@ -75,7 +75,7 @@
         "featureContent": "w-full min-h-0 ",
         "padding": "pt-0 pb-0 pr-0 pl-0",
         "featureImage": "object-center object-scale-down ",
-        "imagePadding": "pt-5 pb-5 pr-0 pl-0 sm:pt-5 sm:pb-5 sm:pr-0 sm:pl-0",
+        "imagePadding": "pt-0 pb-0 pr-0 pl-0 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0",
         "labelStyles": "text-white font-1 text-xs mb-0 font-bold",
         "headlineStyles": "text-black font-1 text-5xl mb-0 ",
         "subheadStyles": "text-black font-1 text-3xl mb-0 ",
