@@ -125,6 +125,31 @@ blocks:
         type: primary
     _template: feature
   - style:
+      alignment: 'flex-col text-left items-center items-start-vertical '
+      featureContent: 'w-4/5 min-h-0 '
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-10 sm:pl-10'
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      labelStyles: text-white font-1 text-base mb-0 font-bold
+      headlineStyles: text-white font-1 text-5xl mb-0 font-bold
+      subheadStyles: 'text-white font-1 text-xl mb-5 '
+      textStyles: 'text-white font-1 text-base mb-10 '
+      contentOrder: labelHeadingsContent
+    background:
+      fillStyles: from-primary to-accent1 bg-gradient-to-br
+    label: Gitcoin Virtual Hackathon
+    headline: Sustainable Blockchain Hackathon
+    subhead: 'Jun 23, 2022 - Jul 18, 2022'
+    body: >
+      Blockchains are great for making transparent, verifiable claims and this
+      means that there is a world of Web3 environmental tools to explore and
+      create.
+    buttons:
+      - label: Learn More
+        link: 'https://gitcoin.co/hackathon/sustainable/onboard'
+        type: minor
+    _template: feature
+  - style:
       textAlignment: text-left
       minHeight: min-h-0
       padding: 'pt-14 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-10 sm:pl-10'
