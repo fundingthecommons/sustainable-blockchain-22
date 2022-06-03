@@ -63,6 +63,11 @@ blocks:
     headline: Speakers
     subhead: Coming soon!
     body: ''
+    cards:
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
+        name: Juan Benet
+        title: Protocol Labs
     navigationLabel: Speakers
     _template: speakerCards
   - style:
