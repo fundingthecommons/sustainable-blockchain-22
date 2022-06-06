@@ -61,8 +61,28 @@ blocks:
       subheadStyles: 'text-accent2 font-1 text-xl mb-10 '
       textStyles: 'undefined undefined undefined undefined '
     headline: Speakers
-    subhead: Coming soon!
+    subhead: Our speakers are builders
     body: ''
+    cards:
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
+        name: ''
+        title: ''
+        label: Protocol Labs
+        headline: Juan Benet
+        text: ''
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1654272937/sustainable-blockchain/bio-kevin-owocki_ensdlm.png
+        label: Gitcoin.io
+        headline: Kevin Owocki
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1654272922/sustainable-blockchain/bio-alan-ransil_mckfco.png
+        label: Filecoin Green
+        headline: Alan Ransil
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1654272956/sustainable-blockchain/bio-marc-johnson_x3xs4y.png
+        label: Filecoin Green
+        headline: Marc Johnson
     navigationLabel: Speakers
     _template: speakerCards
   - style:
