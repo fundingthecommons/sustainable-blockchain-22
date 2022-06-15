@@ -71,9 +71,9 @@ blocks:
         headline: Austin Federa
       - label: 'UNFCCC, Technical Officer - MDU'
         headline: Alex Paris
-      - headline: Almudena de la Mata
-        text: |
-          Blockchain Intelligence, Managing Director
+      - label: 'Blockchain Intelligence, Managing Director'
+        headline: Almudena de la Mata
+        text: ''
     navigationLabel: Speakers
     _template: speakerCards
   - style:
