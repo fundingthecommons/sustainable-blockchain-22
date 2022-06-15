@@ -57,15 +57,23 @@ blocks:
         headline: Kevin Owocki
         text: ''
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1654272922/sustainable-blockchain/bio-alan-ransil_mckfco.png
-        label: Filecoin Green
-        headline: Alan Ransil
-        text: ''
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272956/sustainable-blockchain/bio-marc-johnson_x3xs4y.png
         label: Filecoin Green
         headline: Marc Johnson
         text: ''
+      - name: ''
+        title: ''
+        label: Gitcoin
+        headline: Gloria Kimbwala
+      - label: 'Coinbase, Sustainability & ESG'
+        headline: Jonathan Rackoff
+      - label: 'Solana, Head of Communications'
+        headline: Austin Federa
+      - label: 'UNFCCC, Technical Officer - MDU'
+        headline: Alex Paris
+      - headline: Almudena de la Mata
+        text: |
+          Blockchain Intelligence, Managing Director
     navigationLabel: Speakers
     _template: speakerCards
   - style:
