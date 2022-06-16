@@ -65,13 +65,23 @@ blocks:
         title: ''
         label: Gitcoin
         headline: Gloria Kimbwala
+        text: ''
       - label: 'Coinbase, Sustainability & ESG'
         headline: Jonathan Rackoff
-      - label: 'Solana, Head of Communications'
+        text: ''
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1655416409/sustainable-blockchain/bio-austin_federa_rodxzj.jpg
+        label: 'Solana, Head of Communications'
         headline: Austin Federa
-      - label: 'UNFCCC, Technical Officer - MDU'
+        text: ''
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1655416404/sustainable-blockchain/bio-alex-paris_qh49sl.jpg
+        label: 'UNFCCC, Technical Officer - MDU'
         headline: Alex Paris
-      - label: 'Blockchain Intelligence, Managing Director'
+        text: ''
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1655416406/sustainable-blockchain/bio-almudena-delamata_wguo4m.jpg
+        label: 'Blockchain Intelligence, Managing Director'
         headline: Almudena de la Mata
         text: ''
     navigationLabel: Speakers
