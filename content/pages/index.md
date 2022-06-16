@@ -46,42 +46,52 @@ blocks:
     cards:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
-        name: ''
+        name: Protocol Labs
         title: ''
-        label: Protocol Labs
+        label: ''
         headline: Juan Benet
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272937/sustainable-blockchain/bio-kevin-owocki_ensdlm.png
-        label: Gitcoin.io
+        name: Gitcoin.io
+        label: ''
         headline: Kevin Owocki
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272956/sustainable-blockchain/bio-marc-johnson_x3xs4y.png
-        label: Filecoin Green
+        title: Filecoin Green
+        label: ''
         headline: Marc Johnson
         text: ''
-      - name: ''
+      - name: Gitcoin.io
         title: ''
-        label: Gitcoin
+        label: ''
         headline: Gloria Kimbwala
         text: ''
-      - label: 'Coinbase, Sustainability & ESG'
+      - name: Coinbase
+        title: Sustainability & ESG
+        label: ''
         headline: Jonathan Rackoff
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416409/sustainable-blockchain/bio-austin_federa_rodxzj.jpg
-        label: 'Solana, Head of Communications'
+        name: Solana
+        title: Head of Communications
+        label: ''
         headline: Austin Federa
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416404/sustainable-blockchain/bio-alex-paris_qh49sl.jpg
-        label: 'UNFCCC, Technical Officer - MDU'
+        name: UNFCCC
+        title: Technical Officer - MDU
+        label: ''
         headline: Alex Paris
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416406/sustainable-blockchain/bio-almudena-delamata_wguo4m.jpg
-        label: 'Blockchain Intelligence, Managing Director'
+        name: Blockchain Intelligence
+        title: Managing Director
+        label: ''
         headline: Almudena de la Mata
         text: ''
     navigationLabel: Speakers
