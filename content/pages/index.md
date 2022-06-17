@@ -58,19 +58,6 @@ blocks:
         headline: Kevin Owocki
         text: ''
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1654272956/sustainable-blockchain/bio-marc-johnson_x3xs4y.png
-        title: Filecoin Green
-        label: ''
-        headline: Marc Johnson
-        text: ''
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1655486700/sustainable-blockchain/bio-gloria-kimbwala_gzkvep.jpg
-        name: Gitcoin.io
-        title: ''
-        label: ''
-        headline: Gloria Kimbwala
-        text: ''
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655486718/sustainable-blockchain/bio-jonathan-rackoff_ljdtqd.jpg
         name: Coinbase
         title: Sustainability & ESG
