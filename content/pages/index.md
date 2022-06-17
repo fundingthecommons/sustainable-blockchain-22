@@ -63,12 +63,16 @@ blocks:
         label: ''
         headline: Marc Johnson
         text: ''
-      - name: Gitcoin.io
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1655486700/sustainable-blockchain/bio-gloria-kimbwala_gzkvep.jpg
+        name: Gitcoin.io
         title: ''
         label: ''
         headline: Gloria Kimbwala
         text: ''
-      - name: Coinbase
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1655486718/sustainable-blockchain/bio-jonathan-rackoff_ljdtqd.jpg
+        name: Coinbase
         title: Sustainability & ESG
         label: ''
         headline: Jonathan Rackoff
