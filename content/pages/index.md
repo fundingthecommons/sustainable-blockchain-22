@@ -36,26 +36,6 @@ blocks:
         type: secondary
     _template: feature
   - style:
-      textAlignment: text-center
-      minHeight: min-h-0
-      padding: 'pt-10 pb-12 pr-0 undefined sm:pt-5 sm:pb-6 sm:pr-0 sm:pl-0'
-      width: normal
-      labelStyles: text-black undefined text-xl mb-0 font-bold
-      headlineStyles: >-
-        text-white undefined text-6xl mb-0 font-bold sm:text-white sm:font-1
-        sm:text-4xl sm:mb-0 sm:font-bold
-      subheadStyles: text-black undefined text-3xl mb-0 font-bold
-      textStyles: text-black undefined text-lg mb-0 font-bold
-      contentOrder: labelHeadingsContent
-    background:
-      fillStyles: bg-primary
-    label: ''
-    headline: 'Coming Soon! '
-    subhead: ''
-    body: ''
-    navigationLabel: ''
-    _template: banner
-  - style:
       labelStyles: 'undefined undefined undefined undefined '
       headlineStyles: text-accent2 font-1 text-5xl undefined font-bold
       subheadStyles: 'text-accent2 font-1 text-xl mb-10 '
@@ -66,23 +46,58 @@ blocks:
     cards:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
-        name: ''
+        name: Protocol Labs
         title: ''
-        label: Protocol Labs
+        label: ''
         headline: Juan Benet
         text: ''
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1655416406/sustainable-blockchain/bio-almudena-delamata_wguo4m.jpg
+        name: 'Blockchain Intelligence,'
+        title: Managing Director
+        label: ''
+        headline: Almudena de la Mata
+        text: ''
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1655416417/sustainable-blockchain/bio-olya_irzak_vbfmlw.jpg
+        name: 'Frost Methane,'
+        title: Founder and CEO
+        label: ''
+        headline: Olya Irzak
+        text: ''
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272937/sustainable-blockchain/bio-kevin-owocki_ensdlm.png
-        label: Gitcoin.io
+        name: Gitcoin.io
+        label: ''
         headline: Kevin Owocki
+        text: ''
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1654272922/sustainable-blockchain/bio-alan-ransil_mckfco.png
-        label: Filecoin Green
-        headline: Alan Ransil
+          https://res.cloudinary.com/protocolai/image/upload/v1655739462/sustainable-blockchain/bio-lucia-gallardo_ew9l4t.jpg
+        name: 'Emerge,'
+        title: Founder and CEO
+        headline: Lucia Gallardo
+        text: ''
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1654272956/sustainable-blockchain/bio-marc-johnson_x3xs4y.png
-        label: Filecoin Green
-        headline: Marc Johnson
+          https://res.cloudinary.com/protocolai/image/upload/v1655486718/sustainable-blockchain/bio-jonathan-rackoff_ljdtqd.jpg
+        name: 'Coinbase,'
+        title: Sustainability & ESG
+        label: ''
+        headline: Jonathan Rackoff
+        text: ''
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1655416409/sustainable-blockchain/bio-austin_federa_rodxzj.jpg
+        name: 'Solana,'
+        title: Head of Communications
+        label: ''
+        headline: Austin Federa
+        text: ''
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1655416404/sustainable-blockchain/bio-alex-paris_qh49sl.jpg
+        name: UNFCCC
+        title: Technical Officer - MDU
+        label: ''
+        headline: Alex Paris
+        text: ''
     navigationLabel: Speakers
     _template: speakerCards
   - style:
