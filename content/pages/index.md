@@ -44,6 +44,14 @@ blocks:
     subhead: Our speakers are builders
     body: ''
     cards:
+      - name: ''
+        title: 'Founder and CEO, Frost Methane'
+        label: ''
+        headline: Olya Irzak
+        text: ''
+      - name: ''
+        title: Founder and CEO - Emerge
+        headline: Lucia Gallardo
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         name: Protocol Labs
