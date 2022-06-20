@@ -85,7 +85,9 @@ blocks:
         label: ''
         headline: Almudena de la Mata
         text: ''
-      - name: 'Emerge,'
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1655739462/sustainable-blockchain/bio-lucia-gallardo_ew9l4t.jpg
+        name: 'Emerge,'
         title: Founder and CEO
         headline: Lucia Gallardo
       - imageSrc: >-
