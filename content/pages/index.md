@@ -59,14 +59,14 @@ blocks:
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655486718/sustainable-blockchain/bio-jonathan-rackoff_ljdtqd.jpg
-        name: Coinbase
+        name: 'Coinbase,'
         title: Sustainability & ESG
         label: ''
         headline: Jonathan Rackoff
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416409/sustainable-blockchain/bio-austin_federa_rodxzj.jpg
-        name: Solana
+        name: 'Solana,'
         title: Head of Communications
         label: ''
         headline: Austin Federa
@@ -80,18 +80,18 @@ blocks:
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416406/sustainable-blockchain/bio-almudena-delamata_wguo4m.jpg
-        name: Blockchain Intelligence
+        name: 'Blockchain Intelligence,'
         title: Managing Director
         label: ''
         headline: Almudena de la Mata
         text: ''
-      - name: ''
-        title: Founder and CEO - Emerge
+      - name: 'Emerge,'
+        title: Founder and CEO
         headline: Lucia Gallardo
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416417/sustainable-blockchain/bio-olya_irzak_vbfmlw.jpg
-        name: ''
-        title: 'Founder and CEO, Frost Methane'
+        name: 'Frost Methane,'
+        title: Founder and CEO
         label: ''
         headline: Olya Irzak
         text: ''
