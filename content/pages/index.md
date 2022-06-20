@@ -52,10 +52,30 @@ blocks:
         headline: Juan Benet
         text: ''
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1655416406/sustainable-blockchain/bio-almudena-delamata_wguo4m.jpg
+        name: 'Blockchain Intelligence,'
+        title: Managing Director
+        label: ''
+        headline: Almudena de la Mata
+        text: ''
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1655416417/sustainable-blockchain/bio-olya_irzak_vbfmlw.jpg
+        name: 'Frost Methane,'
+        title: Founder and CEO
+        label: ''
+        headline: Olya Irzak
+        text: ''
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272937/sustainable-blockchain/bio-kevin-owocki_ensdlm.png
         name: Gitcoin.io
         label: ''
         headline: Kevin Owocki
+        text: ''
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1655739462/sustainable-blockchain/bio-lucia-gallardo_ew9l4t.jpg
+        name: 'Emerge,'
+        title: Founder and CEO
+        headline: Lucia Gallardo
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655486718/sustainable-blockchain/bio-jonathan-rackoff_ljdtqd.jpg
@@ -77,25 +97,6 @@ blocks:
         title: Technical Officer - MDU
         label: ''
         headline: Alex Paris
-        text: ''
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1655416406/sustainable-blockchain/bio-almudena-delamata_wguo4m.jpg
-        name: 'Blockchain Intelligence,'
-        title: Managing Director
-        label: ''
-        headline: Almudena de la Mata
-        text: ''
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1655739462/sustainable-blockchain/bio-lucia-gallardo_ew9l4t.jpg
-        name: 'Emerge,'
-        title: Founder and CEO
-        headline: Lucia Gallardo
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1655416417/sustainable-blockchain/bio-olya_irzak_vbfmlw.jpg
-        name: 'Frost Methane,'
-        title: Founder and CEO
-        label: ''
-        headline: Olya Irzak
         text: ''
     navigationLabel: Speakers
     _template: speakerCards
