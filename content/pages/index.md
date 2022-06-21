@@ -93,7 +93,7 @@ blocks:
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655828016/sustainable-blockchain/bio-alex-paris_ahhztp.jpg
-        name: UN Climate Change
+        name: 'UN Climate Change,'
         title: Technical Officer - MDU
         label: ''
         headline: Alex Paris
