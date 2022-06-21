@@ -79,7 +79,7 @@ blocks:
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655486718/sustainable-blockchain/bio-jonathan-rackoff_ljdtqd.jpg
-        name: 'Coinbase,'
+        name: 'Formerly Coinbase,'
         title: Sustainability & ESG
         label: ''
         headline: Jonathan Rackoff
@@ -92,8 +92,8 @@ blocks:
         headline: Austin Federa
         text: ''
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1655416404/sustainable-blockchain/bio-alex-paris_qh49sl.jpg
-        name: UNFCCC
+          https://res.cloudinary.com/protocolai/image/upload/v1655828016/sustainable-blockchain/bio-alex-paris_ahhztp.jpg
+        name: 'UN Climate Change,'
         title: Technical Officer - MDU
         label: ''
         headline: Alex Paris
