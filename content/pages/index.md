@@ -159,7 +159,7 @@ blocks:
       textStyles: text-black text-sm mb-0
       buttonType: solid
     label: ''
-    headline: Supporters of Collaborators
+    headline: Supporters
     subhead: ''
     body: ''
     items:
