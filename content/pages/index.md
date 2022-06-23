@@ -140,6 +140,37 @@ blocks:
     navigationLabel: Sponsors
     _template: photoCards
   - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pb-20 pr-20 pl-20
+      contentWidth: w-full
+      columns: '3'
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: text-accent2 font-1 text-5xl mb-2 font-bold
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-black font-1 undefined mb-0 '
+      contentOrder: labelHeadingsContent
+    cardStyle:
+      fillStyles: bg-gray
+      padding: pt-4 pr-4 pb-4 pl-4
+      labelStyles: text-black text-sm mb-0
+      headlineStyles: text-black text-2xl mb-0
+      subheadStyles: text-black text-lg mb-0
+      textStyles: text-black text-sm mb-0
+      buttonType: solid
+    label: ''
+    headline: Supporters of Collaborators
+    subhead: ''
+    body: ''
+    items:
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1656004318/sustainable-blockchain/unfccc-logo_sxpgxk.jpg
+        headline: ''
+        subhead: ''
+        text: ''
+    _template: photoCards
+  - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
       featureContent: 'w-full min-h-0 '
       padding: 'pt-0 pb-20 pr-20 pl-20 sm:pt-0 sm:pb-10 sm:pr-10 sm:pl-10'
