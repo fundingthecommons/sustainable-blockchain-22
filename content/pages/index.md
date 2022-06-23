@@ -107,7 +107,7 @@ blocks:
       contentWidth: w-full
       columns: '3'
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: text-accent2 font-1 text-5xl mb-0 font-bold
+      headlineStyles: text-accent2 font-1 text-5xl mb-10 font-bold
       subheadStyles: 'text-accent2 font-1 text-xl mb-10 '
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
@@ -122,7 +122,7 @@ blocks:
       buttonType: primary
     label: ''
     headline: Sponsors
-    subhead: Sponsors
+    subhead: ''
     body: ''
     items:
       - image:
