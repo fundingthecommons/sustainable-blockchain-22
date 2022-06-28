@@ -31,9 +31,6 @@ blocks:
         link: >-
           https://www.eventbrite.com/e/sustainable-blockchain-summit-tickets-336114797407
         type: primary
-      - label: Apply to Speak
-        link: 'https://protocollabs.typeform.com/SBS-Paris-CFP'
-        type: secondary
     _template: feature
   - style:
       labelStyles: 'undefined undefined undefined undefined '
@@ -107,7 +104,7 @@ blocks:
       contentWidth: w-full
       columns: '3'
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: text-accent2 font-1 text-5xl mb-0 font-bold
+      headlineStyles: text-accent2 font-1 text-5xl mb-10 font-bold
       subheadStyles: 'text-accent2 font-1 text-xl mb-10 '
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
@@ -122,7 +119,7 @@ blocks:
       buttonType: primary
     label: ''
     headline: Sponsors
-    subhead: Sponsors
+    subhead: ''
     body: ''
     items:
       - image:
@@ -138,6 +135,37 @@ blocks:
         subhead: ''
         text: ''
     navigationLabel: Sponsors
+    _template: photoCards
+  - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-10 pb-5 pr-20 pl-20
+      contentWidth: w-full
+      columns: '3'
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: text-accent2 font-1 text-5xl mb-2 font-bold
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-black font-1 undefined mb-0 '
+      contentOrder: labelHeadingsContent
+    cardStyle:
+      fillStyles: bg-gray
+      padding: pt-4 pr-4 pb-4 pl-4
+      labelStyles: text-black text-sm mb-0
+      headlineStyles: text-black text-2xl mb-0
+      subheadStyles: text-black text-lg mb-0
+      textStyles: text-black text-sm mb-0
+      buttonType: solid
+    label: ''
+    headline: Supporters
+    subhead: ''
+    body: ''
+    items:
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1656004318/sustainable-blockchain/unfccc-logo_sxpgxk.jpg
+        headline: ''
+        subhead: ''
+        text: ''
     _template: photoCards
   - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
