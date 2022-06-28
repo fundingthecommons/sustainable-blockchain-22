@@ -31,9 +31,6 @@ blocks:
         link: >-
           https://www.eventbrite.com/e/sustainable-blockchain-summit-tickets-336114797407
         type: primary
-      - label: Apply to Speak
-        link: 'https://protocollabs.typeform.com/SBS-Paris-CFP'
-        type: secondary
     _template: feature
   - style:
       labelStyles: 'undefined undefined undefined undefined '
