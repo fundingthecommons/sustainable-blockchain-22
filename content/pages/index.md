@@ -139,9 +139,9 @@ blocks:
   - style:
       textAlignment: text-left
       minHeight: min-h-0
-      padding: pt-10 pb-5 pr-20 pl-20
+      padding: 'pt-10 pb-5 pr-20 pl-20 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
       contentWidth: w-full
-      columns: '3'
+      columns: '2'
       labelStyles: 'text-black font-1 text-sm mb-0 '
       headlineStyles: text-accent2 font-1 text-5xl mb-2 font-bold
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
