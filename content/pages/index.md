@@ -157,7 +157,7 @@ blocks:
       buttonType: solid
     label: ''
     headline: Supporters
-    subhead: Supporters
+    subhead: ''
     body: ''
     items:
       - image:
