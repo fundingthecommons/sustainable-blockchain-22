@@ -109,28 +109,18 @@ export const speakerCardsBlockSchema: TinaTemplate = {
         },
         {
           label: "Speaker Name",
-          name: "name",
+          name: "speaker",
+          type: "string",
+        },
+        {
+          label: "Company",
+          name: "company",
           type: "string",
         },
         {
           label: "Speaker Title",
           name: "title",
           type: "string",
-        },
-        {
-          label: "Label",
-          name: "label",
-          type: "string",
-        },
-        {
-          label: "Headline",
-          name: "headline",
-          type: "string",
-        },
-        {
-          label: "Text",
-          name: "text",
-          type: "rich-text",
         },
       ]
     },

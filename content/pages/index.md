@@ -43,57 +43,57 @@ blocks:
     cards:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
-        name: Protocol Labs
+        company: Protocol Labs
         title: ''
         label: ''
-        headline: Juan Benet
+        speaker: Juan Benet
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416406/sustainable-blockchain/bio-almudena-delamata_wguo4m.jpg
-        name: 'Blockchain Intelligence,'
+        company: 'Blockchain Intelligence,'
         title: Managing Director
         label: ''
-        headline: Almudena de la Mata
+        speaker: Almudena de la Mata
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416417/sustainable-blockchain/bio-olya_irzak_vbfmlw.jpg
-        name: 'Frost Methane,'
+        company: 'Frost Methane,'
         title: Founder and CEO
         label: ''
-        headline: Olya Irzak
+        speaker: Olya Irzak
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272937/sustainable-blockchain/bio-kevin-owocki_ensdlm.png
-        name: Gitcoin
+        company: Gitcoin
         label: ''
-        headline: Kevin Owocki
+        speaker: Kevin Owocki
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655739462/sustainable-blockchain/bio-lucia-gallardo_ew9l4t.jpg
-        name: 'Emerge,'
+        company: 'Emerge,'
         title: Founder and CEO
-        headline: Lucia Gallardo
+        speaker: Lucia Gallardo
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655486718/sustainable-blockchain/bio-jonathan-rackoff_ljdtqd.jpg
-        name: 'Formerly Coinbase,'
+        company: 'Formerly Coinbase,'
         title: Sustainability & ESG
         label: ''
-        headline: Jonathan Rackoff
+        speaker: Jonathan Rackoff
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416409/sustainable-blockchain/bio-austin_federa_rodxzj.jpg
-        name: 'Solana,'
+        company: 'Solana,'
         title: Head of Communications
         label: ''
-        headline: Austin Federa
+        speaker: Austin Federa
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655828016/sustainable-blockchain/bio-alex-paris_ahhztp.jpg
-        name: 'UN Climate Change,'
+        company: 'UN Climate Change,'
         title: Technical Officer - MDU
         label: ''
-        headline: Alex Paris
+        speaker: Alex Paris
         text: ''
     navigationLabel: Speakers
     _template: speakerCards

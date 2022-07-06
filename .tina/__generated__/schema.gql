@@ -1085,11 +1085,9 @@ type PagesBlocksSpeakerCardsBackground {
 
 type PagesBlocksSpeakerCardsCards {
   imageSrc: String
-  name: String
+  speaker: String
+  company: String
   title: String
-  label: String
-  headline: String
-  text: JSON
 }
 
 type PagesBlocksSpeakerCards {
@@ -2148,11 +2146,9 @@ input PagesBlocksSpeakerCardsBackgroundMutation {
 
 input PagesBlocksSpeakerCardsCardsMutation {
   imageSrc: String
-  name: String
+  speaker: String
+  company: String
   title: String
-  label: String
-  headline: String
-  text: JSON
 }
 
 input PagesBlocksSpeakerCardsMutation {
