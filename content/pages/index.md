@@ -64,7 +64,7 @@ blocks:
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272937/sustainable-blockchain/bio-kevin-owocki_ensdlm.png
-        name: Gitcoin.io
+        name: Gitcoin
         label: ''
         headline: Kevin Owocki
         text: ''
@@ -212,52 +212,6 @@ blocks:
         link: 'https://gitcoin.co/hackathon/sustainable/onboard'
         type: minor
     _template: feature
-  - style:
-      textAlignment: text-left
-      minHeight: min-h-0
-      padding: 'pt-14 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-10 sm:pl-10'
-      contentWidth: w-full
-      columns: '2'
-      labelStyles: text-black undefined text-xl mb-0 font-bold
-      headlineStyles: text-accent2 undefined text-5xl mb-0 font-bold
-      subheadStyles: 'text-accent2 undefined text-xl mb-10 '
-      textStyles: 'text-accent2 undefined text-lg mb-0 '
-      contentOrder: labelHeadingsContent
-    cardStyle:
-      fillStyles: bg-accent1
-      padding: pt-0 pb-5 pr-5 pl-5
-      type: solid
-      imageStyles: ' undefined undefined mb-0'
-      labelStyles: 'text-white undefined text-sm mb-0 '
-      headlineStyles: 'text-white undefined text-2xl mb-0 '
-      subheadStyles: 'text-white undefined text-lg mb-0 '
-      textStyles: 'text-white undefined undefined mb-0 '
-      buttonType: secondary
-    background:
-      fillStyles: bg-accent3
-    label: ''
-    headline: SBS USA 2022
-    subhead: Watch Again
-    body: ''
-    items:
-      - image:
-          src: >-
-            http://res.cloudinary.com/protocolai/image/upload/v1650740340/events-filecoin/02-DecarbonizeCrypto_f5y8ma.png
-        headline: ''
-        subhead: ''
-        text: ''
-        link: 'https://youtu.be/4Xb6zP88Fxw'
-        buttonLabel: Watch Now
-      - image:
-          src: >-
-            http://res.cloudinary.com/protocolai/image/upload/v1650740349/events-filecoin/04-IncentivizingCollective_mribo5.png
-        headline: ''
-        subhead: ''
-        text: ''
-        link: 'https://youtu.be/lrg1V1kRwGo'
-        buttonLabel: Watch Now
-    navigationLabel: SBS USA 2022
-    _template: photoCards
 meta:
   pageTitle: Sustainable Blockchain Summit EU
   pageDescription: >-
