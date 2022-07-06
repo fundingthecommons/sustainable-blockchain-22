@@ -64,7 +64,7 @@ blocks:
         text: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272937/sustainable-blockchain/bio-kevin-owocki_ensdlm.png
-        name: Gitcoin.io
+        name: Gitcoin
         label: ''
         headline: Kevin Owocki
         text: ''
