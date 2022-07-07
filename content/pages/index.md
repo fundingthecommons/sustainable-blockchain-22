@@ -93,6 +93,11 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1655486700/sustainable-blockchain/bio-gloria-kimbwala_gzkvep.jpg
         speaker: Gloria Kimbwala
         company: Gitcoin
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1655416412/sustainable-blockchain/bio-gregory_landua_yslg5s.jpg
+        speaker: Gregory Landua
+        company: 'Regen Network,'
+        title: Co-Founder
     navigationLabel: Speakers
     _template: speakerCards
   - style:
