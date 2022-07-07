@@ -19475,14 +19475,26 @@
                     },
                     {
                       "label": "Speaker Name",
-                      "name": "name",
+                      "name": "speaker",
                       "type": "string",
                       "namespace": [
                         "pages",
                         "blocks",
                         "speakerCards",
                         "cards",
-                        "name"
+                        "speaker"
+                      ]
+                    },
+                    {
+                      "label": "Company",
+                      "name": "company",
+                      "type": "string",
+                      "namespace": [
+                        "pages",
+                        "blocks",
+                        "speakerCards",
+                        "cards",
+                        "company"
                       ]
                     },
                     {
@@ -19495,42 +19507,6 @@
                         "speakerCards",
                         "cards",
                         "title"
-                      ]
-                    },
-                    {
-                      "label": "Label",
-                      "name": "label",
-                      "type": "string",
-                      "namespace": [
-                        "pages",
-                        "blocks",
-                        "speakerCards",
-                        "cards",
-                        "label"
-                      ]
-                    },
-                    {
-                      "label": "Headline",
-                      "name": "headline",
-                      "type": "string",
-                      "namespace": [
-                        "pages",
-                        "blocks",
-                        "speakerCards",
-                        "cards",
-                        "headline"
-                      ]
-                    },
-                    {
-                      "label": "Text",
-                      "name": "text",
-                      "type": "rich-text",
-                      "namespace": [
-                        "pages",
-                        "blocks",
-                        "speakerCards",
-                        "cards",
-                        "text"
                       ]
                     }
                   ],

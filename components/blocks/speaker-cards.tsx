@@ -26,17 +26,17 @@ const Card = ({ data, index, parentField = ""  }) => {
               data-tinafield={`${parentField}.${index}.label`}
             >{data.label}</p>
           )}
-          {data.headline && (
+          {data.speaker && (
             <h3
               className="text-lg font-bold text-primary mb-8"
-              data-tinafield={`${parentField}.${index}.headline`}
-            >{data.headline}</h3>
+              data-tinafield={`${parentField}.${index}.speaker`}
+            >{data.speaker}</h3>
           )}
-          {data.name && (
+          {data.company && (
             <h4
               className="text-sm text-accent2"
-              data-tinafield={`${parentField}.${index}.name`}
-            >{data.name}</h4>
+              data-tinafield={`${parentField}.${index}.company`}
+            >{data.company}</h4>
           )}
           {data.title && (
             <h5

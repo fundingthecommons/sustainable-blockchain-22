@@ -895,11 +895,9 @@ fragment PagesParts on Pages {
       cards {
         __typename
         imageSrc
-        name
+        speaker
+        company
         title
-        label
-        headline
-        text
       }
       rule2
       navigationLabel
