@@ -84,11 +84,15 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1655416414/sustainable-blockchain/bio-michael-kisselgof_fihb5f.jpg
         speaker: Michael Kisselgof
         company: 'Popcorn,'
-        title: Co-founder
+        title: Co-Founder
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657177831/sustainable-blockchain/Linda_Jirouskova_wo2qmd.jpg
+        speaker: Linda Jirouskova
+        company: RMI
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272922/sustainable-blockchain/bio-alan-ransil_mckfco.png
         speaker: Alan Ransil
-        company: Protocol Labs
+        company: Filecoin Green
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655486700/sustainable-blockchain/bio-gloria-kimbwala_gzkvep.jpg
         speaker: Gloria Kimbwala
@@ -98,6 +102,39 @@ blocks:
         speaker: Gregory Landua
         company: 'Regen Network,'
         title: Co-Founder
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657177839/sustainable-blockchain/rmi-people-charles-cannon_orjjhy.jpg
+        speaker: Charles Cannon
+        company: 'Horizon Zero,'
+        title: Manager
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1654272956/sustainable-blockchain/bio-marc-johnson_x3xs4y.png
+        speaker: Marc Johnson
+        company: Filecoin Green
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657177834/sustainable-blockchain/Phil_Fogel_BoredApe-1_yimbgc.png
+        speaker: Phil Fogel
+        company: 'FlowCarbon,'
+        title: Chief Blockchain Officer
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657177837/sustainable-blockchain/raphael_benoi_m7ebwg.jpg
+        speaker: Raphael Benoi
+        company: 'Toucan,'
+        title: 'CEO, Co-Founder '
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1655416420/sustainable-blockchain/bio-orinayo_ayodele_lyvhjz.jpg
+        speaker: Orinayo Ayodele
+        company: Filecoin Green
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657178942/Alexi_Anania.small_dqgpgw.png
+        speaker: Alexi Anania
+        company: 'Cambridge Centre for Alternative Finance,'
+        title: 'Project Lead '
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657177842/sustainable-blockchain/Troy_Cross-Headshot_dwf5lh.jpg
+        speaker: Troy Cross
+        company: 'Reed College,'
+        title: Professor of Philosophy and Humanities
     navigationLabel: Speakers
     _template: speakerCards
   - style:
