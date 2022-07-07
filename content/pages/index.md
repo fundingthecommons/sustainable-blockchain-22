@@ -85,6 +85,10 @@ blocks:
         speaker: Michael Kisselgof
         company: 'Popcorn,'
         title: Co-founder
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1654272922/sustainable-blockchain/bio-alan-ransil_mckfco.png
+        speaker: Alan Ransil
+        company: Protocol Labs
     navigationLabel: Speakers
     _template: speakerCards
   - style:
