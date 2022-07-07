@@ -246,7 +246,7 @@ blocks:
     body: >
       Blockchains are great for making transparent, verifiable claims and this
       means that there is a world of Web3 environmental tools to explore and
-      create..
+      create.
     buttons:
       - label: Learn More
         link: 'https://gitcoin.co/hackathon/sustainable/onboard'
