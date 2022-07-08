@@ -95,6 +95,7 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1654272922/sustainable-blockchain/bio-alan-ransil_mckfco.png
         speaker: Alan Ransil
         company: Filecoin Green
+        title: Project Lead
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655486700/sustainable-blockchain/bio-gloria-kimbwala_gzkvep.jpg
         speaker: Gloria Kimbwala
