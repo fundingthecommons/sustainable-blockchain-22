@@ -146,9 +146,10 @@ blocks:
         speaker: Susanna Enso Huang
         company: SunSpec Alliance
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657312451/Screen_Shot_2022-07-08_at_1.34.02_PM_ixusyd.png
+          https://res.cloudinary.com/protocolai/image/upload/v1657313490/Screen_Shot_2022-07-08_at_1.51.10_PM_f7e6ic.png
         speaker: Slobodan Sudaric
-        company: cLabs
+        company: 'cLabs,'
+        title: Partner
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657312732/Sid_Headshot_2_pjskxu.jpg
         speaker: Sid Jha
