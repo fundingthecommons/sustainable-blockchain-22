@@ -134,8 +134,8 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657178942/Alexi_Anania.small_dqgpgw.png
         speaker: Alexi Anania
-        company: 'Cambridge Centre for Alternative Finance,'
-        title: 'Project Lead '
+        company: European Union Blockchain Observatory and Forum
+        title: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657177842/sustainable-blockchain/Troy_Cross-Headshot_dwf5lh.jpg
         speaker: Troy Cross
