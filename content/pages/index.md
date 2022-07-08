@@ -42,9 +42,9 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657312321/sustainable-blockchain/susanna_enso_cbk7xg.jpg
-        speaker: Susanna Enso Huang
-        company: SunSpec Alliance
+          https://res.cloudinary.com/protocolai/image/upload/v1657312451/Screen_Shot_2022-07-08_at_1.34.02_PM_ixusyd.png
+        speaker: Slobodan Sudaric
+        company: cLabs
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
@@ -139,6 +139,10 @@ blocks:
         speaker: Troy Cross
         company: 'Reed College,'
         title: Professor of Philosophy and Humanities
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657312321/sustainable-blockchain/susanna_enso_cbk7xg.jpg
+        speaker: Susanna Enso Huang
+        company: SunSpec Alliance
     navigationLabel: Speakers
     _template: speakerCards
   - style:
