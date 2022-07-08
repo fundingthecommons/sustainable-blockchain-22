@@ -42,14 +42,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657312732/Sid_Headshot_2_pjskxu.jpg
-        speaker: Sid Jha
-        company: dClimate
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
         company: Protocol Labs
-        title: ''
+        title: Founder and CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416406/sustainable-blockchain/bio-almudena-delamata_wguo4m.jpg
         speaker: Almudena de la Mata
@@ -148,6 +144,10 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1657312451/Screen_Shot_2022-07-08_at_1.34.02_PM_ixusyd.png
         speaker: Slobodan Sudaric
         company: cLabs
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657312732/Sid_Headshot_2_pjskxu.jpg
+        speaker: Sid Jha
+        company: dClimate
     navigationLabel: Speakers
     _template: speakerCards
   - style:
