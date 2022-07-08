@@ -42,9 +42,9 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657312451/Screen_Shot_2022-07-08_at_1.34.02_PM_ixusyd.png
-        speaker: Slobodan Sudaric
-        company: cLabs
+          https://res.cloudinary.com/protocolai/image/upload/v1657312732/Sid_Headshot_2_pjskxu.jpg
+        speaker: Sid Jha
+        company: dClimate
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
@@ -64,6 +64,7 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1654272937/sustainable-blockchain/bio-kevin-owocki_ensdlm.png
         speaker: Kevin Owocki
         company: Gitcoin
+        title: Co-founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655739462/sustainable-blockchain/bio-lucia-gallardo_ew9l4t.jpg
         speaker: Lucia Gallardo
@@ -143,6 +144,10 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1657312321/sustainable-blockchain/susanna_enso_cbk7xg.jpg
         speaker: Susanna Enso Huang
         company: SunSpec Alliance
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657312451/Screen_Shot_2022-07-08_at_1.34.02_PM_ixusyd.png
+        speaker: Slobodan Sudaric
+        company: cLabs
     navigationLabel: Speakers
     _template: speakerCards
   - style:
