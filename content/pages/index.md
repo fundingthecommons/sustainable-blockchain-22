@@ -162,9 +162,10 @@ blocks:
         company: 'Impacta Finance,'
         title: Co-founder
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657312321/sustainable-blockchain/susanna_enso_cbk7xg.jpg
+          https://res.cloudinary.com/protocolai/image/upload/v1657314434/sustainable-blockchain/Screen_Shot_2022-07-08_at_2.06.49_PM_u5zn1o.png
         speaker: Susanna Enso Huang
         company: SunSpec Alliance
+        title: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657313889/sustainable-blockchain/karenaurelius_chvbde.png
         speaker: Marcus Aurelius
