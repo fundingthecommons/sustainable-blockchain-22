@@ -15,7 +15,7 @@ const Card = ({ data, index, parentField = ""  }) => {
           <img
             alt={data.speakerName}
             src={data.imageSrc}
-            className="w-40 h-40 absolute rounded-full"
+            className="w-40 h-40 absolute rounded-full object-cover"
             data-tinafield={`${parentField}.${index}.image`}
           />
         )}
