@@ -44,7 +44,7 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
-        company: Protocol Labs
+        company: 'Protocol Labs,'
         title: Founder and CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416406/sustainable-blockchain/bio-almudena-delamata_wguo4m.jpg
