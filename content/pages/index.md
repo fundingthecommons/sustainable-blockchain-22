@@ -42,6 +42,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657313889/sustainable-blockchain/karenaurelius_chvbde.png
+        speaker: Marcus Aurelius
+        company: Klima DAO
+        title: ''
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
         company: 'Protocol Labs,'
