@@ -129,7 +129,8 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416420/sustainable-blockchain/bio-orinayo_ayodele_lyvhjz.jpg
         speaker: Orinayo Ayodele
-        company: Filecoin Green
+        company: 'Filecoin Green,'
+        title: Program Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657178942/Alexi_Anania.small_dqgpgw.png
         speaker: Alexi Anania
