@@ -151,9 +151,10 @@ blocks:
         company: 'cLabs,'
         title: Partner
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657312732/Sid_Headshot_2_pjskxu.jpg
+          https://res.cloudinary.com/protocolai/image/upload/v1657313600/sustainable-blockchain/Screen_Shot_2022-07-08_at_1.52.59_PM_xgir2i.png
         speaker: Sid Jha
-        company: dClimate
+        company: 'dClimate,'
+        title: Founding Partner
     navigationLabel: Speakers
     _template: speakerCards
   - style:
