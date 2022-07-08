@@ -42,6 +42,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657312321/sustainable-blockchain/susanna_enso_cbk7xg.jpg
+        speaker: Susanna Enso Huang
+        company: SunSpec Alliance
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
         company: Protocol Labs
