@@ -42,11 +42,6 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657314315/sustainable-blockchain/paul_headshot_ogpfg2.jpg
-        speaker: Paul Gambill
-        company: 'Nori,'
-        title: Founder and CEO
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
         company: 'Protocol Labs,'
@@ -147,14 +142,15 @@ blocks:
         company: 'Reed College,'
         title: Professor of Philosophy and Humanities
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657312321/sustainable-blockchain/susanna_enso_cbk7xg.jpg
-        speaker: Susanna Enso Huang
-        company: SunSpec Alliance
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657313693/sustainable-blockchain/Screen_Shot_2022-07-08_at_1.54.31_PM_j24ntu.png
         speaker: Slobodan Sudaric
         company: 'cLabs,'
         title: Partner
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657314315/sustainable-blockchain/paul_headshot_ogpfg2.jpg
+        speaker: Paul Gambill
+        company: 'Nori,'
+        title: Founder and CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657313600/sustainable-blockchain/Screen_Shot_2022-07-08_at_1.52.59_PM_xgir2i.png
         speaker: Sid Jha
@@ -165,6 +161,10 @@ blocks:
         speaker: Paula Palermo
         company: 'Impacta Finance,'
         title: Co-founder
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657312321/sustainable-blockchain/susanna_enso_cbk7xg.jpg
+        speaker: Susanna Enso Huang
+        company: SunSpec Alliance
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657313889/sustainable-blockchain/karenaurelius_chvbde.png
         speaker: Marcus Aurelius
