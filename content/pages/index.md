@@ -114,7 +114,8 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272956/sustainable-blockchain/bio-marc-johnson_x3xs4y.png
         speaker: Marc Johnson
-        company: Filecoin Green
+        company: 'Filecoin Green,'
+        title: Environmental Solutions Architect
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657177834/sustainable-blockchain/Phil_Fogel_BoredApe-1_yimbgc.png
         speaker: Phil Fogel
