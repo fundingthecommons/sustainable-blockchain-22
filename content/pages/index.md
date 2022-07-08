@@ -89,7 +89,7 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657177831/sustainable-blockchain/Linda_Jirouskova_wo2qmd.jpg
         speaker: Linda Jirouskova
-        company: RMI
+        company: 'RMI,'
         title: Corporate Engagement Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272922/sustainable-blockchain/bio-alan-ransil_mckfco.png
