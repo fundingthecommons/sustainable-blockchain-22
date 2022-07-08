@@ -146,7 +146,7 @@ blocks:
         speaker: Susanna Enso Huang
         company: SunSpec Alliance
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657313490/Screen_Shot_2022-07-08_at_1.51.10_PM_f7e6ic.png
+          https://res.cloudinary.com/protocolai/image/upload/v1657313693/sustainable-blockchain/Screen_Shot_2022-07-08_at_1.54.31_PM_j24ntu.png
         speaker: Slobodan Sudaric
         company: 'cLabs,'
         title: Partner
