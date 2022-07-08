@@ -42,10 +42,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657313889/sustainable-blockchain/karenaurelius_chvbde.png
-        speaker: Marcus Aurelius
-        company: Klima DAO
-        title: ''
+          https://res.cloudinary.com/protocolai/image/upload/v1657314154/sustainable-blockchain/Screen_Shot_2022-07-08_at_2.02.19_PM_skwhh9.png
+        speaker: Paula Palermo
+        company: 'Impacta Finance,'
+        title: Co-founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
@@ -160,6 +160,11 @@ blocks:
         speaker: Sid Jha
         company: 'dClimate,'
         title: Founding Partner
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657313889/sustainable-blockchain/karenaurelius_chvbde.png
+        speaker: Marcus Aurelius
+        company: Klima DAO
+        title: ''
     navigationLabel: Speakers
     _template: speakerCards
   - style:
