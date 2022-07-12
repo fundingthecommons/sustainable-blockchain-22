@@ -246,7 +246,7 @@ blocks:
   - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
       featureContent: 'w-full min-h-0 '
-      padding: 'pt-0 pb-20 pr-20 pl-20 sm:pt-0 sm:pb-10 sm:pr-10 sm:pl-10'
+      padding: 'pt-0 pb-0 pr-20 pl-20 sm:pt-0 sm:pb-10 sm:pr-10 sm:pl-10'
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-sm mb-0 '
@@ -263,6 +263,63 @@ blocks:
         link: 'https://protocollabs.typeform.com/SBSParisSponsor'
         type: primary
     _template: feature
+  - style:
+      labelStyles: 'undefined undefined undefined undefined '
+      headlineStyles: text-primary undefined text-5xl mb-10 font-bold
+      subheadStyles: 'undefined undefined undefined undefined '
+      textStyles: 'undefined undefined undefined undefined '
+    background:
+      fillStyles: bg-white
+    headline: Event Schedule
+    body: ''
+    schedules:
+      - headline: 'Day 1, Climate Track'
+        subhead: 'Friday, July 22nd'
+        body: ''
+        events:
+          - time: '10:00'
+            headline: Gold Standard
+            subhead: Margret Kim
+          - time: '10:30'
+            headline: How to match Degens & Regens
+            subhead: Paula Palermo
+          - time: '10:30'
+            headline: How to match Degens & Regens
+            subhead: Paula Palermo
+          - time: '10:30'
+            headline: How to match Degens & Regens
+            subhead: Paula Palermo
+          - time: '10:30'
+            headline: How to match Degens & Regens
+            subhead: Paula Palermo
+          - time: '10:30'
+            headline: How to match Degens & Regens
+            subhead: Paula Palermo
+          - time: '10:30'
+            headline: How to match Degens & Regens
+            subhead: Paula Palermo
+          - time: '10:30'
+            headline: How to match Degens & Regens
+            subhead: Paula Palermo
+          - time: '10:30'
+            headline: How to match Degens & Regens
+            subhead: Paula Palermo
+          - time: '10:30'
+            headline: How to match Degens & Regens
+            subhead: Paula Palermo
+          - time: '10:30'
+            headline: How to match Degens & Regens
+            subhead: Paula Palermo
+      - headline: 'Day 1, Green Track'
+        subhead: 'Friday, July 22nd'
+        body: ''
+      - headline: 'Day 2, Climate Track'
+        subhead: 'Saturday, July 23rd'
+        body: ''
+      - headline: 'Day 2, Green Track'
+        subhead: 'Saturday, July 23rd'
+        body: ''
+    _template: schedule
   - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
       featureContent: 'w-4/5 min-h-0 '
