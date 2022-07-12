@@ -44,8 +44,8 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
-        company: Protocol Labs
-        title: ''
+        company: 'Protocol Labs,'
+        title: Founder and CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416406/sustainable-blockchain/bio-almudena-delamata_wguo4m.jpg
         speaker: Almudena de la Mata
@@ -59,7 +59,8 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272937/sustainable-blockchain/bio-kevin-owocki_ensdlm.png
         speaker: Kevin Owocki
-        company: Gitcoin
+        company: 'Gitcoin,'
+        title: Co-founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655739462/sustainable-blockchain/bio-lucia-gallardo_ew9l4t.jpg
         speaker: Lucia Gallardo
@@ -88,15 +89,18 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657177831/sustainable-blockchain/Linda_Jirouskova_wo2qmd.jpg
         speaker: Linda Jirouskova
-        company: RMI
+        company: 'RMI,'
+        title: Corporate Engagement Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272922/sustainable-blockchain/bio-alan-ransil_mckfco.png
         speaker: Alan Ransil
-        company: Filecoin Green
+        company: 'Filecoin Green,'
+        title: Project Lead
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655486700/sustainable-blockchain/bio-gloria-kimbwala_gzkvep.jpg
         speaker: Gloria Kimbwala
-        company: Gitcoin
+        company: 'Gitcoin,'
+        title: Customer Success
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416412/sustainable-blockchain/bio-gregory_landua_yslg5s.jpg
         speaker: Gregory Landua
@@ -110,7 +114,8 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272956/sustainable-blockchain/bio-marc-johnson_x3xs4y.png
         speaker: Marc Johnson
-        company: Filecoin Green
+        company: 'Filecoin Green,'
+        title: Environmental Solutions Architect
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657177834/sustainable-blockchain/Phil_Fogel_BoredApe-1_yimbgc.png
         speaker: Phil Fogel
@@ -124,17 +129,48 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416420/sustainable-blockchain/bio-orinayo_ayodele_lyvhjz.jpg
         speaker: Orinayo Ayodele
-        company: Filecoin Green
+        company: 'Filecoin Green,'
+        title: Program Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657178942/Alexi_Anania.small_dqgpgw.png
         speaker: Alexi Anania
-        company: 'Cambridge Centre for Alternative Finance,'
-        title: 'Project Lead '
+        company: European Union Blockchain Observatory and Forum
+        title: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657177842/sustainable-blockchain/Troy_Cross-Headshot_dwf5lh.jpg
         speaker: Troy Cross
         company: 'Reed College,'
         title: Professor of Philosophy and Humanities
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657313693/sustainable-blockchain/Screen_Shot_2022-07-08_at_1.54.31_PM_j24ntu.png
+        speaker: Slobodan Sudaric
+        company: 'cLabs,'
+        title: Partner
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657314315/sustainable-blockchain/paul_headshot_ogpfg2.jpg
+        speaker: Paul Gambill
+        company: 'Nori,'
+        title: Founder and CEO
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657313600/sustainable-blockchain/Screen_Shot_2022-07-08_at_1.52.59_PM_xgir2i.png
+        speaker: Sid Jha
+        company: 'dClimate,'
+        title: Founding Partner
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657314154/sustainable-blockchain/Screen_Shot_2022-07-08_at_2.02.19_PM_skwhh9.png
+        speaker: Paula Palermo
+        company: 'Impacta Finance,'
+        title: Co-founder
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657314434/sustainable-blockchain/Screen_Shot_2022-07-08_at_2.06.49_PM_u5zn1o.png
+        speaker: Susanna Enso Huang
+        company: SunSpec Alliance
+        title: ''
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657313889/sustainable-blockchain/karenaurelius_chvbde.png
+        speaker: Marcus Aurelius
+        company: Klima DAO
+        title: ''
     navigationLabel: Speakers
     _template: speakerCards
   - style:
