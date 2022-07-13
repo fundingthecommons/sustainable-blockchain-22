@@ -377,6 +377,9 @@ blocks:
           - time: '11:30'
             headline: Klima DAO
             subhead: Marcus Aurelius
+          - time: '11:30'
+            headline: ReFi Podcast Live Recording
+            subhead: John Ellison
           - time: '12:30'
             headline: Lunch
           - time: '13:15'
