@@ -427,8 +427,35 @@ blocks:
             subhead: Rim Jeong
           - time: '11:40'
             headline: Toucan Workshop
-          - {}
-          - {}
+          - time: '12:10'
+            headline: Toucan Workshop
+          - time: '12:55'
+            headline: >-
+              Sustainability Drivers: How do capitalist incentives and
+              democratized Web3 co-exist?
+            subhead: >-
+              Lucia Gallardo, Alex Altman, Hayley Moller, Sharfy Adamantine,
+              Lauren Luz
+          - time: '13:40'
+            headline: Draft Ventures
+            subhead: David Rodriguez
+          - time: '14:00'
+            headline: >-
+              Leaving the Casino Laboratory Behind: A Framework to Support the
+              Emergence of ReFi 
+            subhead: Ashley Taylor Buck
+          - time: '14:20'
+            headline: Solana
+            subhead: Austin Federa
+          - time: '14:40'
+            headline: Building Data Infrastructure to Scale Regenerative Finance
+            subhead: 'Sid Jha '
+          - time: '15:00'
+            headline: 'Giveth '
+            subhead: Griff Green
+          - time: '15:20'
+            headline: How Tokenization can protect and conserve Biodiversity?
+            subhead: Boone Bergsma
     _template: schedule
   - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
