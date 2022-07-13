@@ -42,9 +42,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657723666/sustainable-blockchain/Screen_Shot_2022-07-13_at_3.47.00_PM_y0l29n.png
-        speaker: Brad van Voorhees
-        company: Sustainable Bitcoin Protocol
+          https://res.cloudinary.com/protocolai/image/upload/v1657723812/sustainable-blockchain/Screen_Shot_2022-07-13_at_3.49.42_PM_nknqys.png
+        speaker: Alex Altman
+        company: "Seal Storage Technology,\t"
+        title: COO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
@@ -176,14 +177,13 @@ blocks:
         company: 'Impacta Finance,'
         title: Co-founder
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657723666/sustainable-blockchain/Screen_Shot_2022-07-13_at_3.47.00_PM_y0l29n.png
+        speaker: Brad van Voorhees
+        company: Sustainable Bitcoin Protocol
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657720024/sustainable-blockchain/Screen_Shot_2022-07-13_at_2.46.43_PM_o4vs2w.png
         speaker: "Irina\tKaragyaur"
         company: Unique Network
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657313889/sustainable-blockchain/karenaurelius_chvbde.png
-        speaker: Marcus Aurelius
-        company: Klima DAO
-        title: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657314434/sustainable-blockchain/Screen_Shot_2022-07-08_at_2.06.49_PM_u5zn1o.png
         speaker: Susanna Enso Huang
@@ -203,6 +203,11 @@ blocks:
         speaker: Ashish Sai
         company: 'Ecosensus,'
         title: Postdoctoral Researcher
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657313889/sustainable-blockchain/karenaurelius_chvbde.png
+        speaker: Marcus Aurelius
+        company: Klima DAO
+        title: ''
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657720748/sustainable-blockchain/rim_oym0yb.png
         speaker: Rim Jeong
