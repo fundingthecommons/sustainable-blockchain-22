@@ -42,9 +42,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657720748/sustainable-blockchain/rim_oym0yb.png
-        speaker: Rim Jeong
-        company: Open Forest Protocol
+          https://res.cloudinary.com/protocolai/image/upload/v1657720814/sustainable-blockchain/prosberg-headshot_qxqr7q.jpg
+        speaker: Peter Rosberg
+        company: 'Ripple,'
+        title: Head of Carbon Markets
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
@@ -198,6 +199,10 @@ blocks:
         speaker: Ashish Sai
         company: 'Ecosensus,'
         title: Postdoctoral Researcher
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657720748/sustainable-blockchain/rim_oym0yb.png
+        speaker: Rim Jeong
+        company: Open Forest Protocol
     navigationLabel: Speakers
     _template: speakerCards
   - style:
