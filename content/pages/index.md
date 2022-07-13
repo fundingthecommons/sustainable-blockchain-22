@@ -330,7 +330,7 @@ blocks:
           - time: '11:00'
             headline: Putting Carbon On-Chain
             subhead: >-
-              Gregory Landua, Paul Gambill, Peter Rossberg, Raphael Benoi,
+              Gregory Landua, Paul Gambill, Peter Rossberg, Raphaël Haupt,
               Marcus Aurelius
           - time: '11:45'
             headline: Lunch
@@ -338,14 +338,14 @@ blocks:
             headline: Tokenized Carbon Roundtable
             subhead: >-
               Gregory Landua, Olya Irzak, Paul Gambill, Peter Rossberg, Phil
-              Fogel, Raphael Benoi, Rim Jeong, Sharfy Adamantine, James Farrell,
+              Fogel, Raphaël Haupt, Rim Jeong, Sharfy Adamantine, James Farrell,
               Marcus Aurelius, Kevin Owocki, Alex Paris, Hayley Moller, Marc
               Johnson
           - time: '14:00'
             headline: The Aeternals
             subhead: 'Lucia Gallardo, Shaun Kahn'
           - time: '14:20'
-            headline: 'owering Climate Action with NFTs: DigitalArt4Climate Case Study'
+            headline: 'Powering Climate Action with NFTs: DigitalArt4Climate Case Study'
             subhead: Irina Karagyaur
           - time: '14:40'
             headline: Circulor
