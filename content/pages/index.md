@@ -42,10 +42,9 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657719847/sustainable-blockchain/Screen_Shot_2022-07-13_at_2.43.48_PM_wftkec.png
-        speaker: Brittany Kaiser
-        company: "Gryphon Mining,\t"
-        title: 'Chairman of the Board '
+          https://res.cloudinary.com/protocolai/image/upload/v1657720024/sustainable-blockchain/Screen_Shot_2022-07-13_at_2.46.43_PM_o4vs2w.png
+        speaker: "Irina\tKaragyaur"
+        company: Unique Network
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
@@ -111,6 +110,11 @@ blocks:
         speaker: Gregory Landua
         company: 'Regen Network,'
         title: Co-Founder
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657719847/sustainable-blockchain/Screen_Shot_2022-07-13_at_2.43.48_PM_wftkec.png
+        speaker: Brittany Kaiser
+        company: "Gryphon Mining,\t"
+        title: 'Chairman of the Board '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657177839/sustainable-blockchain/rmi-people-charles-cannon_orjjhy.jpg
         speaker: Charles Cannon
