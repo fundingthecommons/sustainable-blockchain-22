@@ -345,7 +345,7 @@ blocks:
             headline: The Aeternals
             subhead: 'Lucia Gallardo, Shaun Kahn'
           - time: '14:20'
-            headline: DigitalArt4Climate
+            headline: 'owering Climate Action with NFTs: DigitalArt4Climate Case Study'
             subhead: Irina Karagyaur
           - time: '14:40'
             headline: Circulor
