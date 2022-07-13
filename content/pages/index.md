@@ -273,7 +273,7 @@ blocks:
     headline: Event Schedule
     body: ''
     schedules:
-      - headline: 'Day 1, Forest Track'
+      - headline: 'Day 1, Auditorium'
         subhead: 'Friday, July 22nd'
         body: ''
         events:
@@ -323,7 +323,7 @@ blocks:
             subhead: 'Juan Benet, Kevin Owocki, Gloria Kimbwala, Alan Ransil'
           - time: '16:45'
             headline: Reception
-      - headline: 'Day 1, Ocean Track'
+      - headline: 'Day 1, Atelier'
         subhead: 'Friday, July 22nd'
         body: ''
         events:
@@ -359,7 +359,7 @@ blocks:
           - time: '15:40'
             headline: Examining the App/Infrastructure Cycle of ReFi
             subhead: Harrison Dahme
-      - headline: 'Day 2, Forest Track'
+      - headline: 'Day 2, Auditorium'
         subhead: 'Saturday, July 23rd'
         body: ''
         events:
@@ -407,7 +407,7 @@ blocks:
             subhead: Gregory Landua
           - time: '17:10'
             headline: Reception
-      - headline: 'Day 2, Ocean Track'
+      - headline: 'Day 2, Atelier'
         subhead: 'Saturday, July 23rd'
         body: ''
         events:
