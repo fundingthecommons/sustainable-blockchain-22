@@ -42,10 +42,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657719395/sustainable-blockchain/ashish_squx3s.jpg
-        speaker: Ashish Sai
-        company: 'Ecosensus,'
-        title: Postdoctoral Researcher
+          https://res.cloudinary.com/protocolai/image/upload/v1657719516/sustainable-blockchain/beltran_yzcn3d.jpg
+        speaker: Beltran Berrocal
+        company: 'Zero Labs, '
+        title: Co-founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
@@ -176,6 +176,11 @@ blocks:
         speaker: Marcus Aurelius
         company: Klima DAO
         title: ''
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657719395/sustainable-blockchain/ashish_squx3s.jpg
+        speaker: Ashish Sai
+        company: 'Ecosensus,'
+        title: Postdoctoral Researcher
     navigationLabel: Speakers
     _template: speakerCards
   - style:
