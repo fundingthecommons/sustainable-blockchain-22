@@ -42,9 +42,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657719665/sustainable-blockchain/Screen_Shot_2022-07-13_at_2.40.53_PM_t72glh.png
-        speaker: Ashley Taylor Buck
-        company: ReSource
+          https://res.cloudinary.com/protocolai/image/upload/v1657719847/sustainable-blockchain/Screen_Shot_2022-07-13_at_2.43.48_PM_wftkec.png
+        speaker: Brittany Kaiser
+        company: "Gryphon Mining,\t"
+        title: 'Chairman of the Board '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
@@ -180,6 +181,10 @@ blocks:
         speaker: Beltran Berrocal
         company: 'Zero Labs, '
         title: Co-founder
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657719665/sustainable-blockchain/Screen_Shot_2022-07-13_at_2.40.53_PM_t72glh.png
+        speaker: Ashley Taylor Buck
+        company: ReSource
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657719395/sustainable-blockchain/ashish_squx3s.jpg
         speaker: Ashish Sai
