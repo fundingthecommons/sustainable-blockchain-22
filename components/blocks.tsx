@@ -7,6 +7,7 @@ import { Embed } from "./blocks/embed";
 import { TailwindFeature } from "./blocks/tailwind-feature";
 import { TailwindCards } from "./blocks/tailwind-cards";
 import { SpeakerCards } from "./blocks/speaker-cards";
+import { Schedule } from "./blocks/schedule";
 
 export const Blocks = (props: Pages | Global) => {
   return (
@@ -67,6 +68,12 @@ export const Blocks = (props: Pages | Global) => {
                 return (
                   <div data-tinafield={`blocks.${i}`} key={i + block.__typename}>
                     <SpeakerCards data={block} parentField={`blocks.${i}`} />
+                  </div>
+                );
+              case "PagesBlocksSchedule":
+                return (
+                  <div data-tinafield={`blocks.${i}`} key={i + block.__typename}>
+                    <Schedule data={block} parentField={`blocks.${i}`} />
                   </div>
                 );
               default:

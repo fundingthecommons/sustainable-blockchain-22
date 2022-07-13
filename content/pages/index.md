@@ -246,7 +246,7 @@ blocks:
   - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
       featureContent: 'w-full min-h-0 '
-      padding: 'pt-0 pb-20 pr-20 pl-20 sm:pt-0 sm:pb-10 sm:pr-10 sm:pl-10'
+      padding: 'pt-0 pb-0 pr-20 pl-20 sm:pt-0 sm:pb-10 sm:pr-10 sm:pl-10'
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-sm mb-0 '
@@ -263,6 +263,200 @@ blocks:
         link: 'https://protocollabs.typeform.com/SBSParisSponsor'
         type: primary
     _template: feature
+  - style:
+      labelStyles: 'undefined undefined undefined undefined '
+      headlineStyles: text-primary undefined text-5xl mb-10 font-bold
+      subheadStyles: 'undefined undefined undefined undefined '
+      textStyles: 'undefined undefined undefined undefined '
+    background:
+      fillStyles: bg-white
+    headline: Event Schedule
+    body: ''
+    schedules:
+      - headline: 'Day 1, Forest Track'
+        subhead: 'Friday, July 22nd'
+        body: ''
+        events:
+          - time: '9:00'
+            headline: Breakfast
+            subhead: ''
+          - time: '10:00'
+            headline: Opening Keynote
+            subhead: Alan Ransil
+          - time: '10:30'
+            headline: Sustainable Blockchain Hackathon Recap
+            subhead: Orinayo Ayodele
+          - time: '11:00'
+            headline: RMI Horizon Zero
+            subhead: Charles Cannon and Linda Jirouskova
+          - time: '11:30'
+            headline: UN Innovation Hub
+            subhead: Alex Paris
+          - time: '12:00'
+            headline: Lunch
+            subhead: ''
+          - time: '13:00'
+            headline: >-
+              Unlocking the next wave of institutional Bitcoin adoption by
+              creating "Proof of Sustainable Mining"
+            subhead: Brad Van Voorhees
+          - time: '13:30'
+            headline: Can crypto bridge the ESG gap?
+            subhead: >-
+              Michael Kisselgoff, Almudena de la Mata, Brittany Kaiser, Jonathan
+              Rackoff
+          - time: '14:15'
+            headline: 'Decarbonizing Crypto: Towards Practical Solutions'
+            subhead: Kirsteen Harrison
+          - time: '14:45'
+            headline: >-
+              The blockchain inflection point: carbon emissions and consensus
+              mechanisms
+            subhead: >-
+              Steven Haft, Austin Federa, Brad Van Voorhees, Troy Cross, Alexi
+              Anania
+          - time: '15:30'
+            headline: Public Goods
+            subhead: Juan Benet
+          - time: '16:00'
+            headline: The Planet is a Public Good
+            subhead: 'Juan Benet, Kevin Owocki, Gloria Kimbwala, Alan Ransil'
+          - time: '16:45'
+            headline: Reception
+      - headline: 'Day 1, Ocean Track'
+        subhead: 'Friday, July 22nd'
+        body: ''
+        events:
+          - time: '11:00'
+            headline: Putting Carbon On-Chain
+            subhead: >-
+              Gregory Landua, Paul Gambill, Peter Rossberg, Raphael Benoi,
+              Marcus Aurelius
+          - time: '11:45'
+            headline: Lunch
+          - time: '12:30'
+            headline: Tokenized Carbon Roundtable
+            subhead: >-
+              Gregory Landua, Olya Irzak, Paul Gambill, Peter Rossberg, Phil
+              Fogel, Raphael Benoi, Rim Jeong, Sharfy Adamantine, James Farrell,
+              Marcus Aurelius, Kevin Owocki, Alex Paris, Hayley Moller, Marc
+              Johnson
+          - time: '14:00'
+            headline: The Aeternals
+            subhead: 'Lucia Gallardo, Shaun Kahn'
+          - time: '14:20'
+            headline: 'owering Climate Action with NFTs: DigitalArt4Climate Case Study'
+            subhead: Irina Karagyaur
+          - time: '14:40'
+            headline: Circulor
+            subhead: Luise Muller-Hofstede
+          - time: '15:00'
+            headline: 'MRV: How to Unlock ReFi for People and Planet'
+            subhead: John Ellison
+          - time: '15:20'
+            headline: Good Derivatives
+            subhead: Billy Welch
+          - time: '15:40'
+            headline: Examining the App/Infrastructure Cycle of ReFi
+            subhead: Harrison Dahme
+      - headline: 'Day 2, Forest Track'
+        subhead: 'Saturday, July 23rd'
+        body: ''
+        events:
+          - time: '9:00'
+            headline: Breakfast
+          - time: '10:00'
+            headline: Hedera
+            subhead: Wes Geisenberger
+          - time: '10:30'
+            headline: How to match Degens & Regens
+            subhead: Paula Palermo
+          - time: '11:00'
+            headline: Gainforest
+            subhead: Sharfy Adamantine
+          - time: '11:30'
+            headline: Klima DAO
+            subhead: Marcus Aurelius
+          - time: '12:30'
+            headline: Lunch
+          - time: '13:15'
+            headline: >-
+              Powering sustainability in every respect: carbon neutrality,
+              diversity and accessible inclusion 
+          - time: '14:00'
+            headline: 'Digiconimist '
+            subhead: Alex DeVries
+          - time: '14:30'
+            headline: 'W3RE: Web3Renewables'
+            subhead: ZamZam Musse
+          - time: '15:00'
+            headline: >-
+              Blockchain will catalyze clean grid tech for future generations.
+              True or false?
+            subhead: 'Susanna Enso Huang, Alex DeVries, Marc Johnson'
+          - time: '15:40'
+            headline: Hackathon Finale
+            subhead: >-
+              Orinayo Ayodele, Momcilo Dzunic, Jenks Guo, Alex Paris, Ale Borda,
+              Bernhard Borges 
+          - time: '16:40'
+            headline: Closing Keynote
+            subhead: Gregory Landua
+          - time: '17:10'
+            headline: Reception
+      - headline: 'Day 2, Ocean Track'
+        subhead: 'Saturday, July 23rd'
+        body: ''
+        events:
+          - time: '10:00'
+            headline: Zero Labs
+            subhead: Beltran Berrocal
+          - time: '10:20'
+            headline: >-
+              Promoting rigor in Blockchain's energy and environmental footprint
+              research
+            subhead: Ashish Sai
+          - time: '10:40'
+            headline: Frost Methane Labs
+            subhead: Olya Irzak
+          - time: '11:00'
+            headline: WeatherXM - The value of weather observations
+            subhead: 'Stavros Keppas, John Pagonis'
+          - time: '11:20'
+            headline: Why The World Needs Decentralized MRV
+            subhead: Rim Jeong
+          - time: '11:40'
+            headline: Toucan Workshop
+          - time: '12:10'
+            headline: Toucan Workshop
+          - time: '12:55'
+            headline: >-
+              Sustainability Drivers: How do capitalist incentives and
+              democratized Web3 co-exist?
+            subhead: >-
+              Lucia Gallardo, Alex Altman, Hayley Moller, Sharfy Adamantine,
+              Lauren Luz
+          - time: '13:40'
+            headline: Draft Ventures
+            subhead: David Rodriguez
+          - time: '14:00'
+            headline: >-
+              Leaving the Casino Laboratory Behind: A Framework to Support the
+              Emergence of ReFi 
+            subhead: Ashley Taylor Buck
+          - time: '14:20'
+            headline: Solana
+            subhead: Austin Federa
+          - time: '14:40'
+            headline: Building Data Infrastructure to Scale Regenerative Finance
+            subhead: 'Sid Jha '
+          - time: '15:00'
+            headline: 'Giveth '
+            subhead: Griff Green
+          - time: '15:20'
+            headline: How Tokenization can protect and conserve Biodiversity?
+            subhead: Boone Bergsma
+    _template: schedule
   - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
       featureContent: 'w-4/5 min-h-0 '

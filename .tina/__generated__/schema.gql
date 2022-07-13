@@ -1103,7 +1103,57 @@ type PagesBlocksSpeakerCards {
   navigationLabel: String
 }
 
-union PagesBlocks = PagesBlocksFeature | PagesBlocksPhotoCards | PagesBlocksTextCards | PagesBlocksBanner | PagesBlocksEmbed | PagesBlocksTailwindFeature | PagesBlocksTailwindCards | PagesBlocksSpeakerCards
+type PagesBlocksScheduleStyle {
+  labelStyles: String
+  headlineStyles: String
+  subheadStyles: String
+  textStyles: String
+}
+
+type PagesBlocksScheduleBackgroundOrnaments {
+  src: String
+  alignment: String
+  width: String
+  height: String
+  xOffset: String
+  yOffset: String
+}
+
+type PagesBlocksScheduleBackground {
+  fillStyles: String
+  src: String
+  position: String
+  ornaments: [PagesBlocksScheduleBackgroundOrnaments]
+}
+
+type PagesBlocksScheduleSchedulesEvents {
+  time: String
+  headline: String
+  subhead: String
+}
+
+type PagesBlocksScheduleSchedules {
+  label: String
+  headline: String
+  subhead: String
+  body: JSON
+  events: [PagesBlocksScheduleSchedulesEvents]
+}
+
+type PagesBlocksSchedule {
+  style: PagesBlocksScheduleStyle
+  background: PagesBlocksScheduleBackground
+  rule: String
+  label: String
+  headline: String
+  subhead: String
+  body: JSON
+  schedules: [PagesBlocksScheduleSchedules]
+  rule2: String
+  navigationLabel: String
+}
+
+union PagesBlocks = PagesBlocksFeature | PagesBlocksPhotoCards | PagesBlocksTextCards | PagesBlocksBanner | PagesBlocksEmbed | PagesBlocksTailwindFeature | PagesBlocksTailwindCards | PagesBlocksSpeakerCards | PagesBlocksSchedule
 
 type PagesMeta {
   pageTitle: String
@@ -2164,6 +2214,56 @@ input PagesBlocksSpeakerCardsMutation {
   navigationLabel: String
 }
 
+input PagesBlocksScheduleStyleMutation {
+  labelStyles: String
+  headlineStyles: String
+  subheadStyles: String
+  textStyles: String
+}
+
+input PagesBlocksScheduleBackgroundOrnamentsMutation {
+  src: String
+  alignment: String
+  width: String
+  height: String
+  xOffset: String
+  yOffset: String
+}
+
+input PagesBlocksScheduleBackgroundMutation {
+  fillStyles: String
+  src: String
+  position: String
+  ornaments: [PagesBlocksScheduleBackgroundOrnamentsMutation]
+}
+
+input PagesBlocksScheduleSchedulesEventsMutation {
+  time: String
+  headline: String
+  subhead: String
+}
+
+input PagesBlocksScheduleSchedulesMutation {
+  label: String
+  headline: String
+  subhead: String
+  body: JSON
+  events: [PagesBlocksScheduleSchedulesEventsMutation]
+}
+
+input PagesBlocksScheduleMutation {
+  style: PagesBlocksScheduleStyleMutation
+  background: PagesBlocksScheduleBackgroundMutation
+  rule: String
+  label: String
+  headline: String
+  subhead: String
+  body: JSON
+  schedules: [PagesBlocksScheduleSchedulesMutation]
+  rule2: String
+  navigationLabel: String
+}
+
 input PagesBlocksMutation {
   feature: PagesBlocksFeatureMutation
   photoCards: PagesBlocksPhotoCardsMutation
@@ -2173,6 +2273,7 @@ input PagesBlocksMutation {
   tailwindFeature: PagesBlocksTailwindFeatureMutation
   tailwindCards: PagesBlocksTailwindCardsMutation
   speakerCards: PagesBlocksSpeakerCardsMutation
+  schedule: PagesBlocksScheduleMutation
 }
 
 input PagesMetaMutation {
