@@ -500,6 +500,7 @@ blocks:
           - time: '15:20'
             headline: How Tokenization can protect and conserve Biodiversity?
             subhead: Boone Bergsma
+    navigationLabel: Schedule
     _template: schedule
   - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
