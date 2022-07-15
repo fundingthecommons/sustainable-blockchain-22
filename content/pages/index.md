@@ -107,6 +107,11 @@ blocks:
         company: 'Regen Network,'
         title: Co-Founder
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657719847/sustainable-blockchain/Screen_Shot_2022-07-13_at_2.43.48_PM_wftkec.png
+        speaker: Brittany Kaiser
+        company: "Gryphon Mining,\t"
+        title: 'Chairman of the Board '
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657177839/sustainable-blockchain/rmi-people-charles-cannon_orjjhy.jpg
         speaker: Charles Cannon
         company: 'Horizon Zero,'
@@ -116,6 +121,11 @@ blocks:
         speaker: Marc Johnson
         company: 'Filecoin Green,'
         title: Environmental Solutions Architect
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657720814/sustainable-blockchain/prosberg-headshot_qxqr7q.jpg
+        speaker: Peter Rosberg
+        company: 'Ripple,'
+        title: Head of Carbon Markets
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657177834/sustainable-blockchain/Phil_Fogel_BoredApe-1_yimbgc.png
         speaker: Phil Fogel
@@ -162,15 +172,50 @@ blocks:
         company: 'Impacta Finance,'
         title: Co-founder
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657723666/sustainable-blockchain/Screen_Shot_2022-07-13_at_3.47.00_PM_y0l29n.png
+        speaker: Brad van Voorhees
+        company: Sustainable Bitcoin Protocol
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657720748/sustainable-blockchain/rim_oym0yb.png
+        speaker: Rim Jeong
+        company: Open Forest Protocol
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657720024/sustainable-blockchain/Screen_Shot_2022-07-13_at_2.46.43_PM_o4vs2w.png
+        speaker: "Irina\tKaragyaur"
+        company: Unique Network
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657719516/sustainable-blockchain/beltran_yzcn3d.jpg
+        speaker: Beltran Berrocal
+        company: 'Zero Labs, '
+        title: Co-founder
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657719665/sustainable-blockchain/Screen_Shot_2022-07-13_at_2.40.53_PM_t72glh.png
+        speaker: Ashley Taylor Buck
+        company: ReSource
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657723812/sustainable-blockchain/Screen_Shot_2022-07-13_at_3.49.42_PM_nknqys.png
+        speaker: Alex Altman
+        company: "Seal Storage Technology,\t"
+        title: COO
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657314434/sustainable-blockchain/Screen_Shot_2022-07-08_at_2.06.49_PM_u5zn1o.png
         speaker: Susanna Enso Huang
         company: SunSpec Alliance
         title: ''
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657719395/sustainable-blockchain/ashish_squx3s.jpg
+        speaker: Ashish Sai
+        company: 'Ecosensus,'
+        title: Postdoctoral Researcher
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657313889/sustainable-blockchain/karenaurelius_chvbde.png
         speaker: Marcus Aurelius
         company: Klima DAO
         title: ''
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657874600/sustainable-blockchain/Screen_Shot_2022-07-15_at_9.42.56_AM_fzmdm3.png
+        speaker: Stavros Keppas
+        company: Weather XM
     navigationLabel: Speakers
     _template: speakerCards
   - style:
@@ -287,7 +332,9 @@ blocks:
             headline: Sustainable Blockchain Hackathon Recap
             subhead: Orinayo Ayodele
           - time: '11:00'
-            headline: RMI Horizon Zero
+            headline: >-
+              Decarbonizing Supply Chains: Web3's Role in Modern Carbon
+              Accounting​
             subhead: Charles Cannon and Linda Jirouskova
           - time: '11:30'
             headline: UN Innovation Hub
@@ -459,6 +506,7 @@ blocks:
           - time: '15:20'
             headline: How Tokenization can protect and conserve Biodiversity?
             subhead: Boone Bergsma
+    navigationLabel: Schedule
     _template: schedule
   - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
