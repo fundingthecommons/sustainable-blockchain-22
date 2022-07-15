@@ -328,7 +328,9 @@ blocks:
             headline: Sustainable Blockchain Hackathon Recap
             subhead: Orinayo Ayodele
           - time: '11:00'
-            headline: RMI Horizon Zero
+            headline: >-
+              Decarbonizing Supply Chains: Web3's Role in Modern Carbon
+              Accounting​
             subhead: Charles Cannon and Linda Jirouskova
           - time: '11:30'
             headline: UN Innovation Hub
