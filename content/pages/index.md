@@ -42,10 +42,9 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657723812/sustainable-blockchain/Screen_Shot_2022-07-13_at_3.49.42_PM_nknqys.png
-        speaker: Alex Altman
-        company: "Seal Storage Technology,\t"
-        title: COO
+          https://res.cloudinary.com/protocolai/image/upload/v1657874600/sustainable-blockchain/Screen_Shot_2022-07-15_at_9.42.56_AM_fzmdm3.png
+        speaker: Stavros Keppas
+        company: Weather XM
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
@@ -212,6 +211,11 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1657720748/sustainable-blockchain/rim_oym0yb.png
         speaker: Rim Jeong
         company: Open Forest Protocol
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657723812/sustainable-blockchain/Screen_Shot_2022-07-13_at_3.49.42_PM_nknqys.png
+        speaker: Alex Altman
+        company: "Seal Storage Technology,\t"
+        title: COO
     navigationLabel: Speakers
     _template: speakerCards
   - style:
