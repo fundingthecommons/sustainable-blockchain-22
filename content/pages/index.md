@@ -42,6 +42,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658007912/sustainable-blockchain/Screen_Shot_2022-07-16_at_11.44.24_PM_vvpcjf.png
+        speaker: Ikarus Janzen
+        company: 'Climate Collective,'
+        title: Regenerative Finance Ambassador
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
         company: 'Protocol Labs,'
