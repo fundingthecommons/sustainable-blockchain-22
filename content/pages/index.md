@@ -402,7 +402,7 @@ blocks:
           - time: '12:30'
             headline: Tokenized Carbon Roundtable
             subhead: >-
-              Gregory Landua, Olya Irzak, Paul Gambill, Peter Rossberg, Phil
+              Gregory Landua, Olya Irzak, Paul Gambill, Peter Rosberg, Phil
               Fogel, Raphaël Haupt, Rim Jeong, Sharfy Adamantine, James Farrell,
               Marcus Aurelius, Kevin Owocki, Alex Paris, Hayley Moller, Marc
               Johnson
