@@ -42,11 +42,6 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657998732/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.11.45_PM_acvvpe.png
-        speaker: "Sharfy\tAdamantine"
-        company: 'Gainforest,'
-        title: Co-founder
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
         company: 'Protocol Labs,'
@@ -221,6 +216,11 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1657874600/sustainable-blockchain/Screen_Shot_2022-07-15_at_9.42.56_AM_fzmdm3.png
         speaker: Stavros Keppas
         company: Weather XM
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657998732/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.11.45_PM_acvvpe.png
+        speaker: "Sharfy\tAdamantine"
+        company: 'Gainforest,'
+        title: Co-founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657999144/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.18.24_PM_jpniau.png
         speaker: John Pagonis
