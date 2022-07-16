@@ -522,8 +522,10 @@ blocks:
             headline: 'Giveth '
             subhead: Griff Green
           - time: '15:20'
-            headline: How Tokenization can protect and conserve Biodiversity?
-            subhead: Boone Bergsma
+            headline: >-
+              Different forms of natural capital beyond carbon to enable nature
+              backed currencies
+            subhead: Ikarus Janzen
     navigationLabel: Schedule
     _template: schedule
   - style:
