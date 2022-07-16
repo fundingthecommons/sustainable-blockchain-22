@@ -42,9 +42,9 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657999009/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.15.30_PM_nkyjmz.png
-        speaker: John Ellison
-        company: ReFi DAO
+          https://res.cloudinary.com/protocolai/image/upload/v1657999144/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.18.24_PM_jpniau.png
+        speaker: John Pagonis
+        company: Weather XM
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657998732/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.11.45_PM_acvvpe.png
         speaker: "Sharfy\tAdamantine"
@@ -230,6 +230,10 @@ blocks:
         speaker: Hayley Moller
         company: 'Thallo,'
         title: Head Of Marketing
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657999009/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.15.30_PM_nkyjmz.png
+        speaker: John Ellison
+        company: ReFi DAO
     navigationLabel: Speakers
     _template: speakerCards
   - style:
