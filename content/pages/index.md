@@ -400,7 +400,7 @@ blocks:
           - time: '11:45'
             headline: Lunch
           - time: '12:30'
-            headline: Tokenized Carbon Roundtable
+            headline: 'Tokenized Carbon Roundtable: Open to all'
             subhead: >-
               Gregory Landua, Olya Irzak, Paul Gambill, Peter Rosberg, Phil
               Fogel, Raphaël Haupt, Rim Jeong, Sharfy Adamantine, James Farrell,
