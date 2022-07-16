@@ -42,10 +42,6 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1657999144/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.18.24_PM_jpniau.png
-        speaker: John Pagonis
-        company: Weather XM
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657998732/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.11.45_PM_acvvpe.png
         speaker: "Sharfy\tAdamantine"
         company: 'Gainforest,'
@@ -224,6 +220,10 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657874600/sustainable-blockchain/Screen_Shot_2022-07-15_at_9.42.56_AM_fzmdm3.png
         speaker: Stavros Keppas
+        company: Weather XM
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657999144/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.18.24_PM_jpniau.png
+        speaker: John Pagonis
         company: Weather XM
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657998836/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.13.33_PM_y8bqgy.png
