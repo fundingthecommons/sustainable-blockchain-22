@@ -42,8 +42,8 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1658136275/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.23.57_AM_jpdy4q.png
-        speaker: Lauren Luz
+          https://res.cloudinary.com/protocolai/image/upload/v1658136354/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.25.11_AM_j49cf4.png
+        speaker: "Griff\tGreen"
         company: Giveth
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
@@ -247,6 +247,10 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1658136180/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.22.32_AM_zbqx7z.png
         speaker: "Wes\tGeisenberger"
         company: Hbar Foundation
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658136275/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.23.57_AM_jpdy4q.png
+        speaker: Lauren Luz
+        company: Giveth
     navigationLabel: Speakers
     _template: speakerCards
   - style:
