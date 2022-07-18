@@ -368,7 +368,7 @@ blocks:
             subhead: Orinayo Ayodele
           - time: '11:00'
             headline: >-
-              Decarbonizing Supply Chains: Web3's Role in Modern Carbon
+              Decarbonizing Supply Chains: Blockchain's Role in Advancing Carbon
               Accounting​
             subhead: Charles Cannon and Linda Jirouskova
           - time: '11:30'
