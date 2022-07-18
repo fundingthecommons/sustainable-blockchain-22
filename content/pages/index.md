@@ -459,9 +459,6 @@ blocks:
             headline: Gainforest
             subhead: Sharfy Adamantine
           - time: '11:30'
-            headline: Klima DAO
-            subhead: Marcus Aurelius
-          - time: '11:30'
             headline: ReFi - Green Pill Podcast Live Recording
             subhead: 'John Ellison, Kevin Owocki'
           - time: '12:30'
