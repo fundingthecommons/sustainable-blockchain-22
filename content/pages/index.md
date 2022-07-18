@@ -503,7 +503,7 @@ blocks:
             headline: Why The World Needs Decentralized MRV
             subhead: Rim Jeong
           - time: '11:40'
-            headline: Toucan Workshop
+            headline: Lunch
           - time: '12:10'
             headline: Toucan Workshop
           - time: '12:55'
