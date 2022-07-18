@@ -42,6 +42,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658136180/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.22.32_AM_zbqx7z.png
+        speaker: "Wes\tGeisenberger"
+        company: Hbar Foundation
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
         company: 'Protocol Labs,'
