@@ -453,9 +453,8 @@ blocks:
           - time: '12:30'
             headline: Lunch
           - time: '13:15'
-            headline: >-
-              Powering sustainability in every respect: carbon neutrality,
-              diversity and accessible inclusion 
+            headline: Why The World Needs Decentralized MRV
+            subhead: Rim Jeong
           - time: '14:00'
             headline: 'Digiconimist '
             subhead: Alex DeVries
