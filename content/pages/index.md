@@ -433,6 +433,9 @@ blocks:
         subhead: 'Saturday, July 23rd'
         body: ''
         events:
+          - time: '13:40'
+            headline: WeatherXM - The value of weather observations
+            subhead: 'Stavros Keppas, John Pagonis'
           - time: '9:00'
             headline: Breakfast
           - time: '10:00'
