@@ -512,7 +512,7 @@ blocks:
               democratized Web3 co-exist?
             subhead: >-
               Lucia Gallardo, Alex Altman, Hayley Moller, Sharfy Adamantine,
-              Lauren Luz
+              Lauren Luz, Nikos Kostopoulos
           - time: '13:40'
             headline: Draft Ventures
             subhead: David Rodriguez
