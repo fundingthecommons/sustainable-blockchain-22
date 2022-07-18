@@ -42,10 +42,6 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1658136354/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.25.11_AM_j49cf4.png
-        speaker: "Griff\tGreen"
-        company: Giveth
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
         company: 'Protocol Labs,'
@@ -250,6 +246,10 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1658136275/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.23.57_AM_jpdy4q.png
         speaker: Lauren Luz
+        company: Giveth
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658136354/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.25.11_AM_j49cf4.png
+        speaker: "Griff\tGreen"
         company: Giveth
     navigationLabel: Speakers
     _template: speakerCards
