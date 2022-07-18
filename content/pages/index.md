@@ -462,8 +462,8 @@ blocks:
             headline: Klima DAO
             subhead: Marcus Aurelius
           - time: '11:30'
-            headline: ReFi Podcast Live Recording
-            subhead: John Ellison
+            headline: ReFi - Green Pill Podcast Live Recording
+            subhead: 'John Ellison, Kevin Owocki'
           - time: '12:30'
             headline: Lunch
           - time: '13:15'
