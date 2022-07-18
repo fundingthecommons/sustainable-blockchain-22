@@ -216,6 +216,41 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1657874600/sustainable-blockchain/Screen_Shot_2022-07-15_at_9.42.56_AM_fzmdm3.png
         speaker: Stavros Keppas
         company: Weather XM
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657998732/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.11.45_PM_acvvpe.png
+        speaker: "Sharfy\tAdamantine"
+        company: 'Gainforest,'
+        title: Co-founder
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658007912/sustainable-blockchain/Screen_Shot_2022-07-16_at_11.44.24_PM_vvpcjf.png
+        speaker: Ikarus Janzen
+        company: 'Climate Collective,'
+        title: Regenerative Finance Ambassador
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657999144/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.18.24_PM_jpniau.png
+        speaker: John Pagonis
+        company: Weather XM
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657998836/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.13.33_PM_y8bqgy.png
+        speaker: Hayley Moller
+        company: 'Thallo,'
+        title: Head Of Marketing
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1657999009/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.15.30_PM_nkyjmz.png
+        speaker: John Ellison
+        company: ReFi DAO
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658136180/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.22.32_AM_zbqx7z.png
+        speaker: "Wes\tGeisenberger"
+        company: Hbar Foundation
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658136275/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.23.57_AM_jpdy4q.png
+        speaker: Lauren Luz
+        company: Giveth
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658136354/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.25.11_AM_j49cf4.png
+        speaker: "Griff\tGreen"
+        company: Giveth
     navigationLabel: Speakers
     _template: speakerCards
   - style:
@@ -350,8 +385,8 @@ blocks:
           - time: '13:30'
             headline: Can crypto bridge the ESG gap?
             subhead: >-
-              Michael Kisselgoff, Almudena de la Mata, Brittany Kaiser, Jonathan
-              Rackoff
+              Michael Kisselgoff, Almudena de la Mata, Slobodan Sudaric,
+              Brittany Kaiser, Jonathan Rackoff
           - time: '14:15'
             headline: 'Decarbonizing Crypto: Towards Practical Solutions'
             subhead: Kirsteen Harrison
@@ -382,15 +417,15 @@ blocks:
           - time: '11:45'
             headline: Lunch
           - time: '12:30'
-            headline: Tokenized Carbon Roundtable
+            headline: 'Tokenized Carbon Roundtable: Open to all'
             subhead: >-
-              Gregory Landua, Olya Irzak, Paul Gambill, Peter Rossberg, Phil
-              Fogel, Raphaël Haupt, Rim Jeong, Sharfy Adamantine, James Farrell,
-              Marcus Aurelius, Kevin Owocki, Alex Paris, Hayley Moller, Marc
-              Johnson
+              Gregory Landua, Olya Irzak, Paul Gambill, Hugh Salway, Peter
+              Rosberg, Phil Fogel, Raphaël Haupt, Rim Jeong, Sharfy Adamantine,
+              James Farrell, Marcus Aurelius, Kevin Owocki, Alex Paris, Hayley
+              Moller, Marc Johnson
           - time: '14:00'
             headline: The Aeternals
-            subhead: 'Lucia Gallardo, Shaun Kahn'
+            subhead: 'Lucia Gallardo, Shaun Khan'
           - time: '14:20'
             headline: 'Powering Climate Action with NFTs: DigitalArt4Climate Case Study'
             subhead: Irina Karagyaur
@@ -401,8 +436,10 @@ blocks:
             headline: 'MRV: How to Unlock ReFi for People and Planet'
             subhead: John Ellison
           - time: '15:20'
-            headline: Good Derivatives
-            subhead: Billy Welch
+            headline: >-
+              Different forms of natural capital beyond carbon to enable nature
+              backed currencies
+            subhead: Ikarus Janzen
           - time: '15:40'
             headline: Examining the App/Infrastructure Cycle of ReFi
             subhead: Harrison Dahme
@@ -422,17 +459,16 @@ blocks:
             headline: Gainforest
             subhead: Sharfy Adamantine
           - time: '11:30'
-            headline: Klima DAO
-            subhead: Marcus Aurelius
-          - time: '11:30'
-            headline: ReFi Podcast Live Recording
-            subhead: John Ellison
+            headline: ReFi - Green Pill Podcast Live Recording
+            subhead: 'John Ellison, Kevin Owocki'
           - time: '12:30'
             headline: Lunch
           - time: '13:15'
-            headline: >-
-              Powering sustainability in every respect: carbon neutrality,
-              diversity and accessible inclusion 
+            headline: Why The World Needs Decentralized MRV
+            subhead: Rim Jeong
+          - time: '13:40'
+            headline: WeatherXM - The value of weather observations
+            subhead: 'Stavros Keppas, John Pagonis'
           - time: '14:00'
             headline: 'Digiconimist '
             subhead: Alex DeVries
@@ -470,14 +506,13 @@ blocks:
             headline: Frost Methane Labs
             subhead: Olya Irzak
           - time: '11:00'
-            headline: WeatherXM - The value of weather observations
-            subhead: 'Stavros Keppas, John Pagonis'
-          - time: '11:20'
-            headline: Why The World Needs Decentralized MRV
-            subhead: Rim Jeong
+            headline: >-
+              Offsetting the Operational Carbon Emissions of Blockchains: a case
+              study of the Polygon PoS NEtwork
+            subhead: Marcus Aurelius
           - time: '11:40'
-            headline: Toucan Workshop
-          - time: '12:10'
+            headline: Lunch
+          - time: '12:25'
             headline: Toucan Workshop
           - time: '12:55'
             headline: >-
@@ -485,7 +520,7 @@ blocks:
               democratized Web3 co-exist?
             subhead: >-
               Lucia Gallardo, Alex Altman, Hayley Moller, Sharfy Adamantine,
-              Lauren Luz
+              Lauren Luz, Nikos Kostopoulos
           - time: '13:40'
             headline: Draft Ventures
             subhead: David Rodriguez
@@ -504,7 +539,9 @@ blocks:
             headline: 'Giveth '
             subhead: Griff Green
           - time: '15:20'
-            headline: How Tokenization can protect and conserve Biodiversity?
+            headline: >-
+              Different forms of natural capital beyond carbon to enable nature
+              backed currencies
             subhead: Boone Bergsma
     navigationLabel: Schedule
     _template: schedule
