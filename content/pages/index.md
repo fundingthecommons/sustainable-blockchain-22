@@ -501,12 +501,9 @@ blocks:
               Offsetting the Operational Carbon Emissions of Blockchains: a case
               study of the Polygon PoS NEtwork
             subhead: Marcus Aurelius
-          - time: ''
-            headline: ''
-            subhead: ''
           - time: '11:40'
             headline: Lunch
-          - time: '12:10'
+          - time: '12:25'
             headline: Toucan Workshop
           - time: '12:55'
             headline: >-
