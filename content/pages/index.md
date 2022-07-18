@@ -42,9 +42,9 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1658136180/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.22.32_AM_zbqx7z.png
-        speaker: "Wes\tGeisenberger"
-        company: Hbar Foundation
+          https://res.cloudinary.com/protocolai/image/upload/v1658136275/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.23.57_AM_jpdy4q.png
+        speaker: Lauren Luz
+        company: Giveth
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
@@ -243,6 +243,10 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1657999009/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.15.30_PM_nkyjmz.png
         speaker: John Ellison
         company: ReFi DAO
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658136180/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.22.32_AM_zbqx7z.png
+        speaker: "Wes\tGeisenberger"
+        company: Hbar Foundation
     navigationLabel: Speakers
     _template: speakerCards
   - style:
