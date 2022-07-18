@@ -373,8 +373,8 @@ blocks:
           - time: '13:30'
             headline: Can crypto bridge the ESG gap?
             subhead: >-
-              Michael Kisselgoff, Almudena de la Mata, Brittany Kaiser, Jonathan
-              Rackoff
+              Michael Kisselgoff, Almudena de la Mata, Slobodan Sudaric,
+              Brittany Kaiser, Jonathan Rackoff
           - time: '14:15'
             headline: 'Decarbonizing Crypto: Towards Practical Solutions'
             subhead: Kirsteen Harrison
