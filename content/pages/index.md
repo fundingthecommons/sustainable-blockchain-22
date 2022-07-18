@@ -501,9 +501,9 @@ blocks:
               Offsetting the Operational Carbon Emissions of Blockchains: a case
               study of the Polygon PoS NEtwork
             subhead: Marcus Aurelius
-          - time: '11:20'
-            headline: Why The World Needs Decentralized MRV
-            subhead: Rim Jeong
+          - time: ''
+            headline: ''
+            subhead: ''
           - time: '11:40'
             headline: Lunch
           - time: '12:10'
