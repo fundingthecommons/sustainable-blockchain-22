@@ -424,8 +424,10 @@ blocks:
             headline: 'MRV: How to Unlock ReFi for People and Planet'
             subhead: John Ellison
           - time: '15:20'
-            headline: Good Derivatives
-            subhead: Billy Welch
+            headline: >-
+              Different forms of natural capital beyond carbon to enable nature
+              backed currencies
+            subhead: Ikarus Janzen
           - time: '15:40'
             headline: Examining the App/Infrastructure Cycle of ReFi
             subhead: Harrison Dahme
