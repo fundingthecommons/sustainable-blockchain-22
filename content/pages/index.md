@@ -534,7 +534,7 @@ blocks:
             headline: >-
               Different forms of natural capital beyond carbon to enable nature
               backed currencies
-            subhead: Ikarus Janzen
+            subhead: Boone Bergsma
     navigationLabel: Schedule
     _template: schedule
   - style:
