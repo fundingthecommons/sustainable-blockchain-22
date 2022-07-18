@@ -497,8 +497,10 @@ blocks:
             headline: Frost Methane Labs
             subhead: Olya Irzak
           - time: '11:00'
-            headline: WeatherXM - The value of weather observations
-            subhead: 'Stavros Keppas, John Pagonis'
+            headline: >-
+              Offsetting the Operational Carbon Emissions of Blockchains: a case
+              study of the Polygon PoS NEtwork
+            subhead: Marcus Aurelius
           - time: '11:20'
             headline: Why The World Needs Decentralized MRV
             subhead: Rim Jeong
