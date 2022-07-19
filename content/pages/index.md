@@ -69,8 +69,8 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655486718/sustainable-blockchain/bio-jonathan-rackoff_ljdtqd.jpg
         speaker: Jonathan Rackoff
-        company: 'Formerly Coinbase,'
-        title: Sustainability & ESG
+        company: The HBAR Foundation
+        title: 'VP, Global Head of Policy '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416409/sustainable-blockchain/bio-austin_federa_rodxzj.jpg
         speaker: Austin Federa
