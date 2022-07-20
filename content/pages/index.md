@@ -405,7 +405,7 @@ blocks:
             subhead: 'Juan Benet, Kevin Owocki, Gloria Kimbwala, Alan Ransil'
           - time: '16:45'
             headline: Reception
-      - headline: 'Day 1, Atelier'
+      - headline: 'Day 1, Le Studio Design'
         subhead: 'Friday, July 22nd'
         body: ''
         events:
