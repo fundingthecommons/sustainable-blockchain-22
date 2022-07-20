@@ -467,8 +467,8 @@ blocks:
             headline: 'Digiconimist '
             subhead: Alex DeVries
           - time: '14:30'
-            headline: 'W3RE: Web3Renewables'
-            subhead: ZamZam Musse
+            headline: FlowCarbon
+            subhead: Phil Flogel
           - time: '15:00'
             headline: >-
               Blockchain will catalyze clean grid tech for future generations.
@@ -488,9 +488,6 @@ blocks:
         subhead: 'Saturday, July 23rd'
         body: ''
         events:
-          - time: '11:20'
-            headline: DoinGud
-            subhead: Manu Alzuru
           - time: '10:00'
             headline: Zero Labs
             subhead: Beltran Berrocal
@@ -507,6 +504,9 @@ blocks:
               Offsetting the Operational Carbon Emissions of Blockchains: a case
               study of the Polygon PoS Network
             subhead: Marcus Aurelius
+          - time: '11:20'
+            headline: DoinGud
+            subhead: Manu Alzuru
           - time: '11:40'
             headline: Lunch
           - time: '12:25'
