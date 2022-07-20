@@ -538,11 +538,6 @@ blocks:
           - time: '15:00'
             headline: 'Giveth '
             subhead: Griff Green
-          - time: '15:20'
-            headline: >-
-              Different forms of natural capital beyond carbon to enable nature
-              backed currencies
-            subhead: Boone Bergsma
     navigationLabel: Schedule
     _template: schedule
   - style:
