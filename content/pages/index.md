@@ -455,7 +455,7 @@ blocks:
             headline: Gainforest
             subhead: Sharfy Adamantine
           - time: '11:30'
-            headline: ReFi - Green Pill Podcast Live Recording
+            headline: Gitcoin & Green Pill on ReFi Podcast
             subhead: 'John Ellison, Kevin Owocki'
           - time: '12:30'
             headline: Lunch
