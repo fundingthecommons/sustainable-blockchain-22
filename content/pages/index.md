@@ -429,9 +429,6 @@ blocks:
           - time: '14:20'
             headline: 'Powering Climate Action with NFTs: DigitalArt4Climate Case Study'
             subhead: Irina Karagyaur
-          - time: '14:40'
-            headline: Circulor
-            subhead: Luise Muller-Hofstede
           - time: '15:00'
             headline: 'MRV: How to Unlock ReFi for People and Planet'
             subhead: John Ellison
@@ -440,9 +437,6 @@ blocks:
               Different forms of natural capital beyond carbon to enable nature
               backed currencies
             subhead: Ikarus Janzen
-          - time: '15:40'
-            headline: Examining the App/Infrastructure Cycle of ReFi
-            subhead: Harrison Dahme
       - headline: 'Day 2, Auditorium'
         subhead: 'Saturday, July 23rd'
         body: ''
