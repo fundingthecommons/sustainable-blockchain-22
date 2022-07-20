@@ -444,7 +444,9 @@ blocks:
           - time: '9:00'
             headline: Breakfast
           - time: '10:00'
-            headline: Hedera
+            headline: >-
+              Building Fully Auditable & Efficient Sustainability Markets on
+              Hedera
             subhead: Wes Geisenberger
           - time: '10:30'
             headline: How to match Degens & Regens
