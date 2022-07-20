@@ -502,7 +502,7 @@ blocks:
           - time: '11:00'
             headline: >-
               Offsetting the Operational Carbon Emissions of Blockchains: a case
-              study of the Polygon PoS NEtwork
+              study of the Polygon PoS Network
             subhead: Marcus Aurelius
           - time: '11:40'
             headline: Lunch
