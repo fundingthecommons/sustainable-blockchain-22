@@ -449,7 +449,7 @@ blocks:
               Hedera
             subhead: Wes Geisenberger
           - time: '10:30'
-            headline: How to match Degens & Regens
+            headline: How to Match Degens & Regens
             subhead: Paula Palermo
           - time: '11:00'
             headline: Gainforest
