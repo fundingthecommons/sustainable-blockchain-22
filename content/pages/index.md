@@ -490,7 +490,7 @@ blocks:
             subhead: Gregory Landua
           - time: '17:10'
             headline: Reception
-      - headline: 'Day 2, Atelier'
+      - headline: 'Day 2, Le Studio Design'
         subhead: 'Saturday, July 23rd'
         body: ''
         events:
