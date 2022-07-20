@@ -488,6 +488,9 @@ blocks:
         subhead: 'Saturday, July 23rd'
         body: ''
         events:
+          - time: '11:20'
+            headline: DoinGud
+            subhead: Manu Alzuru
           - time: '10:00'
             headline: Zero Labs
             subhead: Beltran Berrocal
