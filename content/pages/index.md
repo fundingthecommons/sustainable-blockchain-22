@@ -405,7 +405,7 @@ blocks:
             subhead: 'Juan Benet, Kevin Owocki, Gloria Kimbwala, Alan Ransil'
           - time: '16:45'
             headline: Reception
-      - headline: 'Day 1, Atelier'
+      - headline: 'Day 1, Le Studio Design'
         subhead: 'Friday, July 22nd'
         body: ''
         events:
@@ -429,9 +429,6 @@ blocks:
           - time: '14:20'
             headline: 'Powering Climate Action with NFTs: DigitalArt4Climate Case Study'
             subhead: Irina Karagyaur
-          - time: '14:40'
-            headline: Circulor
-            subhead: Luise Muller-Hofstede
           - time: '15:00'
             headline: 'MRV: How to Unlock ReFi for People and Planet'
             subhead: John Ellison
@@ -440,9 +437,6 @@ blocks:
               Different forms of natural capital beyond carbon to enable nature
               backed currencies
             subhead: Ikarus Janzen
-          - time: '15:40'
-            headline: Examining the App/Infrastructure Cycle of ReFi
-            subhead: Harrison Dahme
       - headline: 'Day 2, Auditorium'
         subhead: 'Saturday, July 23rd'
         body: ''
@@ -450,10 +444,12 @@ blocks:
           - time: '9:00'
             headline: Breakfast
           - time: '10:00'
-            headline: Hedera
+            headline: >-
+              Building Fully Auditable & Efficient Sustainability Markets on
+              Hedera
             subhead: Wes Geisenberger
           - time: '10:30'
-            headline: How to match Degens & Regens
+            headline: How to Match Degens & Regens
             subhead: Paula Palermo
           - time: '11:00'
             headline: Gainforest
@@ -473,8 +469,8 @@ blocks:
             headline: 'Digiconimist '
             subhead: Alex DeVries
           - time: '14:30'
-            headline: 'W3RE: Web3Renewables'
-            subhead: ZamZam Musse
+            headline: FlowCarbon
+            subhead: Phil Flogel
           - time: '15:00'
             headline: >-
               Blockchain will catalyze clean grid tech for future generations.
@@ -490,7 +486,7 @@ blocks:
             subhead: Gregory Landua
           - time: '17:10'
             headline: Reception
-      - headline: 'Day 2, Atelier'
+      - headline: 'Day 2, Le Studio Design'
         subhead: 'Saturday, July 23rd'
         body: ''
         events:
@@ -508,8 +504,11 @@ blocks:
           - time: '11:00'
             headline: >-
               Offsetting the Operational Carbon Emissions of Blockchains: a case
-              study of the Polygon PoS NEtwork
+              study of the Polygon PoS Network
             subhead: Marcus Aurelius
+          - time: '11:20'
+            headline: DoinGud
+            subhead: Manu Alzuru
           - time: '11:40'
             headline: Lunch
           - time: '12:25'
@@ -538,11 +537,6 @@ blocks:
           - time: '15:00'
             headline: 'Giveth '
             subhead: Griff Green
-          - time: '15:20'
-            headline: >-
-              Different forms of natural capital beyond carbon to enable nature
-              backed currencies
-            subhead: Boone Bergsma
     navigationLabel: Schedule
     _template: schedule
   - style:
