@@ -425,10 +425,13 @@ blocks:
               Moller, Marc Johnson
           - time: '14:00'
             headline: 'The Æternals: A New Generation of NFTs for Good'
-            subhead: 'Lucia Gallardo, Shaun Khan'
+            subhead: Lucia Gallardo
           - time: '14:20'
             headline: 'Powering Climate Action with NFTs: DigitalArt4Climate Case Study'
             subhead: Irina Karagyaur
+          - time: '14:40'
+            headline: Senken - A Regenerative Finance Platform
+            subhead: Adrian Wons
           - time: '15:00'
             headline: 'MRV: How to Unlock ReFi for People and Planet'
             subhead: John Ellison
