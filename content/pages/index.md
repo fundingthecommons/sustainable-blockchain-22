@@ -499,7 +499,7 @@ blocks:
               research
             subhead: Ashish Sai
           - time: '10:40'
-            headline: Frost Methane Labs
+            headline: How To Be a Good Grid Citizen
             subhead: Olya Irzak
           - time: '11:00'
             headline: >-
