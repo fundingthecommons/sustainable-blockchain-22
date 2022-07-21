@@ -42,10 +42,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1658386278/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.35.27_AM_pg1scm.png
-        speaker: Adrian Wons
-        company: 'Senken, '
-        title: 'CEO & Co-founder '
+          https://res.cloudinary.com/protocolai/image/upload/v1658386397/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.52.52_AM_dg1pvp.png
+        speaker: Zam Zam Musse
+        company: "Xcel Energy,\t"
+        title: Senior Project Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
@@ -256,6 +256,11 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1658136354/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.25.11_AM_j49cf4.png
         speaker: "Griff\tGreen"
         company: Giveth
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658386278/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.35.27_AM_pg1scm.png
+        speaker: Adrian Wons
+        company: 'Senken, '
+        title: 'CEO & Co-founder '
     navigationLabel: Speakers
     _template: speakerCards
   - style:
