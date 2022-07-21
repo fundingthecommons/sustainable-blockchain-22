@@ -424,7 +424,7 @@ blocks:
               James Farrell, Marcus Aurelius, Kevin Owocki, Alex Paris, Hayley
               Moller, Marc Johnson
           - time: '14:00'
-            headline: The Aeternals
+            headline: 'The Æternals: A New Generation of NFTs for Good'
             subhead: 'Lucia Gallardo, Shaun Khan'
           - time: '14:20'
             headline: 'Powering Climate Action with NFTs: DigitalArt4Climate Case Study'
