@@ -557,7 +557,7 @@ blocks:
               Emergence of ReFi 
             subhead: Ashley Taylor Buck
           - time: '14:20'
-            headline: Solana
+            headline: 'Beyond Offsets: Making an Impact '
             subhead: Austin Federa
           - time: '14:40'
             headline: Building Data Infrastructure to Scale Regenerative Finance
