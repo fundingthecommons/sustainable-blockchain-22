@@ -417,8 +417,8 @@ blocks:
             subhead: Kirsteen Harrison
           - time: '14:45'
             headline: >-
-              The blockchain inflection point: carbon emissions and consensus
-              mechanisms
+              The Blockchain Inflection Point: Carbon Emissions and Consensus
+              Mechanisms
             subhead: >-
               Steven Haft, Austin Federa, Brad Van Voorhees, Troy Cross, Alexi
               Anania
