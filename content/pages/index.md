@@ -480,7 +480,7 @@ blocks:
             headline: How to Match Degens & Regens
             subhead: Paula Palermo
           - time: '11:00'
-            headline: Gainforest
+            headline: Gainforest - Radical Transparency
             subhead: Sharfy Adamantine
           - time: '11:30'
             headline: Gitcoin & Green Pill on ReFi Podcast
@@ -494,7 +494,7 @@ blocks:
             headline: WeatherXM - The value of weather observations
             subhead: 'Stavros Keppas, John Pagonis'
           - time: '14:00'
-            headline: 'Digiconimist '
+            headline: Building a sustainable Web3
             subhead: Alex DeVries
           - time: '14:30'
             headline: FlowCarbon
@@ -519,7 +519,7 @@ blocks:
         body: ''
         events:
           - time: '10:00'
-            headline: Zero Labs
+            headline: Embedding Renewable Energy everywhere
             subhead: Beltran Berrocal
           - time: '10:20'
             headline: >-
