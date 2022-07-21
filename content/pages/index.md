@@ -42,10 +42,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1658386508/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.54.26_AM_z0odsf.png
-        speaker: Alex DeVries
-        company: 'Digiconomist,'
-        title: Founder
+          https://res.cloudinary.com/protocolai/image/upload/v1658386672/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.56.24_AM_imzxgm.png
+        speaker: Steven Haft
+        company: "Consensys,\t"
+        title: Head of Partnerships
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
@@ -266,6 +266,11 @@ blocks:
         speaker: Zam Zam Musse
         company: "Xcel Energy,\t"
         title: Senior Project Manager
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658386508/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.54.26_AM_z0odsf.png
+        speaker: Alex DeVries
+        company: 'Digiconomist,'
+        title: Founder
     navigationLabel: Speakers
     _template: speakerCards
   - style:
