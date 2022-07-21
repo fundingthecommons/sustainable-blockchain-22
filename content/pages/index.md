@@ -41,7 +41,9 @@ blocks:
     subhead: Our speakers are builders
     body: ''
     cards:
-      - speaker: Adrian Wons
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658386278/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.35.27_AM_pg1scm.png
+        speaker: Adrian Wons
         company: 'Senken, '
         title: 'CEO & Co-founder '
       - imageSrc: >-
