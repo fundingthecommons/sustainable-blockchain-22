@@ -397,7 +397,7 @@ blocks:
               Accounting​
             subhead: Charles Cannon and Linda Jirouskova
           - time: '11:30'
-            headline: UN Innovation Hub
+            headline: UN Climate Change Global Innovation Hub
             subhead: Alex Paris
           - time: '12:00'
             headline: Lunch
