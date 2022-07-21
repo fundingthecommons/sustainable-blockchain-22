@@ -42,11 +42,6 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1658386719/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
-        speaker: Kirsteen Harrison
-        company: Zumo
-        title: 'Adviser to the Board '
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
         company: 'Protocol Labs,'
@@ -271,6 +266,11 @@ blocks:
         speaker: Alex DeVries
         company: 'Digiconomist,'
         title: Founder
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658386719/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
+        speaker: Kirsteen Harrison
+        company: Zumo
+        title: 'Adviser to the Board '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1658386672/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.56.24_AM_imzxgm.png
         speaker: Steven Haft
