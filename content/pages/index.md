@@ -444,10 +444,10 @@ blocks:
           - time: '12:30'
             headline: 'Tokenized Carbon Roundtable: Open to all'
             subhead: >-
-              Gregory Landua, Olya Irzak, Paul Gambill, Hugh Salway, Peter
-              Rosberg, Phil Fogel, Raphaël Haupt, Rim Jeong, Sharfy Adamantine,
-              James Farrell, Marcus Aurelius, Kevin Owocki, Alex Paris, Hayley
-              Moller, Marc Johnson
+              Gregory Landua, Olya Irzak, Paul Gambill, Peter Rosberg, Phil
+              Fogel, Raphaël Haupt, Rim Jeong, Sharfy Adamantine, James Farrell,
+              Marcus Aurelius, Kevin Owocki, Alex Paris, Hayley Moller, Marc
+              Johnson
           - time: '14:00'
             headline: 'The Æternals: A New Generation of NFTs for Good'
             subhead: Lucia Gallardo
