@@ -22,7 +22,7 @@ blocks:
         https://res.cloudinary.com/protocolai/image/upload/v1651785834/sustainable-blockchain/sustainable-blockchain-logo_b9ofib.svg
     label: ''
     headline: 'July 22-23, 2022'
-    subhead: 'Le 28 George V28 Avenue George V,  Paris France '
+    subhead: 'Le 28 George V 28 Avenue George V,  Paris France '
     body: >
       Two days of talks, workshops and discussions on how we can work together
       to develop and build greener blockchain solutions.
