@@ -527,8 +527,8 @@ blocks:
             subhead: Beltran Berrocal
           - time: '10:20'
             headline: >-
-              Promoting rigor in Blockchain's energy and environmental footprint
-              research
+              Promoting Rigor in Blockchain's Energy and Environmental Footprint
+              Research
             subhead: Ashish Sai
           - time: '10:40'
             headline: How To Be a Good Grid Citizen
