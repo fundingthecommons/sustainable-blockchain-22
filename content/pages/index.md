@@ -41,7 +41,6 @@ blocks:
     subhead: Our speakers are builders
     body: ''
     cards:
-      - {}
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
@@ -405,11 +404,11 @@ blocks:
             subhead: ''
           - time: '13:00'
             headline: >-
-              Unlocking the Next Wave of Institutional Bitcoin Adoption by
-              Creating "Proof of Sustainable Mining"
+              Unlocking the next wave of institutional Bitcoin adoption by
+              creating "Proof of Sustainable Mining"
             subhead: Brad Van Voorhees
           - time: '13:30'
-            headline: Can Crypto Bridge the ESG Gap?
+            headline: Can crypto bridge the ESG gap?
             subhead: >-
               Michael Kisselgoff, Almudena de la Mata, Slobodan Sudaric,
               Brittany Kaiser, Jonathan Rackoff
@@ -424,7 +423,7 @@ blocks:
               Steven Haft, Austin Federa, Brad Van Voorhees, Troy Cross, Alexi
               Anania
           - time: '15:30'
-            headline: Prioritites for Green Public Goods Builders in 2022
+            headline: Public Goods
             subhead: Juan Benet
           - time: '16:00'
             headline: The Planet is a Public Good
@@ -447,7 +446,7 @@ blocks:
             subhead: >-
               Gregory Landua, Olya Irzak, Paul Gambill, Peter Rosberg, Phil
               Fogel, Raphaël Haupt, Rim Jeong, Sharfy Adamantine, James Farrell,
-              Marcus Aurelius, Kevin Owocki, Alex Paris, Nic Alexander, Marc
+              Marcus Aurelius, Kevin Owocki, Alex Paris, Hayley Moller, Marc
               Johnson
           - time: '14:00'
             headline: 'The Æternals: A New Generation of NFTs for Good'
@@ -463,12 +462,9 @@ blocks:
             subhead: John Ellison
           - time: '15:20'
             headline: >-
-              Different Forms of Natural Capital Beyond Carbon to Enable Nature
-              Backed Currencies
+              Different forms of natural capital beyond carbon to enable nature
+              backed currencies
             subhead: Ikarus Janzen
-          - time: '15:40'
-            headline: We Can’t Build the Digital Commons Alone
-            subhead: Brynn O'Donnell and Kaitlin Donovan
       - headline: 'Day 2, Auditorium'
         subhead: 'Saturday, July 23rd'
         body: ''
@@ -484,8 +480,8 @@ blocks:
             headline: How to Match Degens & Regens
             subhead: Paula Palermo
           - time: '11:00'
-            headline: Gainforest - Radical Transparency
-            subhead: Sharfy Adamantine
+            headline: FlowCarbon
+            subhead: Phil Flogel
           - time: '11:30'
             headline: Gitcoin & Green Pill on ReFi Podcast
             subhead: 'John Ellison, Kevin Owocki'
@@ -501,8 +497,8 @@ blocks:
             headline: Building a sustainable Web3
             subhead: Alex DeVries
           - time: '14:30'
-            headline: FlowCarbon
-            subhead: Phil Flogel
+            headline: Gainforest - Radical Transparency
+            subhead: Sharfy Adamantine
           - time: '15:00'
             headline: >-
               Blockchain will catalyze clean grid tech for future generations.
@@ -523,7 +519,9 @@ blocks:
         body: ''
         events:
           - time: '10:00'
-            headline: Embedding Renewable Energy everywhere
+            headline: >-
+              Embedding Clean Energy everywhere with tokenized Renewable Energy
+              Certificates
             subhead: Beltran Berrocal
           - time: '10:20'
             headline: >-
