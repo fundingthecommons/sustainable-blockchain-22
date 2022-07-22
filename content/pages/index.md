@@ -547,8 +547,8 @@ blocks:
             headline: Toucan Workshop
           - time: '12:55'
             headline: >-
-              Sustainability Drivers: How do capitalist incentives and
-              democratized Web3 co-exist?
+              Sustainability Drivers: How Do Capitalist Incentives and
+              Democratized Web3 Co-exist?
             subhead: >-
               Lucia Gallardo, Alex Altman, Hayley Moller, Sharfy Adamantine,
               Lauren Luz, Nikos Kostopoulos
