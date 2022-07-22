@@ -405,11 +405,11 @@ blocks:
             subhead: ''
           - time: '13:00'
             headline: >-
-              Unlocking the next wave of institutional Bitcoin adoption by
-              creating "Proof of Sustainable Mining"
+              Unlocking the Next Wave of Institutional Bitcoin Adoption by
+              Creating "Proof of Sustainable Mining"
             subhead: Brad Van Voorhees
           - time: '13:30'
-            headline: Can crypto bridge the ESG gap?
+            headline: Can Crypto Bridge the ESG Gap?
             subhead: >-
               Michael Kisselgoff, Almudena de la Mata, Slobodan Sudaric,
               Brittany Kaiser, Jonathan Rackoff
@@ -463,9 +463,12 @@ blocks:
             subhead: John Ellison
           - time: '15:20'
             headline: >-
-              Different forms of natural capital beyond carbon to enable nature
-              backed currencies
+              Different Forms of Natural Capital Beyond Carbon to Enable Nature
+              Backed Currencies
             subhead: Ikarus Janzen
+          - time: '15:40'
+            headline: We Can’t Build the Digital Commons Alone
+            subhead: Brynn O'Donnell and Kaitlin Donovan
       - headline: 'Day 2, Auditorium'
         subhead: 'Saturday, July 23rd'
         body: ''
