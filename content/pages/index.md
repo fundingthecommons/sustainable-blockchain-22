@@ -405,8 +405,8 @@ blocks:
             subhead: ''
           - time: '13:00'
             headline: >-
-              Unlocking the next wave of institutional Bitcoin adoption by
-              creating "Proof of Sustainable Mining"
+              Unlocking the Next Wave of Institutional Bitcoin Adoption by
+              Creating "Proof of Sustainable Mining"
             subhead: Brad Van Voorhees
           - time: '13:30'
             headline: Can crypto bridge the ESG gap?
