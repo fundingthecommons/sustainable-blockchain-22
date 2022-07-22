@@ -409,7 +409,7 @@ blocks:
               Creating "Proof of Sustainable Mining"
             subhead: Brad Van Voorhees
           - time: '13:30'
-            headline: Can crypto bridge the ESG gap?
+            headline: Can Crypto Bridge the ESG Gap?
             subhead: >-
               Michael Kisselgoff, Almudena de la Mata, Slobodan Sudaric,
               Brittany Kaiser, Jonathan Rackoff
