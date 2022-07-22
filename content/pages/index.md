@@ -41,6 +41,7 @@ blocks:
     subhead: Our speakers are builders
     body: ''
     cards:
+      - {}
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
@@ -446,7 +447,7 @@ blocks:
             subhead: >-
               Gregory Landua, Olya Irzak, Paul Gambill, Peter Rosberg, Phil
               Fogel, Raphaël Haupt, Rim Jeong, Sharfy Adamantine, James Farrell,
-              Marcus Aurelius, Kevin Owocki, Alex Paris, Hayley Moller, Marc
+              Marcus Aurelius, Kevin Owocki, Alex Paris, Nic Alexander, Marc
               Johnson
           - time: '14:00'
             headline: 'The Æternals: A New Generation of NFTs for Good'
