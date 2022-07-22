@@ -424,7 +424,7 @@ blocks:
               Steven Haft, Austin Federa, Brad Van Voorhees, Troy Cross, Alexi
               Anania
           - time: '15:30'
-            headline: Prioritites for Green Public Goods Builders in 2022
+            headline: Public Goods
             subhead: Juan Benet
           - time: '16:00'
             headline: The Planet is a Public Good
@@ -498,15 +498,15 @@ blocks:
             headline: WeatherXM - The value of weather observations
             subhead: 'Stavros Keppas, John Pagonis'
           - time: '14:00'
-            headline: Building a sustainable Web3
+            headline: Building a Sustainable Web3
             subhead: Alex DeVries
           - time: '14:30'
             headline: FlowCarbon
             subhead: Phil Flogel
           - time: '15:00'
             headline: >-
-              Blockchain will catalyze clean grid tech for future generations.
-              True or false?
+              Blockchain will Catalyze Clean Grid Tech for Future Generations.
+              True or False?
             subhead: 'Susanna Enso Huang, Alex DeVries, Marc Johnson'
           - time: '15:40'
             headline: Hackathon Finale
@@ -527,8 +527,8 @@ blocks:
             subhead: Beltran Berrocal
           - time: '10:20'
             headline: >-
-              Promoting rigor in Blockchain's energy and environmental footprint
-              research
+              Promoting Rigor in Blockchain's Energy and Environmental Footprint
+              Research
             subhead: Ashish Sai
           - time: '10:40'
             headline: How To Be a Good Grid Citizen
@@ -547,8 +547,8 @@ blocks:
             headline: Toucan Workshop
           - time: '12:55'
             headline: >-
-              Sustainability Drivers: How do capitalist incentives and
-              democratized Web3 co-exist?
+              Sustainability Drivers: How Do Capitalist Incentives and
+              Democratized Web3 Co-exist?
             subhead: >-
               Lucia Gallardo, Alex Altman, Hayley Moller, Sharfy Adamantine,
               Lauren Luz, Nikos Kostopoulos
