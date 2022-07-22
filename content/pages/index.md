@@ -435,6 +435,9 @@ blocks:
         subhead: 'Friday, July 22nd'
         body: ''
         events:
+          - time: '15:40'
+            headline: We Can’t Build the Digital Commons Alone
+            subhead: Brynn O'Donnell and Kaitlin Donovan
           - time: '11:00'
             headline: Putting Carbon On-Chain
             subhead: >-
