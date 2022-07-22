@@ -424,7 +424,7 @@ blocks:
               Steven Haft, Austin Federa, Brad Van Voorhees, Troy Cross, Alexi
               Anania
           - time: '15:30'
-            headline: Public Goods
+            headline: Prioritites for Green Public Goods Builders in 2022
             subhead: Juan Benet
           - time: '16:00'
             headline: The Planet is a Public Good
