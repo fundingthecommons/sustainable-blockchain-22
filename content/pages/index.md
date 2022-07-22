@@ -535,7 +535,7 @@ blocks:
               study of the Polygon PoS Network
             subhead: Marcus Aurelius
           - time: '11:20'
-            headline: DoinGud
+            headline: Decentralized Social Impact
             subhead: Manu Alzuru
           - time: '11:40'
             headline: Lunch
@@ -563,7 +563,7 @@ blocks:
             headline: Building Data Infrastructure to Scale Regenerative Finance
             subhead: 'Sid Jha '
           - time: '15:00'
-            headline: 'Giveth '
+            headline: 'Giveth:  Evolving Nonprofits into Regen Economies'
             subhead: Griff Green
     navigationLabel: Schedule
     _template: schedule
