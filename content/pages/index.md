@@ -505,8 +505,8 @@ blocks:
             subhead: Phil Flogel
           - time: '15:00'
             headline: >-
-              Blockchain will catalyze clean grid tech for future generations.
-              True or false?
+              Blockchain will Catalyze Clean Grid Tech for Future Generations.
+              True or False?
             subhead: 'Susanna Enso Huang, Alex DeVries, Marc Johnson'
           - time: '15:40'
             headline: Hackathon Finale
