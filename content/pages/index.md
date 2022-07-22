@@ -22,7 +22,7 @@ blocks:
         https://res.cloudinary.com/protocolai/image/upload/v1651785834/sustainable-blockchain/sustainable-blockchain-logo_b9ofib.svg
     label: ''
     headline: 'July 22-23, 2022'
-    subhead: 'Le 28 George V28 Avenue George V,  Paris France '
+    subhead: 'Le 28 George V 28 Avenue George V,  Paris France '
     body: >
       Two days of talks, workshops and discussions on how we can work together
       to develop and build greener blockchain solutions.
@@ -41,6 +41,7 @@ blocks:
     subhead: Our speakers are builders
     body: ''
     cards:
+      - {}
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
@@ -251,6 +252,31 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1658136354/sustainable-blockchain/Screen_Shot_2022-07-18_at_11.25.11_AM_j49cf4.png
         speaker: "Griff\tGreen"
         company: Giveth
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658386278/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.35.27_AM_pg1scm.png
+        speaker: Adrian Wons
+        company: 'Senken, '
+        title: 'CEO & Co-founder '
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658386397/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.52.52_AM_dg1pvp.png
+        speaker: Zam Zam Musse
+        company: "Xcel Energy,\t"
+        title: Senior Project Manager
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658386508/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.54.26_AM_z0odsf.png
+        speaker: Alex DeVries
+        company: 'Digiconomist,'
+        title: Founder
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658386719/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
+        speaker: Kirsteen Harrison
+        company: Zumo
+        title: 'Adviser to the Board '
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1658386672/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.56.24_AM_imzxgm.png
+        speaker: Steven Haft
+        company: "Consensys,\t"
+        title: Head of Partnerships
     navigationLabel: Speakers
     _template: speakerCards
   - style:
@@ -372,7 +398,7 @@ blocks:
               Accounting​
             subhead: Charles Cannon and Linda Jirouskova
           - time: '11:30'
-            headline: UN Innovation Hub
+            headline: UN Climate Change Global Innovation Hub
             subhead: Alex Paris
           - time: '12:00'
             headline: Lunch
@@ -392,8 +418,8 @@ blocks:
             subhead: Kirsteen Harrison
           - time: '14:45'
             headline: >-
-              The blockchain inflection point: carbon emissions and consensus
-              mechanisms
+              The Blockchain Inflection Point: Carbon Emissions and Consensus
+              Mechanisms
             subhead: >-
               Steven Haft, Austin Federa, Brad Van Voorhees, Troy Cross, Alexi
               Anania
@@ -419,16 +445,19 @@ blocks:
           - time: '12:30'
             headline: 'Tokenized Carbon Roundtable: Open to all'
             subhead: >-
-              Gregory Landua, Olya Irzak, Paul Gambill, Hugh Salway, Peter
-              Rosberg, Phil Fogel, Raphaël Haupt, Rim Jeong, Sharfy Adamantine,
-              James Farrell, Marcus Aurelius, Kevin Owocki, Alex Paris, Hayley
-              Moller, Marc Johnson
+              Gregory Landua, Olya Irzak, Paul Gambill, Peter Rosberg, Phil
+              Fogel, Raphaël Haupt, Rim Jeong, Sharfy Adamantine, James Farrell,
+              Marcus Aurelius, Kevin Owocki, Alex Paris, Nic Alexander, Marc
+              Johnson
           - time: '14:00'
-            headline: The Aeternals
-            subhead: 'Lucia Gallardo, Shaun Khan'
+            headline: 'The Æternals: A New Generation of NFTs for Good'
+            subhead: Lucia Gallardo
           - time: '14:20'
             headline: 'Powering Climate Action with NFTs: DigitalArt4Climate Case Study'
             subhead: Irina Karagyaur
+          - time: '14:40'
+            headline: Senken - A Regenerative Finance Platform
+            subhead: Adrian Wons
           - time: '15:00'
             headline: 'MRV: How to Unlock ReFi for People and Planet'
             subhead: John Ellison
@@ -452,10 +481,10 @@ blocks:
             headline: How to Match Degens & Regens
             subhead: Paula Palermo
           - time: '11:00'
-            headline: Gainforest
+            headline: Gainforest - Radical Transparency
             subhead: Sharfy Adamantine
           - time: '11:30'
-            headline: ReFi - Green Pill Podcast Live Recording
+            headline: Gitcoin & Green Pill on ReFi Podcast
             subhead: 'John Ellison, Kevin Owocki'
           - time: '12:30'
             headline: Lunch
@@ -466,7 +495,7 @@ blocks:
             headline: WeatherXM - The value of weather observations
             subhead: 'Stavros Keppas, John Pagonis'
           - time: '14:00'
-            headline: 'Digiconimist '
+            headline: Building a sustainable Web3
             subhead: Alex DeVries
           - time: '14:30'
             headline: FlowCarbon
@@ -491,7 +520,7 @@ blocks:
         body: ''
         events:
           - time: '10:00'
-            headline: Zero Labs
+            headline: Embedding Renewable Energy everywhere
             subhead: Beltran Berrocal
           - time: '10:20'
             headline: >-
@@ -499,7 +528,7 @@ blocks:
               research
             subhead: Ashish Sai
           - time: '10:40'
-            headline: Frost Methane Labs
+            headline: How To Be a Good Grid Citizen
             subhead: Olya Irzak
           - time: '11:00'
             headline: >-
@@ -507,7 +536,7 @@ blocks:
               study of the Polygon PoS Network
             subhead: Marcus Aurelius
           - time: '11:20'
-            headline: DoinGud
+            headline: Decentralized Social Impact
             subhead: Manu Alzuru
           - time: '11:40'
             headline: Lunch
@@ -529,13 +558,13 @@ blocks:
               Emergence of ReFi 
             subhead: Ashley Taylor Buck
           - time: '14:20'
-            headline: Solana
+            headline: 'Beyond Offsets: Making an Impact '
             subhead: Austin Federa
           - time: '14:40'
             headline: Building Data Infrastructure to Scale Regenerative Finance
             subhead: 'Sid Jha '
           - time: '15:00'
-            headline: 'Giveth '
+            headline: 'Giveth:  Evolving Nonprofits into Regen Economies'
             subhead: Griff Green
     navigationLabel: Schedule
     _template: schedule
