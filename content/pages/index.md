@@ -463,8 +463,8 @@ blocks:
             subhead: John Ellison
           - time: '15:20'
             headline: >-
-              Different forms of natural capital beyond carbon to enable nature
-              backed currencies
+              Different Forms of Natural Capital Beyond Carbon to Enable Nature
+              Backed Currencies
             subhead: Ikarus Janzen
           - time: '15:40'
             headline: We Can’t Build the Digital Commons Alone
