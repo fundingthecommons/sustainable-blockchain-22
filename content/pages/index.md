@@ -430,6 +430,8 @@ blocks:
             subhead: 'Juan Benet, Kevin Owocki, Gloria Kimbwala, Alan Ransil'
           - time: '16:45'
             headline: Reception
+          - time: '19:00'
+            headline: Event Ends
       - headline: 'Day 1, Le Studio Design'
         subhead: 'Friday, July 22nd'
         body: ''
@@ -517,6 +519,8 @@ blocks:
             subhead: Gregory Landua
           - time: '17:10'
             headline: Reception
+          - time: '19:00'
+            headline: Event Ends
       - headline: 'Day 2, Le Studio Design'
         subhead: 'Saturday, July 23rd'
         body: ''
