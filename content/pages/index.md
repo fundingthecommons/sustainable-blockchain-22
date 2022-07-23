@@ -484,7 +484,7 @@ blocks:
             subhead: Paula Palermo
           - time: '11:00'
             headline: FlowCarbon
-            subhead: Phil Flogel
+            subhead: Phil Fogel
           - time: '11:30'
             headline: Gitcoin & Green Pill on ReFi Podcast
             subhead: 'John Ellison, Kevin Owocki'
