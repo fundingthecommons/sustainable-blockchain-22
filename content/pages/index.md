@@ -552,7 +552,7 @@ blocks:
               Lucia Gallardo, Alex Altman, Hayley Moller, Sharfy Adamantine,
               Lauren Luz, Nikos Kostopoulos
           - time: '13:40'
-            headline: Draft Ventures
+            headline: A Thriving On-Chain Carbon Credit Ecosystem
             subhead: David Rodriguez
           - time: '14:00'
             headline: >-
