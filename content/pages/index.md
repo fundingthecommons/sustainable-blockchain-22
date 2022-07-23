@@ -499,7 +499,7 @@ blocks:
           - time: '14:00'
             headline: Building a Sustainable Web3
             subhead: Alex DeVries
-          - time: '11:00'
+          - time: '14:30'
             headline: Gainforest - Radical Transparency
             subhead: Sharfy Adamantine
           - time: '15:00'
