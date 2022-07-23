@@ -483,8 +483,8 @@ blocks:
             headline: How to Match Degens & Regens
             subhead: Paula Palermo
           - time: '11:00'
-            headline: Gainforest - Radical Transparency
-            subhead: Sharfy Adamantine
+            headline: FlowCarbon
+            subhead: Phil Flogel
           - time: '11:30'
             headline: Gitcoin & Green Pill on ReFi Podcast
             subhead: 'John Ellison, Kevin Owocki'
@@ -499,9 +499,9 @@ blocks:
           - time: '14:00'
             headline: Building a Sustainable Web3
             subhead: Alex DeVries
-          - time: '14:30'
-            headline: FlowCarbon
-            subhead: Phil Flogel
+          - time: '11:00'
+            headline: Gainforest - Radical Transparency
+            subhead: Sharfy Adamantine
           - time: '15:00'
             headline: >-
               Blockchain will Catalyze Clean Grid Tech for Future Generations.
