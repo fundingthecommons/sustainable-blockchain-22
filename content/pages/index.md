@@ -33,6 +33,83 @@ blocks:
         type: primary
     _template: feature
   - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pb-0 pr-20 pl-20
+      width: normal
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: text-accent2 font-1 text-5xl mb-0 font-bold
+      subheadStyles: 'text-accent2 font-1 text-xl mb-0 '
+      textStyles: 'text-black font-1 undefined mb-0 '
+      contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-white
+    label: ''
+    headline: Past Events
+    subhead: Some info about past events
+    body: ''
+    navigationLabel: Past Events
+    _template: banner
+  - style:
+      alignment: 'flex-row-reverse text-left items-start items-start-vertical '
+      featureContent: 'w-1/3 min-h-0 '
+      padding: pt-20 pb-20 pr-0 pl-20
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-20 pb-20 pr-20 pl-20
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: text-accent2 font-1 text-2xl mb-0 font-bold
+      subheadStyles: 'text-primary font-1 text-xl mb-5 '
+      textStyles: 'text-accent2 font-1 undefined mb-2.5 '
+      contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-white
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1659546733/sustainable-blockchain/sbs-22-paris_thpgpw.png
+    label: ''
+    headline: Sustainable Blockchain Summit EU
+    subhead: 'Paris, France'
+    body: >
+      Two days of talks, workshops and discussions on how we can work together
+      to develop and build greener blockchain solutions.
+    buttons:
+      - label: Previous Event Details →
+        link: /
+        type: minor
+    _template: feature
+  - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pb-0 pr-20 pl-20
+      width: normal
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: text-accent2 font-1 text-5xl mb-0 font-bold
+      subheadStyles: 'text-accent2 font-1 text-xl mb-5 '
+      textStyles: 'text-accent2 font-1 text-base mb-0 '
+      contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-accent3
+    label: ''
+    headline: This is the main headline
+    subhead: Here is a subhead
+    body: ''
+    _template: banner
+  - style:
+      minHeight: min-h-0
+      fullWidth: true
+      padding: pt-10 pb-20 pr-0 pl-0
+    background:
+      fillStyles: bg-accent3
+    markup: |-
+      <div class="mx-auto max-w-site-full px-20">
+        <div class="relative w-full" style="padding-bottom: 56.25%">
+          <iframe src="https://www.youtube.com/embed/0BSjAct8KVw" title="SBS EU" frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
+        </div>
+      </div>
+    _template: embed
+  - style:
       labelStyles: 'undefined undefined undefined undefined '
       headlineStyles: text-accent2 font-1 text-5xl undefined font-bold
       subheadStyles: 'text-accent2 font-1 text-xl mb-10 '
@@ -44,27 +121,27 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
         speaker: Juan Benet
-        company: 'Protocol Labs,'
+        company: 'Protocol Labs'
         title: Founder and CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416406/sustainable-blockchain/bio-almudena-delamata_wguo4m.jpg
         speaker: Almudena de la Mata
-        company: 'Blockchain Intelligence,'
+        company: 'Blockchain Intelligence'
         title: Managing Director
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416417/sustainable-blockchain/bio-olya_irzak_vbfmlw.jpg
         speaker: Olya Irzak
-        company: 'Frost Methane,'
+        company: 'Frost Methane'
         title: Founder and CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272937/sustainable-blockchain/bio-kevin-owocki_ensdlm.png
         speaker: Kevin Owocki
-        company: 'Gitcoin,'
+        company: 'Gitcoin'
         title: Co-founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655739462/sustainable-blockchain/bio-lucia-gallardo_ew9l4t.jpg
         speaker: Lucia Gallardo
-        company: 'Emerge,'
+        company: 'Emerge'
         title: Founder and CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655486718/sustainable-blockchain/bio-jonathan-rackoff_ljdtqd.jpg
@@ -74,72 +151,72 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416409/sustainable-blockchain/bio-austin_federa_rodxzj.jpg
         speaker: Austin Federa
-        company: 'Solana,'
+        company: 'Solana'
         title: Head of Communications
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655828016/sustainable-blockchain/bio-alex-paris_ahhztp.jpg
         speaker: Alex Paris
-        company: 'UN Climate Change,'
+        company: 'UN Climate Change'
         title: Technical Officer - MDU
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416414/sustainable-blockchain/bio-michael-kisselgof_fihb5f.jpg
         speaker: Michael Kisselgof
-        company: 'Popcorn,'
+        company: 'Popcorn'
         title: Co-Founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657177831/sustainable-blockchain/Linda_Jirouskova_wo2qmd.jpg
         speaker: Linda Jirouskova
-        company: 'RMI,'
+        company: 'RMI'
         title: Corporate Engagement Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272922/sustainable-blockchain/bio-alan-ransil_mckfco.png
         speaker: Alan Ransil
-        company: 'Filecoin Green,'
+        company: 'Filecoin Green'
         title: Project Lead
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655486700/sustainable-blockchain/bio-gloria-kimbwala_gzkvep.jpg
         speaker: Gloria Kimbwala
-        company: 'Gitcoin,'
+        company: 'Gitcoin'
         title: Customer Success
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416412/sustainable-blockchain/bio-gregory_landua_yslg5s.jpg
         speaker: Gregory Landua
-        company: 'Regen Network,'
+        company: 'Regen Network'
         title: Co-Founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657719847/sustainable-blockchain/Screen_Shot_2022-07-13_at_2.43.48_PM_wftkec.png
         speaker: Brittany Kaiser
-        company: "Gryphon Mining,\t"
+        company: "Gryphon Mining"
         title: 'Chairman of the Board '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657177839/sustainable-blockchain/rmi-people-charles-cannon_orjjhy.jpg
         speaker: Charles Cannon
-        company: 'Horizon Zero,'
+        company: 'Horizon Zero'
         title: Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1654272956/sustainable-blockchain/bio-marc-johnson_x3xs4y.png
         speaker: Marc Johnson
-        company: 'Filecoin Green,'
+        company: 'Filecoin Green'
         title: Environmental Solutions Architect
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657720814/sustainable-blockchain/prosberg-headshot_qxqr7q.jpg
         speaker: Peter Rosberg
-        company: 'Ripple,'
+        company: 'Ripple'
         title: Head of Carbon Markets
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657177834/sustainable-blockchain/Phil_Fogel_BoredApe-1_yimbgc.png
         speaker: Phil Fogel
-        company: 'FlowCarbon,'
+        company: 'FlowCarbon'
         title: Chief Blockchain Officer
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657177837/sustainable-blockchain/raphael_benoi_m7ebwg.jpg
         speaker: Raphael Benoi
-        company: 'Toucan,'
+        company: 'Toucan'
         title: 'CEO, Co-Founder '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1655416420/sustainable-blockchain/bio-orinayo_ayodele_lyvhjz.jpg
         speaker: Orinayo Ayodele
-        company: 'Filecoin Green,'
+        company: 'Filecoin Green'
         title: Program Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657178942/Alexi_Anania.small_dqgpgw.png
@@ -149,27 +226,27 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657177842/sustainable-blockchain/Troy_Cross-Headshot_dwf5lh.jpg
         speaker: Troy Cross
-        company: 'Reed College,'
+        company: 'Reed College'
         title: Professor of Philosophy and Humanities
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657313693/sustainable-blockchain/Screen_Shot_2022-07-08_at_1.54.31_PM_j24ntu.png
         speaker: Slobodan Sudaric
-        company: 'cLabs,'
+        company: 'cLabs'
         title: Partner
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657314315/sustainable-blockchain/paul_headshot_ogpfg2.jpg
         speaker: Paul Gambill
-        company: 'Nori,'
+        company: 'Nori'
         title: Founder and CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657313600/sustainable-blockchain/Screen_Shot_2022-07-08_at_1.52.59_PM_xgir2i.png
         speaker: Sid Jha
-        company: 'dClimate,'
+        company: 'dClimate'
         title: Founding Partner
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657314154/sustainable-blockchain/Screen_Shot_2022-07-08_at_2.02.19_PM_skwhh9.png
         speaker: Paula Palermo
-        company: 'Impacta Finance,'
+        company: 'Impacta Finance'
         title: Co-founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657723666/sustainable-blockchain/Screen_Shot_2022-07-13_at_3.47.00_PM_y0l29n.png
@@ -186,7 +263,7 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657719516/sustainable-blockchain/beltran_yzcn3d.jpg
         speaker: Beltran Berrocal
-        company: 'Zero Labs, '
+        company: 'Zero Labs'
         title: Co-founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657719665/sustainable-blockchain/Screen_Shot_2022-07-13_at_2.40.53_PM_t72glh.png
@@ -195,7 +272,7 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657723812/sustainable-blockchain/Screen_Shot_2022-07-13_at_3.49.42_PM_nknqys.png
         speaker: Alex Altman
-        company: "Seal Storage Technology,\t"
+        company: "Seal Storage Technology"
         title: COO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657314434/sustainable-blockchain/Screen_Shot_2022-07-08_at_2.06.49_PM_u5zn1o.png
@@ -205,7 +282,7 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657719395/sustainable-blockchain/ashish_squx3s.jpg
         speaker: Ashish Sai
-        company: 'Ecosensus,'
+        company: 'Ecosensus'
         title: Postdoctoral Researcher
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657313889/sustainable-blockchain/karenaurelius_chvbde.png
@@ -219,12 +296,12 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657998732/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.11.45_PM_acvvpe.png
         speaker: "Sharfy\tAdamantine"
-        company: 'Gainforest,'
+        company: 'Gainforest'
         title: Co-founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1658007912/sustainable-blockchain/Screen_Shot_2022-07-16_at_11.44.24_PM_vvpcjf.png
         speaker: Ikarus Janzen
-        company: 'Climate Collective,'
+        company: 'Climate Collective'
         title: Regenerative Finance Ambassador
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657999144/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.18.24_PM_jpniau.png
@@ -233,7 +310,7 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657998836/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.13.33_PM_y8bqgy.png
         speaker: Hayley Moller
-        company: 'Thallo,'
+        company: 'Thallo'
         title: Head Of Marketing
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1657999009/sustainable-blockchain/Screen_Shot_2022-07-16_at_9.15.30_PM_nkyjmz.png
@@ -254,17 +331,17 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1658386278/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.35.27_AM_pg1scm.png
         speaker: Adrian Wons
-        company: 'Senken, '
+        company: 'Senken'
         title: 'CEO & Co-founder '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1658386397/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.52.52_AM_dg1pvp.png
         speaker: Zam Zam Musse
-        company: "Xcel Energy,\t"
+        company: "Xcel Energy"
         title: Senior Project Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1658386508/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.54.26_AM_z0odsf.png
         speaker: Alex DeVries
-        company: 'Digiconomist,'
+        company: 'Digiconomist'
         title: Founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1658386719/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
@@ -274,7 +351,7 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1658386672/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.56.24_AM_imzxgm.png
         speaker: Steven Haft
-        company: "Consensys,\t"
+        company: "Consensys"
         title: Head of Partnerships
     navigationLabel: Speakers
     _template: speakerCards
@@ -315,7 +392,7 @@ blocks:
         headline: ''
         subhead: ''
         text: ''
-    navigationLabel: Sponsors
+    navigationLabel: ''
     _template: photoCards
   - style:
       textAlignment: text-left
@@ -574,31 +651,6 @@ blocks:
             subhead: Griff Green
     navigationLabel: Schedule
     _template: schedule
-  - style:
-      alignment: 'flex-col text-left items-center items-start-vertical '
-      featureContent: 'w-4/5 min-h-0 '
-      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-10 sm:pl-10'
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: text-white font-1 text-base mb-0 font-bold
-      headlineStyles: text-white font-1 text-5xl mb-0 font-bold
-      subheadStyles: 'text-white font-1 text-xl mb-5 '
-      textStyles: 'text-white font-1 text-base mb-10 '
-      contentOrder: labelHeadingsContent
-    background:
-      fillStyles: from-primary to-accent1 bg-gradient-to-br
-    label: Gitcoin Virtual Hackathon
-    headline: Sustainable Blockchain Hackathon
-    subhead: 'Jun 23, 2022 - Jul 18, 2022'
-    body: >
-      Blockchains are great for making transparent, verifiable claims and this
-      means that there is a world of Web3 environmental tools to explore and
-      create.
-    buttons:
-      - label: Learn More
-        link: 'https://gitcoin.co/hackathon/sustainable/onboard'
-        type: minor
-    _template: feature
 meta:
   pageTitle: Sustainable Blockchain Summit EU
   pageDescription: >-

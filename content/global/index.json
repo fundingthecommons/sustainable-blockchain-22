@@ -2,7 +2,7 @@
   "siteUrl": "sbs.tech",
   "gtmId": "G-MY3M3C0XV0",
   "favicon": "https://res.cloudinary.com/protocolai/image/upload/v1658511173/sustainable-blockchain/sbs-favicon_go8tjo.png",
-  "desktopWidth": "1200",
+  "desktopWidth": "1280",
   "colors": {
     "primary": "#51B848",
     "accent1": "#60CCF3",
@@ -22,22 +22,22 @@
     "font4": "IBM Plex Mono:wght@400;700"
   },
   "sizeLeading": {
-    "textXs": "14/20",
-    "textSm": "16/20",
-    "textMd": "18/28",
-    "textLg": "19/22",
-    "textXl": "23/36",
-    "text2xl": "34/43",
-    "text3xl": "28/40",
-    "text4xl": "32/44",
-    "text5xl": "39/48",
+    "textXs": "15/20",
+    "textSm": "17/20",
+    "textMd": "17/28",
+    "textLg": "18/22",
+    "textXl": "24/36",
+    "text2xl": "28/34",
+    "text3xl": "31/40",
+    "text4xl": "35/44",
+    "text5xl": "38/46",
     "text6xl": "48/48",
     "text7xl": "72/84",
     "text8xl": "96/120"
   },
   "buttons": {
     "primaryFill": "bg-primary",
-    "primaryBorder": "border-accent3 border-r-0",
+    "primaryBorder": "border-accent3 border-0",
     "primaryTypography": "text-white font-1 text-lg mb-0 ",
     "primaryPadding": "pt-3 pb-3 pr-6 pl-6",
     "primaryRounded": "rounded-md",
@@ -46,10 +46,10 @@
     "secondaryTypography": "text-white undefined text-lg undefined ",
     "secondaryPadding": "pt-3 pb-3 pr-6 pl-6",
     "secondaryRounded": "rounded-md",
-    "minorBorder": "border-white border-3",
-    "minorTypography": "text-white undefined text-sm undefined font-bold",
-    "minorPadding": "pt-2 pb-2 pr-6 pl-6",
-    "minorRounded": "rounded-md"
+    "minorBorder": "border-white border-0",
+    "minorTypography": "text-primary undefined text-sm undefined font-bold",
+    "minorPadding": "pt-2.5 pb-2.5 pr-0 pl-0",
+    "minorRounded": "rounded-none"
   },
   "links": {
     "color": "white"
@@ -64,7 +64,7 @@
   },
   "nav": {
     "navAlignment": "text-right",
-    "navTypeStyle": "text-accent2 font-1 text-xl mb-0 font-bold",
+    "navTypeStyle": "text-accent2 font-1 text-lg mb-0 font-bold",
     "navBackgroundColor": "bg-accent4",
     "padding": "pt-12 pb-10 pr-20 pl-0 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5"
   },
