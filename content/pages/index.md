@@ -347,7 +347,7 @@ blocks:
           https://res.cloudinary.com/protocolai/image/upload/v1658386719/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
         speaker: Kirsteen Harrison
         company: Zumo
-        title: 'Adviser to the Board '
+        title: Adviser to the Board
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1658386672/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.56.24_AM_imzxgm.png
         speaker: Steven Haft
