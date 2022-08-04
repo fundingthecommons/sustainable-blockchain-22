@@ -39,51 +39,6 @@ blocks:
       width: normal
       labelStyles: 'text-black font-1 text-sm mb-0 '
       headlineStyles: text-accent2 font-1 text-5xl mb-0 font-bold
-      subheadStyles: 'text-accent2 font-1 text-xl mb-0 '
-      textStyles: 'text-black font-1 undefined mb-0 '
-      contentOrder: labelHeadingsContent
-    background:
-      fillStyles: bg-white
-    label: ''
-    headline: Past Events
-    subhead: Some info about past events
-    body: ''
-    navigationLabel: Past Events
-    _template: banner
-  - style:
-      alignment: 'flex-row-reverse text-left items-start items-start-vertical '
-      featureContent: 'w-1/3 min-h-0 '
-      padding: pt-20 pb-20 pr-0 pl-20
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-20 pb-20 pr-20 pl-20
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: text-accent2 font-1 text-2xl mb-0 font-bold
-      subheadStyles: 'text-primary font-1 text-xl mb-5 '
-      textStyles: 'text-accent2 font-1 undefined mb-2.5 '
-      contentOrder: labelHeadingsContent
-    background:
-      fillStyles: bg-white
-    image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1659546733/sustainable-blockchain/sbs-22-paris_thpgpw.png
-    label: ''
-    headline: Sustainable Blockchain Summit EU
-    subhead: 'Paris, France'
-    body: >
-      Two days of talks, workshops and discussions on how we can work together
-      to develop and build greener blockchain solutions.
-    buttons:
-      - label: Archived Event Page →
-        link: /sbs-paris-22
-        type: minor
-    _template: feature
-  - style:
-      textAlignment: text-left
-      minHeight: min-h-0
-      padding: pt-20 pb-0 pr-20 pl-20
-      width: normal
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: text-accent2 font-1 text-5xl mb-0 font-bold
       subheadStyles: 'text-accent2 font-1 text-xl mb-5 '
       textStyles: 'text-accent2 font-1 text-base mb-0 '
       contentOrder: labelHeadingsContent
