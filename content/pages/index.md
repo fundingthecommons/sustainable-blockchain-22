@@ -240,6 +240,23 @@ blocks:
         type: primary
     _template: feature
   - style:
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: 'text-accent2 font-1 text-2xl mb-0 '
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-black font-1 undefined mb-0 '
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1660077778/sustainable-blockchain/icon-tree-mask_lhgbtw.png
+    label: ''
+    headline: Join us in Bogotá for this important gathering
+    subhead: ''
+    body: ''
+    buttons:
+      - label: Register now
+        link: /
+        type: secondary
+    _template: cta
+  - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
       featureContent: 'w-1/2 min-h-0 '
       padding: pt-20 pb-20 pr-20 pl-32

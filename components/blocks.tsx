@@ -7,6 +7,7 @@ import { Embed } from "./blocks/embed";
 import { TailwindFeature } from "./blocks/tailwind-feature";
 import { TailwindCards } from "./blocks/tailwind-cards";
 import { Hero } from "./blocks/hero";
+import { CTA } from "./blocks/cta";
 import { SpeakerCards } from "./blocks/speaker-cards";
 import { Schedule } from "./blocks/schedule";
 import { Video } from "./blocks/video";
@@ -83,6 +84,12 @@ export const Blocks = (props: Pages | Global) => {
                 return (
                   <div data-tinafield={`blocks.${i}`} key={i + block.__typename}>
                     <Hero data={block} parentField={`blocks.${i}`} />
+                  </div>
+                );
+              case "PagesBlocksCta":
+                return (
+                  <div data-tinafield={`blocks.${i}`} key={i + block.__typename}>
+                    <CTA data={block} parentField={`blocks.${i}`} />
                   </div>
                 );
               case "PagesBlocksVideo":

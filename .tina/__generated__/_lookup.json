@@ -54,6 +54,7 @@
       "tailwindFeature": "PagesBlocksTailwindFeature",
       "tailwindCards": "PagesBlocksTailwindCards",
       "hero": "PagesBlocksHero",
+      "cta": "PagesBlocksCta",
       "speakerCards": "PagesBlocksSpeakerCards",
       "schedule": "PagesBlocksSchedule",
       "video": "PagesBlocksVideo",

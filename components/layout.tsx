@@ -104,6 +104,7 @@ export const Layout = ({
             }
             body {
               background: linear-gradient(120deg, #D4F6D0 0%, #BBECFC 100%);
+              overflow-x: hidden;
             }
             .markdown a:not(.button) {
               color: var(--${globalData?.links?.color}-color);

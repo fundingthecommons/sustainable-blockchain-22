@@ -93,7 +93,7 @@ export const SpeakerCards = ({ data, parentField = "" }) => {
               {
                 label: "Apply To Speak",
                 link: "/",
-                type: "secondary"
+                type: "primary"
               },
             ]}
             className={`mx-auto`}

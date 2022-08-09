@@ -8,6 +8,7 @@ import { embedBlockSchema } from "./embed";
 import { tailwindFeatureBlockSchema } from "./tailwind-feature";
 import { tailwindCardsBlockSchema } from "./tailwind-cards";
 import { heroBlockSchema } from "./hero";
+import { ctaBlockSchema } from "./cta";
 import { speakerCardsBlockSchema } from "./speaker-cards";
 import { scheduleBlockSchema } from "./schedule";
 import { videoBlockSchema } from "./video";
@@ -41,6 +42,7 @@ export default defineSchema({
             tailwindFeatureBlockSchema,
             tailwindCardsBlockSchema,
             heroBlockSchema,
+            ctaBlockSchema,
             speakerCardsBlockSchema,
             scheduleBlockSchema,
             videoBlockSchema,
