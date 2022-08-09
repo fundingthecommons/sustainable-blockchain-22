@@ -109,20 +109,9 @@ blocks:
     items:
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660086268/sustainable-blockchain/Screen_Shot_2022-08-09_at_4.04.06_PM_jdv9ut.png
-        label: ''
-        headline: Sharfy Adamantine
-        text: ''
-      - image:
-          src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660086141/sustainable-blockchain/bio-kevin-owocki_vjourm.png
         headline: Kevin Owocki
         subhead: Gitcoin
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660087641/sustainable-blockchain/raphael_benoi_m7ebwg_sopazt.jpg
-        headline: Raphael Benoi
-        subhead: Toucan
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1657719802/Screen_Shot_2022-07-13_at_2.43.16_PM_j7sd3t.png
@@ -142,16 +131,21 @@ blocks:
         subhead: Zumo
       - image:
           src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1660085646/Screen_Shot_2022-08-09_at_3.53.19_PM_l0n49m.png
+        headline: Gregory Landua
+        subhead: Regen Network
+        text: ''
+      - image:
+          src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1658386508/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.54.26_AM_z0odsf.png
         headline: Alex Devries
         subhead: Digiconomist
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660085971/sustainable-blockchain/alan-ransil-PL_1_novxew.jpg
-        label: ''
-        headline: Alan Ransil
-        subhead: Filecon Green
+            https://res.cloudinary.com/protocolai/image/upload/v1660087641/sustainable-blockchain/raphael_benoi_m7ebwg_sopazt.jpg
+        headline: Raphael Benoi
+        subhead: Toucan
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660085524/sustainable-blockchain/Screen_Shot_2022-08-09_at_3.51.33_PM_svwti6.png
@@ -166,15 +160,21 @@ blocks:
         text: ''
       - image:
           src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1658386278/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.35.27_AM_pg1scm.png
+        label: ''
+        headline: Adrian Wons
+        subhead: Senken
+      - image:
+          src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660085745/sustainable-blockchain/Screen_Shot_2022-08-09_at_3.55.20_PM_tvhuzx.png
         headline: Alex Paris
         subhead: UN Climate Change
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660085646/Screen_Shot_2022-08-09_at_3.53.19_PM_l0n49m.png
-        headline: Gregory Landua
-        subhead: Regen Network
+            https://res.cloudinary.com/protocolai/image/upload/v1660086268/sustainable-blockchain/Screen_Shot_2022-08-09_at_4.04.06_PM_jdv9ut.png
+        label: ''
+        headline: Sharfy Adamantine
         text: ''
     _template: tailwindCards
   - padding: undefined undefined pr-20 pl-20
