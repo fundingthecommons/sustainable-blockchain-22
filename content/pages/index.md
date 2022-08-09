@@ -56,6 +56,16 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1660087459/Orin_mlgf0s.jpg
+        speaker: Orinayo Ayodele
+        company: Filecoin Green
+        title: 'Program Manager,'
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1660085158/sustainable-blockchain/Delton-47_p1jlcy.jpg
+        speaker: Dr. Delton Chen
+        company: Global Carbon Reward
+        title: 'Project Director & Founder,'
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1660085971/sustainable-blockchain/alan-ransil-PL_1_novxew.jpg
         speaker: Alan Ransil
         company: Filecoin Green
@@ -65,11 +75,6 @@ blocks:
         speaker: Juan Benet
         company: Protocol Labs
         title: 'Founder and CEO,'
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1660085158/sustainable-blockchain/Delton-47_p1jlcy.jpg
-        speaker: Dr. Delton Chen
-        company: Global Carbon Reward
-        title: 'Project Director & Founder,'
     navigationLabel: Speakers
     _template: speakerCards
   - tailwind:
