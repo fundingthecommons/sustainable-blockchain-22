@@ -56,6 +56,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1660086059/sustainable-blockchain/juan_asxcql.png
+        speaker: Juan Benet
+        company: Protocol Labs
+        title: 'Founder and CEO,'
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1660085158/sustainable-blockchain/Delton-47_p1jlcy.jpg
         speaker: Dr. Delton Chen
         company: Global Carbon Reward
