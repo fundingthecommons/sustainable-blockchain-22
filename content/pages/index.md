@@ -264,12 +264,13 @@ blocks:
     headline: 'July 22-23, 2022'
     subhead: 'Paris, France'
     body: >
-      Lorem ipsum gathered to dolor amet lorem ipsum. Lorem ipsum dolor amet.
-      Lorem ipsum dolor amet. Lorem ipsum dolor amet. Lorem ipsum dolor
-      amet.&#x20;
+      Hundreds of attendees gathered together for SBS EU including
+      representatives from the UNFCCC, UNESCO, various government
+      representatives, legacy energy industry participants, NGOs, and a broad
+      spectrum of web3 Refi/Regen projects & networks.
     buttons:
       - label: Explore the content
-        link: /
+        link: 'https://youtube.com/playlist?list=PL_0VrY55uV1-rI6TyGHSxS9uSqEQbovgv'
         type: minor
     _template: video
 meta:
