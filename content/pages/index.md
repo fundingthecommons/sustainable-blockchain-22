@@ -83,6 +83,11 @@ blocks:
     items:
       - image:
           src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1657719802/Screen_Shot_2022-07-13_at_2.43.16_PM_j7sd3t.png
+        headline: Brittany Kaiser
+        subhead: Gryphon Mining
+      - image:
+          src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1658386719/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
         label: ''
         headline: Kirsteen Harrison
