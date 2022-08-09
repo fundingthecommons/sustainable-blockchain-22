@@ -54,47 +54,6 @@ blocks:
     headline: Our speakers are builders
     subhead: ''
     body: ''
-    cards:
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1654272929/sustainable-blockchain/bio-juan-benet_cdu55r.png
-        speaker: Juan Benet
-        company: Protocol Labs
-        title: Founder and CEO
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1655416406/sustainable-blockchain/bio-almudena-delamata_wguo4m.jpg
-        speaker: Almudena de la Mata
-        company: Blockchain Intelligence
-        title: Managing Director
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1655416417/sustainable-blockchain/bio-olya_irzak_vbfmlw.jpg
-        speaker: Olya Irzak
-        company: Frost Methane
-        title: Founder and CEO
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1654272937/sustainable-blockchain/bio-kevin-owocki_ensdlm.png
-        speaker: Kevin Owocki
-        company: Gitcoin
-        title: Co-founder
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1655739462/sustainable-blockchain/bio-lucia-gallardo_ew9l4t.jpg
-        speaker: Lucia Gallardo
-        company: Emerge
-        title: Founder and CEO
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1655486718/sustainable-blockchain/bio-jonathan-rackoff_ljdtqd.jpg
-        speaker: Jonathan Rackoff
-        company: The HBAR Foundation
-        title: 'VP, Global Head of Policy '
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1655416409/sustainable-blockchain/bio-austin_federa_rodxzj.jpg
-        speaker: Austin Federa
-        company: Solana
-        title: Head of Communications
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1655828016/sustainable-blockchain/bio-alex-paris_ahhztp.jpg
-        speaker: Alex Paris
-        company: UN Climate Change
-        title: Technical Officer - MDU
     navigationLabel: Speakers
     _template: speakerCards
   - tailwind:
