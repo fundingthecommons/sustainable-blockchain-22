@@ -95,9 +95,9 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1658386672/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.56.24_AM_imzxgm.png
-        headline: Steven Haft
-        subhead: Consensys
+            https://res.cloudinary.com/protocolai/image/upload/v1660085839/sustainable-blockchain/Troy_Cross-Headshot_rz62bg.jpg
+        headline: Troy Cross
+        subhead: Reed College
         text: ''
       - image:
           src: >-
@@ -109,7 +109,7 @@ blocks:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660085745/sustainable-blockchain/Screen_Shot_2022-08-09_at_3.55.20_PM_tvhuzx.png
         headline: Alex Paris
-        subhead: ''
+        subhead: UN Climate Change
         text: ''
       - image:
           src: >-
