@@ -79,27 +79,51 @@ const Logo = () => {
     </svg>
   )
 }
+const SbsIcon = () => {
+  return (
+    <svg width="197" height="216" viewBox="0 0 197 216" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <g clip-path="url(#clip0_1489_3930)">
+        <path d="M185.315 112.019V160.799L153.522 179.271L151.887 176.423C151.318 175.427 149.879 175.427 149.31 176.423L140.287 192.16C139.717 193.156 140.427 194.407 141.576 194.407H159.63C160.779 194.407 161.498 193.156 160.919 192.16L159.369 189.452L192.059 170.454C195.104 168.677 197 165.377 197 161.833V112.009H185.315V112.019Z" fill="white"/>
+        <path d="M16.2798 159.962V109.246H19.5395C20.6883 109.246 21.4075 107.995 20.8284 106.999L11.8059 91.262C11.2362 90.2655 9.79783 90.2655 9.22809 91.262L0.205616 107.008C-0.364126 108.005 0.345717 109.255 1.49454 109.255H4.59543V161.006C4.59543 164.55 6.49146 167.859 9.54565 169.626L51.7533 194.153L57.6001 183.962L16.2798 159.953V159.962Z" fill="white"/>
+        <path d="M152.542 33.3537L143.519 17.6169C142.949 16.6204 141.511 16.6204 140.941 17.6169L139.391 20.3243L106.691 1.32549C103.637 -0.441846 99.8451 -0.451246 96.8002 1.32549L53.8174 26.3126L59.6549 36.4935L101.75 12.0329L133.544 30.5053L131.909 33.3537C131.34 34.3502 132.05 35.6005 133.198 35.6005H151.253C152.401 35.6005 153.121 34.3502 152.542 33.3537Z" fill="white"/>
+        <path d="M162.899 68.691L106.019 35.6381C102.964 33.8708 99.1816 33.8614 96.1274 35.6381L39.2466 68.691C36.1924 70.4677 34.2964 73.7674 34.2964 77.3114V143.417C34.2964 146.961 36.1924 150.27 39.2466 152.038L82.2855 177.044V163.459L45.9808 142.364V78.3549L101.068 46.3455L156.156 78.3549V142.383L119.86 163.478V177.062L162.899 152.056C165.954 150.289 167.85 146.98 167.85 143.436V77.3208C167.85 73.7768 165.954 70.4677 162.899 68.7004V68.691Z" fill="white"/>
+        <path d="M136.42 96.6205V83.0365L106.915 100.183V66.4818H95.2308V100.183L65.7256 83.0365V96.6205L95.2308 113.767V134.91L65.7256 117.763V131.347L95.2308 148.494V216H106.915V148.494L136.42 131.347V117.763L106.915 134.91V113.767L136.42 96.6205Z" fill="white"/>
+      </g>
+      <defs>
+        <clipPath id="clip0_1489_3930">
+          <rect width="197" height="216" fill="white"/>
+        </clipPath>
+      </defs>
+    </svg>
+  )
+}
 
 export const Hero = ({ data, parentField = ""  }) => {
   return (
     <Section className="mb-40" background={data.background} navigationLabel={data.navigationLabel}>
       <div className="absolute inset-0 -z-2">
         <div
-          className="absolute top-0 left-1/2 transform -translate-x-1/2 bg-primary border"
+          className="absolute top-0 left-1/2 transform -translate-x-1/2 bg-primary"
           style={{ width: "3000px", bottom: "-900px", clipPath: "polygon(0% 0%, 100% 0%, 100% 100%, 0% 20%)" }}
         >
-          <BG1 />
-            <div className="absolute -z-1 inset-0 border"
-              style={{
-                background: "#eaf9e6",
-                inset: "0 -2000px 0 1100px",
-                clipPath: "polygon(0% 50%, 100% -30%, 100% 100%, 0% 100%)"
-              }}>
-              <BG2 />
-            </div>
+          <div className="absolute -z-2 left-1/2 top-0 right-0 bottom-1/2 bg-black">
+            <img src="/images/canopy.jpg" className="w-full h-full object-cover"/>
           </div>
+          <BG1 />
+          <div className="absolute -z-1 inset-0"
+            style={{
+              background: "#eaf9e6",
+              inset: "0 -2000px 0 1100px",
+              clipPath: "polygon(0% 50%, 100% -30%, 100% 100%, 0% 100%)"
+            }}>
+            <BG2 />
+          </div>
+        </div>
       </div>
       <div className="max-w-desktop-full mx-auto pt-36 pb-28 pr-20 pl-20 min-h-0 text-left">
+        <div className="absolute right-36 top-36">
+          <SbsIcon />
+        </div>
         <div className="mr-auto w-1/2 md:w-3/5">
           <div className="text-left">
             <Logo />
@@ -125,7 +149,7 @@ export const Hero = ({ data, parentField = ""  }) => {
               <h4 className="font-bold text-5xl text-primary text-center" data-tinafield={`${parentField}.label`}>{data.label}</h4>
             </div>
           )}
-          </div>
+        </div>
       </div>
     </Section>
   );
