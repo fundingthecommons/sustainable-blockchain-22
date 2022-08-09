@@ -9,7 +9,7 @@ blocks:
       - label: Get Tickets
         link: /
         type: primary
-      - label: Apply to speak at the event
+      - label: 'Apply to Speak '
         link: 'https://airtable.com/shr4CeIwfweFUHEkr'
         type: minor
       - label: Sponsor SBS LATAM
