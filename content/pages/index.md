@@ -120,9 +120,9 @@ blocks:
         subhead: Gitcoin
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660086059/sustainable-blockchain/juan_asxcql.png
-        headline: Juan Benet
-        subhead: Protocol Labs
+            https://res.cloudinary.com/protocolai/image/upload/v1660087641/sustainable-blockchain/raphael_benoi_m7ebwg_sopazt.jpg
+        headline: Raphael Benoi
+        subhead: Toucan
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1657719802/Screen_Shot_2022-07-13_at_2.43.16_PM_j7sd3t.png
