@@ -54,6 +54,12 @@ blocks:
     headline: Our speakers are builders
     subhead: ''
     body: ''
+    cards:
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1660085158/sustainable-blockchain/Delton-47_p1jlcy.jpg
+        speaker: Dr. Delton Chen
+        company: Global Carbon Reward
+        title: 'Project Director & Founder,'
     navigationLabel: Speakers
     _template: speakerCards
   - tailwind:
@@ -240,7 +246,7 @@ blocks:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1660077778/sustainable-blockchain/icon-tree-mask_lhgbtw.png
     label: ''
-    headline: Join us in Bogotá for this important gathering
+    headline: Join us in Bogotá for this important gathering.
     subhead: ''
     body: ''
     buttons:
