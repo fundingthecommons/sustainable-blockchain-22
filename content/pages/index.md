@@ -83,6 +83,12 @@ blocks:
     items:
       - image:
           src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1660085971/sustainable-blockchain/alan-ransil-PL_1_novxew.jpg
+        label: ''
+        headline: Alan Ransil
+        subhead: Filecon Green
+      - image:
+          src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1657719802/Screen_Shot_2022-07-13_at_2.43.16_PM_j7sd3t.png
         headline: Brittany Kaiser
         subhead: Gryphon Mining
