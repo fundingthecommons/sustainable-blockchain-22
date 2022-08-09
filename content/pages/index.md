@@ -167,7 +167,7 @@ blocks:
     headline: Agenda
     subhead: ''
     body: |
-      Coming soon.
+      Coming soon.&#x20;
     navigationLabel: Agenda
     _template: banner
   - padding: undefined undefined pr-20 pl-20
@@ -228,7 +228,7 @@ blocks:
     body: ''
     buttons:
       - label: Sponsor SBS LATAM
-        link: 'https://protocollabs.typeform.com/SBSParisSponsor'
+        link: 'https://airtable.com/shrCPatBcaxgdfxx9'
         type: primary
     _template: feature
   - style:
