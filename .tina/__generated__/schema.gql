@@ -1221,7 +1221,11 @@ type PagesBlocksVideo {
   buttons: [PagesBlocksVideoButtons]
 }
 
-union PagesBlocks = PagesBlocksFeature | PagesBlocksPhotoCards | PagesBlocksTextCards | PagesBlocksBanner | PagesBlocksEmbed | PagesBlocksTailwindFeature | PagesBlocksTailwindCards | PagesBlocksHero | PagesBlocksSpeakerCards | PagesBlocksSchedule | PagesBlocksVideo
+type PagesBlocksRule {
+  padding: String
+}
+
+union PagesBlocks = PagesBlocksFeature | PagesBlocksPhotoCards | PagesBlocksTextCards | PagesBlocksBanner | PagesBlocksEmbed | PagesBlocksTailwindFeature | PagesBlocksTailwindCards | PagesBlocksHero | PagesBlocksSpeakerCards | PagesBlocksSchedule | PagesBlocksVideo | PagesBlocksRule
 
 type PagesMeta {
   pageTitle: String
@@ -2400,6 +2404,10 @@ input PagesBlocksVideoMutation {
   buttons: [PagesBlocksVideoButtonsMutation]
 }
 
+input PagesBlocksRuleMutation {
+  padding: String
+}
+
 input PagesBlocksMutation {
   feature: PagesBlocksFeatureMutation
   photoCards: PagesBlocksPhotoCardsMutation
@@ -2412,6 +2420,7 @@ input PagesBlocksMutation {
   speakerCards: PagesBlocksSpeakerCardsMutation
   schedule: PagesBlocksScheduleMutation
   video: PagesBlocksVideoMutation
+  rule: PagesBlocksRuleMutation
 }
 
 input PagesMetaMutation {

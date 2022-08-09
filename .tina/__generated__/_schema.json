@@ -20850,6 +20850,34 @@
                 "blocks",
                 "video"
               ]
+            },
+            {
+              "name": "rule",
+              "label": "Rule",
+              "ui": {
+                "defaultItem": {}
+              },
+              "fields": [
+                {
+                  "label": "Padding",
+                  "name": "padding",
+                  "type": "string",
+                  "ui": {
+                    "component": "paddingControl"
+                  },
+                  "namespace": [
+                    "pages",
+                    "blocks",
+                    "rule",
+                    "padding"
+                  ]
+                }
+              ],
+              "namespace": [
+                "pages",
+                "blocks",
+                "rule"
+              ]
             }
           ],
           "namespace": [

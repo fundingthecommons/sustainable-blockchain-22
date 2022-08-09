@@ -56,7 +56,8 @@
       "hero": "PagesBlocksHero",
       "speakerCards": "PagesBlocksSpeakerCards",
       "schedule": "PagesBlocksSchedule",
-      "video": "PagesBlocksVideo"
+      "video": "PagesBlocksVideo",
+      "rule": "PagesBlocksRule"
     }
   },
   "PagesDocument": {

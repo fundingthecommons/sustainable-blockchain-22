@@ -1005,6 +1005,9 @@ fragment PagesParts on Pages {
         type
       }
     }
+    ... on PagesBlocksRule {
+      padding
+    }
   }
   meta {
     __typename

@@ -19,7 +19,7 @@ blocks:
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-0 '
-      padding: pt-20 pb-20 pr-10 pl-20
+      padding: pt-20 pb-28 pr-10 pl-20
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-20 pb-20 pr-20 pl-10
       labelStyles: 'text-black font-1 text-sm mb-0 '
@@ -41,11 +41,16 @@ blocks:
       biosphere and help us solve these problems together.
     navigationLabel: About
     _template: feature
+  - padding: pt-0 undefined pr-20 pl-20
+    _template: rule
   - style:
-      labelStyles: 'undefined undefined undefined undefined '
+      labelStyles: 'text-accent2 undefined text-sm mb-10 '
       headlineStyles: text-accent2 font-1 text-7xl mb-10 font-bold
       subheadStyles: 'text-accent2 font-1 text-xl mb-10 '
       textStyles: 'undefined undefined undefined undefined '
+    label: >-
+      If you have meaningful work in the sustainability space to share at the
+      conference, please let us know. Thanks!
     headline: Our speakers are builders
     subhead: ''
     body: ''
@@ -94,7 +99,7 @@ blocks:
     _template: speakerCards
   - tailwind:
       section: ''
-      wrap: 'max-w-desktop-full mx-auto p-20 pt-4 min-h-0 '
+      wrap: 'max-w-desktop-full mx-auto p-20 pt-4 pb-28 min-h-0 '
       imageWrap: ''
       image: ''
       contentWrap: ''
@@ -154,15 +159,17 @@ blocks:
         subhead: Digiconomist
         text: ''
     _template: tailwindCards
+  - padding: undefined undefined pr-20 pl-20
+    _template: rule
   - style:
       textAlignment: text-left
       minHeight: min-h-0
-      padding: pt-20 pb-20 pr-20 pl-20
+      padding: pt-28 pb-60 pr-20 pl-20
       width: normal
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: text-accent2 font-1 text-3xl mb-5 font-bold
+      headlineStyles: text-accent2 font-1 text-6xl mb-5 font-bold
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-accent2 font-1 text-sm mb-0 '
+      textStyles: text-accent2 font-1 text-base mb-0 font-bold
       contentOrder: labelHeadingsContent
     label: ''
     headline: Agenda
@@ -171,14 +178,16 @@ blocks:
       Coming soon.
     navigationLabel: Agenda
     _template: banner
+  - padding: undefined undefined pr-20 pl-20
+    _template: rule
   - style:
       textAlignment: text-left
       minHeight: min-h-0
-      padding: 'pt-0 pb-0 pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
+      padding: 'pt-32 pb-0 pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
       contentWidth: w-full
       columns: '3'
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: text-accent2 font-1 text-5xl mb-10 font-bold
+      headlineStyles: text-accent2 font-1 text-6xl mb-10 font-bold
       subheadStyles: 'text-accent2 font-1 text-xl mb-10 '
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
@@ -213,7 +222,7 @@ blocks:
   - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
       featureContent: 'w-full min-h-0 '
-      padding: 'pt-10 pb-10 pr-20 pl-20 sm:pt-0 sm:pb-10 sm:pr-10 sm:pl-10'
+      padding: 'pt-10 pb-32 pr-20 pl-20 sm:pt-0 sm:pb-10 sm:pr-10 sm:pl-10'
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-sm mb-0 '

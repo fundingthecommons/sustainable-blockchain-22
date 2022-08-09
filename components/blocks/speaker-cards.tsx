@@ -1,4 +1,5 @@
 import * as React from "react";
+import { Buttons } from "../buttons"
 import { Content } from "../content";
 import { Section } from "../section";
 import { TinaMarkdown } from "tinacms/dist/rich-text";
@@ -60,7 +61,7 @@ export const SpeakerCards = ({ data, parentField = "" }) => {
         {data.headline && <h2 className="font-bold font-display2 text-xl uppercase text-center text-white mb-8" data-tinafield={`${parentField}.headline`}>{data.headline}</h2>}
       </div> */}
       <Content
-        label = {data.label}
+        label = ""
         headline = {data.headline}
         subhead = {data.subhead}
         body = {data.body}
@@ -85,6 +86,20 @@ export const SpeakerCards = ({ data, parentField = "" }) => {
             />
           })
         )}
+        <div className="flex flex-col justify-center align-center pt-14">
+          <p className={`text-center ${data.style?.labelStyles}`}>{ data.label }</p>
+          <Buttons
+            buttons={[
+              {
+                label: "Apply To Speak",
+                link: "/",
+                type: "secondary"
+              },
+            ]}
+            className={`mx-auto`}
+            parentField={`${parentField}.buttons`}
+          />
+        </div>
       </div>
     </Section>
   );

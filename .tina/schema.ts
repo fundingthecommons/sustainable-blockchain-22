@@ -11,6 +11,7 @@ import { heroBlockSchema } from "./hero";
 import { speakerCardsBlockSchema } from "./speaker-cards";
 import { scheduleBlockSchema } from "./schedule";
 import { videoBlockSchema } from "./video";
+import { ruleBlockSchema } from "./rule";
 
 export default defineSchema({
   collections: [
@@ -43,6 +44,7 @@ export default defineSchema({
             speakerCardsBlockSchema,
             scheduleBlockSchema,
             videoBlockSchema,
+            ruleBlockSchema,
           ],
         },
         {

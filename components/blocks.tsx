@@ -10,6 +10,7 @@ import { Hero } from "./blocks/hero";
 import { SpeakerCards } from "./blocks/speaker-cards";
 import { Schedule } from "./blocks/schedule";
 import { Video } from "./blocks/video";
+import { Rule } from "./blocks/rule";
 
 export const Blocks = (props: Pages | Global) => {
   return (
@@ -88,6 +89,12 @@ export const Blocks = (props: Pages | Global) => {
                 return (
                   <div data-tinafield={`blocks.${i}`} key={i + block.__typename}>
                     <Video data={block} parentField={`blocks.${i}`} />
+                  </div>
+                );
+              case "PagesBlocksRule":
+                return (
+                  <div data-tinafield={`blocks.${i}`} key={i + block.__typename}>
+                    <Rule data={block} parentField={`blocks.${i}`} />
                   </div>
                 );
               default:
