@@ -6,11 +6,11 @@ blocks:
     subhead: 'October 12 Bogotá, Columbia'
     body: ''
     buttons:
-      - label: Keep me updated
+      - label: Get Tickets
         link: /
         type: primary
       - label: Apply to speak at the event
-        link: /
+        link: 'https://airtable.com/shr4CeIwfweFUHEkr'
         type: minor
       - label: Sponsor SBS LATAM
         link: /
