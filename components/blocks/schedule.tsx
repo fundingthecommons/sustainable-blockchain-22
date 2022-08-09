@@ -55,7 +55,7 @@ export const Schedule = ({ data, parentField = "" }) => {
             { data.schedules.map(function (schedule, index) {
               const backgroundClasses = index === active ? 'bg-primary text-white' : ''
               return (
-                <a className={`block text-primary cursor-pointer mb-2 p-2 pl-8 ${backgroundClasses}`} onClick={ () => setActive(index) }>
+                <a className={`block text-primary cursor-pointer mb-2 p-2 pl-8 ${backgroundClasses}`} key={index} onClick={ () => setActive(index) }>
                   <div className="text-md font-bold">{schedule.headline}</div>
                   <div className="text-xs">{schedule.subhead}</div>
                 </a>

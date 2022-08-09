@@ -26,7 +26,7 @@ export const Buttons = ({
   }
 
   return (
-    <div className={`inline-flex flex-wrap gap-4 items-center ${className}`}>
+    <div className={`inline-flex flex-wrap gap-4 ${className}`}>
       {buttons &&
         buttons.map(function (button, index) {
           const element = (
