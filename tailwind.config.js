@@ -48,7 +48,7 @@ module.exports = {
     },
     screens: {
 			lg: { max: "1000px" },
-			md: { max: "800px" },
+			md: { max: "900px" },
 			sm: { max: "700px" },
 		},
     fontSize: {
@@ -83,6 +83,9 @@ module.exports = {
       },
       margin: {
         "edge": "calc((100% - 1000px) * .5)",
+      },
+      padding: {
+        "full": "100%"
       },
       maxWidth: {
         "1/5": "200px",

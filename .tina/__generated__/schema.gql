@@ -1060,6 +1060,74 @@ type PagesBlocksTailwindCards {
   navigationLabel: String
 }
 
+type PagesBlocksHeroImage {
+  src: String
+  alt: String
+}
+
+type PagesBlocksHeroButtons {
+  label: String
+  link: String
+  type: String
+}
+
+type PagesBlocksHero {
+  image: PagesBlocksHeroImage
+  label: String
+  headline: String
+  subhead: String
+  body: JSON
+  buttons: [PagesBlocksHeroButtons]
+}
+
+type PagesBlocksCtaStyle {
+  labelStyles: String
+  headlineStyles: String
+  subheadStyles: String
+  textStyles: String
+}
+
+type PagesBlocksCtaBackgroundOrnaments {
+  src: String
+  alignment: String
+  width: String
+  height: String
+  xOffset: String
+  yOffset: String
+}
+
+type PagesBlocksCtaBackground {
+  fillStyles: String
+  src: String
+  position: String
+  ornaments: [PagesBlocksCtaBackgroundOrnaments]
+}
+
+type PagesBlocksCtaImage {
+  src: String
+  alt: String
+}
+
+type PagesBlocksCtaButtons {
+  label: String
+  link: String
+  type: String
+}
+
+type PagesBlocksCta {
+  style: PagesBlocksCtaStyle
+  background: PagesBlocksCtaBackground
+  image: PagesBlocksCtaImage
+  rule: String
+  label: String
+  headline: String
+  subhead: String
+  body: JSON
+  buttons: [PagesBlocksCtaButtons]
+  rule2: String
+  navigationLabel: String
+}
+
 type PagesBlocksSpeakerCardsStyle {
   labelStyles: String
   headlineStyles: String
@@ -1153,7 +1221,59 @@ type PagesBlocksSchedule {
   navigationLabel: String
 }
 
-union PagesBlocks = PagesBlocksFeature | PagesBlocksPhotoCards | PagesBlocksTextCards | PagesBlocksBanner | PagesBlocksEmbed | PagesBlocksTailwindFeature | PagesBlocksTailwindCards | PagesBlocksSpeakerCards | PagesBlocksSchedule
+type PagesBlocksVideoStyle {
+  padding: String
+  typographyTitle: String
+  labelStyles: String
+  headlineStyles: String
+  subheadStyles: String
+  textStyles: String
+}
+
+type PagesBlocksVideoBackgroundOrnaments {
+  src: String
+  alignment: String
+  width: String
+  height: String
+  xOffset: String
+  yOffset: String
+}
+
+type PagesBlocksVideoBackground {
+  fillStyles: String
+  src: String
+  position: String
+  ornaments: [PagesBlocksVideoBackgroundOrnaments]
+}
+
+type PagesBlocksVideoImage {
+  src: String
+  alt: String
+}
+
+type PagesBlocksVideoButtons {
+  label: String
+  link: String
+  type: String
+}
+
+type PagesBlocksVideo {
+  style: PagesBlocksVideoStyle
+  background: PagesBlocksVideoBackground
+  image: PagesBlocksVideoImage
+  video: String
+  label: String
+  headline: String
+  subhead: String
+  body: JSON
+  buttons: [PagesBlocksVideoButtons]
+}
+
+type PagesBlocksRule {
+  padding: String
+}
+
+union PagesBlocks = PagesBlocksFeature | PagesBlocksPhotoCards | PagesBlocksTextCards | PagesBlocksBanner | PagesBlocksEmbed | PagesBlocksTailwindFeature | PagesBlocksTailwindCards | PagesBlocksHero | PagesBlocksCta | PagesBlocksSpeakerCards | PagesBlocksSchedule | PagesBlocksVideo | PagesBlocksRule
 
 type PagesMeta {
   pageTitle: String
@@ -2171,6 +2291,74 @@ input PagesBlocksTailwindCardsMutation {
   navigationLabel: String
 }
 
+input PagesBlocksHeroImageMutation {
+  src: String
+  alt: String
+}
+
+input PagesBlocksHeroButtonsMutation {
+  label: String
+  link: String
+  type: String
+}
+
+input PagesBlocksHeroMutation {
+  image: PagesBlocksHeroImageMutation
+  label: String
+  headline: String
+  subhead: String
+  body: JSON
+  buttons: [PagesBlocksHeroButtonsMutation]
+}
+
+input PagesBlocksCtaStyleMutation {
+  labelStyles: String
+  headlineStyles: String
+  subheadStyles: String
+  textStyles: String
+}
+
+input PagesBlocksCtaBackgroundOrnamentsMutation {
+  src: String
+  alignment: String
+  width: String
+  height: String
+  xOffset: String
+  yOffset: String
+}
+
+input PagesBlocksCtaBackgroundMutation {
+  fillStyles: String
+  src: String
+  position: String
+  ornaments: [PagesBlocksCtaBackgroundOrnamentsMutation]
+}
+
+input PagesBlocksCtaImageMutation {
+  src: String
+  alt: String
+}
+
+input PagesBlocksCtaButtonsMutation {
+  label: String
+  link: String
+  type: String
+}
+
+input PagesBlocksCtaMutation {
+  style: PagesBlocksCtaStyleMutation
+  background: PagesBlocksCtaBackgroundMutation
+  image: PagesBlocksCtaImageMutation
+  rule: String
+  label: String
+  headline: String
+  subhead: String
+  body: JSON
+  buttons: [PagesBlocksCtaButtonsMutation]
+  rule2: String
+  navigationLabel: String
+}
+
 input PagesBlocksSpeakerCardsStyleMutation {
   labelStyles: String
   headlineStyles: String
@@ -2264,6 +2452,58 @@ input PagesBlocksScheduleMutation {
   navigationLabel: String
 }
 
+input PagesBlocksVideoStyleMutation {
+  padding: String
+  typographyTitle: String
+  labelStyles: String
+  headlineStyles: String
+  subheadStyles: String
+  textStyles: String
+}
+
+input PagesBlocksVideoBackgroundOrnamentsMutation {
+  src: String
+  alignment: String
+  width: String
+  height: String
+  xOffset: String
+  yOffset: String
+}
+
+input PagesBlocksVideoBackgroundMutation {
+  fillStyles: String
+  src: String
+  position: String
+  ornaments: [PagesBlocksVideoBackgroundOrnamentsMutation]
+}
+
+input PagesBlocksVideoImageMutation {
+  src: String
+  alt: String
+}
+
+input PagesBlocksVideoButtonsMutation {
+  label: String
+  link: String
+  type: String
+}
+
+input PagesBlocksVideoMutation {
+  style: PagesBlocksVideoStyleMutation
+  background: PagesBlocksVideoBackgroundMutation
+  image: PagesBlocksVideoImageMutation
+  video: String
+  label: String
+  headline: String
+  subhead: String
+  body: JSON
+  buttons: [PagesBlocksVideoButtonsMutation]
+}
+
+input PagesBlocksRuleMutation {
+  padding: String
+}
+
 input PagesBlocksMutation {
   feature: PagesBlocksFeatureMutation
   photoCards: PagesBlocksPhotoCardsMutation
@@ -2272,8 +2512,12 @@ input PagesBlocksMutation {
   embed: PagesBlocksEmbedMutation
   tailwindFeature: PagesBlocksTailwindFeatureMutation
   tailwindCards: PagesBlocksTailwindCardsMutation
+  hero: PagesBlocksHeroMutation
+  cta: PagesBlocksCtaMutation
   speakerCards: PagesBlocksSpeakerCardsMutation
   schedule: PagesBlocksScheduleMutation
+  video: PagesBlocksVideoMutation
+  rule: PagesBlocksRuleMutation
 }
 
 input PagesMetaMutation {

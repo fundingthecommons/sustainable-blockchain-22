@@ -53,8 +53,12 @@
       "embed": "PagesBlocksEmbed",
       "tailwindFeature": "PagesBlocksTailwindFeature",
       "tailwindCards": "PagesBlocksTailwindCards",
+      "hero": "PagesBlocksHero",
+      "cta": "PagesBlocksCta",
       "speakerCards": "PagesBlocksSpeakerCards",
-      "schedule": "PagesBlocksSchedule"
+      "schedule": "PagesBlocksSchedule",
+      "video": "PagesBlocksVideo",
+      "rule": "PagesBlocksRule"
     }
   },
   "PagesDocument": {
