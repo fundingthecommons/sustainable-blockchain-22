@@ -257,31 +257,6 @@ blocks:
         type: secondary
     _template: cta
   - style:
-      alignment: 'flex-row text-left items-center items-start-vertical '
-      featureContent: 'w-1/2 min-h-0 '
-      padding: pt-20 pb-20 pr-20 pl-32
-      featureImage: 'object-left object-scale-down '
-      imagePadding: pt-20 pb-20 pr-0 pl-20
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-white font-1 text-xl mb-10 '
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-black font-1 undefined mb-0 '
-      contentOrder: labelHeadingsContent
-    background:
-      fillStyles: bg-accent2
-    image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1659995258/sustainable-blockchain/logo-sbs-latam-22_hzj2z0.svg
-    label: ''
-    headline: Please join us in Bogota for this important gathering
-    subhead: ''
-    body: ''
-    buttons:
-      - label: Sign up for updates
-        link: /
-        type: primary
-    _template: feature
-  - style:
       padding: pt-20 pb-20 pr-20 pl-20
       labelStyles: text-accent2 undefined text-3xl mb-5 font-bold
       headlineStyles: text-primary undefined text-xl undefined font-bold

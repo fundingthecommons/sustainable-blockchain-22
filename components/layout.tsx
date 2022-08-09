@@ -1,6 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import { Header } from "./header";
+import { Footer } from "./footer"
 import { Blocks } from "../components/blocks";
 
 const systemFonts = ['Arial','Courier','Geneva','Georgia', 'Helvetica','Impact','Lucida Console','Lucida Grande','Monaco','Palatino','Tahoma','Times New Roman','Verdana']
@@ -151,8 +152,7 @@ export const Layout = ({
       <div className={`min-h-screen flex flex-col`}>
         <Header blocks={pageData?.blocks} globalData={globalData} />
         <div className="flex flex-col flex-1">{children}</div>
-        {/* Footer Blocks */}
-        <Blocks { ...globalData } />
+        <Footer />
       </div>
     </>
   );
