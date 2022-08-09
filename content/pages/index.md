@@ -13,7 +13,7 @@ blocks:
         link: 'https://airtable.com/shr4CeIwfweFUHEkr'
         type: minor
       - label: Sponsor SBS LATAM
-        link: /
+        link: 'https://airtable.com/shrCPatBcaxgdfxx9'
         type: minor
     _template: hero
   - style:
