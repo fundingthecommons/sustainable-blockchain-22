@@ -119,9 +119,9 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1657720748/sustainable-blockchain/rim_oym0yb.png
-        headline: Rim Jeong
-        subhead: Digiconomist
+            https://res.cloudinary.com/protocolai/image/upload/v1660085524/sustainable-blockchain/Screen_Shot_2022-08-09_at_3.51.33_PM_svwti6.png
+        headline: Paula Palermo
+        subhead: Impacta Finance
         text: ''
     _template: tailwindCards
   - padding: undefined undefined pr-20 pl-20
