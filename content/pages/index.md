@@ -83,6 +83,11 @@ blocks:
     items:
       - image:
           src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1660086141/sustainable-blockchain/bio-kevin-owocki_vjourm.png
+        headline: Kevin Owocki
+        subhead: Gitcoin
+      - image:
+          src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660086059/sustainable-blockchain/juan_asxcql.png
         headline: Juan Benet
         subhead: Protocol Labs
