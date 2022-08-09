@@ -113,9 +113,9 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1658386672/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.56.24_AM_imzxgm.png
-        headline: Steven Haft
-        subhead: Consensys
+            https://res.cloudinary.com/protocolai/image/upload/v1660085646/Screen_Shot_2022-08-09_at_3.53.19_PM_l0n49m.png
+        headline: Gregory Landua
+        subhead: Regen Network
         text: ''
       - image:
           src: >-
