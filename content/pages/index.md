@@ -107,9 +107,9 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1658386508/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.54.26_AM_z0odsf.png
-        headline: Alex Devries
-        subhead: Digiconomist
+            https://res.cloudinary.com/protocolai/image/upload/v1660085745/sustainable-blockchain/Screen_Shot_2022-08-09_at_3.55.20_PM_tvhuzx.png
+        headline: Alex Paris
+        subhead: ''
         text: ''
       - image:
           src: >-
