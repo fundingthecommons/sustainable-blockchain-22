@@ -6,17 +6,17 @@ import { TinaMarkdown } from "tinacms/dist/rich-text";
 const Card = ({ data, index, parentField = ""  }) => {
   return (
     <div className="relative" data-tinafield={`${parentField}.${index}`}>
-      <div className="absolute top-14 -bottom-0 left-4 right-0 -z-1 bg-white"></div>
+      <div className="absolute inset-0 top-16 -z-1 bg-white"></div>
       <div className="flex items-center">
         {data.imageSrc && (
           <img
             alt={data.speakerName}
             src={data.imageSrc}
-            className="w-40 h-40 absolute top-0 left-1/2 transform -translate-x-1/2 rounded-full object-cover"
+            className="w-48 h-48 absolute top-0 left-1/2 transform -translate-x-1/2 rounded-full object-cover"
             data-tinafield={`${parentField}.${index}.image`}
           />
         )}
-        <div className="p-10 pt-48" >
+        <div className="p-10 pt-56 pb-14" >
           {data.label && (
             <p
               className="text-md text-accent2 mb-2"

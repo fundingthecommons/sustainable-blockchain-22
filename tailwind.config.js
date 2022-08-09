@@ -84,6 +84,9 @@ module.exports = {
       margin: {
         "edge": "calc((100% - 1000px) * .5)",
       },
+      padding: {
+        "full": "100%"
+      },
       maxWidth: {
         "1/5": "200px",
         "1/4": "250px",

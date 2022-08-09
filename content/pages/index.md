@@ -18,14 +18,14 @@ blocks:
     _template: hero
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
-      featureContent: 'w-1/2 min-h-0 '
+      featureContent: 'w-2/3 min-h-0 '
       padding: pt-20 pb-20 pr-10 pl-20
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-20 pb-20 pr-20 pl-10
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: text-accent2 font-1 text-2xl mb-5 font-bold
+      headlineStyles: text-accent2 font-1 text-7xl mb-11 font-bold
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-accent2 font-1 text-base mb-0 '
+      textStyles: 'text-accent2 font-1 text-4xl mb-0 '
       contentOrder: labelHeadingsContent
     label: ''
     headline: About SBS
@@ -43,7 +43,7 @@ blocks:
     _template: feature
   - style:
       labelStyles: 'undefined undefined undefined undefined '
-      headlineStyles: text-accent2 font-1 text-3xl mb-10 font-bold
+      headlineStyles: text-accent2 font-1 text-7xl mb-10 font-bold
       subheadStyles: 'text-accent2 font-1 text-xl mb-10 '
       textStyles: 'undefined undefined undefined undefined '
     headline: Our speakers are builders
@@ -92,6 +92,68 @@ blocks:
         title: Technical Officer - MDU
     navigationLabel: Speakers
     _template: speakerCards
+  - tailwind:
+      section: ''
+      wrap: 'max-w-desktop-full mx-auto p-20 pt-4 min-h-0 '
+      imageWrap: ''
+      image: ''
+      contentWrap: ''
+      content: ''
+      label: ''
+      headline: text-accent2 text-2xl font-bold mb-8
+      subhead: ''
+      text: ''
+      buttons: ''
+      button: ''
+      cardWrap: 'grid grid-cols-6 gap-12 md:gap-6 sm:grid-cols-3'
+      card: ''
+      cardImageWrap: relative w-full pt-full overflow-hidden rounded-full mb-2
+      cardImage: absolute inset-0 w-full h-full object-cover
+      cardContent: text-accent2 text-sm text-center
+      cardHeadline: font-bold
+      cardText: ''
+    label: ''
+    headline: Previous SBS speakers include...
+    subhead: ''
+    body: ''
+    items:
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1658386508/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.54.26_AM_z0odsf.png
+        headline: Alex Devries
+        subhead: Digiconomist
+        text: ''
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1658386672/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.56.24_AM_imzxgm.png
+        headline: Steven Haft
+        subhead: Consensys
+        text: ''
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1657720748/sustainable-blockchain/rim_oym0yb.png
+        headline: Rim Jeong
+        subhead: Digiconomist
+        text: ''
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1658386508/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.54.26_AM_z0odsf.png
+        headline: Alex Devries
+        subhead: Digiconomist
+        text: ''
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1658386672/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.56.24_AM_imzxgm.png
+        headline: Steven Haft
+        subhead: Consensys
+        text: ''
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1657720748/sustainable-blockchain/rim_oym0yb.png
+        headline: Rim Jeong
+        subhead: Digiconomist
+        text: ''
+    _template: tailwindCards
   - style:
       textAlignment: text-left
       minHeight: min-h-0

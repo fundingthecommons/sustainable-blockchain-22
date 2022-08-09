@@ -1,13 +1,7 @@
 import * as React from "react";
 import { TinaMarkdown } from "tinacms/dist/rich-text";
-import { isString } from "../../helpers/utilities";
 import { Section } from "../section";
 import { Buttons } from "../buttons";
-
-const linkTarget = (link) => {
-  const isExternalLink = isString(link) && link.charAt(0) !== '#'
-  return isExternalLink ? '_blank' : ''
-}
 
 const BG1 = () => {
   return (
@@ -30,10 +24,10 @@ const BG2 = () => {
       <defs>
         <pattern id="trees" x="0" y="0" width="65" height="180" patternUnits="userSpaceOnUse">
           <svg width="49" height="164" viewBox="0 0 49 164" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M46.9003 13.3L26.3003 1.39995C25.2003 0.799951 23.8002 0.799951 22.7002 1.39995L2.10022 13.3C1.00022 13.9 0.300293 15.1 0.300293 16.4V52.7999C0.300293 54.0999 1.00022 55.3 2.10022 55.9L17.7002 64.9V60L4.60022 52.4V16.7L24.6002 5.19995L44.6002 16.7V52.4L31.5002 60V64.9L47.1002 55.9C48.2002 55.3 48.9003 54.0999 48.9003 52.7999V16.4C48.7003 15.1 48.0003 13.9 46.9003 13.3Z" fill="#d8f6d0"/>
-            <path d="M37.3003 23.2999V18.4999L26.7002 24.5999V12.4999H22.4003V24.5999L11.7002 18.4999V23.2999L22.4003 29.4999V37.0999L11.7002 30.9999V35.7999L22.4003 41.9999V49.5999L11.7002 43.3999V48.2999L22.4003 54.4999V78.5999H26.7002V54.4999L37.3003 48.2999V43.3999L26.7002 49.5999V41.9999L37.3003 35.7999V30.9999L26.7002 37.0999V29.4999L37.3003 23.2999Z" fill="#d8f6d0"/>
-            <path d="M46.9003 110.5L26.3003 98.5999C25.2003 97.9999 23.8002 97.9999 22.7002 98.5999L2.10022 110.5C1.00022 111.1 0.300293 112.3 0.300293 113.6V137.4C0.300293 138.7 1.00022 139.9 2.10022 140.5L17.7002 149.5V144.6L4.60022 137V114L24.6002 102.5L44.6002 114V137L31.5002 144.6V149.5L47.1002 140.5C48.2002 139.9 48.9003 138.7 48.9003 137.4V113.6C48.7003 112.3 48.0003 111.1 46.9003 110.5Z" fill="#d8f6d0"/>
-            <path d="M37.3003 120.5V115.6L26.7002 121.8V109.7H22.4003V121.8L11.7002 115.6V120.5L22.4003 126.7V134.3L11.7002 128.1V133L22.4003 139.2V163.5H26.7002V139.2L37.3003 133V128.1L26.7002 134.3V126.7L37.3003 120.5Z" fill="#d8f6d0"/>
+            <path d="M46.9003 13.3L26.3003 1.39995C25.2003 0.799951 23.8002 0.799951 22.7002 1.39995L2.10022 13.3C1.00022 13.9 0.300293 15.1 0.300293 16.4V52.7999C0.300293 54.0999 1.00022 55.3 2.10022 55.9L17.7002 64.9V60L4.60022 52.4V16.7L24.6002 5.19995L44.6002 16.7V52.4L31.5002 60V64.9L47.1002 55.9C48.2002 55.3 48.9003 54.0999 48.9003 52.7999V16.4C48.7003 15.1 48.0003 13.9 46.9003 13.3Z" fill="#cbf6c6"/>
+            <path d="M37.3003 23.2999V18.4999L26.7002 24.5999V12.4999H22.4003V24.5999L11.7002 18.4999V23.2999L22.4003 29.4999V37.0999L11.7002 30.9999V35.7999L22.4003 41.9999V49.5999L11.7002 43.3999V48.2999L22.4003 54.4999V78.5999H26.7002V54.4999L37.3003 48.2999V43.3999L26.7002 49.5999V41.9999L37.3003 35.7999V30.9999L26.7002 37.0999V29.4999L37.3003 23.2999Z" fill="#cbf6c6"/>
+            <path d="M46.9003 110.5L26.3003 98.5999C25.2003 97.9999 23.8002 97.9999 22.7002 98.5999L2.10022 110.5C1.00022 111.1 0.300293 112.3 0.300293 113.6V137.4C0.300293 138.7 1.00022 139.9 2.10022 140.5L17.7002 149.5V144.6L4.60022 137V114L24.6002 102.5L44.6002 114V137L31.5002 144.6V149.5L47.1002 140.5C48.2002 139.9 48.9003 138.7 48.9003 137.4V113.6C48.7003 112.3 48.0003 111.1 46.9003 110.5Z" fill="#cbf6c6"/>
+            <path d="M37.3003 120.5V115.6L26.7002 121.8V109.7H22.4003V121.8L11.7002 115.6V120.5L22.4003 126.7V134.3L11.7002 128.1V133L22.4003 139.2V163.5H26.7002V139.2L37.3003 133V128.1L26.7002 134.3V126.7L37.3003 120.5Z" fill="#cbf6c6"/>
           </svg>
         </pattern>
       </defs>
@@ -87,31 +81,30 @@ const Logo = () => {
 }
 
 export const Hero = ({ data, parentField = ""  }) => {
-  
   return (
     <Section className="mb-40" background={data.background} navigationLabel={data.navigationLabel}>
-      <div className="absolute inset-0 -z-2" style={{ }}>
+      <div className="absolute inset-0 -z-2">
         <div
           className="absolute top-0 left-1/2 transform -translate-x-1/2 bg-primary border"
-          style={{ width: "3000px", bottom: "-350px", clipPath: "polygon(0% 0%, 100% 0%, 100% 100%, 0% 50%)" }}
+          style={{ width: "3000px", bottom: "-900px", clipPath: "polygon(0% 0%, 100% 0%, 100% 100%, 0% 20%)" }}
         >
           <BG1 />
             <div className="absolute -z-1 inset-0 border"
               style={{
                 background: "#eaf9e6",
-                inset: "-350px -1000px 0 1100px",
-                clipPath: "polygon(0% 78%, 100% -30%, 100% 100%, 0% 100%)"
+                inset: "0 -2000px 0 1100px",
+                clipPath: "polygon(0% 50%, 100% -30%, 100% 100%, 0% 100%)"
               }}>
               <BG2 />
             </div>
           </div>
       </div>
-      <div className="max-w-desktop-full mx-auto pt-20 pb-0 pr-20 pl-20 min-h-0 text-left">
+      <div className="max-w-desktop-full mx-auto pt-36 pb-28 pr-20 pl-20 min-h-0 text-left">
         <div className="mr-auto w-1/2 md:w-3/5">
           <div className="text-left">
             <Logo />
             {data.headline && <h1 className="hidden" data-tinafield={`${parentField}.headline`}>{data.headline}</h1>}
-            {data.subhead && <h2 className="my-10 text-2xl text-accent2" data-tinafield={`${parentField}.subhead`}>{data.subhead}</h2>}
+            {data.subhead && <h2 className="mt-8 mb-10 text-3xl text-accent2" data-tinafield={`${parentField}.subhead`}>{data.subhead}</h2>}
             {data.body?.children && (
               <div className="text" data-tinafield={`${parentField}.body`}>
                 <TinaMarkdown content={data.body} />
@@ -128,8 +121,8 @@ export const Hero = ({ data, parentField = ""  }) => {
         </div>
         <div className="relative">
           {data.label && (
-            <div className="absolute -bottom-20 right-0 ml-auto w-128">
-              <h4 className="font-bold text-2xl text-primary text-center" data-tinafield={`${parentField}.label`}>{data.label}</h4>
+            <div className="absolute -bottom-80 right-0 ml-auto w-128 px-12">
+              <h4 className="font-bold text-5xl text-primary text-center" data-tinafield={`${parentField}.label`}>{data.label}</h4>
             </div>
           )}
           </div>
