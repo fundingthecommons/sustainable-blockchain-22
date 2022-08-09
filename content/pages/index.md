@@ -280,7 +280,7 @@ blocks:
     headline: 'July 22-23, 2022'
     subhead: 'Paris, France'
     body: >
-      Hundreds of attendees gathered for SBS EU including representatives from
+      Hundreds of attendees gathered at SBS EU including representatives from
       the UNFCCC, UNESCO, various government representatives, legacy energy
       industry participants, NGOs, and a broad spectrum of web3 Refi/Regen
       projects & networks.
