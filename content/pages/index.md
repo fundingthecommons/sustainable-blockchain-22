@@ -56,6 +56,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1660085971/sustainable-blockchain/alan-ransil-PL_1_novxew.jpg
+        speaker: Alan Ransil
+        company: Filecoin Green
+        title: 'Project Lead,'
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1660086059/sustainable-blockchain/juan_asxcql.png
         speaker: Juan Benet
         company: Protocol Labs
