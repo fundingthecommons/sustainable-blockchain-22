@@ -83,15 +83,20 @@ blocks:
     items:
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660085971/sustainable-blockchain/alan-ransil-PL_1_novxew.jpg
-        label: ''
-        headline: Alan Ransil
-        subhead: Filecon Green
+            https://res.cloudinary.com/protocolai/image/upload/v1660086059/sustainable-blockchain/juan_asxcql.png
+        headline: Juan Benet
+        subhead: Protocol Labs
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1657719802/Screen_Shot_2022-07-13_at_2.43.16_PM_j7sd3t.png
         headline: Brittany Kaiser
         subhead: Gryphon Mining
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1660085839/sustainable-blockchain/Troy_Cross-Headshot_rz62bg.jpg
+        headline: Troy Cross
+        subhead: Reed College
+        text: ''
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1658386719/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
@@ -106,9 +111,15 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660085839/sustainable-blockchain/Troy_Cross-Headshot_rz62bg.jpg
-        headline: Troy Cross
-        subhead: Reed College
+            https://res.cloudinary.com/protocolai/image/upload/v1660085971/sustainable-blockchain/alan-ransil-PL_1_novxew.jpg
+        label: ''
+        headline: Alan Ransil
+        subhead: Filecon Green
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1660085524/sustainable-blockchain/Screen_Shot_2022-08-09_at_3.51.33_PM_svwti6.png
+        headline: Paula Palermo
+        subhead: Impacta Finance
         text: ''
       - image:
           src: >-
@@ -127,12 +138,6 @@ blocks:
             https://res.cloudinary.com/protocolai/image/upload/v1660085646/Screen_Shot_2022-08-09_at_3.53.19_PM_l0n49m.png
         headline: Gregory Landua
         subhead: Regen Network
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660085524/sustainable-blockchain/Screen_Shot_2022-08-09_at_3.51.33_PM_svwti6.png
-        headline: Paula Palermo
-        subhead: Impacta Finance
         text: ''
     _template: tailwindCards
   - padding: undefined undefined pr-20 pl-20
