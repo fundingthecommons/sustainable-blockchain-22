@@ -200,9 +200,9 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660091201/sustainable-blockchain/Screen_Shot_2022-07-16_at_11.44.24_PM_vvpcjf_zlobjx.png
-        headline: Ikarus Janzen
-        subhead: Climate Collective
+            https://res.cloudinary.com/protocolai/image/upload/v1660085971/sustainable-blockchain/alan-ransil-PL_1_novxew.jpg
+        headline: Alan Ransil
+        subhead: Filecoin Green
         text: ''
     _template: tailwindCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
