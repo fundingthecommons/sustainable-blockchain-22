@@ -59,8 +59,9 @@ blocks:
     label: ''
     headline: Speak at the summit
     subhead: >-
-      If you have meaningful work in the sustainability space to share at the
-      conference, please let us know.
+      If you would like to present at the summit, let us know here! SBS welcomes
+      applications from members of underrepresented groups in crypto and from
+      the global south.
     body: ''
     buttons:
       - label: Apply to speak
