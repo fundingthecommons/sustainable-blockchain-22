@@ -170,9 +170,9 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660091006/sustainable-blockchain/beltran_yzcn3d_rutdqx.jpg
-        headline: Beltran Berrocal
-        subhead: Zero Labs
+            https://res.cloudinary.com/protocolai/image/upload/v1660086059/sustainable-blockchain/juan_asxcql.png
+        headline: Juan Benet
+        subhead: Protocol Labs
         text: ''
       - image:
           src: >-
