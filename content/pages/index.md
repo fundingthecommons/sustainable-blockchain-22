@@ -83,6 +83,11 @@ blocks:
     items:
       - image:
           src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1660090937/sustainable-blockchain/paul_headshot_ogpfg2_ngpwxo.jpg
+        headline: Paul Gambill
+        subhead: Nori
+      - image:
+          src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660086141/sustainable-blockchain/bio-kevin-owocki_vjourm.png
         headline: Kevin Owocki
         subhead: Gitcoin
