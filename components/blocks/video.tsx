@@ -10,16 +10,15 @@ export const Video = ({ data, parentField = ""  }) => {
       <div className={`max-w-desktop-full mx-auto min-h-0 text-left ${data.style?.padding}`}>
         {data.label && <h1 className={data.style?.labelStyles} data-tinafield={`${parentField}.label`}>{data.label}</h1>}
         
-        <div className="flex">
-          <div className="mr-auto pr-10 w-2/3 md:w-3/5">
+        <div className="flex sm:flex-col-reverse">
+          <div className="mr-auto pr-10 w-2/3 md:w-3/5 sm:w-full sm:p-0 sm:mt-12">
             <div className="relative w-full" style={{"paddingBottom": "56.25%"}}>
               <iframe src={ data.video } title="SBS EU" frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen style={{position: "absolute", top: "0px", left: "0px", width: "100%", height: "100%"}}></iframe>
             </div>
           </div>
-          <div className="mr-auto w-1/3 md:w-3/5">
-
+          <div className="mr-auto w-1/3 md:w-3/5 sm:w-full">
             <div className="text-left">
               {data.image?.src && (
                 <img
