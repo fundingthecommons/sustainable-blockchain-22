@@ -194,7 +194,7 @@ blocks:
     cardStyle:
       padding: pt-4 pb-4 pr-0 pl-0
       type: solid
-      imageStyles: ' undefined undefined undefined'
+      imageStyles: ' object-none undefined undefined'
       labelStyles: 'text-black undefined text-sm mb-0 '
       headlineStyles: 'text-black undefined text-2xl mb-0 '
       subheadStyles: 'text-black undefined text-lg mb-0 '
@@ -207,13 +207,13 @@ blocks:
     items:
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1651785833/sustainable-blockchain/protocol-labs_hvocql.svg
+            https://res.cloudinary.com/protocolai/image/upload/v1660144266/sustainable-blockchain/logo-pl-latam_ni2qgz.svg
         headline: ''
         subhead: ''
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1651785834/sustainable-blockchain/filecoin-foundation_ulljtq.svg
+            https://res.cloudinary.com/protocolai/image/upload/v1660144262/sustainable-blockchain/logo-ff-latam_offfi0.svg
         headline: ''
         subhead: ''
         text: ''
@@ -281,11 +281,11 @@ blocks:
         type: minor
     _template: video
 meta:
-  pageTitle: Sustainable Blockchain Summit EU
+  pageTitle: Sustainable Blockchain Summit LATAM
   pageDescription: >-
     Two days of talks, workshops and discussions on how we can work together to
     develop and build greener blockchain solutions.
   siteImageSrc: >-
-    https://res.cloudinary.com/protocolai/image/upload/v1652804891/sustainable-blockchain/sustainable-blockchain-social_olpshl.jpg
+    https://res.cloudinary.com/protocolai/image/upload/v1660144017/sustainable-blockchain/sbs-latam-og-image_zukwsd.jpg
 ---
 

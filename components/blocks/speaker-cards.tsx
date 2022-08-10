@@ -57,9 +57,6 @@ const Card = ({ data, index, parentField = ""  }) => {
 export const SpeakerCards = ({ data, parentField = "" }) => {
   return (
     <Section className="max-w-desktop-full mx-auto px-20 py-20 sm:px-10" background={data.background} navigationLabel={data.navigationLabel}>
-      {/* <div className="">
-        {data.headline && <h2 className="font-bold font-display2 text-xl uppercase text-center text-white mb-8" data-tinafield={`${parentField}.headline`}>{data.headline}</h2>}
-      </div> */}
       <Content
         label = ""
         headline = {data.headline}
@@ -87,7 +84,7 @@ export const SpeakerCards = ({ data, parentField = "" }) => {
           })
         )}
         <div className="flex flex-col justify-center align-center pt-14">
-          <p className={`text-center ${data.style?.labelStyles}`}>{ data.label }</p>
+          <p className={`text-center px-16 ${data.style?.labelStyles}`}>{ data.label }</p>
           <Buttons
             buttons={[
               {
