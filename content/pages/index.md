@@ -6,8 +6,8 @@ blocks:
     subhead: 'October 12 • Bogotá, Colombia'
     body: ''
     buttons:
-      - label: Tickets coming soon!
-        link: /
+      - label: Grab your ticket
+        link: 'https://www.eventbrite.com/e/397452199227'
         type: primary
       - label: 'Apply to Speak '
         link: 'https://airtable.com/shr4CeIwfweFUHEkr'
