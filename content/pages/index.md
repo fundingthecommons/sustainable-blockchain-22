@@ -166,6 +166,7 @@ blocks:
             https://res.cloudinary.com/protocolai/image/upload/v1660086268/sustainable-blockchain/Screen_Shot_2022-08-09_at_4.04.06_PM_jdv9ut.png
         label: ''
         headline: Sharfy Adamantine
+        subhead: Gainforest
         text: ''
       - image:
           src: >-
