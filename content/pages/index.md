@@ -83,9 +83,9 @@ blocks:
     items:
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660091201/sustainable-blockchain/Screen_Shot_2022-07-16_at_11.44.24_PM_vvpcjf_zlobjx.png
-        headline: Ikarus Janzen
-        subhead: Climate Collective
+            https://res.cloudinary.com/protocolai/image/upload/v1660091252/sustainable-blockchain/Linda_Jirouskova_wo2qmd_eqky3g.jpg
+        headline: Linda Jirouskova
+        subhead: RMI
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660086141/sustainable-blockchain/bio-kevin-owocki_vjourm.png
@@ -139,16 +139,16 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1658386278/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.35.27_AM_pg1scm.png
-        label: ''
-        headline: Adrian Wons
-        subhead: Senken
-      - image:
-          src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660085745/sustainable-blockchain/Screen_Shot_2022-08-09_at_3.55.20_PM_tvhuzx.png
         headline: Alex Paris
         subhead: UN Climate Change
         text: ''
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1658386278/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.35.27_AM_pg1scm.png
+        label: ''
+        headline: Adrian Wons
+        subhead: Senken
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660086268/sustainable-blockchain/Screen_Shot_2022-08-09_at_4.04.06_PM_jdv9ut.png
@@ -165,6 +165,11 @@ blocks:
             https://res.cloudinary.com/protocolai/image/upload/v1660090937/sustainable-blockchain/paul_headshot_ogpfg2_ngpwxo.jpg
         headline: Paul Gambill
         subhead: Nori
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1660091201/sustainable-blockchain/Screen_Shot_2022-07-16_at_11.44.24_PM_vvpcjf_zlobjx.png
+        headline: Ikarus Janzen
+        subhead: Climate Collective
     _template: tailwindCards
   - padding: undefined undefined pr-20 pl-20
     _template: rule
