@@ -6,7 +6,7 @@ blocks:
     subhead: 'October 12 Bogotá, Columbia'
     body: ''
     buttons:
-      - label: Get Tickets
+      - label: Tickets coming soon!
         link: /
         type: primary
       - label: 'Apply to Speak '
