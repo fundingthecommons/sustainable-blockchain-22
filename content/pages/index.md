@@ -19,7 +19,7 @@ blocks:
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-0 '
-      padding: pt-20 pb-28 pr-10 pl-20
+      padding: pt-20 pb-28 pr-48 pl-20
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-20 pb-20 pr-20 pl-10
       labelStyles: 'text-black font-1 text-sm mb-0 '
@@ -86,11 +86,13 @@ blocks:
             https://res.cloudinary.com/protocolai/image/upload/v1660086141/sustainable-blockchain/bio-kevin-owocki_vjourm.png
         headline: Kevin Owocki
         subhead: Gitcoin
+        text: ''
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1657719802/Screen_Shot_2022-07-13_at_2.43.16_PM_j7sd3t.png
         headline: Brittany Kaiser
         subhead: Gryphon Mining
+        text: ''
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660085839/sustainable-blockchain/Troy_Cross-Headshot_rz62bg.jpg
@@ -103,6 +105,7 @@ blocks:
         label: ''
         headline: Kirsteen Harrison
         subhead: Zumo
+        text: ''
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660085646/Screen_Shot_2022-08-09_at_3.53.19_PM_l0n49m.png
@@ -120,6 +123,7 @@ blocks:
             https://res.cloudinary.com/protocolai/image/upload/v1660087641/sustainable-blockchain/raphael_benoi_m7ebwg_sopazt.jpg
         headline: Raphael Benoi
         subhead: Toucan
+        text: ''
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660085524/sustainable-blockchain/Screen_Shot_2022-08-09_at_3.51.33_PM_svwti6.png
@@ -144,6 +148,7 @@ blocks:
         label: ''
         headline: Adrian Wons
         subhead: Senken
+        text: ''
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660086268/sustainable-blockchain/Screen_Shot_2022-08-09_at_4.04.06_PM_jdv9ut.png
@@ -155,31 +160,37 @@ blocks:
             https://res.cloudinary.com/protocolai/image/upload/v1660091006/sustainable-blockchain/beltran_yzcn3d_rutdqx.jpg
         headline: Beltran Berrocal
         subhead: Zero Labs
+        text: ''
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660090937/sustainable-blockchain/paul_headshot_ogpfg2_ngpwxo.jpg
         headline: Paul Gambill
         subhead: Nori
+        text: ''
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660091532/sustainable-blockchain/bio-olya_irzak_vbfmlw_a3vnuk.jpg
         headline: Olya Irzak
         subhead: Frost Methane
+        text: ''
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660091252/sustainable-blockchain/Linda_Jirouskova_wo2qmd_eqky3g.jpg
         headline: Linda Jirouskova
         subhead: RMI
+        text: ''
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660091347/sustainable-blockchain/bio-gloria-kimbwala_gzkvep_p4jn2s.jpg
         headline: Gloria Kimbwala
         subhead: Gitcoin
+        text: ''
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660091201/sustainable-blockchain/Screen_Shot_2022-07-16_at_11.44.24_PM_vvpcjf_zlobjx.png
         headline: Ikarus Janzen
         subhead: Climate Collective
+        text: ''
     _template: tailwindCards
   - padding: undefined undefined pr-20 pl-20
     _template: rule
