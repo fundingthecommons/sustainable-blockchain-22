@@ -43,7 +43,7 @@ blocks:
       biosphere and help us solve these problems together.
     navigationLabel: About
     _template: feature
-  - padding: pt-0 undefined pr-20 pl-20
+  - padding: 'pt-0 undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
   - style:
       labelStyles: 'text-accent2 undefined text-sm mb-10 '
@@ -73,8 +73,8 @@ blocks:
       button: ''
       cardWrap: 'grid grid-cols-6 gap-12 md:gap-6 sm:grid-cols-3'
       card: ''
-      cardImageWrap: relative w-full pt-full overflow-hidden rounded-full mb-2
-      cardImage: absolute inset-0 w-full h-full object-cover
+      cardImageWrap: 'relative mb-4 mx-auto w-32 h-32 md:w-24 md:h-24'
+      cardImage: absolute inset-0 w-full h-full object-cover rounded-full
       cardContent: text-accent2 text-sm text-center
       cardHeadline: font-bold
       cardText: ''
@@ -194,7 +194,7 @@ blocks:
         subhead: Climate Collective
         text: ''
     _template: tailwindCards
-  - padding: undefined undefined pr-20 pl-20
+  - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
   - style:
       textAlignment: text-left
@@ -213,7 +213,7 @@ blocks:
       Coming soon.&#x20;
     navigationLabel: Agenda
     _template: banner
-  - padding: undefined undefined pr-20 pl-20
+  - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
   - style:
       textAlignment: text-left
