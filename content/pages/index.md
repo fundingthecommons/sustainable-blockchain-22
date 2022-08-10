@@ -59,7 +59,7 @@ blocks:
     label: ''
     headline: Speak at the summit
     subhead: >-
-      If you would like to present at the summit, let us know here! SBS welcomes
+      If you would like to present at the summit, let us know! SBS welcomes
       applications from members of underrepresented groups in crypto and from
       the global south.
     body: ''
