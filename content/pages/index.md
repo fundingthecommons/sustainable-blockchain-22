@@ -83,9 +83,9 @@ blocks:
     items:
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660090937/sustainable-blockchain/paul_headshot_ogpfg2_ngpwxo.jpg
-        headline: Paul Gambill
-        subhead: Nori
+            https://res.cloudinary.com/protocolai/image/upload/v1660091006/sustainable-blockchain/beltran_yzcn3d_rutdqx.jpg
+        headline: Beltran Berrocal
+        subhead: Zero Labs
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660086141/sustainable-blockchain/bio-kevin-owocki_vjourm.png
@@ -155,6 +155,11 @@ blocks:
         label: ''
         headline: Sharfy Adamantine
         text: ''
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1660090937/sustainable-blockchain/paul_headshot_ogpfg2_ngpwxo.jpg
+        headline: Paul Gambill
+        subhead: Nori
     _template: tailwindCards
   - padding: undefined undefined pr-20 pl-20
     _template: rule
