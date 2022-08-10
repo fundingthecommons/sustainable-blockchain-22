@@ -120,14 +120,15 @@ export const Hero = ({ data, parentField = ""  }) => {
           </div>
         </div>
       </div>
-      <div className="relative max-w-desktop-full mx-auto pt-36 pb-28 pr-20 pl-20 min-h-0 text-left">
-        <div className="absolute right-36 top-36">
+      <div className="relative max-w-desktop-full mx-auto pt-36 pb-28 pr-20 pl-20 sm:p-8 sm:pt-24 min-h-0 text-left">
+        <div className="absolute right-36 top-36 sm:hidden">
           <SbsIcon />
         </div>
         <div className="mr-auto w-1/2 md:w-3/5">
           <div className="text-left">
             <Logo />
             {data.headline && <h1 className="hidden" data-tinafield={`${parentField}.headline`}>{data.headline}</h1>}
+            {/* Hardcode - for the spaces */}
             {data.subhead && <h2 className="mt-8 mb-10 text-3xl text-accent2" data-tinafield={`${parentField}.subhead`}>{data.subhead}</h2>}
             {data.body?.children && (
               <div className="text" data-tinafield={`${parentField}.body`}>
@@ -145,8 +146,8 @@ export const Hero = ({ data, parentField = ""  }) => {
         </div>
         <div className="relative">
           {data.label && (
-            <div className="absolute -bottom-80 right-0 ml-auto w-128 px-12">
-              <h4 className="font-bold text-5xl text-primary text-center" data-tinafield={`${parentField}.label`}>{data.label}</h4>
+            <div className="absolute -bottom-80 mb-4 right-0 ml-auto w-128 px-12 sm:w-full sm:pl-12 sm:pr-0 sm:-bottom-72 sm:mb-0">
+              <h4 className="font-bold text-5xl text-primary text-right sm:text-2xl" data-tinafield={`${parentField}.label`}>{data.label}</h4>
             </div>
           )}
         </div>
