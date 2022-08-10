@@ -83,9 +83,9 @@ blocks:
     items:
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660091252/sustainable-blockchain/Linda_Jirouskova_wo2qmd_eqky3g.jpg
-        headline: Linda Jirouskova
-        subhead: RMI
+            https://res.cloudinary.com/protocolai/image/upload/v1660091347/sustainable-blockchain/bio-gloria-kimbwala_gzkvep_p4jn2s.jpg
+        headline: Gloria Kimbwala
+        subhead: Gitcoin
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660086141/sustainable-blockchain/bio-kevin-owocki_vjourm.png
@@ -165,6 +165,11 @@ blocks:
             https://res.cloudinary.com/protocolai/image/upload/v1660090937/sustainable-blockchain/paul_headshot_ogpfg2_ngpwxo.jpg
         headline: Paul Gambill
         subhead: Nori
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1660091252/sustainable-blockchain/Linda_Jirouskova_wo2qmd_eqky3g.jpg
+        headline: Linda Jirouskova
+        subhead: RMI
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660091201/sustainable-blockchain/Screen_Shot_2022-07-16_at_11.44.24_PM_vvpcjf_zlobjx.png
