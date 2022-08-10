@@ -83,9 +83,9 @@ blocks:
     items:
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660091347/sustainable-blockchain/bio-gloria-kimbwala_gzkvep_p4jn2s.jpg
-        headline: Gloria Kimbwala
-        subhead: Gitcoin
+            https://res.cloudinary.com/protocolai/image/upload/v1660091532/sustainable-blockchain/bio-olya_irzak_vbfmlw_a3vnuk.jpg
+        headline: Olya Irzak
+        subhead: Frost Methane
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1660086141/sustainable-blockchain/bio-kevin-owocki_vjourm.png
@@ -175,6 +175,11 @@ blocks:
             https://res.cloudinary.com/protocolai/image/upload/v1660091201/sustainable-blockchain/Screen_Shot_2022-07-16_at_11.44.24_PM_vvpcjf_zlobjx.png
         headline: Ikarus Janzen
         subhead: Climate Collective
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1660091347/sustainable-blockchain/bio-gloria-kimbwala_gzkvep_p4jn2s.jpg
+        headline: Gloria Kimbwala
+        subhead: Gitcoin
     _template: tailwindCards
   - padding: undefined undefined pr-20 pl-20
     _template: rule
