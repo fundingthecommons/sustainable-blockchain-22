@@ -53,18 +53,18 @@ blocks:
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-sm mb-0 '
       headlineStyles: text-accent2 font-1 text-6xl mb-5 font-bold
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      subheadStyles: 'text-accent2 font-1 text-xl mb-0 '
       textStyles: text-accent2 font-1 text-base mb-7 font-bold
       contentOrder: labelHeadingsContent
     label: ''
     headline: Speak at the summit
-    subhead: ''
-    body: >
+    subhead: >-
       If you have meaningful work in the sustainability space to share at the
       conference, please let us know.
+    body: ''
     buttons:
       - label: Apply to speak
-        link: /
+        link: 'https://airtable.com/shr4CeIwfweFUHEkr'
         type: primary
     navigationLabel: Speakers
     _template: feature
@@ -166,6 +166,7 @@ blocks:
             https://res.cloudinary.com/protocolai/image/upload/v1660086268/sustainable-blockchain/Screen_Shot_2022-08-09_at_4.04.06_PM_jdv9ut.png
         label: ''
         headline: Sharfy Adamantine
+        subhead: Gainforest
         text: ''
       - image:
           src: >-
