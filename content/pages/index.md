@@ -49,27 +49,11 @@ blocks:
       subheadStyles: 'text-accent2 font-1 text-xl mb-10 '
       textStyles: 'undefined undefined undefined undefined '
     label: >-
-      If you have meaningful work in the sustainability space to share at the
-      conference, please let us know. Thanks!
-    headline: Our speakers are builders
+      If you have meaningful work in the sustainability space to share at SBS,
+      please let us know. 
+    headline: Apply to speak
     subhead: ''
     body: ''
-    cards:
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1660085158/sustainable-blockchain/Delton-47_p1jlcy.jpg
-        speaker: Dr. Delton Chen
-        company: Global Carbon Reward
-        title: 'Project Director & Founder,'
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1660086059/sustainable-blockchain/juan_asxcql.png
-        speaker: Juan Benet
-        company: Protocol Labs
-        title: 'Founder and CEO,'
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1660087459/Orin_mlgf0s.jpg
-        speaker: Orinayo Ayodele
-        company: Filecoin Green
-        title: 'Program Manager,'
     navigationLabel: Speakers
     _template: speakerCards
   - tailwind:
