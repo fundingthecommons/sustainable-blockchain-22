@@ -112,7 +112,7 @@ export const Hero = ({ data, parentField = ""  }) => {
           <BG1 />
           <div className="absolute -z-1 inset-0"
             style={{
-              background: "#eaf9e6",
+              background: "rgb(230 250 228)",
               inset: "0 -2000px 0 1100px",
               clipPath: "polygon(0% 50%, 100% -30%, 100% 100%, 0% 100%)"
             }}>
@@ -120,7 +120,7 @@ export const Hero = ({ data, parentField = ""  }) => {
           </div>
         </div>
       </div>
-      <div className="max-w-desktop-full mx-auto pt-36 pb-28 pr-20 pl-20 min-h-0 text-left">
+      <div className="relative max-w-desktop-full mx-auto pt-36 pb-28 pr-20 pl-20 min-h-0 text-left">
         <div className="absolute right-36 top-36">
           <SbsIcon />
         </div>

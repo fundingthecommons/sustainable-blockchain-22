@@ -104,7 +104,7 @@ export const Layout = ({
               scroll-behavior: smooth;
             }
             body {
-              background: linear-gradient(120deg, #D4F6D0 0%, #BBECFC 100%);
+              background: linear-gradient(100deg, #D4F6D0 0%, #BBECFC 100%);
               overflow-x: hidden;
             }
             .markdown a:not(.button) {
