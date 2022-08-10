@@ -299,7 +299,7 @@ blocks:
     body: ''
     buttons:
       - label: Register now
-        link: /
+        link: 'https://www.eventbrite.com/e/397452199227'
         type: secondary
     _template: cta
   - style:
