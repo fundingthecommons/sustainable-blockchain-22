@@ -66,6 +66,7 @@ blocks:
       - label: Apply to speak
         link: /
         type: primary
+    navigationLabel: Speakers
     _template: feature
   - tailwind:
       section: ''

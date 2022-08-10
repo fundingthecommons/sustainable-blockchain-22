@@ -101,14 +101,14 @@ const SbsIcon = () => {
 export const Hero = ({ data, parentField = ""  }) => {
   return (
     <Section className="mb-40" background={data.background} navigationLabel={data.navigationLabel}>
+      <div className="absolute -z-2 left-1/2 top-0 right-0 h-full">
+        <img src="/images/canopy.jpg" className="w-full h-full object-cover"/>
+      </div>
       <div className="absolute inset-0 -z-2">
         <div
-          className="absolute top-0 left-1/2 transform -translate-x-1/2 bg-primary"
+          className="absolute top-0 left-1/2 transform -translate-x-1/2"
           style={{ width: "3000px", bottom: "-900px", clipPath: "polygon(0% 0%, 100% 0%, 100% 100%, 0% 20%)" }}
         >
-          <div className="absolute -z-2 left-1/2 top-0 right-0 bottom-1/2 bg-black">
-            <img src="/images/canopy.jpg" className="w-full h-full object-cover"/>
-          </div>
           <BG1 />
           <div className="absolute -z-1 inset-0"
             style={{
@@ -121,7 +121,7 @@ export const Hero = ({ data, parentField = ""  }) => {
         </div>
       </div>
       <div className="relative max-w-desktop-full mx-auto pt-36 pb-28 pr-20 pl-20 sm:p-8 sm:pt-24 min-h-0 text-left">
-        <div className="absolute right-36 top-36 sm:hidden">
+        <div className="absolute right-36 top-36 md:hidden">
           <SbsIcon />
         </div>
         <div className="mr-auto w-1/2 md:w-3/5">
