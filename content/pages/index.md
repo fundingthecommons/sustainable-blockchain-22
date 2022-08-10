@@ -46,18 +46,27 @@ blocks:
   - padding: 'pt-0 undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
   - style:
-      labelStyles: 'text-accent2 undefined text-sm mb-10 '
-      headlineStyles: text-accent2 font-1 text-7xl mb-10 font-bold
-      subheadStyles: 'text-accent2 font-1 text-xl mb-10 '
-      textStyles: 'undefined undefined undefined undefined '
-    label: >-
-      If you have meaningful work in the sustainability space to share at SBS,
-      please let us know. 
-    headline: Apply to speak
+      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
+      featureContent: 'w-4/5 min-h-0 '
+      padding: 'pt-20 pb-10 pr-20 pl-20 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: text-accent2 font-1 text-6xl mb-5 font-bold
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: text-accent2 font-1 text-base mb-7 font-bold
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: Speak at the summit
     subhead: ''
-    body: ''
-    navigationLabel: Speakers
-    _template: speakerCards
+    body: >
+      If you have meaningful work in the sustainability space to share at the
+      conference, please let us know.
+    buttons:
+      - label: Apply to speak
+        link: /
+        type: primary
+    _template: feature
   - tailwind:
       section: ''
       wrap: 'max-w-desktop-full mx-auto p-20 pt-4 pb-28 sm:p-10 min-h-0 '
