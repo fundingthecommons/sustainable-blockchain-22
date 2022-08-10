@@ -6,8 +6,8 @@ blocks:
     subhead: 'October 12 • Bogotá, Colombia'
     body: ''
     buttons:
-      - label: Get Your Ticket
-        link: 'https://www.eventbrite.com/e/397452199227'
+      - label: Tickets coming soon!
+        link: /
         type: primary
       - label: 'Apply to Speak '
         link: 'https://airtable.com/shr4CeIwfweFUHEkr'
@@ -59,9 +59,8 @@ blocks:
     label: ''
     headline: Speak at the summit
     subhead: >-
-      If you would like to present at the summit, let us know! SBS welcomes
-      applications from members of underrepresented groups in crypto and from
-      the global south.
+      If you have meaningful work in the sustainability space to share at the
+      conference, please let us know.
     body: ''
     buttons:
       - label: Apply to speak
@@ -147,7 +146,7 @@ blocks:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1657720748/sustainable-blockchain/rim_oym0yb.png
         headline: Rim Jeong
-        subhead: Open Forest Protocol
+        subhead: Digiconomist
         text: ''
       - image:
           src: >-
@@ -171,9 +170,9 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660086059/sustainable-blockchain/juan_asxcql.png
-        headline: Juan Benet
-        subhead: Protocol Labs
+            https://res.cloudinary.com/protocolai/image/upload/v1660091006/sustainable-blockchain/beltran_yzcn3d_rutdqx.jpg
+        headline: Beltran Berrocal
+        subhead: Zero Labs
         text: ''
       - image:
           src: >-
@@ -201,9 +200,9 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660085971/sustainable-blockchain/alan-ransil-PL_1_novxew.jpg
-        headline: Alan Ransil
-        subhead: Filecoin Green
+            https://res.cloudinary.com/protocolai/image/upload/v1660091201/sustainable-blockchain/Screen_Shot_2022-07-16_at_11.44.24_PM_vvpcjf_zlobjx.png
+        headline: Ikarus Janzen
+        subhead: Climate Collective
         text: ''
     _template: tailwindCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
@@ -300,7 +299,7 @@ blocks:
     body: ''
     buttons:
       - label: Register now
-        link: 'https://www.eventbrite.com/e/397452199227'
+        link: /
         type: secondary
     _template: cta
   - style:
@@ -334,6 +333,6 @@ meta:
     One-day summit packed with expert talks, workshops, and deep dives featuring
     the top thought leaders in sustainability and web3.
   siteImageSrc: >-
-    https://res.cloudinary.com/protocolai/image/upload/v1660144017/sustainable-blockchain/sbs-latam-og-image_zukwsd.jpg
+    https://res.cloudinary.com/protocolai/image/upload/v1660171020/sbs-latam-og-image_fj06r1.png
 ---
 
