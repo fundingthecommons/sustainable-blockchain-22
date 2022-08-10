@@ -64,7 +64,7 @@ blocks:
       conference, please let us know.
     buttons:
       - label: Apply to speak
-        link: /
+        link: 'https://airtable.com/shr4CeIwfweFUHEkr'
         type: primary
     navigationLabel: Speakers
     _template: feature
