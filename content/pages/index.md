@@ -146,7 +146,7 @@ blocks:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1657720748/sustainable-blockchain/rim_oym0yb.png
         headline: Rim Jeong
-        subhead: Digiconomist
+        subhead: Open Forest Protocol
         text: ''
       - image:
           src: >-
