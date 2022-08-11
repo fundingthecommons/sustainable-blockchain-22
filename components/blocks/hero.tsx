@@ -101,8 +101,9 @@ const SbsIcon = () => {
 export const Hero = ({ data, parentField = ""  }) => {
   return (
     <Section className="mb-40" background={data.background} navigationLabel={data.navigationLabel}>
-      <div className="absolute -z-2 left-1/2 top-0 right-0 h-full">
-        <img src="/images/canopy.jpg" className="w-full h-full object-cover"/>
+      <div id="canopy" className="absolute -z-2 left-1/2 top-0 right-0">
+        <div className="pattern"></div>
+        <div className="absolute w-full h-40 bg-gradient-to-b from-black opacity-70"></div>
       </div>
       <div className="absolute inset-0 -z-2">
         <div
@@ -128,8 +129,7 @@ export const Hero = ({ data, parentField = ""  }) => {
           <div className="text-left">
             <Logo />
             {data.headline && <h1 className="hidden" data-tinafield={`${parentField}.headline`}>{data.headline}</h1>}
-            {/* Hardcode - for the spaces */}
-            {data.subhead && <h2 className="mt-8 mb-10 text-3xl text-accent2" data-tinafield={`${parentField}.subhead`}>{data.subhead}</h2>}
+            {data.subhead && <h2 className="mt-8 mb-10 text-3xl text-accent2 sm:text-xl" data-tinafield={`${parentField}.subhead`}>{data.subhead}</h2>}
             {data.body?.children && (
               <div className="text" data-tinafield={`${parentField}.body`}>
                 <TinaMarkdown content={data.body} />
