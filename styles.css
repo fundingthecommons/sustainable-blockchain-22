@@ -36,7 +36,7 @@ section > .text-right .markdown img {
 #canopy {
   position: absolute;
   overflow: hidden;
-  height: 900px;
+  height: 640px;
 }
 #canopy .pattern {
   position: absolute;
