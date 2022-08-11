@@ -107,7 +107,7 @@ export const Hero = ({ data, parentField = ""  }) => {
       </div>
       <div className="absolute inset-0 -z-2">
         <div
-          className="absolute top-0 left-1/2 transform -translate-x-1/2"
+          className="absolute top-0 transform left-1/2 -translate-x-1/2 sm:left-2/3 "
           style={{ width: "3000px", bottom: "-900px", clipPath: "polygon(0% 0%, 100% 0%, 100% 100%, 0% 20%)" }}
         >
           <BG1 />
