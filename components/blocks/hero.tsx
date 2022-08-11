@@ -125,11 +125,11 @@ export const Hero = ({ data, parentField = ""  }) => {
         <div className="absolute right-36 top-36 md:hidden">
           <SbsIcon />
         </div>
-        <div className="mr-auto w-1/2 md:w-3/5">
+        <div className="mr-auto w-1/2 md:w-3/5 sm:w-8/12">
           <div className="text-left">
             <Logo />
             {data.headline && <h1 className="hidden" data-tinafield={`${parentField}.headline`}>{data.headline}</h1>}
-            {data.subhead && <h2 className="mt-8 mb-10 text-3xl text-accent2 sm:text-xl" data-tinafield={`${parentField}.subhead`}>{data.subhead}</h2>}
+            {data.subhead && <h2 className="mt-8 mb-10 text-3xl text-accent2 sm:text-lg" data-tinafield={`${parentField}.subhead`}>{data.subhead}</h2>}
             {data.body?.children && (
               <div className="text" data-tinafield={`${parentField}.body`}>
                 <TinaMarkdown content={data.body} />
