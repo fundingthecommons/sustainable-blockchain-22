@@ -15,7 +15,7 @@ export const Buttons = ({
     const styles = {
       primary: `${buttons?.primaryFill} ${buttons?.primaryTypography} ${buttons?.primaryBorder} ${buttons?.primaryPadding} ${buttons?.primaryRounded}`,
       secondary: `${buttons?.secondaryFill} ${buttons?.secondaryTypography} ${buttons?.secondaryBorder} ${buttons?.secondaryPadding} ${buttons?.secondaryRounded}`,
-      minor: `${buttons?.minorFill} ${buttons?.minorTypography} ${buttons?.minorBorder} ${buttons?.minorPadding} ${buttons?.minorRounded}`,
+      minor: `underline ${buttons?.minorFill} ${buttons?.minorTypography} ${buttons?.minorBorder} ${buttons?.minorPadding} ${buttons?.minorRounded}`,
     };
     return button.type ? styles[button.type] : styles.primary
   }
@@ -26,7 +26,7 @@ export const Buttons = ({
   }
 
   return (
-    <div className={`inline-flex flex-wrap gap-4 items-center ${className}`}>
+    <div className={`inline-flex flex-wrap gap-4 ${className}`}>
       {buttons &&
         buttons.map(function (button, index) {
           const element = (

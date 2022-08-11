@@ -1,6 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import { Header } from "./header";
+import { Footer } from "./footer"
 import { Blocks } from "../components/blocks";
 
 const systemFonts = ['Arial','Courier','Geneva','Georgia', 'Helvetica','Impact','Lucida Console','Lucida Grande','Monaco','Palatino','Tahoma','Times New Roman','Verdana']
@@ -102,6 +103,10 @@ export const Layout = ({
             html {
               scroll-behavior: smooth;
             }
+            body {
+              background: linear-gradient(100deg, #D4F6D0 0%, #BBECFC 100%);
+              overflow-x: hidden;
+            }
             .markdown a:not(.button) {
               color: var(--${globalData?.links?.color}-color);
             }
@@ -144,11 +149,10 @@ export const Layout = ({
           <link href={googleFontsLink(globalData?.fonts)} rel="stylesheet"></link>
         )}
       </Head>
-      <div className={`min-h-screen flex flex-col`}>
+      <div className={`min-h-screen flex flex-col overflow-x-hidden`}>
         <Header blocks={pageData?.blocks} globalData={globalData} />
         <div className="flex flex-col flex-1">{children}</div>
-        {/* Footer Blocks */}
-        <Blocks { ...globalData } />
+        <Footer />
       </div>
     </>
   );

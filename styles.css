@@ -33,6 +33,30 @@ section > .text-right .markdown img {
   margin-left: auto;
 }
 
+#canopy {
+  position: absolute;
+  overflow: hidden;
+  height: 640px;
+}
+#canopy .pattern {
+  position: absolute;
+  background-image: url('/trees-seamless.jpg');
+  background-repeat: repeat;
+  background-size: 700px 1240px;
+  animation: tree-animation 180s infinite;
+  animation-timing-function: linear;
+  width: 1400px;
+  height: 2480px;
+}
+@keyframes tree-animation {
+  0% {
+    top: 0;
+  }
+  100% {
+    top: -1240px;
+  }
+}
+
 /* TINA CMS ADJUSTMENTS
 
 /* Hide various rich-text toolbar items */
