@@ -100,7 +100,7 @@ const SbsIcon = () => {
 
 export const Hero = ({ data, parentField = ""  }) => {
   return (
-    <Section className="mb-40" background={data.background} navigationLabel={data.navigationLabel}>
+    <Section className="" background={data.background} navigationLabel={data.navigationLabel}>
       <div id="canopy" className="absolute -z-2 left-1/2 top-0 right-0">
         <div className="pattern"></div>
         <div className="absolute w-full h-40 bg-gradient-to-b from-black opacity-70"></div>
@@ -123,7 +123,7 @@ export const Hero = ({ data, parentField = ""  }) => {
           </div>
         </div>
       </div>
-      <div className="relative max-w-desktop-full mx-auto pt-36 pb-28 pr-20 pl-20 md:pb-24 sm:px-8 sm:pt-24 min-h-0 text-left">
+      <div className="relative max-w-desktop-full mx-auto pt-32 pb-80 pr-20 pl-20 md:pb-48 md:pt-32 sm:px-8 sm:pt-24 min-h-0 text-left">
         <div className="absolute right-36 top-36 md:hidden">
           <SbsIcon />
         </div>
@@ -147,7 +147,7 @@ export const Hero = ({ data, parentField = ""  }) => {
           </div>
         </div>
         {data.label && (
-          <div className="transform -translate-y-1/2 absolute -bottom-36 right-20 mb-4 ml-auto pl-24 w-128 md:-bottom-40 sm:right-10 sm:w-80 sm:p-0">
+          <div className="transform -translate-y-1/2 absolute -bottom-8 right-20 mb-4 ml-auto pl-24 w-128 md:-bottom-28 sm:right-10 sm:-bottom-32 sm:w-80 sm:p-0">
             <h4 className="font-bold text-5xl text-primary text-right sm:text-xl" data-tinafield={`${parentField}.label`}>{data.label}</h4>
           </div>
         )}
