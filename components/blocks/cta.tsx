@@ -35,7 +35,7 @@ export const CTA = ({ data, parentField = "" }) => {
         <div className="image-wrap flex-none sm:order-1 sm:w-full">
           {data.image?.src && (
             <img
-              className="image sm:mx-auto"
+              className="image sm:mx-auto sm:w-36"
               alt={data.image?.alt}
               src={data.image?.src}
               width="225px"

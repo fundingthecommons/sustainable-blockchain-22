@@ -37,7 +37,7 @@ const BG2 = () => {
 }
 const Logo = () => {
   return (
-    <svg className="md:w-full" width="500" viewBox="0 0 500 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg className="md:w-full sm:w-64" width="500" viewBox="0 0 500 192" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M3.93091 139.113H11.419V174.72H30.5898V181.721H3.93091V139.113Z" fill="#2B6188"/>
       <path d="M55.6228 138.99H62.1985L80.2121 181.721H72.2456L67.8062 170.824H49.6145L45.1751 181.721H37.6313L55.645 138.99H55.6228ZM52.4629 163.823H64.9356L58.727 148.663L52.4629 163.823Z" fill="#2B6188"/>
       <path d="M78.5308 139.113H113.635V146.114H99.8267V181.721H92.3386V146.114H78.5308V139.113Z" fill="#2B6188"/>
@@ -108,9 +108,11 @@ export const Hero = ({ data, parentField = ""  }) => {
       <div className="absolute inset-0 -z-2">
         <div
           className="absolute top-0 transform left-1/2 -translate-x-1/2 sm:left-2/3 "
-          style={{ width: "3000px", bottom: "-900px", clipPath: "polygon(0% 0%, 100% 0%, 100% 100%, 0% 20%)" }}
+          style={{ width: "3000px", bottom: "-630px", clipPath: "polygon(0% 0%, 100% 0%, 100% 100%, 0% 20%)" }}
         >
-          <BG1 />
+          <div className="relative -z-1 sm:transform sm:-translate-x-8">
+            <BG1 />
+          </div>
           <div className="absolute -z-1 inset-0"
             style={{
               background: "rgb(230 250 228)",
@@ -121,11 +123,11 @@ export const Hero = ({ data, parentField = ""  }) => {
           </div>
         </div>
       </div>
-      <div className="relative max-w-desktop-full mx-auto pt-36 pb-28 pr-20 pl-20 sm:p-8 sm:pt-24 min-h-0 text-left">
+      <div className="relative max-w-desktop-full mx-auto pt-36 pb-28 pr-20 pl-20 md:pb-24 sm:px-8 sm:pt-24 min-h-0 text-left">
         <div className="absolute right-36 top-36 md:hidden">
           <SbsIcon />
         </div>
-        <div className="mr-auto w-1/2 md:w-3/5 sm:w-8/12">
+        <div className="mr-auto w-1/2 md:w-3/5 sm:w-full">
           <div className="text-left">
             <Logo />
             {data.headline && <h1 className="hidden" data-tinafield={`${parentField}.headline`}>{data.headline}</h1>}
@@ -144,13 +146,11 @@ export const Hero = ({ data, parentField = ""  }) => {
             )}
           </div>
         </div>
-        <div className="relative">
-          {data.label && (
-            <div className="absolute -bottom-80 mb-4 right-0 ml-auto w-128 px-12 sm:w-full sm:pl-12 sm:pr-0 sm:-bottom-72 sm:mb-0">
-              <h4 className="font-bold text-5xl text-primary text-right sm:text-2xl" data-tinafield={`${parentField}.label`}>{data.label}</h4>
-            </div>
-          )}
-        </div>
+        {data.label && (
+          <div className="transform -translate-y-1/2 absolute -bottom-36 right-20 mb-4 ml-auto pl-24 w-128 md:-bottom-40 sm:right-10 sm:w-80 sm:p-0">
+            <h4 className="font-bold text-5xl text-primary text-right sm:text-xl" data-tinafield={`${parentField}.label`}>{data.label}</h4>
+          </div>
+        )}
       </div>
     </Section>
   );
