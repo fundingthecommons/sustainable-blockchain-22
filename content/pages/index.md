@@ -304,7 +304,7 @@ blocks:
         type: secondary
     _template: cta
   - style:
-      padding: pt-20 pb-20 pr-20 pl-20
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-10 sm:pl-10'
       labelStyles: text-accent2 undefined text-3xl mb-5 font-bold
       headlineStyles: text-primary undefined text-xl undefined font-bold
       subheadStyles: text-accent2 undefined text-xl mb-5 font-bold
