@@ -63,6 +63,17 @@
     "imageMargin": "24"
   },
   "nav": {
+    "navItems": [
+      {
+        "label": "Past Events",
+        "subNavItems": [
+          {
+            "label": "SBS Paris 22",
+            "link": "https://paris22.sbs.tech"
+          }
+        ]
+      }
+    ],
     "navAlignment": "text-right",
     "navTypeStyle": "text-white font-1 text-base mb-0 ",
     "navBackgroundColor": "bg-accent4",
