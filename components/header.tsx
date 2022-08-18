@@ -77,7 +77,7 @@ const MobileSub = ({item, className}) => {
           <ul className="px-5">
             {item.subNavItems.map(function (subItem, index) {
               return (
-                <li className="block" key={index}>
+                <li key={index}>
                   <div className={`bg-white h-px opacity-25`} />
                   <a className={"block no-underline whitespace-nowrap leading-8 py-4"} href={subItem.link} target={linkTarget(subItem.link)}>{subItem.label}</a>
                 </li>
@@ -108,8 +108,8 @@ export const Header = ({
 
   const nav = globalData.nav
   const navItems = nav?.navItems || []
-  const sectionClasses = navOpen ? "sm:h-screen" : "sm:h-10";
-  const navClasses = navOpen ? "sm:opacity-100 m-0" : "sm:opacity-0 sm:pointer-events-none";
+  const sectionClasses = navOpen ? "md:h-screen" : "md:h-10";
+  const navClasses = navOpen ? "md:opacity-100 m-0" : "md:opacity-0 md:pointer-events-none";
   const backgroundClasses = navOpen ? "opacity-100" : "opacity-0";
   const navStyles = { 
     transition: "opacity .4s, margin .3s",
@@ -145,11 +145,11 @@ export const Header = ({
     <section className="relative">
       <>
         {/* Desktop Nav */}
-        <div className="sm:hidden absolute z-10 top-0 left-0 right-0">
+        <div className="md:hidden absolute z-10 top-0 left-0 right-0">
           <div className={`max-w-desktop-full mx-auto ${nav?.padding}`}>
             <div className="flex items-center">
               <Logo className="flex-none" />
-              <ul style={navStyles} className={`${nav.navTypeStyle} ${nav.navAlignment} flex-grow list-none sm:hidden`}>
+              <ul style={navStyles} className={`${nav.navTypeStyle} ${nav.navAlignment} flex-grow list-none md:hidden`}>
 
                 {pageJumps(blocks)?.map(function (item, index) {
                   return (
@@ -182,14 +182,14 @@ export const Header = ({
         </div>
 
         {/* Mobile Nav */}
-        <div className={`${sectionClasses} hidden sm:block h-screen fixed z-40 top-0 left-0 right-0`}>
-          <div style={backgroundStyles} className={`${backgroundClasses} ${nav.navBackgroundColor} transition duration-400 absolute inset-0 -z-1 hidden sm:block`}></div>
-          <div className={`w-full ${nav?.padding}`}>
+        <div className={`${sectionClasses} hidden md:block h-screen fixed z-40 top-0 left-0 right-0`}>
+          <div style={backgroundStyles} className={`${backgroundClasses} ${nav.navBackgroundColor} transition duration-400 absolute inset-0 -z-1 hidden md:block`}></div>
+          <div className={`w-full md:p-5`}>
             <Logo className="absolute top-4 left-4 hidden" />
             <div className={`absolute top-3 -right-2 py-1 pl-2 pr-6 rounded ${nav.navBackgroundColor}`} onClick={() => setNavOpen(!navOpen)}>
               <Burger color="white" isOpen={navOpen}  />
             </div>
-            <ul style={navStyles} className={`${navClasses} ${nav.navTypeStyle} flex-grow hidden sm:block mt-12`}>
+            <ul style={navStyles} className={`${navClasses} ${nav.navTypeStyle} flex-grow hidden md:block mt-12`}>
 
               {pageJumps(blocks)?.map(function (item, index) {
                 return (
