@@ -6,11 +6,16 @@ import { Layout } from "../components/layout";
 export default function HomePage(
   props: AsyncReturnType<typeof getStaticProps>["props"]
 ) {
+  
   const { data } = useTina({
     query: props.query,
     variables: props.variables,
     data: props.data,
   });
+  console.log(data ? 'we have data' : 'no data')
+  if (!data) {
+    return <p>Nada</p>
+  }
   return (
     <Layout pageData={data.getPagesDocument.data} globalData={data.getGlobalDocument.data}>
       <Blocks {...data.getPagesDocument.data} />
