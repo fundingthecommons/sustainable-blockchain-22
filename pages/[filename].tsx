@@ -6,11 +6,16 @@ import { Layout } from "../components/layout";
 export default function HomePage(
   props: AsyncReturnType<typeof getStaticProps>["props"]
 ) {
+  
   const { data } = useTina({
     query: props.query,
     variables: props.variables,
     data: props.data,
   });
+  console.log(data ? 'we have data' : 'no data')
+  if (!data) {
+    return <p>Nada</p>
+  }
   return (
     <Layout pageData={data.getPagesDocument.data} globalData={data.getGlobalDocument.data}>
       <Blocks {...data.getPagesDocument.data} />
@@ -18,10 +23,13 @@ export default function HomePage(
   );
 }
 
-export const getStaticProps = async ({ params }) => {
+export const getStaticProps = async ({ params, locale }) => {
+  console.log('locale', locale)
+  console.log('filename', params.filename)
+
   const client = ExperimentalGetTinaClient();
   const tinaProps = await client.ContentQuery({
-    relativePath: `${params.filename}.md`,
+    relativePath: `${locale}/${params.filename}.md`,
   });
   return {
     props: {
@@ -32,15 +40,28 @@ export const getStaticProps = async ({ params }) => {
   };
 };
 
-export const getStaticPaths = async () => {
+export const getStaticPaths = async ({ locales }) => {
   const client = ExperimentalGetTinaClient();
   const pagesListData = await client.getPagesList();
+  const paths = [];
+
+  // for each `page` document...
+  pagesListData.data.getPagesList.edges.map((page) => {
+    // ensure a `path` is created for each `locale`
+    locales.map((locale) => {
+      paths.push({
+        params: { filename: page.node.sys.filename },
+        locale,
+      });
+    });
+  });
+
   return {
-    paths: pagesListData.data.getPagesList.edges.map((page) => ({
-      params: { filename: page.node.sys.filename },
-    })),
-    fallback: false,
-  };
+    paths,
+    fallback: true,
+  }
 };
+
 export type AsyncReturnType<T extends (...args: any) => Promise<any>> =
   T extends (...args: any) => Promise<infer R> ? R : any;
+  
