@@ -163,7 +163,7 @@ export const Header = ({
                   const subNavItems = item.subNavItems || null
                   if (subNavItems) {
                     return (
-                      <li className="relative inline-block ml-6">
+                      <li className="relative inline-block ml-6" key={index}>
                         <Dropdown item={item} />
                       </li>
                     )
@@ -204,7 +204,7 @@ export const Header = ({
                 const subNavItems = item.subNavItems || null
                 if (subNavItems) {
                   return (
-                    <MobileSub item={item} className={nav.navBackgroundColor} />
+                    <MobileSub item={item} className={nav.navBackgroundColor} key={index} />
                   )
                 } else {
                   return (
