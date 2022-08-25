@@ -9,15 +9,25 @@ const linkTarget = (link) => {
   return isExternalLink ? '_blank' : ''
 }
 
+const optimizeCloudinaryPath = (src, options) => {
+  const urlArray = src.split('/')
+  const width = options?.width || 'w_auto'
+  const quality = options?.quality || 'q_auto:good'
+  const slicePosition = urlArray?.indexOf('upload') || 0
+  const pathBegining = urlArray?.slice(0, slicePosition + 1).join('/')
+  const pathEnding = urlArray?.slice(slicePosition + 2, urlArray?.length).join('/')
+  const optimizedImagePath = `${pathBegining}/${width}/${quality}/${pathEnding}`
+  return optimizedImagePath || src
+}
 
 const Card = ({ data, index, tw, parentField = ""  }) => {
   return (
     <div className={tw.card} data-tinafield={`${parentField}.${index}`}>
       <div className={tw.cardImageWrap}>
-        {data.image && (
+        {data.image.src && (
           <img
             alt={data.image.alt || data.headline}
-            src={data.image.src}
+            src={optimizeCloudinaryPath(data.image.src, {width: 'w_200'})}
             className={tw.cardImage}
             data-tinafield={`${parentField}.${index}.image`}
           />
