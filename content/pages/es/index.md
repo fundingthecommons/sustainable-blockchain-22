@@ -293,7 +293,7 @@ blocks:
       textStyles: 'text-black font-1 undefined mb-0 '
     image:
       src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1660077778/sustainable-blockchain/icon-tree-mask_lhgbtw.png
+        https://res.cloudinary.com/protocolai/image/upload/w_512/q_40/v1660077778/sustainable-blockchain/icon-tree-mask_lhgbtw.jpg
     label: ''
     headline: Join us in Bogotá for this important gathering.
     subhead: ''
