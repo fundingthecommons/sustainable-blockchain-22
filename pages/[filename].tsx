@@ -6,15 +6,11 @@ import { Layout } from "../components/layout";
 export default function HomePage(
   props: AsyncReturnType<typeof getStaticProps>["props"]
 ) {
-  
   const { data } = useTina({
     query: props.query,
     variables: props.variables,
     data: props.data,
   });
-  if (!data) {
-    return <></>
-  }
   return (
     <Layout pageData={data.getPagesDocument.data} globalData={data.getGlobalDocument.data}>
       <Blocks {...data.getPagesDocument.data} />
@@ -39,20 +35,12 @@ export const getStaticProps = async ({ params }) => {
 export const getStaticPaths = async () => {
   const client = ExperimentalGetTinaClient();
   const pagesListData = await client.getPagesList();
-  const paths = [];
-
-  pagesListData.data.getPagesList.edges.map((page) => {
-    paths.push({
-      params: { filename: page.node.sys.filename }
-    });
-  });
-
   return {
-    paths,
-    fallback: true,
-  }
+    paths: pagesListData.data.getPagesList.edges.map((page) => ({
+      params: { filename: page.node.sys.filename },
+    })),
+    fallback: false,
+  };
 };
-
 export type AsyncReturnType<T extends (...args: any) => Promise<any>> =
   T extends (...args: any) => Promise<infer R> ? R : any;
-  
