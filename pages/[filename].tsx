@@ -22,10 +22,10 @@ export default function HomePage(
   );
 }
 
-export const getStaticProps = async ({ params, locale }) => {
+export const getStaticProps = async ({ params }) => {
   const client = ExperimentalGetTinaClient();
   const tinaProps = await client.ContentQuery({
-    relativePath: `${locale}/${params.filename}.md`,
+    relativePath: `${params.filename}.md`,
   });
   return {
     props: {
@@ -36,19 +36,14 @@ export const getStaticProps = async ({ params, locale }) => {
   };
 };
 
-export const getStaticPaths = async ({ locales }) => {
+export const getStaticPaths = async () => {
   const client = ExperimentalGetTinaClient();
   const pagesListData = await client.getPagesList();
   const paths = [];
 
-  // for each `page` document...
   pagesListData.data.getPagesList.edges.map((page) => {
-    // ensure a `path` is created for each `locale`
-    locales.map((locale) => {
-      paths.push({
-        params: { filename: page.node.sys.filename },
-        locale,
-      });
+    paths.push({
+      params: { filename: page.node.sys.filename }
     });
   });
 

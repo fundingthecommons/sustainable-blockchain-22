@@ -23,10 +23,10 @@ export default function HomePage(
   );
 }
 
-export const getStaticProps = async ({ params, locale }) => {
+export const getStaticProps = async ({ params }) => {
   const client = ExperimentalGetTinaClient();
   const tinaProps = await client.ContentQuery({
-    relativePath: `${locale}/index.md`,
+    relativePath: `/index.md`,
   });
   return {
     props: {
