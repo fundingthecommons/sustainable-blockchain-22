@@ -24,8 +24,6 @@ export default function HomePage(
 }
 
 export const getStaticProps = async ({ params, locale }) => {
-  console.log('locale', locale)
-
   const client = ExperimentalGetTinaClient();
   const tinaProps = await client.ContentQuery({
     relativePath: `${locale}/index.md`,
@@ -38,32 +36,6 @@ export const getStaticProps = async ({ params, locale }) => {
     },
   };
 };
-
-
-
-
-
-// export const getStaticProps = async ({ params, locale }) => {
-//   console.log('locale', locale)
-//   console.log('filename', params.filename)
-
-//   const client = ExperimentalGetTinaClient();
-//   const tinaProps = await client.ContentQuery({
-//     relativePath: `${locale}/${params.filename}.md`,
-//   });
-//   return {
-//     props: {
-//       data: tinaProps.data,
-//       query: tinaProps.query,
-//       variables: tinaProps.variables,
-//     },
-//   };
-// };
-
-
-
-
-
 
 export type AsyncReturnType<T extends (...args: any) => Promise<any>> =
   T extends (...args: any) => Promise<infer R> ? R : any;

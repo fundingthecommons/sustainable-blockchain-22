@@ -12,7 +12,6 @@ export default function HomePage(
     variables: props.variables,
     data: props.data,
   });
-  console.log(data ? 'we have data' : 'no data')
   if (!data) {
     return <p>Nada</p>
   }
@@ -24,9 +23,6 @@ export default function HomePage(
 }
 
 export const getStaticProps = async ({ params, locale }) => {
-  console.log('locale', locale)
-  console.log('filename', params.filename)
-
   const client = ExperimentalGetTinaClient();
   const tinaProps = await client.ContentQuery({
     relativePath: `${locale}/${params.filename}.md`,
