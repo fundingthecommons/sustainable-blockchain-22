@@ -1,3 +1,4 @@
+import { useRouter } from 'next/router'
 import { createContext } from "react";
 import { Blocks } from "../components/blocks";
 import { ExperimentalGetTinaClient } from "../.tina/__generated__/types";
@@ -23,12 +24,17 @@ export default function HomePage(
   );
 }
 
-export const getStaticProps = async ({ params }) => {
+export const getStaticProps = async ({ locale }: { locale: string }) => {
   const client = ExperimentalGetTinaClient();
   const tinaProps = await client.ContentQuery({
     relativePath: `index.md`,
   });
+  console.log('locale', locale)
   return {
+    // redirect: {
+    //   destination: 'http://www.google.com',
+    //   permanent: false,
+    // },
     props: {
       data: tinaProps.data,
       query: tinaProps.query,

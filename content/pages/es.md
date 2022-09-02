@@ -1,10 +1,10 @@
 ---
 draft: true
-language: en
+language: es
 blocks:
   - label: Join us as we learn how to build greener blockchain solutions together.
     headline: Sustainable Blockchain Summit LATAM 2022
-    subhead: 'October 12 • Bogotá, Colombia'
+    subhead: 'Octubre 12 • Bogotá, Colombia'
     body: ''
     buttons:
       - label: Grab your ticket

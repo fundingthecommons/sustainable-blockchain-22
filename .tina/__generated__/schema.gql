@@ -1289,6 +1289,7 @@ type PagesMeta {
 
 type Pages {
   draft: Boolean
+  language: String
   blocks: [PagesBlocks]
   meta: PagesMeta
 }
@@ -2540,6 +2541,7 @@ input PagesMetaMutation {
 
 input PagesMutation {
   draft: Boolean
+  language: String
   blocks: [PagesBlocksMutation]
   meta: PagesMetaMutation
 }
