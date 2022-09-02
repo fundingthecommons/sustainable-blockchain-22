@@ -150,7 +150,7 @@ export const Layout = ({
         )}
       </Head>
       <div className={`min-h-screen flex flex-col overflow-x-hidden`}>
-        <Header blocks={pageData?.blocks} globalData={globalData} />
+        <Header blocks={pageData?.blocks} globalData={globalData} language={pageData?.language} />
         <div className="flex flex-col flex-1">{children}</div>
         <Footer />
       </div>

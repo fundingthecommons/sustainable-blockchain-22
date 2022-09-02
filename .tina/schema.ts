@@ -29,6 +29,19 @@ export default defineSchema({
           name: "draft",
         },
         {
+          type: "string",
+          label: "Language",
+          name: "language",
+          description: "What language does this page use",
+          ui: {
+            component: "selectField",
+          },
+          options: [
+            { label: "English", value: "en" },
+            { label: "Spanish", value: "es" },
+          ]
+        },
+        {
           type: "object",
           list: true,
           name: "blocks",

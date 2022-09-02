@@ -485,6 +485,7 @@ fragment GlobalParts on Global {
 
 fragment PagesParts on Pages {
   draft
+  language
   blocks {
     __typename
     ... on PagesBlocksFeature {
