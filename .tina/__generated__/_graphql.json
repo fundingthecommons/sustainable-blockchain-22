@@ -15192,6 +15192,21 @@
           "kind": "FieldDefinition",
           "name": {
             "kind": "Name",
+            "value": "language"
+          },
+          "arguments": [],
+          "type": {
+            "kind": "NamedType",
+            "name": {
+              "kind": "Name",
+              "value": "String"
+            }
+          }
+        },
+        {
+          "kind": "FieldDefinition",
+          "name": {
+            "kind": "Name",
             "value": "blocks"
           },
           "arguments": [],
@@ -28702,6 +28717,20 @@
             "name": {
               "kind": "Name",
               "value": "Boolean"
+            }
+          }
+        },
+        {
+          "kind": "InputValueDefinition",
+          "name": {
+            "kind": "Name",
+            "value": "language"
+          },
+          "type": {
+            "kind": "NamedType",
+            "name": {
+              "kind": "Name",
+              "value": "String"
             }
           }
         },

@@ -1,15 +1,18 @@
 ---
 draft: true
-language: en
+language: es
 blocks:
   - label: Join us as we learn how to build greener blockchain solutions together.
     headline: Sustainable Blockchain Summit LATAM 2022
-    subhead: 'October 12 • Bogotá, Colombia'
+    subhead: 'Octubre 12 • Bogotá, Colombia'
     body: ''
     buttons:
       - label: Grab your ticket
         link: 'https://www.eventbrite.com/e/397452199227'
         type: primary
+      - label: 'Apply to Speak '
+        link: 'https://airtable.com/shr4CeIwfweFUHEkr'
+        type: minor
       - label: Sponsor SBS LATAM
         link: 'https://airtable.com/shrCPatBcaxgdfxx9'
         type: minor
@@ -55,9 +58,16 @@ blocks:
       textStyles: text-accent2 font-1 text-base mb-7 font-bold
       contentOrder: labelHeadingsContent
     label: ''
-    headline: Speakers
-    subhead: Our speakers are builders
+    headline: Speak at the summit
+    subhead: >-
+      If you would like to present at the summit, let us know! We welcome
+      applications from members of underrepresented groups in crypto and from
+      the global south.
     body: ''
+    buttons:
+      - label: Apply to speak
+        link: 'https://airtable.com/shr4CeIwfweFUHEkr'
+        type: primary
     navigationLabel: Speakers
     _template: feature
   - tailwind:
