@@ -10,9 +10,6 @@ blocks:
       - label: Grab your ticket
         link: 'https://www.eventbrite.com/e/397452199227'
         type: primary
-      - label: 'Apply to Speak '
-        link: 'https://airtable.com/shr4CeIwfweFUHEkr'
-        type: minor
       - label: Sponsor SBS LATAM
         link: 'https://airtable.com/shrCPatBcaxgdfxx9'
         type: minor
