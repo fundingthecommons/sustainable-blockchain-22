@@ -55,16 +55,9 @@ blocks:
       textStyles: text-accent2 font-1 text-base mb-7 font-bold
       contentOrder: labelHeadingsContent
     label: ''
-    headline: Speak at the summit
-    subhead: >-
-      If you would like to present at the summit, let us know! We welcome
-      applications from members of underrepresented groups in crypto and from
-      the global south.
+    headline: Speakers
+    subhead: Our speakers are builders
     body: ''
-    buttons:
-      - label: Apply to speak
-        link: 'https://airtable.com/shr4CeIwfweFUHEkr'
-        type: primary
     navigationLabel: Speakers
     _template: feature
   - tailwind:
