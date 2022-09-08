@@ -83,7 +83,7 @@ export const SpeakerCards = ({ data, parentField = "" }) => {
             />
           })
         )}
-        <div className="flex flex-col justify-center align-center pt-14">
+        {/* <div className="flex flex-col justify-center align-center pt-14">
           <p className={`text-center px-16 ${data.style?.labelStyles}`}>{ data.label }</p>
           <Buttons
             buttons={[
@@ -96,7 +96,7 @@ export const SpeakerCards = ({ data, parentField = "" }) => {
             className={`mx-auto`}
             parentField={`${parentField}.buttons`}
           />
-        </div>
+        </div> */}
       </div>
     </Section>
   );

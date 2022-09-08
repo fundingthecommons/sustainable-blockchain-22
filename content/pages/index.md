@@ -254,14 +254,6 @@ blocks:
   - padding: undefined undefined pr-20 pl-20
     _template: rule
   - style:
-      minHeight: min-h-0
-      fullWidth: true
-      padding: pt-20 pr-10 pb-20 pl-10
-    markup: <div id="eventbrite-widget-container-397452199227"></div>
-    _template: embed
-  - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
-    _template: rule
-  - style:
       textAlignment: text-left
       minHeight: min-h-0
       padding: 'pt-32 pb-0 pr-20 pl-20 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'

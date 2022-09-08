@@ -13,14 +13,14 @@ const Timeline = ({ schedule, isActive, index, parentField = ""  }) => {
           <div className="absolute top-2 left-16 border-accent2 -ml-px border-l-2 border-dashed h-full w-px"></div>
           { schedule.events.map(function (event, index) {
             return <div key={index}>
-              <div className="flex gap-8 text-accent2 text-xs font-bold">
+              <div className="flex gap-8 text-accent2 text-md font-bold">
                 <div className="relative w-12 text-right">
                   {event.time}
                   <div className="bg-accent1 border-2 w-2 h-2 absolute top-1.5 -right-5"></div>
                 </div>
                 <div className="w-full flex-1">{event.headline}</div>
               </div>
-              <div className="pl-20 text-xs mb-6">{event.subhead}</div>
+              <div className="pl-20 text-md mb-6">{event.subhead}</div>
             </div>
           })}
         </div>
