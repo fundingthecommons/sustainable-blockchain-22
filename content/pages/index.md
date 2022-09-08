@@ -204,6 +204,7 @@ blocks:
       textStyles: 'undefined undefined undefined undefined '
     headline: Speakers
     subhead: Our speakers are builders
+    body: ''
     cards:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1660091532/sustainable-blockchain/bio-olya_irzak_vbfmlw_a3vnuk.jpg
@@ -250,6 +251,37 @@ blocks:
             headline: Event 2
             subhead: A different description
     _template: schedule
+  - padding: undefined undefined pr-20 pl-20
+    _template: rule
+  - style:
+      minHeight: min-h-0
+      fullWidth: true
+      padding: pt-20 pr-10 pb-20 pl-10
+    markup: >-
+      <div id="eventbrite-widget-container-397452199227"></div>
+
+
+      <script
+      src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+
+      <script type="text/javascript">
+          var exampleCallback = function() {
+              console.log('Order complete!');
+          };
+
+          window.EBWidgets.createWidget({
+              // Required
+              widgetType: 'checkout',
+              eventId: '397452199227',
+              iframeContainerId: 'eventbrite-widget-container-397452199227',
+
+              // Optional
+              iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+              onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+          });
+      </script>
+    _template: embed
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
   - style:
