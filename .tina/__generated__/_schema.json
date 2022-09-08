@@ -19901,22 +19901,19 @@
                   "headline": "This is the main headline",
                   "cards": [
                     {
-                      "name": "Name",
-                      "title": "Title",
-                      "label": "Label",
-                      "headline": "Headline"
+                      "speaker": "Speaker Name",
+                      "company": "Company",
+                      "title": "Title"
                     },
                     {
-                      "name": "Name",
-                      "title": "Title",
-                      "label": "Label",
-                      "headline": "Headline"
+                      "speaker": "Speaker Name",
+                      "company": "Company",
+                      "title": "Title"
                     },
                     {
-                      "name": "Name",
-                      "title": "Title",
-                      "label": "Label",
-                      "headline": "Headline"
+                      "speaker": "Speaker Name",
+                      "company": "Company",
+                      "title": "Title"
                     }
                   ]
                 }
