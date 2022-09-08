@@ -3,10 +3,9 @@ import { backgroundSchema } from "./shared/background";
 import { navigationLabelSchema } from "./shared/navigation-label";
 
 const defaultCard = {
-  name: "Name",
+  speaker: "Speaker Name",
+  company: "Company",
   title: "Title",
-  label: "Label",
-  headline: "Headline",
 };
 
 export const speakerCardsBlockSchema: TinaTemplate = {

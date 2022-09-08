@@ -18,12 +18,12 @@ const Card = ({ data, index, parentField = ""  }) => {
           />
         )}
         <div className="p-10 pt-56 pb-14" >
-          {data.label && (
+          {/* {data.label && (
             <p
               className="text-md text-accent2 mb-2"
               data-tinafield={`${parentField}.${index}.label`}
             >{data.label}</p>
-          )}
+          )} */}
           {data.speaker && (
             <h3
               className="text-lg font-bold text-accent2 mb-1"

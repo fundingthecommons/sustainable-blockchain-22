@@ -197,25 +197,59 @@ blocks:
         subhead: Filecoin Green
         text: ''
     _template: tailwindCards
+  - style:
+      labelStyles: 'undefined undefined undefined undefined '
+      headlineStyles: text-accent2 undefined text-6xl undefined font-bold
+      subheadStyles: 'text-accent2 undefined text-2xl mb-10 '
+      textStyles: 'undefined undefined undefined undefined '
+    headline: Speakers
+    subhead: Our speakers are builders
+    cards:
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1660091532/sustainable-blockchain/bio-olya_irzak_vbfmlw_a3vnuk.jpg
+        speaker: Speaker Name
+        company: Company
+        title: Title
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1660091347/sustainable-blockchain/bio-gloria-kimbwala_gzkvep_p4jn2s.jpg
+        speaker: Speaker Name
+        company: Company
+        title: Title
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1660091252/sustainable-blockchain/Linda_Jirouskova_wo2qmd_eqky3g.jpg
+        speaker: Speaker Name
+        company: Company
+        title: Title
+    _template: speakerCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
   - style:
-      textAlignment: text-left
-      minHeight: min-h-0
-      padding: 'pt-28 pb-60 pr-20 pl-20 sm:pt-16 sm:pb-16 sm:pr-10 sm:pl-10'
-      width: normal
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: text-accent2 font-1 text-6xl mb-5 font-bold
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: text-accent2 font-1 text-base mb-0 font-bold
-      contentOrder: labelHeadingsContent
-    label: ''
+      labelStyles: 'undefined undefined undefined undefined '
+      headlineStyles: text-accent2 undefined text-6xl mb-10 font-bold
+      subheadStyles: 'undefined undefined undefined undefined '
+      textStyles: 'undefined undefined undefined undefined '
     headline: Agenda
-    subhead: ''
-    body: |
-      Coming soon.&#x20;
-    navigationLabel: Agenda
-    _template: banner
+    body: ''
+    schedules:
+      - headline: Track 1
+        body: ''
+        events:
+          - time: '9:00'
+            headline: Event 1
+            subhead: The description of the event
+          - time: '10:00'
+            headline: Event 2
+            subhead: A different description
+      - headline: Track 2
+        body: ''
+        events:
+          - time: '9:00'
+            headline: Event 1
+            subhead: The description of the event
+          - time: '10:00'
+            headline: Event 2
+            subhead: A different description
+    _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
   - style:
