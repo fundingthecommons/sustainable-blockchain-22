@@ -142,6 +142,33 @@ export const Layout = ({
           }}
         />
 
+        {/* Eventbrite Widget */}
+        <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js" async></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+            var exampleCallback = function() {
+              console.log('Order complete!');
+            }
+
+            console.log('event brite root')
+            if (window && window.EBWidgets) {
+              console.log('event brite widgets')
+              window.EBWidgets.createWidget({
+                  // Required
+                  widgetType: 'checkout',
+                  eventId: '397452199227',
+                  iframeContainerId: 'eventbrite-widget-container-397452199227',
+
+                  // Optional
+                  iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+                  onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+              })
+            }
+            `,
+          }}
+        />
+
         {/* Google Fonts */ }
         <link rel="preconnect" href="https://fonts.googleapis.com"></link>
         <link rel="preconnect" href="https://fonts.gstatic.com"></link>
