@@ -313,6 +313,12 @@ blocks:
         type: primary
     _template: feature
   - style:
+      minHeight: min-h-0
+      fullWidth: true
+      padding: pt-20 pr-10 pb-20 pl-10
+    markup: <div id="eventbrite-widget-container-397452199227"></div>
+    _template: embed
+  - style:
       labelStyles: 'text-black font-1 text-sm mb-0 '
       headlineStyles: 'text-accent2 font-1 text-2xl mb-0 '
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
