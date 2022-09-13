@@ -313,6 +313,37 @@ blocks:
         type: primary
     _template: feature
   - style:
+      minHeight: min-h-0
+      fullWidth: true
+      padding: pt-20 pr-10 pb-20 pl-10
+    markup: >-
+      <p>EMbed</p>
+
+      <div id="eventbrite-widget-container-397452199227"></div>
+
+
+      <script
+      src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+
+      <script type="text/javascript">
+          var exampleCallback = function() {
+              console.log('Order complete!');
+          };
+
+          window.EBWidgets.createWidget({
+              // Required
+              widgetType: 'checkout',
+              eventId: '397452199227',
+              iframeContainerId: 'eventbrite-widget-container-397452199227',
+
+              // Optional
+              iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+              onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+          });
+      </script>
+    _template: embed
+  - style:
       labelStyles: 'text-black font-1 text-sm mb-0 '
       headlineStyles: 'text-accent2 font-1 text-2xl mb-0 '
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
