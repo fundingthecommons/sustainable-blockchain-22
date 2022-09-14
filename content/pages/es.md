@@ -2,18 +2,18 @@
 draft: true
 language: es
 blocks:
-  - label: Join us as we learn how to build greener blockchain solutions together.
-    headline: Sustainable Blockchain Summit LATAM 2022
-    subhead: 'Octubre 12 • Bogotá, Colombia'
+  - label: Construir soluciones blockchain amigables con el medio ambiente.
+    headline: Foro de Blockchain Sustentable (FBS) LATAM 2022
+    subhead: '12 de Octubre • Bogotá, Colombia'
     body: ''
     buttons:
-      - label: Grab your ticket
+      - label: Adquiere tu Ticket
         link: 'https://www.eventbrite.com/e/397452199227'
         type: primary
-      - label: 'Apply to Speak '
+      - label: 'Aplica como Orador'
         link: 'https://airtable.com/shr4CeIwfweFUHEkr'
         type: minor
-      - label: Sponsor SBS LATAM
+      - label: Patrocina FBS LATAM
         link: 'https://airtable.com/shrCPatBcaxgdfxx9'
         type: minor
     _template: hero
@@ -34,14 +34,10 @@ blocks:
     headline: About SBS
     subhead: ''
     body: >
-      The Sustainable Blockchain Summit (SBS) seeks to catalyze projects that
-      will better align the global economy with the natural world, and broaden
-      the scope of our ambitions to encompass all planetary boundaries required
-      to keep our world habitable.
+      El Foro de Blockchain Sustentable (FBS) busca catalizar proyectos de escala global que sean eco-sustentables, ampliando el espectro de nuestras ambiciones de manera que permitan mantener nuestro planeta habitable.
 
 
-      Join the world’s premiere forum at the intersection of web3 and the
-      biosphere and help us solve these problems together.
+      Unite al foro global de excelencia donde convergen la Web3 y la Biósfera.
     navigationLabel: About
     _template: feature
   - padding: 'pt-0 undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
@@ -58,11 +54,9 @@ blocks:
       textStyles: text-accent2 font-1 text-base mb-7 font-bold
       contentOrder: labelHeadingsContent
     label: ''
-    headline: Speak at the summit
+    headline: Participar como Orador en el Foro
     subhead: >-
-      If you would like to present at the summit, let us know! We welcome
-      applications from members of underrepresented groups in crypto and from
-      the global south.
+      Si quieres participar como orador en el Foro, no tienes más que contactarnos. ¡Miembros de minorías o grupos del mundo cripto no representados son bienvenidos!
     body: ''
     buttons:
       - label: Apply to speak
@@ -91,7 +85,7 @@ blocks:
       cardHeadline: font-bold
       cardText: ''
     label: ''
-    headline: Previous SBS speakers include...
+    headline: Algunos oradores previos en FBS...
     subhead: ''
     body: ''
     items:
@@ -296,11 +290,11 @@ blocks:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/w_512/q_40/v1660077778/sustainable-blockchain/icon-tree-mask_lhgbtw.jpg
     label: ''
-    headline: Join us in Bogotá for this important gathering.
+    headline: Unete a nosotros en Bogotá en este importante encuentro
     subhead: ''
     body: ''
     buttons:
-      - label: Register now
+      - label: Registrarse
         link: 'https://www.eventbrite.com/e/397452199227'
         type: secondary
     _template: cta
@@ -316,24 +310,20 @@ blocks:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1651785834/sustainable-blockchain/sustainable-blockchain-logo_b9ofib.svg
     video: 'https://www.youtube.com/embed/0BSjAct8KVw'
-    label: 'Previous Event: SBS EU'
-    headline: 'July 22-23, 2022'
-    subhead: 'Paris, France'
+    label: 'Evento Previo: FBS Europa'
+    headline: '22 a 23 de Julio'
+    subhead: 'París, Francia.'
     body: >
-      Hundreds of attendees gathered at SBS EU including representatives from
-      the UNFCCC, UNESCO, various government representatives, legacy energy
-      industry participants, NGOs, and a broad spectrum of web3 Refi/Regen
-      projects & networks.
+      Cientos de asistentes se encontraron en FBS Europa incluyendo representantes de UNFCCC, UNESCO, industrias de energía tradicionales, ONGs, distintos gobiernos y un amplio espectro de proyectos vinculados a ReFi/Regen.
     buttons:
-      - label: Explore the content
+      - label: Explora el contenido de FBS Europa.
         link: 'https://youtube.com/playlist?list=PL_0VrY55uV1-rI6TyGHSxS9uSqEQbovgv'
         type: minor
     _template: video
 meta:
-  pageTitle: Sustainable Blockchain Summit LATAM
+  pageTitle: Foro de Blockchain Sustentable (FBS) LATAM 2022
   pageDescription: >-
-    One-day summit packed with expert talks, workshops, and deep dives featuring
-    the top thought leaders in sustainability and web3.
+    Cumbre de un día repleta de charlas de expertos, talleres e inmersiones profundas con los principales líderes de opinión en sostenibilidad y web3.
   siteImageSrc: >-
     https://res.cloudinary.com/protocolai/image/upload/v1660171020/sbs-latam-og-image_fj06r1.png
 ---
