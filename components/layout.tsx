@@ -166,7 +166,7 @@ export const Layout = ({
                     widgetType: 'checkout',
                     eventId: '397452199227',
                     iframeContainerId: 'eventbrite-widget-container-397452199227',
-                    iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+                    iframeContainerHeight: 500,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
                 })
               }
             });
