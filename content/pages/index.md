@@ -315,7 +315,7 @@ blocks:
   - style:
       minHeight: min-h-0
       fullWidth: true
-      padding: pt-20 pr-10 pb-20 pl-10
+      padding: 'pt-0 pb-40 pr-20 pl-20 sm:pt-0 sm:pb-20 sm:pr-10 sm:pl-10'
     markup: <div id="eventbrite-widget-container-397452199227"></div>
     _template: embed
   - style:
