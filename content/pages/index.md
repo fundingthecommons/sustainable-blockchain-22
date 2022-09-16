@@ -53,9 +53,9 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290376/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.06.02_PM_fnbdi4.png
-        speaker: Eloisa Cadenas
-        company: Cryptofintech
+          https://res.cloudinary.com/protocolai/image/upload/v1663290519/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.08.12_PM_b7cksc.png
+        speaker: Tom Herman
+        company: Meta Carbon
         title: CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
@@ -68,35 +68,40 @@ blocks:
         company: Protocol Labs
         title: Founder and CEO
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663289046/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.43.48_PM_dh7zbx.png
-        speaker: Ale Borda
-        company: Web3 Instigator
-        title: Fifty Years
+          https://res.cloudinary.com/protocolai/image/upload/v1663289562/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.52.30_PM_ffhlvb.png
+        speaker: Kevin Owocki
+        company: 'Gitcoin '
+        title: Founder
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663289827/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.56.56_PM_gwd9cg.png
-        speaker: Orinayo Ayodele
-        company: Filecoin Green
-        title: Program Manager
+          https://res.cloudinary.com/protocolai/image/upload/v1663290376/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.06.02_PM_fnbdi4.png
+        speaker: Eloisa Cadenas
+        company: Cryptofintech
+        title: CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290049/sustainable-blockchain/alan_m8cpfd.jpg
         speaker: 'Alan Ransil, PhD '
         company: Filecoin Green
         title: Project Lead
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663289046/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.43.48_PM_dh7zbx.png
+        speaker: Ale Borda
+        company: Web3 Instigator
+        title: Fifty Years
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289692/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.54.36_PM_qm8akv.png
         speaker: John Goedschalk
         company: Conservation International Suriname
         title: 'Executive Director '
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663289562/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.52.30_PM_ffhlvb.png
-        speaker: Kevin Owocki
-        company: 'Gitcoin '
-        title: Founder
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289439/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.50.28_PM_jn8vmx.png
         speaker: 'Juan José Giraldo '
         company: Green Rangers
         title: CEO
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663289827/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.56.56_PM_gwd9cg.png
+        speaker: Orinayo Ayodele
+        company: Filecoin Green
+        title: Program Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289304/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.48.13_PM_tbwma9.png
         speaker: 'Azeem Khan '
