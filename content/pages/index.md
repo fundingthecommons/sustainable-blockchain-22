@@ -53,11 +53,6 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663292439/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.40.26_PM_v3cwn1.png
-        speaker: 'Fran Benedito '
-        company: GreenClimateDAO - Climatecoin
-        title: Chairman
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
         company: Global Carbon Reward
@@ -88,15 +83,20 @@ blocks:
         company: Cryptofintech
         title: CEO
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290519/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.08.12_PM_b7cksc.png
-        speaker: Tom Herman
-        company: Meta Carbon
-        title: CEO
+          https://res.cloudinary.com/protocolai/image/upload/v1663292439/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.40.26_PM_v3cwn1.png
+        speaker: 'Fran Benedito '
+        company: GreenClimateDAO - Climatecoin
+        title: Chairman
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290769/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.12.35_PM_m05ymi.png
         speaker: Natacha Rousseau
         company: KlimaDAO
         title: Director of Comms &  Climate Tech
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290519/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.08.12_PM_b7cksc.png
+        speaker: Tom Herman
+        company: Meta Carbon
+        title: CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290874/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.14.08_PM_gkkexe.png
         speaker: Phil Fogel
@@ -110,8 +110,8 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289046/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.43.48_PM_dh7zbx.png
         speaker: Ale Borda
-        company: Web3 Instigator
-        title: Fifty Years
+        company: Fifty Years
+        title: Web3 Instigator
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289692/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.54.36_PM_qm8akv.png
         speaker: John Goedschalk
