@@ -53,10 +53,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1660091532/sustainable-blockchain/bio-olya_irzak_vbfmlw_a3vnuk.jpg
-        speaker: Speaker Name
-        company: Company
-        title: Title
+          https://res.cloudinary.com/protocolai/image/upload/v1663288872/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.31.06_PM_zgfbjk.png
+        speaker: Marcelo de Almeida Silva
+        company: ReFi Spring
+        title: Community Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1660091347/sustainable-blockchain/bio-gloria-kimbwala_gzkvep_p4jn2s.jpg
         speaker: Speaker Name
