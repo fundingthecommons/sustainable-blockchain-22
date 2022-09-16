@@ -294,7 +294,8 @@ blocks:
     headline: Tickets
     subhead: >-
       All ticket proceeds will be donated to support environmental conservation
-      in Latin America.
+      in Latin America. We welcome donations of any size. We  greatly appreciate
+      your support!
     body: ''
     navigationLabel: Tickets
     _template: feature
