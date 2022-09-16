@@ -53,16 +53,6 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290975/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.16.04_PM_p8nyrd.png
-        speaker: Brianna Welsh
-        company: Reneum Institute
-        title: CEO
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290874/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.14.08_PM_gkkexe.png
-        speaker: Phil Fogel
-        company: Flowcarbon
-        title: Chief Blockchain Officer
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
         company: Global Carbon Reward
@@ -78,6 +68,16 @@ blocks:
         company: 'Gitcoin '
         title: Founder
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290975/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.16.04_PM_p8nyrd.png
+        speaker: Brianna Welsh
+        company: Reneum Institute
+        title: CEO
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290655/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.10.46_PM_gqxqed.png
+        speaker: Gregory Landua
+        company: Regen Network Development Inc.
+        title: CEO
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290376/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.06.02_PM_fnbdi4.png
         speaker: Eloisa Cadenas
         company: Cryptofintech
@@ -88,15 +88,15 @@ blocks:
         company: Meta Carbon
         title: CEO
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290655/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.10.46_PM_gqxqed.png
-        speaker: Gregory Landua
-        company: Regen Network Development Inc.
-        title: CEO
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290769/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.12.35_PM_m05ymi.png
         speaker: Natacha Rousseau
         company: KlimaDAO
         title: Director of Comms &  Climate Tech
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290874/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.14.08_PM_gkkexe.png
+        speaker: Phil Fogel
+        company: Flowcarbon
+        title: Chief Blockchain Officer
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290049/sustainable-blockchain/alan_m8cpfd.jpg
         speaker: 'Alan Ransil, PhD '
@@ -122,6 +122,11 @@ blocks:
         speaker: Orinayo Ayodele
         company: Filecoin Green
         title: Program Manager
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663291119/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.18.16_PM_jw98cl.png
+        speaker: Beltran Berrocal
+        company: Zero Labs
+        title: Carbon Exterminator Officer
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289304/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.48.13_PM_tbwma9.png
         speaker: 'Azeem Khan '
