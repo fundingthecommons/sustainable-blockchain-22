@@ -53,6 +53,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663291307/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.21.35_PM_mooyqz.png
+        speaker: Marco Schletz
+        company: Open Earth Foundation & Data-Driven Lab
+        title: Climate Tech Innovation Fellow & Postdoc
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
         company: Global Carbon Reward
