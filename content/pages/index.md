@@ -157,7 +157,7 @@ blocks:
         speaker: Marco Schletz
         company: Open Earth Foundation & Data-Driven Lab
         title: Climate Tech Innovation Fellow & Postdoc
-    navigationLabel: ''
+    navigationLabel: Speakers
     _template: speakerCards
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
