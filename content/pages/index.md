@@ -53,10 +53,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663348930/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.16.13_AM_icatiw.png
-        speaker: Alexi Anania
-        company: European Union Blockchain Observatory and Forum
-        title: Expert Panel
+          https://res.cloudinary.com/protocolai/image/upload/v1663349053/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.23.48_AM_jg42ot.png
+        speaker: Sebastian Jaramillo
+        company: Open Forest Protocol
+        title: Country Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
@@ -182,6 +182,11 @@ blocks:
         speaker: Ester Fonseca Silva
         company: Carb0n.Fi
         title: 'BEng Agriculture | Master in Plant Science '
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663348930/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.16.13_AM_icatiw.png
+        speaker: Alexi Anania
+        company: European Union Blockchain Observatory and Forum
+        title: Expert Panel
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
         speaker: Marcus Aurelius
