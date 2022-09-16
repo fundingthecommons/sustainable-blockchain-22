@@ -53,6 +53,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663289827/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.56.56_PM_gwd9cg.png
+        speaker: Orinayo Ayodele
+        company: Filecoin Green
+        title: Program Manager
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289692/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.54.36_PM_qm8akv.png
         speaker: John Goedschalk
         company: Conservation International Suriname
