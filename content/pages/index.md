@@ -53,6 +53,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663292439/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.40.26_PM_v3cwn1.png
+        speaker: 'Fran Benedito '
+        company: GreenClimateDAO - Climatecoin
+        title: Chairman
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
         company: Global Carbon Reward
