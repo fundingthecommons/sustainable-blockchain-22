@@ -53,10 +53,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290769/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.12.35_PM_m05ymi.png
-        speaker: Natacha Rousseau
-        company: KlimaDAO
-        title: Director of Comms &  Climate Tech
+          https://res.cloudinary.com/protocolai/image/upload/v1663290874/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.14.08_PM_gkkexe.png
+        speaker: Phil Fogel
+        company: Flowcarbon
+        title: Chief Blockchain Officer
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
@@ -87,6 +87,11 @@ blocks:
         speaker: Gregory Landua
         company: Regen Network Development Inc.
         title: CEO
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290769/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.12.35_PM_m05ymi.png
+        speaker: Natacha Rousseau
+        company: KlimaDAO
+        title: Director of Comms &  Climate Tech
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290049/sustainable-blockchain/alan_m8cpfd.jpg
         speaker: 'Alan Ransil, PhD '
