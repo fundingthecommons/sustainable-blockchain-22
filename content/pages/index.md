@@ -53,10 +53,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663292757/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.45.46_PM_ry33kw.png
-        speaker: Tamara Helenius
-        company: Commons Stack
-        title: 'Partner '
+          https://res.cloudinary.com/protocolai/image/upload/v1663292830/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.46.49_PM_l2khxr.png
+        speaker: Stenver Jerkku
+        company: Solid World DAO
+        title: Chairman
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
@@ -167,6 +167,11 @@ blocks:
         speaker: Marco Schletz
         company: Open Earth Foundation & Data-Driven Lab
         title: Climate Tech Innovation Fellow & Postdoc
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663292757/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.45.46_PM_ry33kw.png
+        speaker: Tamara Helenius
+        company: Commons Stack
+        title: 'Partner '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
         speaker: Marcus Aurelius
