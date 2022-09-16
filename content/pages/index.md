@@ -53,6 +53,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290223/sustainable-blockchain/marc_hn47un.png
+        speaker: Marc Johnson
+        company: Filecoin Green
+        title: Environmental Solutions Architect
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
         speaker: Marcus Aurelius
         company: KlimaDAO
