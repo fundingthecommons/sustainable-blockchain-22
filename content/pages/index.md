@@ -53,10 +53,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290655/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.10.46_PM_gqxqed.png
-        speaker: Gregory Landua
-        company: Regen Network Development Inc.
-        title: CEO
+          https://res.cloudinary.com/protocolai/image/upload/v1663290769/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.12.35_PM_m05ymi.png
+        speaker: Natacha Rousseau
+        company: KlimaDAO
+        title: Director of Comms &  Climate Tech
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
@@ -83,6 +83,11 @@ blocks:
         company: Meta Carbon
         title: CEO
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290655/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.10.46_PM_gqxqed.png
+        speaker: Gregory Landua
+        company: Regen Network Development Inc.
+        title: CEO
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290049/sustainable-blockchain/alan_m8cpfd.jpg
         speaker: 'Alan Ransil, PhD '
         company: Filecoin Green
@@ -98,20 +103,15 @@ blocks:
         company: Conservation International Suriname
         title: 'Executive Director '
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663289827/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.56.56_PM_gwd9cg.png
-        speaker: Orinayo Ayodele
-        company: Filecoin Green
-        title: Program Manager
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289439/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.50.28_PM_jn8vmx.png
         speaker: 'Juan José Giraldo '
         company: Green Rangers
         title: CEO
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290223/sustainable-blockchain/marc_hn47un.png
-        speaker: Marc Johnson
+          https://res.cloudinary.com/protocolai/image/upload/v1663289827/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.56.56_PM_gwd9cg.png
+        speaker: Orinayo Ayodele
         company: Filecoin Green
-        title: Environmental Solutions Architect
+        title: Program Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289304/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.48.13_PM_tbwma9.png
         speaker: 'Azeem Khan '
@@ -122,6 +122,11 @@ blocks:
         speaker: Marcelo de Almeida Silva
         company: ReFi Spring
         title: Community Manager
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290223/sustainable-blockchain/marc_hn47un.png
+        speaker: Marc Johnson
+        company: Filecoin Green
+        title: Environmental Solutions Architect
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289133/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.45.22_PM_jslhnb.png
         speaker: Jahed Momand
