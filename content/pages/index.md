@@ -53,6 +53,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663349053/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.23.48_AM_jg42ot.png
+        speaker: Sebastian Jaramillo
+        company: Open Forest Protocol
+        title: Country Manager
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
         company: Global Carbon Reward
@@ -125,7 +130,7 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289439/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.50.28_PM_jn8vmx.png
         speaker: 'Juan José Giraldo '
-        company: Green Rangers
+        company: Green Digital Guardians
         title: CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663291119/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.18.16_PM_jw98cl.png
@@ -172,6 +177,16 @@ blocks:
         speaker: Marco Schletz
         company: Open Earth Foundation & Data-Driven Lab
         title: Climate Tech Innovation Fellow & Postdoc
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663348445/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.13.32_AM_zhrf8h.png
+        speaker: Ester Fonseca Silva
+        company: Carb0n.Fi
+        title: 'BEng Agriculture | Master in Plant Science '
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663348930/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.16.13_AM_icatiw.png
+        speaker: Alexi Anania
+        company: European Union Blockchain Observatory and Forum
+        title: Expert Panel
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
         speaker: Marcus Aurelius
