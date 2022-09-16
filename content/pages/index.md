@@ -53,6 +53,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663292561/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.42.00_PM_hrhuib.png
+        speaker: Anya Singh
+        company: University Affiliation
+        title: Blockchain Researcher
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
         company: Global Carbon Reward
