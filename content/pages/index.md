@@ -106,16 +106,10 @@ blocks:
       cardHeadline: font-bold
       cardText: ''
     label: ''
-    headline: Previous SBS speakers include...
+    headline: ''
     subhead: ''
     body: ''
     items:
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660086141/sustainable-blockchain/bio-kevin-owocki_vjourm.png
-        headline: Kevin Owocki
-        subhead: Gitcoin
-        text: ''
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1657719802/Screen_Shot_2022-07-13_at_2.43.16_PM_j7sd3t.png
@@ -137,15 +131,22 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660085646/Screen_Shot_2022-08-09_at_3.53.19_PM_l0n49m.png
-        headline: Gregory Landua
-        subhead: Regen Network
-        text: ''
-      - image:
-          src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1658386508/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.54.26_AM_z0odsf.png
         headline: Alex Devries
         subhead: Digiconomist
+        text: ''
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1660085745/sustainable-blockchain/Screen_Shot_2022-08-09_at_3.55.20_PM_tvhuzx.png
+        headline: Alex Paris
+        subhead: UN Climate Change
+        text: ''
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1660086268/sustainable-blockchain/Screen_Shot_2022-08-09_at_4.04.06_PM_jdv9ut.png
+        label: ''
+        headline: Sharfy Adamantine
+        subhead: Gainforest
         text: ''
       - image:
           src: >-
@@ -161,15 +162,9 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1657720748/sustainable-blockchain/rim_oym0yb.png
-        headline: Rim Jeong
-        subhead: Open Forest Protocol
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660085745/sustainable-blockchain/Screen_Shot_2022-08-09_at_3.55.20_PM_tvhuzx.png
-        headline: Alex Paris
-        subhead: UN Climate Change
+            https://res.cloudinary.com/protocolai/image/upload/v1660091347/sustainable-blockchain/bio-gloria-kimbwala_gzkvep_p4jn2s.jpg
+        headline: Gloria Kimbwala
+        subhead: Gitcoin
         text: ''
       - image:
           src: >-
@@ -177,19 +172,6 @@ blocks:
         label: ''
         headline: Adrian Wons
         subhead: Senken
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660086268/sustainable-blockchain/Screen_Shot_2022-08-09_at_4.04.06_PM_jdv9ut.png
-        label: ''
-        headline: Sharfy Adamantine
-        subhead: Gainforest
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660086059/sustainable-blockchain/juan_asxcql.png
-        headline: Juan Benet
-        subhead: Protocol Labs
         text: ''
       - image:
           src: >-
@@ -202,24 +184,6 @@ blocks:
             https://res.cloudinary.com/protocolai/image/upload/v1660091532/sustainable-blockchain/bio-olya_irzak_vbfmlw_a3vnuk.jpg
         headline: Olya Irzak
         subhead: Frost Methane
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660091252/sustainable-blockchain/Linda_Jirouskova_wo2qmd_eqky3g.jpg
-        headline: Linda Jirouskova
-        subhead: RMI
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660091347/sustainable-blockchain/bio-gloria-kimbwala_gzkvep_p4jn2s.jpg
-        headline: Gloria Kimbwala
-        subhead: Gitcoin
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660085971/sustainable-blockchain/alan-ransil-PL_1_novxew.jpg
-        headline: Alan Ransil
-        subhead: Filecoin Green
         text: ''
     _template: tailwindCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
