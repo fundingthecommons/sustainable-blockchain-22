@@ -53,20 +53,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290223/sustainable-blockchain/marc_hn47un.png
-        speaker: Marc Johnson
-        company: Filecoin Green
-        title: Environmental Solutions Architect
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
-        speaker: Marcus Aurelius
-        company: KlimaDAO
-        title: Core Contributor
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290049/sustainable-blockchain/alan_m8cpfd.jpg
-        speaker: 'Alan Ransil, PhD '
-        company: Filecoin Green
-        title: Project Lead
+          https://res.cloudinary.com/protocolai/image/upload/v1663290376/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.06.02_PM_fnbdi4.png
+        speaker: Eloisa Cadenas
+        company: Cryptofintech
+        title: CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
@@ -78,15 +68,20 @@ blocks:
         company: Protocol Labs
         title: Founder and CEO
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663289046/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.43.48_PM_dh7zbx.png
+        speaker: Ale Borda
+        company: Web3 Instigator
+        title: Fifty Years
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289827/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.56.56_PM_gwd9cg.png
         speaker: Orinayo Ayodele
         company: Filecoin Green
         title: Program Manager
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663289046/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.43.48_PM_dh7zbx.png
-        speaker: Ale Borda
-        company: Web3 Instigator
-        title: Fifty Years
+          https://res.cloudinary.com/protocolai/image/upload/v1663290049/sustainable-blockchain/alan_m8cpfd.jpg
+        speaker: 'Alan Ransil, PhD '
+        company: Filecoin Green
+        title: Project Lead
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289692/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.54.36_PM_qm8akv.png
         speaker: John Goedschalk
@@ -108,6 +103,11 @@ blocks:
         company: Gitcoin
         title: Lead for Partnerships and Fundraising
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290223/sustainable-blockchain/marc_hn47un.png
+        speaker: Marc Johnson
+        company: Filecoin Green
+        title: Environmental Solutions Architect
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663288872/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.31.06_PM_zgfbjk.png
         speaker: Marcelo de Almeida Silva
         company: ReFi Spring
@@ -117,6 +117,11 @@ blocks:
         speaker: Jahed Momand
         company: Cerulean Ventures
         title: Co-founder and General Partner
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
+        speaker: Marcus Aurelius
+        company: KlimaDAO
+        title: Core Contributor
     _template: speakerCards
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
