@@ -125,7 +125,7 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289439/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.50.28_PM_jn8vmx.png
         speaker: 'Juan José Giraldo '
-        company: Green Rangers
+        company: Green Digital Guardians
         title: CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663291119/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.18.16_PM_jw98cl.png
