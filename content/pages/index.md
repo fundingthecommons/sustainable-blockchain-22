@@ -159,124 +159,6 @@ blocks:
         title: Climate Tech Innovation Fellow & Postdoc
     navigationLabel: Speakers
     _template: speakerCards
-  - style:
-      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
-      featureContent: 'w-4/5 min-h-0 '
-      padding: 'pt-20 pb-10 pr-20 pl-20 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: text-accent2 font-1 text-6xl mb-5 font-bold
-      subheadStyles: 'text-accent2 font-1 text-xl mb-0 '
-      textStyles: text-accent2 font-1 text-base mb-7 font-bold
-      contentOrder: labelHeadingsContent
-    label: ''
-    headline: Previous SBS speakers include...
-    subhead: ''
-    body: ''
-    navigationLabel: ''
-    _template: feature
-  - tailwind:
-      section: ''
-      wrap: 'max-w-desktop-full mx-auto p-20 pt-4 pb-28 sm:p-10 min-h-0 '
-      imageWrap: ''
-      image: ''
-      contentWrap: ''
-      content: ''
-      label: ''
-      headline: text-accent2 text-2xl font-bold mb-8
-      subhead: ''
-      text: ''
-      buttons: ''
-      button: ''
-      cardWrap: 'grid grid-cols-6 gap-12 md:gap-6 sm:grid-cols-3'
-      card: ''
-      cardImageWrap: 'relative mb-4 mx-auto w-32 h-32 md:w-24 md:h-24'
-      cardImage: absolute inset-0 w-full h-full object-cover rounded-full
-      cardContent: text-accent2 text-sm text-center
-      cardHeadline: font-bold
-      cardText: ''
-    label: ''
-    headline: ''
-    subhead: ''
-    body: ''
-    items:
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1657719802/Screen_Shot_2022-07-13_at_2.43.16_PM_j7sd3t.png
-        headline: Brittany Kaiser
-        subhead: Gryphon Mining
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660085839/sustainable-blockchain/Troy_Cross-Headshot_rz62bg.jpg
-        headline: Troy Cross
-        subhead: Reed College
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1658386719/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
-        label: ''
-        headline: Kirsteen Harrison
-        subhead: Zumo
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1658386508/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.54.26_AM_z0odsf.png
-        headline: Alex Devries
-        subhead: Digiconomist
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660085745/sustainable-blockchain/Screen_Shot_2022-08-09_at_3.55.20_PM_tvhuzx.png
-        headline: Alex Paris
-        subhead: UN Climate Change
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660086268/sustainable-blockchain/Screen_Shot_2022-08-09_at_4.04.06_PM_jdv9ut.png
-        label: ''
-        headline: Sharfy Adamantine
-        subhead: Gainforest
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660087641/sustainable-blockchain/raphael_benoi_m7ebwg_sopazt.jpg
-        headline: Raphael Benoi
-        subhead: Toucan
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660085524/sustainable-blockchain/Screen_Shot_2022-08-09_at_3.51.33_PM_svwti6.png
-        headline: Paula Palermo
-        subhead: Impacta Finance
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660091347/sustainable-blockchain/bio-gloria-kimbwala_gzkvep_p4jn2s.jpg
-        headline: Gloria Kimbwala
-        subhead: Gitcoin
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1658386278/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.35.27_AM_pg1scm.png
-        label: ''
-        headline: Adrian Wons
-        subhead: Senken
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660090937/sustainable-blockchain/paul_headshot_ogpfg2_ngpwxo.jpg
-        headline: Paul Gambill
-        subhead: Nori
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660091532/sustainable-blockchain/bio-olya_irzak_vbfmlw_a3vnuk.jpg
-        headline: Olya Irzak
-        subhead: Frost Methane
-        text: ''
-    _template: tailwindCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
   - style:
@@ -350,6 +232,23 @@ blocks:
       - label: Sponsor SBS LATAM
         link: 'https://airtable.com/shrCPatBcaxgdfxx9'
         type: primary
+    _template: feature
+  - style:
+      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
+      featureContent: 'w-4/5 min-h-0 '
+      padding: 'pt-20 pb-10 pr-20 pl-20 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: text-accent2 font-1 text-6xl mb-5 font-bold
+      subheadStyles: 'text-accent2 font-1 text-xl mb-0 '
+      textStyles: text-accent2 font-1 text-base mb-7 font-bold
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: Tickets
+    subhead: ''
+    body: ''
+    navigationLabel: Tickets
     _template: feature
   - style:
       minHeight: min-h-0
