@@ -58,10 +58,10 @@ blocks:
         company: ReFi Spring
         title: Community Manager
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1660091347/sustainable-blockchain/bio-gloria-kimbwala_gzkvep_p4jn2s.jpg
-        speaker: Speaker Name
-        company: Company
-        title: Title
+          https://res.cloudinary.com/protocolai/image/upload/v1663289046/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.43.48_PM_dh7zbx.png
+        speaker: Ale Borda
+        company: Web3 Instigator
+        title: Fifty Years
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1660091252/sustainable-blockchain/Linda_Jirouskova_wo2qmd_eqky3g.jpg
         speaker: Speaker Name
