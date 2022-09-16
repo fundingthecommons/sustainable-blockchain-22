@@ -53,6 +53,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
+        speaker: Marcus Aurelius
+        company: KlimaDAO
+        title: Core Contributor
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290049/sustainable-blockchain/alan_m8cpfd.jpg
         speaker: 'Alan Ransil, PhD '
         company: Filecoin Green
