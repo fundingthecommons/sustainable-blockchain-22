@@ -142,6 +142,9 @@ export const Layout = ({
           }}
         />
 
+        {/* Eventbrite Widget */}
+        <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
         {/* Google Fonts */ }
         <link rel="preconnect" href="https://fonts.googleapis.com"></link>
         <link rel="preconnect" href="https://fonts.gstatic.com"></link>
@@ -154,6 +157,22 @@ export const Layout = ({
         <div className="flex flex-col flex-1">{children}</div>
         <Footer />
       </div>
+      <script
+          dangerouslySetInnerHTML={{
+            __html: `
+            window.addEventListener("load", function() {
+              if (window.EBWidgets) {
+                window.EBWidgets.createWidget({
+                    widgetType: 'checkout',
+                    eventId: '397452199227',
+                    iframeContainerId: 'eventbrite-widget-container-397452199227',
+                    iframeContainerHeight: 500,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+                })
+              }
+            });
+            `,
+          }}
+        />
     </>
   );
 };

@@ -18,12 +18,12 @@ const Card = ({ data, index, parentField = ""  }) => {
           />
         )}
         <div className="p-10 pt-56 pb-14" >
-          {data.label && (
+          {/* {data.label && (
             <p
               className="text-md text-accent2 mb-2"
               data-tinafield={`${parentField}.${index}.label`}
             >{data.label}</p>
-          )}
+          )} */}
           {data.speaker && (
             <h3
               className="text-lg font-bold text-accent2 mb-1"
@@ -83,7 +83,7 @@ export const SpeakerCards = ({ data, parentField = "" }) => {
             />
           })
         )}
-        <div className="flex flex-col justify-center align-center pt-14">
+        {/* <div className="flex flex-col justify-center align-center pt-14">
           <p className={`text-center px-16 ${data.style?.labelStyles}`}>{ data.label }</p>
           <Buttons
             buttons={[
@@ -96,7 +96,7 @@ export const SpeakerCards = ({ data, parentField = "" }) => {
             className={`mx-auto`}
             parentField={`${parentField}.buttons`}
           />
-        </div>
+        </div> */}
       </div>
     </Section>
   );
