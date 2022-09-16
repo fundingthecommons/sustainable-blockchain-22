@@ -198,15 +198,6 @@ blocks:
     schedules:
       - headline: Coming soon!
         body: ''
-      - headline: Track 2
-        body: ''
-        events:
-          - time: '9:00'
-            headline: Event 1
-            subhead: The description of the event
-          - time: '10:00'
-            headline: Event 2
-            subhead: A different description
     _template: schedule
   - padding: undefined undefined pr-20 pl-20
     _template: rule
