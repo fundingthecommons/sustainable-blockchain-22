@@ -5,7 +5,8 @@ blocks:
   - label: Join us as we learn how to build greener blockchain solutions together.
     headline: Sustainable Blockchain Summit LATAM 2022
     subhead: 'October 12 • Bogotá, Colombia'
-    body: ''
+    body: |
+      El Museo del Chicó
     buttons:
       - label: Grab your ticket
         link: 'https://www.eventbrite.com/e/397452199227'
@@ -52,11 +53,6 @@ blocks:
     subhead: Our speakers are builders
     body: ''
     cards:
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663349053/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.23.48_AM_jg42ot.png
-        speaker: Sebastian Jaramillo
-        company: Open Forest Protocol
-        title: Country Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
@@ -168,6 +164,11 @@ blocks:
         company: Cerulean Ventures
         title: Co-founder and General Partner
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663348445/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.13.32_AM_zhrf8h.png
+        speaker: Ester Fonseca Silva
+        company: Carb0n.Fi
+        title: 'BEng Agriculture | Master in Plant Science '
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663292830/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.46.49_PM_l2khxr.png
         speaker: Stenver Jerkku
         company: Solid World DAO
@@ -177,11 +178,6 @@ blocks:
         speaker: Marco Schletz
         company: Open Earth Foundation & Data-Driven Lab
         title: Climate Tech Innovation Fellow & Postdoc
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663348445/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.13.32_AM_zhrf8h.png
-        speaker: Ester Fonseca Silva
-        company: Carb0n.Fi
-        title: 'BEng Agriculture | Master in Plant Science '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663348930/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.16.13_AM_icatiw.png
         speaker: Alexi Anania
@@ -197,6 +193,11 @@ blocks:
         speaker: Facundo Cajén
         company: GainForest
         title: LATAM Director
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663349053/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.23.48_AM_jg42ot.png
+        speaker: Sebastian Jaramillo
+        company: Open Forest Protocol
+        title: Country Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663292981/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.49.27_PM_rc6ilb.png
         speaker: Joseph Hargreaves

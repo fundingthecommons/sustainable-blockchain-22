@@ -7,17 +7,17 @@ import { TinaMarkdown } from "tinacms/dist/rich-text";
 const Card = ({ data, index, parentField = ""  }) => {
   return (
     <div className="relative" data-tinafield={`${parentField}.${index}`}>
-      <div className="absolute inset-0 top-16 -z-1 bg-white"></div>
-      <div className="flex items-center">
+      <div className="absolute inset-0 top-16 -z-1 bg-white sm:top-0"></div>
+      <div className="flex items-center sm:flex-row sm:gap-">
         {data.imageSrc && (
           <img
             alt={data.speakerName}
             src={data.imageSrc}
-            className="w-48 h-48 absolute top-0 left-1/2 transform -translate-x-1/2 rounded-full object-cover"
+            className="w-48 h-48 absolute top-0 left-1/2 transform -translate-x-1/2 sm:relative sm:left-0 sm:translate-x-0 rounded-full object-cover sm:w-36 sm:h-36 sm:p-4"
             data-tinafield={`${parentField}.${index}.image`}
           />
         )}
-        <div className="p-10 pt-56 pb-14" >
+        <div className="p-10 pt-56 pb-14 pb-6 sm:p-0" >
           {/* {data.label && (
             <p
               className="text-md text-accent2 mb-2"
@@ -72,7 +72,7 @@ export const SpeakerCards = ({ data, parentField = "" }) => {
         width = "w-full"
         parentField={parentField}
       />
-      <div className="speaker-cards grid grid-cols-3 gap-8 md:grid-cols-3 sm:grid-cols-2">
+      <div className="speaker-cards grid grid-cols-3 gap-8 md:grid-cols-3 sm:grid-cols-1 sm:gap-1">
         {data.cards && (
           data.cards.map(function (block, index) {
             return <Card
@@ -83,20 +83,6 @@ export const SpeakerCards = ({ data, parentField = "" }) => {
             />
           })
         )}
-        {/* <div className="flex flex-col justify-center align-center pt-14">
-          <p className={`text-center px-16 ${data.style?.labelStyles}`}>{ data.label }</p>
-          <Buttons
-            buttons={[
-              {
-                label: "Apply To Speak",
-                link: "/",
-                type: "primary"
-              },
-            ]}
-            className={`mx-auto`}
-            parentField={`${parentField}.buttons`}
-          />
-        </div> */}
       </div>
     </Section>
   );
