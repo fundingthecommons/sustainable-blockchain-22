@@ -63,10 +63,10 @@ blocks:
         company: Web3 Instigator
         title: Fifty Years
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1660091252/sustainable-blockchain/Linda_Jirouskova_wo2qmd_eqky3g.jpg
-        speaker: Speaker Name
-        company: Company
-        title: Title
+          https://res.cloudinary.com/protocolai/image/upload/v1663289133/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.45.22_PM_jslhnb.png
+        speaker: Jahed Momand
+        company: Cerulean Ventures
+        title: Co-founder and General Partner
     _template: speakerCards
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
