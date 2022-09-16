@@ -53,6 +53,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290975/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.16.04_PM_p8nyrd.png
+        speaker: Brianna Welsh
+        company: Reneum Institute
+        title: CEO
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290874/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.14.08_PM_gkkexe.png
         speaker: Phil Fogel
         company: Flowcarbon
