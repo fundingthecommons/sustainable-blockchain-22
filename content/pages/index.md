@@ -83,15 +83,20 @@ blocks:
         company: Cryptofintech
         title: CEO
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290519/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.08.12_PM_b7cksc.png
-        speaker: Tom Herman
-        company: Meta Carbon
-        title: CEO
+          https://res.cloudinary.com/protocolai/image/upload/v1663292439/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.40.26_PM_v3cwn1.png
+        speaker: 'Fran Benedito '
+        company: GreenClimateDAO - Climatecoin
+        title: Chairman
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290769/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.12.35_PM_m05ymi.png
         speaker: Natacha Rousseau
         company: KlimaDAO
         title: Director of Comms &  Climate Tech
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290519/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.08.12_PM_b7cksc.png
+        speaker: Tom Herman
+        company: Meta Carbon
+        title: CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290874/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.14.08_PM_gkkexe.png
         speaker: Phil Fogel
@@ -105,8 +110,13 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289046/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.43.48_PM_dh7zbx.png
         speaker: Ale Borda
-        company: Web3 Instigator
-        title: Fifty Years
+        company: Fifty Years
+        title: Web3 Instigator
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663289827/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.56.56_PM_gwd9cg.png
+        speaker: Orinayo Ayodele
+        company: Filecoin Green
+        title: Program Manager
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289692/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.54.36_PM_qm8akv.png
         speaker: John Goedschalk
@@ -118,15 +128,15 @@ blocks:
         company: Green Rangers
         title: CEO
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663289827/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.56.56_PM_gwd9cg.png
-        speaker: Orinayo Ayodele
-        company: Filecoin Green
-        title: Program Manager
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663291119/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.18.16_PM_jw98cl.png
         speaker: Beltran Berrocal
         company: Zero Labs
         title: Carbon Exterminator Officer
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663292757/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.45.46_PM_ry33kw.png
+        speaker: Tamara Helenius
+        company: Commons Stack
+        title: 'Partner '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289304/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.48.13_PM_tbwma9.png
         speaker: 'Azeem Khan '
@@ -143,140 +153,42 @@ blocks:
         company: Filecoin Green
         title: Environmental Solutions Architect
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663292561/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.42.00_PM_hrhuib.png
+        speaker: Anya Singh
+        company: University Affiliation
+        title: Blockchain Researcher
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289133/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.45.22_PM_jslhnb.png
         speaker: Jahed Momand
         company: Cerulean Ventures
         title: Co-founder and General Partner
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663292830/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.46.49_PM_l2khxr.png
+        speaker: Stenver Jerkku
+        company: Solid World DAO
+        title: Chairman
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663291307/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.21.35_PM_mooyqz.png
+        speaker: Marco Schletz
+        company: Open Earth Foundation & Data-Driven Lab
+        title: Climate Tech Innovation Fellow & Postdoc
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
         speaker: Marcus Aurelius
         company: KlimaDAO
         title: Core Contributor
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663291307/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.21.35_PM_mooyqz.png
-        speaker: Marco Schletz
-        company: Open Earth Foundation & Data-Driven Lab
-        title: Climate Tech Innovation Fellow & Postdoc
+          https://res.cloudinary.com/protocolai/image/upload/v1663292660/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.44.06_PM_nvmvi4.png
+        speaker: Facundo Cajén
+        company: GainForest
+        title: LATAM Director
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663292981/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.49.27_PM_rc6ilb.png
+        speaker: Joseph Hargreaves
+        company: 'Thallo '
+        title: Co-Founder
     navigationLabel: Speakers
     _template: speakerCards
-  - style:
-      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
-      featureContent: 'w-4/5 min-h-0 '
-      padding: 'pt-20 pb-10 pr-20 pl-20 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: text-accent2 font-1 text-6xl mb-5 font-bold
-      subheadStyles: 'text-accent2 font-1 text-xl mb-0 '
-      textStyles: text-accent2 font-1 text-base mb-7 font-bold
-      contentOrder: labelHeadingsContent
-    label: ''
-    headline: Previous SBS speakers include...
-    subhead: ''
-    body: ''
-    navigationLabel: ''
-    _template: feature
-  - tailwind:
-      section: ''
-      wrap: 'max-w-desktop-full mx-auto p-20 pt-4 pb-28 sm:p-10 min-h-0 '
-      imageWrap: ''
-      image: ''
-      contentWrap: ''
-      content: ''
-      label: ''
-      headline: text-accent2 text-2xl font-bold mb-8
-      subhead: ''
-      text: ''
-      buttons: ''
-      button: ''
-      cardWrap: 'grid grid-cols-6 gap-12 md:gap-6 sm:grid-cols-3'
-      card: ''
-      cardImageWrap: 'relative mb-4 mx-auto w-32 h-32 md:w-24 md:h-24'
-      cardImage: absolute inset-0 w-full h-full object-cover rounded-full
-      cardContent: text-accent2 text-sm text-center
-      cardHeadline: font-bold
-      cardText: ''
-    label: ''
-    headline: ''
-    subhead: ''
-    body: ''
-    items:
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1657719802/Screen_Shot_2022-07-13_at_2.43.16_PM_j7sd3t.png
-        headline: Brittany Kaiser
-        subhead: Gryphon Mining
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660085839/sustainable-blockchain/Troy_Cross-Headshot_rz62bg.jpg
-        headline: Troy Cross
-        subhead: Reed College
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1658386719/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
-        label: ''
-        headline: Kirsteen Harrison
-        subhead: Zumo
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1658386508/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.54.26_AM_z0odsf.png
-        headline: Alex Devries
-        subhead: Digiconomist
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660085745/sustainable-blockchain/Screen_Shot_2022-08-09_at_3.55.20_PM_tvhuzx.png
-        headline: Alex Paris
-        subhead: UN Climate Change
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660086268/sustainable-blockchain/Screen_Shot_2022-08-09_at_4.04.06_PM_jdv9ut.png
-        label: ''
-        headline: Sharfy Adamantine
-        subhead: Gainforest
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660087641/sustainable-blockchain/raphael_benoi_m7ebwg_sopazt.jpg
-        headline: Raphael Benoi
-        subhead: Toucan
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660085524/sustainable-blockchain/Screen_Shot_2022-08-09_at_3.51.33_PM_svwti6.png
-        headline: Paula Palermo
-        subhead: Impacta Finance
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660091347/sustainable-blockchain/bio-gloria-kimbwala_gzkvep_p4jn2s.jpg
-        headline: Gloria Kimbwala
-        subhead: Gitcoin
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1658386278/sustainable-blockchain/Screen_Shot_2022-07-21_at_8.35.27_AM_pg1scm.png
-        label: ''
-        headline: Adrian Wons
-        subhead: Senken
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660090937/sustainable-blockchain/paul_headshot_ogpfg2_ngpwxo.jpg
-        headline: Paul Gambill
-        subhead: Nori
-        text: ''
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1660091532/sustainable-blockchain/bio-olya_irzak_vbfmlw_a3vnuk.jpg
-        headline: Olya Irzak
-        subhead: Frost Methane
-        text: ''
-    _template: tailwindCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
   - style:
@@ -352,10 +264,28 @@ blocks:
         type: primary
     _template: feature
   - style:
+      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
+      featureContent: 'w-4/5 min-h-0 '
+      padding: 'pt-20 pb-10 pr-20 pl-20 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: text-accent2 font-1 text-6xl mb-5 font-bold
+      subheadStyles: 'text-accent2 font-1 text-xl mb-0 '
+      textStyles: text-accent2 font-1 text-base mb-7 font-bold
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: Tickets
+    subhead: ''
+    body: ''
+    navigationLabel: Tickets
+    _template: feature
+  - style:
       minHeight: min-h-0
       fullWidth: true
       padding: 'pt-0 pb-40 pr-20 pl-20 sm:pt-0 sm:pb-20 sm:pr-10 sm:pl-10'
     markup: <div id="eventbrite-widget-container-397452199227"></div>
+    navigationLabel: ''
     _template: embed
   - style:
       labelStyles: 'text-black font-1 text-sm mb-0 '
