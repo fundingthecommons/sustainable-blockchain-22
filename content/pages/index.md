@@ -53,10 +53,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663292660/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.44.06_PM_nvmvi4.png
-        speaker: Facundo Cajén
-        company: GainForest
-        title: LATAM Director
+          https://res.cloudinary.com/protocolai/image/upload/v1663292757/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.45.46_PM_ry33kw.png
+        speaker: Tamara Helenius
+        company: Commons Stack
+        title: 'Partner '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
@@ -158,11 +158,6 @@ blocks:
         company: Cerulean Ventures
         title: Co-founder and General Partner
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
-        speaker: Marcus Aurelius
-        company: KlimaDAO
-        title: Core Contributor
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663292561/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.42.00_PM_hrhuib.png
         speaker: Anya Singh
         company: University Affiliation
@@ -172,6 +167,16 @@ blocks:
         speaker: Marco Schletz
         company: Open Earth Foundation & Data-Driven Lab
         title: Climate Tech Innovation Fellow & Postdoc
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
+        speaker: Marcus Aurelius
+        company: KlimaDAO
+        title: Core Contributor
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663292660/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.44.06_PM_nvmvi4.png
+        speaker: Facundo Cajén
+        company: GainForest
+        title: LATAM Director
     navigationLabel: Speakers
     _template: speakerCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
