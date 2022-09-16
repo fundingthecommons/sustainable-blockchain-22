@@ -5,7 +5,8 @@ blocks:
   - label: Join us as we learn how to build greener blockchain solutions together.
     headline: Sustainable Blockchain Summit LATAM 2022
     subhead: 'October 12 • Bogotá, Colombia'
-    body: ''
+    body: |
+      El Museo del Chicó
     buttons:
       - label: Grab your ticket
         link: 'https://www.eventbrite.com/e/397452199227'

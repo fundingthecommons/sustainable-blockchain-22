@@ -131,9 +131,9 @@ export const Hero = ({ data, parentField = ""  }) => {
           <div className="text-left">
             <Logo />
             {data.headline && <h1 className="hidden" data-tinafield={`${parentField}.headline`}>{data.headline}</h1>}
-            {data.subhead && <h2 className="mt-8 mb-10 text-3xl text-accent2 sm:text-lg" data-tinafield={`${parentField}.subhead`}>{data.subhead}</h2>}
+            {data.subhead && <h2 className="mt-8 text-3xl text-accent2 sm:text-lg" data-tinafield={`${parentField}.subhead`}>{data.subhead}</h2>}
             {data.body?.children && (
-              <div className="text" data-tinafield={`${parentField}.body`}>
+              <div className="text text-2xl text-accent2 mb-10 sm:text-md" data-tinafield={`${parentField}.body`}>
                 <TinaMarkdown content={data.body} />
               </div>
             )}
