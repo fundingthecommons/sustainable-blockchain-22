@@ -52,6 +52,12 @@ blocks:
     subhead: Our speakers are builders
     body: ''
     cards:
+      - {}
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663348445/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.13.32_AM_zhrf8h.png
+        speaker: Ester Fonseca Silva
+        company: Carb0n.Fi
+        title: 'BEng Agriculture | Master in Plant Science '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
