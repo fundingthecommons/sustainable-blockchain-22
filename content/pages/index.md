@@ -53,6 +53,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
+        speaker: 'Delton Chen, PhD'
+        company: Global Carbon Reward
+        title: Founder and Project Director
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663288872/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.31.06_PM_zgfbjk.png
         speaker: Marcelo de Almeida Silva
         company: ReFi Spring
