@@ -53,10 +53,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663292830/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.46.49_PM_l2khxr.png
-        speaker: Stenver Jerkku
-        company: Solid World DAO
-        title: Chairman
+          https://res.cloudinary.com/protocolai/image/upload/v1663292981/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.49.27_PM_rc6ilb.png
+        speaker: Joseph Hargreaves
+        company: 'Thallo '
+        title: Co-Founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
@@ -118,6 +118,11 @@ blocks:
         company: Fifty Years
         title: Web3 Instigator
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663289827/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.56.56_PM_gwd9cg.png
+        speaker: Orinayo Ayodele
+        company: Filecoin Green
+        title: Program Manager
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289692/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.54.36_PM_qm8akv.png
         speaker: John Goedschalk
         company: Conservation International Suriname
@@ -128,15 +133,15 @@ blocks:
         company: Green Rangers
         title: CEO
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663289827/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.56.56_PM_gwd9cg.png
-        speaker: Orinayo Ayodele
-        company: Filecoin Green
-        title: Program Manager
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663291119/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.18.16_PM_jw98cl.png
         speaker: Beltran Berrocal
         company: Zero Labs
         title: Carbon Exterminator Officer
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663292757/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.45.46_PM_ry33kw.png
+        speaker: Tamara Helenius
+        company: Commons Stack
+        title: 'Partner '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289304/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.48.13_PM_tbwma9.png
         speaker: 'Azeem Khan '
@@ -153,25 +158,25 @@ blocks:
         company: Filecoin Green
         title: Environmental Solutions Architect
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663289133/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.45.22_PM_jslhnb.png
-        speaker: Jahed Momand
-        company: Cerulean Ventures
-        title: Co-founder and General Partner
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663292561/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.42.00_PM_hrhuib.png
         speaker: Anya Singh
         company: University Affiliation
         title: Blockchain Researcher
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663289133/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.45.22_PM_jslhnb.png
+        speaker: Jahed Momand
+        company: Cerulean Ventures
+        title: Co-founder and General Partner
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663292830/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.46.49_PM_l2khxr.png
+        speaker: Stenver Jerkku
+        company: Solid World DAO
+        title: Chairman
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663291307/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.21.35_PM_mooyqz.png
         speaker: Marco Schletz
         company: Open Earth Foundation & Data-Driven Lab
         title: Climate Tech Innovation Fellow & Postdoc
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663292757/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.45.46_PM_ry33kw.png
-        speaker: Tamara Helenius
-        company: Commons Stack
-        title: 'Partner '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
         speaker: Marcus Aurelius
