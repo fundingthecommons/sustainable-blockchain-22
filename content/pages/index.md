@@ -356,6 +356,7 @@ blocks:
       fullWidth: true
       padding: 'pt-0 pb-40 pr-20 pl-20 sm:pt-0 sm:pb-20 sm:pr-10 sm:pl-10'
     markup: <div id="eventbrite-widget-container-397452199227"></div>
+    navigationLabel: Tickets
     _template: embed
   - style:
       labelStyles: 'text-black font-1 text-sm mb-0 '
