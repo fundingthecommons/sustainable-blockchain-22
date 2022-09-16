@@ -53,6 +53,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663289562/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.52.30_PM_ffhlvb.png
+        speaker: Kevin Owocki
+        company: 'Gitcoin '
+        title: Founder
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289439/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.50.28_PM_jn8vmx.png
         speaker: 'Juan José Giraldo '
         company: Green Rangers
