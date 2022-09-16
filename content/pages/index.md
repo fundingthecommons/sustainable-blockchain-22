@@ -53,10 +53,10 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663292561/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.42.00_PM_hrhuib.png
-        speaker: Anya Singh
-        company: University Affiliation
-        title: Blockchain Researcher
+          https://res.cloudinary.com/protocolai/image/upload/v1663292660/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.44.06_PM_nvmvi4.png
+        speaker: Facundo Cajén
+        company: GainForest
+        title: LATAM Director
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
@@ -162,6 +162,11 @@ blocks:
         speaker: Marcus Aurelius
         company: KlimaDAO
         title: Core Contributor
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663292561/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.42.00_PM_hrhuib.png
+        speaker: Anya Singh
+        company: University Affiliation
+        title: Blockchain Researcher
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663291307/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.21.35_PM_mooyqz.png
         speaker: Marco Schletz
