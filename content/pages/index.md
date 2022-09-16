@@ -53,11 +53,6 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663292981/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.49.27_PM_rc6ilb.png
-        speaker: Joseph Hargreaves
-        company: 'Thallo '
-        title: Co-Founder
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
         company: Global Carbon Reward
@@ -187,6 +182,11 @@ blocks:
         speaker: Facundo Cajén
         company: GainForest
         title: LATAM Director
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663292981/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.49.27_PM_rc6ilb.png
+        speaker: Joseph Hargreaves
+        company: 'Thallo '
+        title: Co-Founder
     navigationLabel: Speakers
     _template: speakerCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
