@@ -53,11 +53,6 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663349053/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.23.48_AM_jg42ot.png
-        speaker: Sebastian Jaramillo
-        company: Open Forest Protocol
-        title: Country Manager
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
         company: Global Carbon Reward
@@ -168,6 +163,11 @@ blocks:
         company: Cerulean Ventures
         title: Co-founder and General Partner
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663348445/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.13.32_AM_zhrf8h.png
+        speaker: Ester Fonseca Silva
+        company: Carb0n.Fi
+        title: 'BEng Agriculture | Master in Plant Science '
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663292830/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.46.49_PM_l2khxr.png
         speaker: Stenver Jerkku
         company: Solid World DAO
@@ -177,11 +177,6 @@ blocks:
         speaker: Marco Schletz
         company: Open Earth Foundation & Data-Driven Lab
         title: Climate Tech Innovation Fellow & Postdoc
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663348445/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.13.32_AM_zhrf8h.png
-        speaker: Ester Fonseca Silva
-        company: Carb0n.Fi
-        title: 'BEng Agriculture | Master in Plant Science '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663348930/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.16.13_AM_icatiw.png
         speaker: Alexi Anania
@@ -202,6 +197,11 @@ blocks:
         speaker: Joseph Hargreaves
         company: 'Thallo '
         title: Co-Founder
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663349053/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.23.48_AM_jg42ot.png
+        speaker: Sebastian Jaramillo
+        company: Open Forest Protocol
+        title: Country Manager
     navigationLabel: Speakers
     _template: speakerCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
