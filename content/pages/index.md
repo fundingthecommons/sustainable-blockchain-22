@@ -44,6 +44,31 @@ blocks:
   - padding: 'pt-0 undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
   - style:
+      labelStyles: 'undefined undefined undefined undefined '
+      headlineStyles: text-accent2 undefined text-6xl undefined font-bold
+      subheadStyles: 'text-accent2 undefined text-2xl mb-10 '
+      textStyles: 'undefined undefined undefined undefined '
+    headline: Speakers
+    subhead: Our speakers are builders
+    body: ''
+    cards:
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1660091532/sustainable-blockchain/bio-olya_irzak_vbfmlw_a3vnuk.jpg
+        speaker: Speaker Name
+        company: Company
+        title: Title
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1660091347/sustainable-blockchain/bio-gloria-kimbwala_gzkvep_p4jn2s.jpg
+        speaker: Speaker Name
+        company: Company
+        title: Title
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1660091252/sustainable-blockchain/Linda_Jirouskova_wo2qmd_eqky3g.jpg
+        speaker: Speaker Name
+        company: Company
+        title: Title
+    _template: speakerCards
+  - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-4/5 min-h-0 '
       padding: 'pt-20 pb-10 pr-20 pl-20 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
@@ -55,8 +80,8 @@ blocks:
       textStyles: text-accent2 font-1 text-base mb-7 font-bold
       contentOrder: labelHeadingsContent
     label: ''
-    headline: Speakers
-    subhead: Our speakers are builders
+    headline: Previous SBS speakers include...
+    subhead: ''
     body: ''
     navigationLabel: Speakers
     _template: feature
@@ -197,31 +222,6 @@ blocks:
         subhead: Filecoin Green
         text: ''
     _template: tailwindCards
-  - style:
-      labelStyles: 'undefined undefined undefined undefined '
-      headlineStyles: text-accent2 undefined text-6xl undefined font-bold
-      subheadStyles: 'text-accent2 undefined text-2xl mb-10 '
-      textStyles: 'undefined undefined undefined undefined '
-    headline: Speakers
-    subhead: Our speakers are builders
-    body: ''
-    cards:
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1660091532/sustainable-blockchain/bio-olya_irzak_vbfmlw_a3vnuk.jpg
-        speaker: Speaker Name
-        company: Company
-        title: Title
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1660091347/sustainable-blockchain/bio-gloria-kimbwala_gzkvep_p4jn2s.jpg
-        speaker: Speaker Name
-        company: Company
-        title: Title
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1660091252/sustainable-blockchain/Linda_Jirouskova_wo2qmd_eqky3g.jpg
-        speaker: Speaker Name
-        company: Company
-        title: Title
-    _template: speakerCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
   - style:
