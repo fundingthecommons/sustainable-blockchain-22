@@ -53,6 +53,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663289439/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.50.28_PM_jn8vmx.png
+        speaker: 'Juan José Giraldo '
+        company: Green Rangers
+        title: CEO
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1660086059/sustainable-blockchain/juan_asxcql.png
         speaker: Juan Benet
         company: Protocol Labs
