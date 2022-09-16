@@ -52,12 +52,11 @@ blocks:
     subhead: Our speakers are builders
     body: ''
     cards:
-      - {}
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663348445/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.13.32_AM_zhrf8h.png
-        speaker: Ester Fonseca Silva
-        company: Carb0n.Fi
-        title: 'BEng Agriculture | Master in Plant Science '
+          https://res.cloudinary.com/protocolai/image/upload/v1663348930/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.16.13_AM_icatiw.png
+        speaker: Alexi Anania
+        company: European Union Blockchain Observatory and Forum
+        title: Expert Panel
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
@@ -178,6 +177,11 @@ blocks:
         speaker: Marco Schletz
         company: Open Earth Foundation & Data-Driven Lab
         title: Climate Tech Innovation Fellow & Postdoc
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663348445/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.13.32_AM_zhrf8h.png
+        speaker: Ester Fonseca Silva
+        company: Carb0n.Fi
+        title: 'BEng Agriculture | Master in Plant Science '
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
         speaker: Marcus Aurelius
