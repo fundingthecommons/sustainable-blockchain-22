@@ -134,10 +134,10 @@ blocks:
         company: Zero Labs
         title: Carbon Exterminator Officer
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663292757/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.45.46_PM_ry33kw.png
-        speaker: Tamara Helenius
-        company: Commons Stack
-        title: 'Partner '
+          https://res.cloudinary.com/protocolai/image/upload/v1663595753/sustainable-blockchain/Screen_Shot_2022-09-19_at_6.55.33_AM_eszbld.png
+        speaker: Andrés Peña
+        company: BeInCrypto in spanish
+        title: Journalist and editor
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289304/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.48.13_PM_tbwma9.png
         speaker: 'Azeem Khan '
