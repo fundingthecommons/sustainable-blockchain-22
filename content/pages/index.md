@@ -69,10 +69,10 @@ blocks:
         company: 'Gitcoin '
         title: Founder
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290975/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.16.04_PM_p8nyrd.png
-        speaker: Brianna Welsh
-        company: Reneum Institute
-        title: CEO
+          https://res.cloudinary.com/protocolai/image/upload/v1663703452/Screen_Shot_2022-09-20_at_12.50.47_PM_nntnnx.png
+        speaker: John X
+        company: Toucan Protocol
+        title: 'Co-founder, Head of Ecosystem'
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290655/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.10.46_PM_gqxqed.png
         speaker: Gregory Landua
