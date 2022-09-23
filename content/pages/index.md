@@ -84,11 +84,6 @@ blocks:
         company: Cryptofintech
         title: CEO
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663292439/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.40.26_PM_v3cwn1.png
-        speaker: 'Fran Benedito '
-        company: GreenClimateDAO - Climatecoin
-        title: Chairman
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290769/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.12.35_PM_m05ymi.png
         speaker: Natacha Rousseau
         company: KlimaDAO
