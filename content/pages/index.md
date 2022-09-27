@@ -129,11 +129,6 @@ blocks:
         company: Zero Labs
         title: Carbon Exterminator Officer
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663595753/sustainable-blockchain/Screen_Shot_2022-09-19_at_6.55.33_AM_eszbld.png
-        speaker: Andrés Peña
-        company: BeInCrypto in spanish
-        title: Journalist and editor
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289304/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.48.13_PM_tbwma9.png
         speaker: 'Azeem Khan '
         company: Gitcoin
