@@ -59,11 +59,6 @@ blocks:
         company: Global Carbon Reward
         title: Founder and Project Director
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1660086059/sustainable-blockchain/juan_asxcql.png
-        speaker: Juan Benet
-        company: Protocol Labs
-        title: Founder and CEO
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289562/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.52.30_PM_ffhlvb.png
         speaker: Kevin Owocki
         company: 'Gitcoin '
