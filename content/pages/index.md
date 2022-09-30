@@ -256,10 +256,6 @@ blocks:
     headline: ''
     subhead: ''
     body: ''
-    buttons:
-      - label: Sponsor SBS LATAM
-        link: 'https://airtable.com/shrCPatBcaxgdfxx9'
-        type: primary
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
