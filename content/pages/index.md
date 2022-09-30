@@ -11,9 +11,6 @@ blocks:
       - label: Grab your ticket
         link: 'https://www.eventbrite.com/e/397452199227'
         type: primary
-      - label: Sponsor SBS LATAM
-        link: 'https://airtable.com/shrCPatBcaxgdfxx9'
-        type: minor
     _template: hero
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
@@ -259,10 +256,6 @@ blocks:
     headline: ''
     subhead: ''
     body: ''
-    buttons:
-      - label: Sponsor SBS LATAM
-        link: 'https://airtable.com/shrCPatBcaxgdfxx9'
-        type: primary
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
