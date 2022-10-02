@@ -161,10 +161,10 @@ blocks:
         company: Open Earth Foundation & Data-Driven Lab
         title: Climate Tech Innovation Fellow & Postdoc
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663348930/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.16.13_AM_icatiw.png
-        speaker: Alexi Anania
-        company: European Union Blockchain Observatory and Forum
-        title: Expert Panel
+          https://res.cloudinary.com/protocolai/image/upload/v1664690349/sustainable-blockchain/Screen_Shot_2022-10-01_at_10.58.14_PM_mrpypq.png
+        speaker: Lauren Luz
+        company: Giveth
+        title: Product Lead
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
         speaker: Marcus Aurelius
