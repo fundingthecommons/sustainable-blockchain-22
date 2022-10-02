@@ -161,10 +161,10 @@ blocks:
         company: Open Earth Foundation & Data-Driven Lab
         title: Climate Tech Innovation Fellow & Postdoc
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663348930/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.16.13_AM_icatiw.png
-        speaker: Alexi Anania
-        company: European Union Blockchain Observatory and Forum
-        title: Expert Panel
+          https://res.cloudinary.com/protocolai/image/upload/v1664690349/sustainable-blockchain/Screen_Shot_2022-10-01_at_10.58.14_PM_mrpypq.png
+        speaker: Lauren Luz
+        company: Giveth
+        title: Product Lead
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
         speaker: Marcus Aurelius
@@ -176,10 +176,10 @@ blocks:
         company: GainForest
         title: LATAM Director
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663349053/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.23.48_AM_jg42ot.png
-        speaker: Sebastian Jaramillo
-        company: Open Forest Protocol
-        title: Country Manager
+          https://res.cloudinary.com/protocolai/image/upload/v1664690501/sustainable-blockchain/Screen_Shot_2022-10-01_at_11.00.54_PM_pnbkan.png
+        speaker: John Meisner
+        company: The Kayapo Project
+        title: Marketing Director
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663292981/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.49.27_PM_rc6ilb.png
         speaker: Joseph Hargreaves
