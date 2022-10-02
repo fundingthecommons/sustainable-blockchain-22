@@ -176,10 +176,10 @@ blocks:
         company: GainForest
         title: LATAM Director
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663349053/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.23.48_AM_jg42ot.png
-        speaker: Sebastian Jaramillo
-        company: Open Forest Protocol
-        title: Country Manager
+          https://res.cloudinary.com/protocolai/image/upload/v1664690501/sustainable-blockchain/Screen_Shot_2022-10-01_at_11.00.54_PM_pnbkan.png
+        speaker: John Meisner
+        company: The Kayapo Project
+        title: Marketing Director
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663292981/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.49.27_PM_rc6ilb.png
         speaker: Joseph Hargreaves
