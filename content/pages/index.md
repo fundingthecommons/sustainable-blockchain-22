@@ -233,10 +233,12 @@ blocks:
         headline: ''
         subhead: ''
         text: ''
-      - headline: Here's Another Card
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1664819277/logo-topl_l7hxkn.png
+        headline: ''
         subhead: ''
-        text: |
-          This is a rich text component you can add hyperlinks, etc.
+        text: ''
     _template: photoCards
   - style:
       textAlignment: text-left
