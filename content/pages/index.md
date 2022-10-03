@@ -214,13 +214,14 @@ blocks:
       textStyles: text-black font-1 text-md mb-0
       contentOrder: labelHeadingsContent
     cardStyle:
-      fillStyles: bg-gray
-      padding: pt-4 pr-4 pb-4 pl-4
-      labelStyles: text-black text-sm mb-0
-      headlineStyles: text-black text-2xl mb-0
-      subheadStyles: text-black text-lg mb-0
-      textStyles: text-black text-sm mb-0
-      buttonType: solid
+      padding: pt-4 pb-4 pr-4 pl-4
+      type: solid
+      imageStyles: ' undefined undefined undefined'
+      labelStyles: 'text-black undefined text-sm mb-0 '
+      headlineStyles: 'text-black undefined text-2xl mb-0 '
+      subheadStyles: 'text-black undefined text-lg mb-0 '
+      textStyles: 'text-black undefined text-sm mb-0 '
+      buttonType: primary
     label: ''
     headline: Sponsors
     subhead: ''
