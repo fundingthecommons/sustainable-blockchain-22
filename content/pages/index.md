@@ -200,7 +200,48 @@ blocks:
       - headline: Coming soon!
         body: ''
     _template: schedule
-  - padding: undefined undefined pr-20 pl-20
+  - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
+    _template: rule
+  - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: 'pt-32 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-10 sm:pl-10'
+      contentWidth: w-full
+      columns: '3'
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: text-accent2 font-1 text-6xl mb-10 font-bold
+      subheadStyles: 'text-accent2 font-1 text-xl mb-10 '
+      textStyles: 'text-black font-1 undefined mb-0 '
+      contentOrder: labelHeadingsContent
+    cardStyle:
+      padding: pt-4 pb-4 pr-0 pl-0
+      type: solid
+      imageStyles: h-32 object-scale-down object-center mb-0
+      labelStyles: 'text-black undefined text-sm mb-0 '
+      headlineStyles: 'text-black undefined text-2xl mb-0 '
+      subheadStyles: 'text-black undefined text-lg mb-0 '
+      textStyles: 'text-black undefined text-sm mb-0 '
+      buttonType: primary
+    label: ''
+    headline: Sponsors
+    subhead: ''
+    body: ''
+    items:
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1664819277/logo-topl_l7hxkn.png
+          alt: ''
+        headline: ''
+        subhead: ''
+        text: ''
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1664822123/logo-bacalhau_utuprn.png
+        headline: ''
+        subhead: ''
+        text: ''
+    _template: photoCards
+  - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
   - style:
       textAlignment: text-left
@@ -223,7 +264,7 @@ blocks:
       textStyles: 'text-black undefined text-sm mb-0 '
       buttonType: primary
     label: ''
-    headline: Sponsors
+    headline: Partners
     subhead: ''
     body: ''
     items:
