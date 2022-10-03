@@ -209,7 +209,7 @@ blocks:
       contentWidth: w-full
       columns: '3'
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: text-accent2 font-1 text-6xl mb-0 font-bold
+      headlineStyles: text-accent2 font-1 text-6xl mb-10 font-bold
       subheadStyles: 'text-accent2 font-1 text-xl mb-10 '
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
@@ -240,6 +240,8 @@ blocks:
         subhead: ''
         text: ''
     _template: photoCards
+  - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
+    _template: rule
   - style:
       textAlignment: text-left
       minHeight: min-h-0
