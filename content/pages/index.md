@@ -236,7 +236,7 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1664821887/logo-bacalhau-2_h08v8w.png
+            https://res.cloudinary.com/protocolai/image/upload/v1664821988/logo-bacalhau_wysko8.png
         headline: ''
         subhead: ''
         text: ''
