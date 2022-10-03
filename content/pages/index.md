@@ -222,15 +222,10 @@ blocks:
       textStyles: text-black text-sm mb-0
       buttonType: solid
     label: ''
-    headline: This is a headline
-    subhead: Here is a subhead
-    body: |
-      This is a rich text component you can add hyperlinks, etc.
+    headline: Sponsors
+    subhead: ''
+    body: ''
     items:
-      - headline: Here's Another Card
-        subhead: ''
-        text: |
-          This is a rich text component you can add hyperlinks, etc.
       - headline: Here's Another Card
         subhead: ''
         text: |
