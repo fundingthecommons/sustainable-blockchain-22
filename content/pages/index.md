@@ -214,9 +214,9 @@ blocks:
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     cardStyle:
-      padding: pt-4 pb-4 pr-4 pl-4
+      padding: pt-4 pb-4 pr-0 pl-0
       type: solid
-      imageStyles: ' undefined undefined undefined'
+      imageStyles: h-24 object-scale-down object-center mb-0
       labelStyles: 'text-black undefined text-sm mb-0 '
       headlineStyles: 'text-black undefined text-2xl mb-0 '
       subheadStyles: 'text-black undefined text-lg mb-0 '
