@@ -227,10 +227,12 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - headline: Here's Another Card
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1664819032/logo-bacalhau_gmp9r3.png
+        headline: ''
         subhead: ''
-        text: |
-          This is a rich text component you can add hyperlinks, etc.
+        text: ''
       - headline: Here's Another Card
         subhead: ''
         text: |
