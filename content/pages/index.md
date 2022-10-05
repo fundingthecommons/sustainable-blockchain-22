@@ -341,6 +341,7 @@ blocks:
             subhead: 'Featuring local music, food, and drinks'
           - time: '7:00'
             headline: Event Ends
+    navigationLabel: Agenda
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
