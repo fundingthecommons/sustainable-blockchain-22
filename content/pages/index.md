@@ -51,9 +51,9 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1664943771/sustainable-blockchain/Screen_Shot_2022-10-04_at_9.22.23_PM_mymg1c.png
-        speaker: Sage Shelton
-        company: ReSci Network
+          https://res.cloudinary.com/protocolai/image/upload/v1664944269/Screen_Shot_2022-10-03_at_11.31.31_AM_xzbduk.png
+        speaker: Álvaro Vanegas
+        company: Green Digital Guardians
         title: Co-Founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
@@ -81,11 +81,6 @@ blocks:
         company: Cryptofintech
         title: CEO
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290769/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.12.35_PM_m05ymi.png
-        speaker: Natacha Rousseau
-        company: KlimaDAO
-        title: Director of Comms &  Climate Tech
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290519/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.08.12_PM_b7cksc.png
         speaker: Tom Herman
         company: Meta Carbon
@@ -95,6 +90,11 @@ blocks:
         speaker: Phil Fogel
         company: Flowcarbon
         title: Chief Blockchain Officer
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1664943771/sustainable-blockchain/Screen_Shot_2022-10-04_at_9.22.23_PM_mymg1c.png
+        speaker: Sage Shelton
+        company: ReSci Network
+        title: Co-Founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290049/sustainable-blockchain/alan_m8cpfd.jpg
         speaker: 'Alan Ransil, PhD '
