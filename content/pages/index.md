@@ -235,6 +235,24 @@ blocks:
           - time: '12:00'
             headline: Unlocking Novel Demand for Carbon Credits
             subhead: 'Marcus Aurelius, KlimaDAO'
+          - time: '12:15'
+            headline: The Use of Blockchain as a Driver of Economies in Latin America
+            subhead: 'Eloisa Cadenas, Cryptofintech'
+          - time: '12:30'
+            headline: Lunch
+          - {}
+          - time: '1:30'
+            headline: 'Topl Talk '
+            subhead: 'Chris Georgen, Topl'
+          - time: '1:55'
+            headline: Explore Data Center Carbon Credit Protocol (DCCC)
+            subhead: 'Sherlock Shi, Meson Network'
+          - time: '2:15'
+            headline: 'How Impact Certificates Will Change Web3 Incentives for Impact '
+            subhead: 'Kevin Owocki, Gitcoin'
+          - time: '2:30'
+            headline: Radical Transparency for Ecosystem Restoration Through NFTs
+            subhead: 'Facundo Cajén, GainForest'
       - label: Selva Track
         headline: Selva Stage
         subhead: ''
