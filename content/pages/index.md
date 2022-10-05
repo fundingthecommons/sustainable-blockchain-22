@@ -236,7 +236,7 @@ blocks:
             headline: Unlocking Novel Demand for Carbon Credits
             subhead: 'Marcus Aurelius, KlimaDAO'
           - time: '12:15'
-            headline: The Use of Blockchain as a Driver of Economies in Latin America
+            headline: Blockchain as a Driver of Economies in Latin America
             subhead: 'Eloisa Cadenas, Cryptofintech'
           - time: '12:30'
             headline: Lunch
