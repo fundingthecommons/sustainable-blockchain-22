@@ -219,7 +219,7 @@ blocks:
             headline: Doors Open
             subhead: Snacks provided
           - time: '10:45'
-            headline: Leapfrogging ESG with web3
+            headline: Leapfrogging ESG with Web3
             subhead: 'Alan Ransil, Filecoin Green'
           - time: '11:10'
             headline: Entrepreneurial Regen Goods
