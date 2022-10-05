@@ -37,7 +37,7 @@ blocks:
 
       Join the world’s premiere forum at the intersection of web3 and the
       biosphere and help us solve these problems together.
-    navigationLabel: About
+    navigationLabel: ''
     _template: feature
   - padding: 'pt-0 undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
@@ -241,7 +241,7 @@ blocks:
           - time: '12:30'
             headline: Lunch
           - time: '1:30'
-            headline: A Talk with Topl
+            headline: 'Web3 for the Real World: Including the Next Billion'
             subhead: 'Chris Georgen, Topl'
           - time: '1:55'
             headline: Explore Data Center Carbon Credit Protocol (DCCC)
@@ -289,7 +289,7 @@ blocks:
             headline: Doors Open
             subhead: Snacks provided
           - time: '11:45'
-            headline: Featured Workshop with Topl
+            headline: 'Topl-ing the World: Financial Innovation for Improved Impact'
             subhead: 'Erin Murphy & Chris Georgen, Topl'
           - time: '12:30 '
             headline: Lunch
@@ -341,6 +341,7 @@ blocks:
             subhead: 'Featuring local music, food, and drinks'
           - time: '7:00'
             headline: Event Ends
+    navigationLabel: Agenda
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
