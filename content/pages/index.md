@@ -51,6 +51,11 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1664942835/sustainable-blockchain/headshot_updated_ykvpap.jpg
+        speaker: Chris Georgen
+        company: Topl
+        title: Founder and Managing Director
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
         company: Global Carbon Reward
