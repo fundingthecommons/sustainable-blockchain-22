@@ -277,6 +277,7 @@ blocks:
             subhead: 'Alan Ransil, Filecoin Green & Delton Chen, Global Carbon Reward '
           - time: '5:00'
             headline: Happy Hour
+            subhead: 'Featuring local music, food, and drinks'
           - time: '7:00'
             headline: Event Ends
       - label: Selva Track
@@ -337,6 +338,7 @@ blocks:
               Guardians
           - time: '5:00'
             headline: Happy Hour
+            subhead: 'Featuring local music, food, and drinks'
           - time: '7:00'
             headline: Event Ends
     _template: schedule
