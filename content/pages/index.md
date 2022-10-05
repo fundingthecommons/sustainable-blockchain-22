@@ -51,11 +51,6 @@ blocks:
     body: ''
     cards:
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1664944269/Screen_Shot_2022-10-03_at_11.31.31_AM_xzbduk.png
-        speaker: Álvaro Vanegas
-        company: Green Digital Guardians
-        title: Co-Founder
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
         speaker: 'Delton Chen, PhD'
         company: Global Carbon Reward
@@ -166,10 +161,20 @@ blocks:
         company: Open Earth Foundation & Data-Driven Lab
         title: Climate Tech Innovation Fellow & Postdoc
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1664690501/sustainable-blockchain/Screen_Shot_2022-10-01_at_11.00.54_PM_pnbkan.png
+        speaker: John Meisner
+        company: The Kayapo Project
+        title: Marketing Director
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1664690349/sustainable-blockchain/Screen_Shot_2022-10-01_at_10.58.14_PM_mrpypq.png
         speaker: Lauren Luz
         company: Giveth
         title: Product Lead
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1664942835/sustainable-blockchain/headshot_updated_ykvpap.jpg
+        speaker: Chris Georgen
+        company: Topl
+        title: Founder and Managing Director
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
         speaker: Marcus Aurelius
@@ -181,20 +186,15 @@ blocks:
         company: GainForest
         title: LATAM Director
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1664690501/sustainable-blockchain/Screen_Shot_2022-10-01_at_11.00.54_PM_pnbkan.png
-        speaker: John Meisner
-        company: The Kayapo Project
-        title: Marketing Director
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663292981/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.49.27_PM_rc6ilb.png
         speaker: Joseph Hargreaves
         company: 'Thallo '
         title: Co-Founder
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1664942835/sustainable-blockchain/headshot_updated_ykvpap.jpg
-        speaker: Chris Georgen
-        company: Topl
-        title: Founder and Managing Director
+          https://res.cloudinary.com/protocolai/image/upload/v1664944269/Screen_Shot_2022-10-03_at_11.31.31_AM_xzbduk.png
+        speaker: Álvaro Vanegas
+        company: Green Digital Guardians
+        title: Co-Founder
     navigationLabel: Speakers
     _template: speakerCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
