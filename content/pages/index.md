@@ -91,10 +91,10 @@ blocks:
         company: Regen Network Development Inc.
         title: CEO
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663289046/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.43.48_PM_dh7zbx.png
-        speaker: Ale Borda
-        company: Fifty Years
-        title: Web3 Instigator
+          https://res.cloudinary.com/protocolai/image/upload/v1665010738/Screen_Shot_2022-10-05_at_3.58.54_PM_d8c22l.png
+        speaker: Juan Duran
+        company: EcoRegistry
+        title: Executive Director
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1665001458/sustainable-blockchain/IMG_1028_fz9gpx.jpg
         speaker: Holke Brammer
@@ -221,9 +221,9 @@ blocks:
           - time: '10:45'
             headline: Leapfrogging ESG with Web3
             subhead: 'Alan Ransil, Filecoin Green'
-          - time: '11:10'
-            headline: Entrepreneurial Regen Goods
-            subhead: 'Ale Borda, Fifty Years'
+          - time: '11:05'
+            headline: Unlocking Carbon Market Interoperability
+            subhead: 'Juan Duran, EcoRegistry & Marc Johnson, Filecoin Green'
           - time: '11:25'
             headline: >-
               How to Bridge the Gap Between Web3 and Traditional Businesses in
