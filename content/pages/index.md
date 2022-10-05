@@ -215,6 +215,8 @@ blocks:
         subhead: ''
         body: ''
         events:
+          - time: '7:00'
+            headline: Event Ends
           - time: '10:00'
             headline: Doors Open
             subhead: Snacks provided
@@ -276,7 +278,8 @@ blocks:
           - time: '4:35'
             headline: Ministry for the Future - LFG!
             subhead: 'Alan Ransil, Filecoin Green & Delton Chen, Global Carbon Reward '
-          - {}
+          - time: '5:00'
+            headline: Happy Hour
       - label: Selva Track
         headline: Selva Stage
         subhead: ''
