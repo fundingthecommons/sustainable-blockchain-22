@@ -289,7 +289,7 @@ blocks:
             subhead: Snacks provided
           - time: '11:45'
             headline: A Workshop with Topl
-            subhead: 'Erin Murphy, Topl'
+            subhead: 'Erin Murphy & Chris Georgen, Topl'
           - time: '12:30 '
             headline: Lunch
             subhead: ''
