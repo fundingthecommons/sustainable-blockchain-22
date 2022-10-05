@@ -248,7 +248,7 @@ blocks:
             subhead: 'Sherlock Shi, Meson Network'
           - time: '2:15'
             headline: 'How Impact Certificates Will Change Web3 Incentives for Impact '
-            subhead: 'Holke Brammer, Protocol Labs'
+            subhead: 'Holke Brammer, Hypercerts.xyz'
           - time: '2:30'
             headline: Radical Transparency for Ecosystem Restoration Through NFTs
             subhead: 'Facundo Cajén, GainForest'
