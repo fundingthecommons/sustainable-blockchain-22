@@ -221,9 +221,9 @@ blocks:
           - time: '10:45'
             headline: Leapfrogging ESG with Web3
             subhead: 'Alan Ransil, Filecoin Green'
-          - time: '11:10'
-            headline: Entrepreneurial Regen Goods
-            subhead: 'Ale Borda, Fifty Years'
+          - time: '11:05'
+            headline: Unlocking Carbon Market Interoperability
+            subhead: 'Juan Duran, EcoRegistry & Marc Johnson, Filecoin Green'
           - time: '11:25'
             headline: >-
               How to Bridge the Gap Between Web3 and Traditional Businesses in
