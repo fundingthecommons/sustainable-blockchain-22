@@ -265,7 +265,7 @@ blocks:
             headline: 'The Narratives and Faces of ReFi '
             subhead: 'Marcelo de Almeida Silva, ReFi Spring'
           - time: '4:00'
-            headline: 'A Talk with ReSci Network '
+            headline: Scientific Collaboration for Ecosystem Regeneration
             subhead: 'Sage Shelton, ReSci Network'
           - time: '4:20'
             headline: >-
