@@ -285,6 +285,9 @@ blocks:
         subhead: ''
         body: ''
         events:
+          - time: '2:25'
+            headline: Changing the Mainstream Narrative around Crypto
+            subhead: 'Azeem Khan, Gitcoin'
           - time: '11:45'
             headline: A Workshop with Topl
             subhead: 'Erin Murphy, Topl'
@@ -294,8 +297,14 @@ blocks:
           - time: '1:30'
             headline: Fundraising for ReFi / ReGen Projects
             subhead: 'Laura Vidiella, LedgerPrime'
-          - {}
-          - {}
+          - time: '1:50'
+            headline: The ReFi Stack
+            subhead: 'Phil Fogel, Flowcarbon'
+          - time: '2:05'
+            headline: >-
+              Tokenizing Carbon Offsets for Brand Engagement and Loyalty
+              Programs
+            subhead: 'Tom Herman, Meta Carbon'
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
