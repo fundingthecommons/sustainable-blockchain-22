@@ -66,11 +66,6 @@ blocks:
         company: Flowcarbon
         title: Chief Blockchain Officer
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290655/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.10.46_PM_gqxqed.png
-        speaker: Gregory Landua
-        company: Regen Network Development Inc.
-        title: CEO
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290376/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.06.02_PM_fnbdi4.png
         speaker: Eloisa Cadenas
         company: Cryptofintech
@@ -91,6 +86,11 @@ blocks:
         company: Filecoin Green
         title: Project Lead
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290655/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.10.46_PM_gqxqed.png
+        speaker: Gregory Landua
+        company: Regen Network Development Inc.
+        title: CEO
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289046/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.43.48_PM_dh7zbx.png
         speaker: Ale Borda
         company: Fifty Years
@@ -106,6 +106,11 @@ blocks:
         company: Filecoin Green
         title: Program Manager
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663291119/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.18.16_PM_jw98cl.png
+        speaker: Beltran Berrocal
+        company: Zero Labs
+        title: Carbon Exterminator Officer
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289692/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.54.36_PM_qm8akv.png
         speaker: John Goedschalk
         company: Conservation International Suriname
@@ -115,11 +120,6 @@ blocks:
         speaker: 'Juan José Giraldo '
         company: Green Digital Guardians
         title: CEO
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663291119/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.18.16_PM_jw98cl.png
-        speaker: Beltran Berrocal
-        company: Zero Labs
-        title: Carbon Exterminator Officer
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289304/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.48.13_PM_tbwma9.png
         speaker: 'Azeem Khan '
