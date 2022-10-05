@@ -320,7 +320,9 @@ blocks:
           - time: '4:00'
             headline: Incentivizing Sustainability with Blockchain
             subhead: 'Anya Singh, University Affiliation'
-          - {}
+          - time: '4:15'
+            headline: Building the Climate Data Internet
+            subhead: 'Marco Schletz, Open Earth Foundation & Data-Driven Lab'
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
