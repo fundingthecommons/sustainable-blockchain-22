@@ -227,7 +227,7 @@ blocks:
           - time: '11:25'
             headline: >-
               How to Bridge the Gap Between Web3 and Traditional Businesses in
-              the Carbon Markets? 
+              the Carbon Markets
             subhead: 'Joseph Hargreaves, Thallo'
           - time: '11:40'
             headline: How to Start a New Carbon Project That Has an Impact?
