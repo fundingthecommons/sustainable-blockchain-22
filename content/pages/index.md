@@ -308,7 +308,9 @@ blocks:
           - time: '2:45'
             headline: Aligning on a Baseline Carbon Token Standard
             subhead: 'Tom X, Toucan Protocol'
-          - {}
+          - time: '3:00'
+            headline: Reimagining the Money Game
+            subhead: 'Lauren Luz, Giveth'
           - {}
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
