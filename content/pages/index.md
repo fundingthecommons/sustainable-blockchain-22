@@ -240,7 +240,6 @@ blocks:
             subhead: 'Eloisa Cadenas, Cryptofintech'
           - time: '12:30'
             headline: Lunch
-          - {}
           - time: '1:30'
             headline: A Talk with Topl
             subhead: 'Chris Georgen, Topl'
@@ -260,7 +259,7 @@ blocks:
             headline: A Talk with Delton Chen
             subhead: 'Delton Chen PhD, Global Carbon Reward'
           - time: '3:30'
-            headline: 'Suriname: Greenverse Meets the Greenest Country on Earth'
+            headline: Greenverse Meets the Greenest Country on Earth
             subhead: 'John Goedschalk, Conservation International Suriname'
           - time: '3:45'
             headline: 'The Narratives and Faces of ReFi '
@@ -285,6 +284,9 @@ blocks:
         subhead: ''
         body: ''
         events:
+          - time: '10:00'
+            headline: Doors Open
+            subhead: Snacks provided
           - time: '11:45'
             headline: A Workshop with Topl
             subhead: 'Erin Murphy, Topl'
@@ -333,6 +335,10 @@ blocks:
             subhead: >-
               Juan José Giraldo Campuzano & Álvaro Vanegas, Green Digital
               Guardians
+          - time: '5:00'
+            headline: Happy Hour
+          - time: '7:00'
+            headline: Event Ends
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
