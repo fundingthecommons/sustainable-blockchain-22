@@ -285,12 +285,17 @@ blocks:
         subhead: ''
         body: ''
         events:
-          - time: '8:00 '
-            headline: test
-            subhead: test
-          - time: '9:00 '
-            headline: Test
-            subhead: 'Speaker '
+          - time: '11:45'
+            headline: A Workshop with Topl
+            subhead: 'Erin Murphy, Topl'
+          - time: '12:30 '
+            headline: Lunch
+            subhead: ''
+          - time: '1:30'
+            headline: Fundraising for ReFi / ReGen Projects
+            subhead: 'Laura Vidiella, LedgerPrime'
+          - {}
+          - {}
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
