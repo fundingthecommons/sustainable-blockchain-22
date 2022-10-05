@@ -56,10 +56,10 @@ blocks:
         company: Global Carbon Reward
         title: Founder and Project Director
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663289562/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.52.30_PM_ffhlvb.png
-        speaker: Kevin Owocki
-        company: 'Gitcoin '
-        title: Founder
+          https://res.cloudinary.com/protocolai/image/upload/v1665001458/sustainable-blockchain/IMG_1028_fz9gpx.jpg
+        speaker: Holke Brammer
+        company: Protocol Labs / HyperCerts.xyz
+        title: Research Scientist
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663703452/Screen_Shot_2022-09-20_at_12.50.47_PM_nntnnx.png
         speaker: John X
