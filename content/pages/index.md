@@ -242,7 +242,7 @@ blocks:
             headline: Lunch
           - {}
           - time: '1:30'
-            headline: 'Topl Talk '
+            headline: A Talk with Topl
             subhead: 'Chris Georgen, Topl'
           - time: '1:55'
             headline: Explore Data Center Carbon Credit Protocol (DCCC)
