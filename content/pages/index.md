@@ -56,20 +56,15 @@ blocks:
         company: Global Carbon Reward
         title: Founder and Project Director
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663289562/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.52.30_PM_ffhlvb.png
-        speaker: Kevin Owocki
-        company: 'Gitcoin '
-        title: Founder
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663703452/Screen_Shot_2022-09-20_at_12.50.47_PM_nntnnx.png
         speaker: John X
         company: Toucan Protocol
         title: 'Co-founder, Head of Ecosystem'
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290655/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.10.46_PM_gqxqed.png
-        speaker: Gregory Landua
-        company: Regen Network Development Inc.
-        title: CEO
+          https://res.cloudinary.com/protocolai/image/upload/v1663290874/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.14.08_PM_gkkexe.png
+        speaker: Phil Fogel
+        company: Flowcarbon
+        title: Chief Blockchain Officer
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290376/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.06.02_PM_fnbdi4.png
         speaker: Eloisa Cadenas
@@ -81,11 +76,6 @@ blocks:
         company: Meta Carbon
         title: CEO
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290874/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.14.08_PM_gkkexe.png
-        speaker: Phil Fogel
-        company: Flowcarbon
-        title: Chief Blockchain Officer
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1664943771/sustainable-blockchain/Screen_Shot_2022-10-04_at_9.22.23_PM_mymg1c.png
         speaker: Sage Shelton
         company: ReSci Network
@@ -96,15 +86,30 @@ blocks:
         company: Filecoin Green
         title: Project Lead
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290655/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.10.46_PM_gqxqed.png
+        speaker: Gregory Landua
+        company: Regen Network Development Inc.
+        title: CEO
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289046/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.43.48_PM_dh7zbx.png
         speaker: Ale Borda
         company: Fifty Years
         title: Web3 Instigator
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1665001458/sustainable-blockchain/IMG_1028_fz9gpx.jpg
+        speaker: Holke Brammer
+        company: Protocol Labs / HyperCerts.xyz
+        title: Research Scientist
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289827/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.56.56_PM_gwd9cg.png
         speaker: Orinayo Ayodele
         company: Filecoin Green
         title: Program Manager
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663291119/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.18.16_PM_jw98cl.png
+        speaker: Beltran Berrocal
+        company: Zero Labs
+        title: Carbon Exterminator Officer
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289692/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.54.36_PM_qm8akv.png
         speaker: John Goedschalk
@@ -115,11 +120,6 @@ blocks:
         speaker: 'Juan José Giraldo '
         company: Green Digital Guardians
         title: CEO
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663291119/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.18.16_PM_jw98cl.png
-        speaker: Beltran Berrocal
-        company: Zero Labs
-        title: Carbon Exterminator Officer
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289304/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.48.13_PM_tbwma9.png
         speaker: 'Azeem Khan '
@@ -146,6 +146,11 @@ blocks:
         company: Cerulean Ventures
         title: Co-founder and General Partner
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1664942835/sustainable-blockchain/headshot_updated_ykvpap.jpg
+        speaker: Chris Georgen
+        company: Topl
+        title: Founder and Managing Director
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663348445/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.13.32_AM_zhrf8h.png
         speaker: Ester Fonseca Silva
         company: Carb0n.Fi
@@ -170,11 +175,6 @@ blocks:
         speaker: Lauren Luz
         company: Giveth
         title: Product Lead
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1664942835/sustainable-blockchain/headshot_updated_ykvpap.jpg
-        speaker: Chris Georgen
-        company: Topl
-        title: Founder and Managing Director
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
         speaker: Marcus Aurelius
@@ -211,8 +211,136 @@ blocks:
     headline: Agenda
     body: ''
     schedules:
-      - headline: Coming soon!
+      - headline: Montaña Stage
+        subhead: ''
         body: ''
+        events:
+          - time: '10:00'
+            headline: Doors Open
+            subhead: Snacks provided
+          - time: '10:45'
+            headline: Leapfrogging ESG with Web3
+            subhead: 'Alan Ransil, Filecoin Green'
+          - time: '11:10'
+            headline: Entrepreneurial Regen Goods
+            subhead: 'Ale Borda, Fifty Years'
+          - time: '11:25'
+            headline: >-
+              How to Bridge the Gap Between Web3 and Traditional Businesses in
+              the Carbon Markets
+            subhead: 'Joseph Hargreaves, Thallo'
+          - time: '11:40'
+            headline: How to Start a New Carbon Project That Has an Impact
+            subhead: 'Stenver Jerkku, Solid World DAO'
+          - time: '12:00'
+            headline: Unlocking Novel Demand for Carbon Credits
+            subhead: 'Marcus Aurelius, KlimaDAO'
+          - time: '12:15'
+            headline: Blockchain as a Driver of Economies in Latin America
+            subhead: 'Eloisa Cadenas, Cryptofintech'
+          - time: '12:30'
+            headline: Lunch
+          - time: '1:30'
+            headline: A Talk with Topl
+            subhead: 'Chris Georgen, Topl'
+          - time: '1:55'
+            headline: Explore Data Center Carbon Credit Protocol (DCCC)
+            subhead: 'Sherlock Shi, Meson Network'
+          - time: '2:15'
+            headline: 'How Impact Certificates Will Change Web3 Incentives for Impact '
+            subhead: 'Holke Brammer, Protocol Labs/ Hypercerts.xyz'
+          - time: '2:30'
+            headline: Radical Transparency for Ecosystem Restoration Through NFTs
+            subhead: 'Facundo Cajén, GainForest'
+          - time: '2:45'
+            headline: The Revolution of Digital Property in the Amazonian
+            subhead: 'Brian Becerra Rojas, 21MBulls'
+          - time: '3:05'
+            headline: 'Keynote: Delton Chen, PhD'
+            subhead: 'Delton Chen PhD, Global Carbon Reward'
+          - time: '3:30'
+            headline: Greenverse Meets the Greenest Country on Earth
+            subhead: 'John Goedschalk, Conservation International Suriname'
+          - time: '3:45'
+            headline: 'The Narratives and Faces of ReFi '
+            subhead: 'Marcelo de Almeida Silva, ReFi Spring'
+          - time: '4:00'
+            headline: Scientific Collaboration for Ecosystem Regeneration
+            subhead: 'Sage Shelton, ReSci Network'
+          - time: '4:20'
+            headline: >-
+              Building on a Successful Model of Large-Scale Conservation with
+              Indigenous Peoples
+            subhead: 'John Meisner, The Kayapo Project'
+          - time: '4:35'
+            headline: Ministry for the Future - LFG!
+            subhead: 'Alan Ransil, Filecoin Green & Delton Chen, Global Carbon Reward '
+          - time: '5:00'
+            headline: Happy Hour
+            subhead: 'Featuring local music, food, and drinks'
+          - time: '7:00'
+            headline: Event Ends
+      - label: Selva Track
+        headline: Selva Stage
+        subhead: ''
+        body: ''
+        events:
+          - time: '10:00'
+            headline: Doors Open
+            subhead: Snacks provided
+          - time: '11:45'
+            headline: Featured Workshop with Topl
+            subhead: 'Erin Murphy & Chris Georgen, Topl'
+          - time: '12:30 '
+            headline: Lunch
+            subhead: ''
+          - time: '1:30'
+            headline: Fundraising for ReFi / ReGen Projects
+            subhead: 'Laura Vidiella, LedgerPrime'
+          - time: '1:50'
+            headline: The ReFi Stack
+            subhead: 'Phil Fogel, Flowcarbon'
+          - time: '2:05'
+            headline: >-
+              Tokenizing Carbon Offsets for Brand Engagement and Loyalty
+              Programs
+            subhead: 'Tom Herman, Meta Carbon'
+          - time: '2:25'
+            headline: Changing the Mainstream Narrative around Crypto
+            subhead: 'Azeem Khan, Gitcoin'
+          - time: '2:45'
+            headline: Aligning on a Baseline Carbon Token Standard
+            subhead: 'Tom X, Toucan Protocol'
+          - time: '3:00'
+            headline: Reimagining the Money Game
+            subhead: 'Lauren Luz, Giveth'
+          - time: '3:15'
+            headline: Gamify ReFi to Make any Blockchain Provably Green
+            subhead: 'Beltran Berrocal, ZeroLabs'
+          - time: '3:35'
+            headline: 'Making ReFi Real - Liquidity and Pricing of Ecological Assets '
+            subhead: 'Jahed Momand, Cerulean Ventures'
+          - time: '4:00'
+            headline: Incentivizing Sustainability with Blockchain
+            subhead: 'Anya Singh, University Affiliation'
+          - time: '4:15'
+            headline: Building the Climate Data Internet
+            subhead: 'Marco Schletz, Open Earth Foundation & Data-Driven Lab'
+          - time: '4:30'
+            headline: Colombia/Latam Acting on Offsetting Carbon Emissions
+            subhead: 'Ester Fonseca Silva, Carb0n.Fi'
+          - time: '4:45'
+            headline: >-
+              How NFT Technology Can Help Monitor and Commit to a True
+              Protection of the Green Arks of the Planet
+            subhead: >-
+              Juan José Giraldo Campuzano & Álvaro Vanegas, Green Digital
+              Guardians
+          - time: '5:00'
+            headline: Happy Hour
+            subhead: 'Featuring local music, food, and drinks'
+          - time: '7:00'
+            headline: Event Ends
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
