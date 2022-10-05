@@ -56,15 +56,15 @@ blocks:
         company: Global Carbon Reward
         title: Founder and Project Director
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1665001458/sustainable-blockchain/IMG_1028_fz9gpx.jpg
-        speaker: Holke Brammer
-        company: Protocol Labs / HyperCerts.xyz
-        title: Research Scientist
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663703452/Screen_Shot_2022-09-20_at_12.50.47_PM_nntnnx.png
         speaker: John X
         company: Toucan Protocol
         title: 'Co-founder, Head of Ecosystem'
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290874/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.14.08_PM_gkkexe.png
+        speaker: Phil Fogel
+        company: Flowcarbon
+        title: Chief Blockchain Officer
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290655/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.10.46_PM_gqxqed.png
         speaker: Gregory Landua
@@ -81,11 +81,6 @@ blocks:
         company: Meta Carbon
         title: CEO
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290874/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.14.08_PM_gkkexe.png
-        speaker: Phil Fogel
-        company: Flowcarbon
-        title: Chief Blockchain Officer
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1664943771/sustainable-blockchain/Screen_Shot_2022-10-04_at_9.22.23_PM_mymg1c.png
         speaker: Sage Shelton
         company: ReSci Network
@@ -100,6 +95,11 @@ blocks:
         speaker: Ale Borda
         company: Fifty Years
         title: Web3 Instigator
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1665001458/sustainable-blockchain/IMG_1028_fz9gpx.jpg
+        speaker: Holke Brammer
+        company: Protocol Labs / HyperCerts.xyz
+        title: Research Scientist
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289827/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.56.56_PM_gwd9cg.png
         speaker: Orinayo Ayodele
@@ -146,6 +146,11 @@ blocks:
         company: Cerulean Ventures
         title: Co-founder and General Partner
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1664942835/sustainable-blockchain/headshot_updated_ykvpap.jpg
+        speaker: Chris Georgen
+        company: Topl
+        title: Founder and Managing Director
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663348445/sustainable-blockchain/Screen_Shot_2022-09-16_at_10.13.32_AM_zhrf8h.png
         speaker: Ester Fonseca Silva
         company: Carb0n.Fi
@@ -170,11 +175,6 @@ blocks:
         speaker: Lauren Luz
         company: Giveth
         title: Product Lead
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1664942835/sustainable-blockchain/headshot_updated_ykvpap.jpg
-        speaker: Chris Georgen
-        company: Topl
-        title: Founder and Managing Director
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
         speaker: Marcus Aurelius
