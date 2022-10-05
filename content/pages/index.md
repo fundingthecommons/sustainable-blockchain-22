@@ -253,6 +253,15 @@ blocks:
           - time: '2:30'
             headline: Radical Transparency for Ecosystem Restoration Through NFTs
             subhead: 'Facundo Cajén, GainForest'
+          - time: '2:45'
+            headline: The Revolution of Digital Property in the Amazonian
+            subhead: 'Brian Becerra Rojas, 21MBulls'
+          - time: '3:05'
+            headline: Delton Chen
+            subhead: 'Delton Chen PhD, Founder and Project Director'
+          - time: '3:30'
+            headline: 'Suriname: Greenverse Meets the Greenest Country on Earth'
+            subhead: 'John Goedschalk, Conservation International Suriname'
       - label: Selva Track
         headline: Selva Stage
         subhead: ''
