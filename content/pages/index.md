@@ -275,9 +275,7 @@ blocks:
             subhead: 'John Meisner, The Kayapo Project'
           - time: '4:35'
             headline: Ministry for the Future - LFG!
-            subhead: >-
-              Alan Ransil, Filecoin Green & Delton Chen, PhD, Global Carbon
-              Reward 
+            subhead: 'Alan Ransil, Filecoin Green & Delton Chen, Global Carbon Reward '
           - {}
       - label: Selva Track
         headline: Selva Stage
