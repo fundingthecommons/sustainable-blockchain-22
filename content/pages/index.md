@@ -230,7 +230,7 @@ blocks:
               the Carbon Markets
             subhead: 'Joseph Hargreaves, Thallo'
           - time: '11:40'
-            headline: How to Start a New Carbon Project That Has an Impact?
+            headline: How to Start a New Carbon Project That Has an Impact
             subhead: 'Stenver Jerkku, Solid World DAO'
           - time: '12:00'
             headline: Unlocking Novel Demand for Carbon Credits
