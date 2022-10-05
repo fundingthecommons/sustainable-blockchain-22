@@ -241,7 +241,7 @@ blocks:
           - time: '12:30'
             headline: Lunch
           - time: '1:30'
-            headline: A Talk with Topl
+            headline: 'Web3 for the Real World: Including the Next Billion'
             subhead: 'Chris Georgen, Topl'
           - time: '1:55'
             headline: Explore Data Center Carbon Credit Protocol (DCCC)
