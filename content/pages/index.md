@@ -314,6 +314,11 @@ blocks:
           - time: '3:15'
             headline: Blocks.garden - Gamify ReFi to Make any Blockchain Provably Green
             subhead: 'Beltran Berrocal, ZeroLabs'
+          - time: '3:35'
+            headline: 'Making ReFi Real - Liquidity and Pricing of Ecological Assets '
+            subhead: 'Jahed Momand, Cerulean Ventures'
+          - {}
+          - {}
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
