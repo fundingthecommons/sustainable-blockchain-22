@@ -195,6 +195,10 @@ blocks:
         speaker: Álvaro Vanegas
         company: Green Digital Guardians
         title: Co-Founder
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1664944648/photo_19_endo8y.jpg
+        speaker: Brian Becerra Rojas
+        company: 21MBulls
     navigationLabel: Speakers
     _template: speakerCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
