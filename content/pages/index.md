@@ -269,8 +269,8 @@ blocks:
             subhead: 'Sage Shelton, ReSci Network'
           - time: '4:20'
             headline: >-
-              Kayapo Project: Building on a Successful Model of Large-Scale
-              Conservation with Indigenous Peoples
+              Building on a Successful Model of Large-Scale Conservation with
+              Indigenous Peoples
             subhead: 'John Meisner, The Kayapo Project'
           - time: '4:35'
             headline: Ministry for the Future - LFG!
