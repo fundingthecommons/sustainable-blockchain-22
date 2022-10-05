@@ -289,7 +289,7 @@ blocks:
             headline: Doors Open
             subhead: Snacks provided
           - time: '11:45'
-            headline: Featured Workshop with Topl
+            headline: 'Topl-ing the World: Financial Innovation for Improved Impact'
             subhead: 'Erin Murphy & Chris Georgen, Topl'
           - time: '12:30 '
             headline: Lunch
