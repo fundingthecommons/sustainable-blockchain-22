@@ -323,6 +323,16 @@ blocks:
           - time: '4:15'
             headline: Building the Climate Data Internet
             subhead: 'Marco Schletz, Open Earth Foundation & Data-Driven Lab'
+          - time: '4:30'
+            headline: Colombia/Latam Acting on Offsetting Carbon Emissions
+            subhead: 'Ester Fonseca Silva, Carb0n.Fi'
+          - time: '4:45'
+            headline: >-
+              How NFT Technology Can Help Monitor and Commit to a True
+              Protection of the Green Arks of the Planet
+            subhead: >-
+              Juan José Giraldo Campuzano & Álvaro Vanegas, Green Digital
+              Guardians
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
