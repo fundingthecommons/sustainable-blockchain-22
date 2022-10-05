@@ -91,10 +91,10 @@ blocks:
         company: Regen Network Development Inc.
         title: CEO
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663289046/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.43.48_PM_dh7zbx.png
-        speaker: Ale Borda
-        company: Fifty Years
-        title: Web3 Instigator
+          https://res.cloudinary.com/protocolai/image/upload/v1665010738/Screen_Shot_2022-10-05_at_3.58.54_PM_d8c22l.png
+        speaker: Juan Duran
+        company: EcoRegistry
+        title: Executive Director
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1665001458/sustainable-blockchain/IMG_1028_fz9gpx.jpg
         speaker: Holke Brammer
