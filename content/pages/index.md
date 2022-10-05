@@ -285,9 +285,6 @@ blocks:
         subhead: ''
         body: ''
         events:
-          - time: '2:25'
-            headline: Changing the Mainstream Narrative around Crypto
-            subhead: 'Azeem Khan, Gitcoin'
           - time: '11:45'
             headline: A Workshop with Topl
             subhead: 'Erin Murphy, Topl'
@@ -305,6 +302,14 @@ blocks:
               Tokenizing Carbon Offsets for Brand Engagement and Loyalty
               Programs
             subhead: 'Tom Herman, Meta Carbon'
+          - time: '2:25'
+            headline: Changing the Mainstream Narrative around Crypto
+            subhead: 'Azeem Khan, Gitcoin'
+          - time: '2:45'
+            headline: Aligning on a Baseline Carbon Token Standard
+            subhead: 'Tom X, Toucan Protocol'
+          - {}
+          - {}
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
