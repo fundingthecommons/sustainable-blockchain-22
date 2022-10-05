@@ -311,7 +311,9 @@ blocks:
           - time: '3:00'
             headline: Reimagining the Money Game
             subhead: 'Lauren Luz, Giveth'
-          - {}
+          - time: '3:15'
+            headline: Blocks.garden - Gamify ReFi to Make any Blockchain Provably Green
+            subhead: 'Beltran Berrocal, ZeroLabs'
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
