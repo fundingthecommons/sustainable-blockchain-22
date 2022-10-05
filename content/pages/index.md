@@ -257,7 +257,7 @@ blocks:
             headline: The Revolution of Digital Property in the Amazonian
             subhead: 'Brian Becerra Rojas, 21MBulls'
           - time: '3:05'
-            headline: Delton Chen
+            headline: A Talk with Delton Chen
             subhead: 'Delton Chen PhD, Founder and Project Director'
           - time: '3:30'
             headline: 'Suriname: Greenverse Meets the Greenest Country on Earth'
@@ -265,6 +265,9 @@ blocks:
           - time: '3:45'
             headline: 'The Narratives and Faces of ReFi '
             subhead: 'Marcelo de Almeida Silva, ReFi Spring'
+          - time: '4:00'
+            headline: 'A Talk with ReSci Network '
+            subhead: 'Sage Shelton, ReSci Network'
       - label: Selva Track
         headline: Selva Stage
         subhead: ''
