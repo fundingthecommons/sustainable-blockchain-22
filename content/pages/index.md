@@ -258,7 +258,7 @@ blocks:
             subhead: 'Brian Becerra Rojas, 21MBulls'
           - time: '3:05'
             headline: A Talk with Delton Chen
-            subhead: 'Delton Chen PhD, Founder and Project Director'
+            subhead: 'Delton Chen PhD, Global Carbon Reward'
           - time: '3:30'
             headline: 'Suriname: Greenverse Meets the Greenest Country on Earth'
             subhead: 'John Goedschalk, Conservation International Suriname'
@@ -273,6 +273,12 @@ blocks:
               Kayapo Project: Building on a Successful Model of Large-Scale
               Conservation with Indigenous Peoples
             subhead: 'John Meisner, The Kayapo Project'
+          - time: '4:35'
+            headline: Ministry for the Future - LFG!
+            subhead: >-
+              Alan Ransil, Filecoin Green & Delton Chen, PhD, Global Carbon
+              Reward 
+          - {}
       - label: Selva Track
         headline: Selva Stage
         subhead: ''
