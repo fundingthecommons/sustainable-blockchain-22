@@ -268,6 +268,11 @@ blocks:
           - time: '4:00'
             headline: 'A Talk with ReSci Network '
             subhead: 'Sage Shelton, ReSci Network'
+          - time: '4:20'
+            headline: >-
+              Kayapo Project: Building on a Successful Model of Large-Scale
+              Conservation with Indigenous Peoples
+            subhead: 'John Meisner, The Kayapo Project'
       - label: Selva Track
         headline: Selva Stage
         subhead: ''
