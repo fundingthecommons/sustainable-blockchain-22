@@ -262,6 +262,9 @@ blocks:
           - time: '3:30'
             headline: 'Suriname: Greenverse Meets the Greenest Country on Earth'
             subhead: 'John Goedschalk, Conservation International Suriname'
+          - time: '3:45'
+            headline: 'The Narratives and Faces of ReFi '
+            subhead: 'Marcelo de Almeida Silva, ReFi Spring'
       - label: Selva Track
         headline: Selva Stage
         subhead: ''
