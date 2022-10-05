@@ -53,7 +53,7 @@ blocks:
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1664943771/sustainable-blockchain/Screen_Shot_2022-10-04_at_9.22.23_PM_mymg1c.png
         speaker: Sage Shelton
-        company: Resci Network
+        company: ReSci Network
         title: Co-Founder
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289219/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.46.44_PM_unmvsl.png
