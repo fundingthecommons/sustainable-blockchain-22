@@ -426,7 +426,7 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1665071989/cointelegraph-logo_mwijqv.svg
+            https://res.cloudinary.com/protocolai/image/upload/v1665072054/cointelegraph-logo-blue_wwwb0x.svg
     navigationLabel: ''
     _template: photoCards
   - style:
