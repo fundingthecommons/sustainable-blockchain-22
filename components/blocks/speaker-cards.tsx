@@ -13,7 +13,7 @@ const Card = ({ data, index, parentField = ""  }) => {
           <img
             alt={data.speakerName}
             src={data.imageSrc}
-            className="w-48 h-48 absolute top-0 left-1/2 transform -translate-x-1/2 sm:relative sm:left-0 sm:translate-x-0 rounded-full object-cover sm:w-36 sm:h-36 sm:p-4"
+            className="w-48 h-48 absolute top-0 left-1/2 transform -translate-x-1/2 sm:relative sm:left-0 sm:translate-x-0 rounded-full object-cover sm:w-36 sm:h-36 sm:p-4 sm:flex-none"
             data-tinafield={`${parentField}.${index}.image`}
           />
         )}
@@ -26,7 +26,7 @@ const Card = ({ data, index, parentField = ""  }) => {
           )} */}
           {data.speaker && (
             <h3
-              className="text-lg font-bold text-accent2 mb-1"
+              className="text-lg font-bold text-accent2 mb-1 sm:text-base"
               data-tinafield={`${parentField}.${index}.speaker`}
             >{data.speaker}</h3>
           )}
@@ -56,7 +56,7 @@ const Card = ({ data, index, parentField = ""  }) => {
 
 export const SpeakerCards = ({ data, parentField = "" }) => {
   return (
-    <Section className="max-w-desktop-full mx-auto px-20 py-20 sm:px-10" background={data.background} navigationLabel={data.navigationLabel}>
+    <Section className="max-w-desktop-full mx-auto px-20 py-20 sm:px-6" background={data.background} navigationLabel={data.navigationLabel}>
       <Content
         label = ""
         headline = {data.headline}

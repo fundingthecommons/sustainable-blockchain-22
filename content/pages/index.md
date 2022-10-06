@@ -15,7 +15,7 @@ blocks:
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-0 '
-      padding: 'pt-20 pb-28 pr-48 pl-20 sm:pt-20 sm:pb-16 sm:pr-10 sm:pl-10'
+      padding: 'pt-20 pb-28 pr-48 pl-20 sm:pt-20 sm:pb-16 sm:pr-6 sm:pl-6'
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-20 pb-20 pr-20 pl-10
       labelStyles: 'text-black font-1 text-sm mb-0 '
@@ -39,7 +39,7 @@ blocks:
       biosphere and help us solve these problems together.
     navigationLabel: ''
     _template: feature
-  - padding: 'pt-0 undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
+  - padding: 'pt-0 undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
     _template: rule
   - style:
       labelStyles: 'undefined undefined undefined undefined '
@@ -201,7 +201,7 @@ blocks:
         company: 21MBulls
     navigationLabel: Speakers
     _template: speakerCards
-  - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
+  - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
     _template: rule
   - style:
       labelStyles: 'undefined undefined undefined undefined '
@@ -343,12 +343,12 @@ blocks:
             headline: Event Ends
     navigationLabel: Agenda
     _template: schedule
-  - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
+  - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
     _template: rule
   - style:
       textAlignment: text-left
       minHeight: min-h-0
-      padding: 'pt-32 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-10 sm:pl-10'
+      padding: 'pt-32 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-6 sm:pl-6'
       contentWidth: w-full
       columns: '3'
       labelStyles: 'text-black font-1 text-sm mb-0 '
@@ -382,12 +382,12 @@ blocks:
             https://res.cloudinary.com/protocolai/image/upload/v1664822123/logo-bacalhau_utuprn.png
         text: ''
     _template: photoCards
-  - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
+  - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
     _template: rule
   - style:
       textAlignment: text-left
       minHeight: min-h-0
-      padding: 'pt-32 pb-0 pr-20 pl-20 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
+      padding: 'pt-32 pb-0 pr-20 pl-20 sm:pt-10 sm:pb-0 sm:pr-6 sm:pl-6'
       contentWidth: w-full
       columns: '3'
       labelStyles: 'text-black font-1 text-sm mb-0 '
@@ -431,7 +431,7 @@ blocks:
   - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
       featureContent: 'w-full min-h-0 '
-      padding: 'pt-10 pb-32 pr-20 pl-20 sm:pt-0 sm:pb-10 sm:pr-10 sm:pl-10'
+      padding: 'pt-10 pb-32 pr-20 pl-20 sm:pt-0 sm:pb-10 sm:pr-6 sm:pl-6'
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-sm mb-0 '
@@ -447,7 +447,7 @@ blocks:
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-4/5 min-h-0 '
-      padding: 'pt-20 pb-10 pr-20 pl-20 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
+      padding: 'pt-20 pb-10 pr-20 pl-20 sm:pt-10 sm:pb-0 sm:pr-6 sm:pl-6'
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-sm mb-0 '
@@ -467,7 +467,7 @@ blocks:
   - style:
       minHeight: min-h-0
       fullWidth: true
-      padding: 'pt-0 pb-40 pr-20 pl-20 sm:pt-0 sm:pb-20 sm:pr-10 sm:pl-10'
+      padding: 'pt-0 pb-40 pr-20 pl-20 sm:pt-0 sm:pb-20 sm:pr-6 sm:pl-6'
     markup: <div id="eventbrite-widget-container-397452199227"></div>
     navigationLabel: ''
     _template: embed
@@ -489,7 +489,7 @@ blocks:
         type: secondary
     _template: cta
   - style:
-      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-10 sm:pl-10'
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-6 sm:pl-6'
       labelStyles: text-accent2 undefined text-3xl mb-5 font-bold
       headlineStyles: text-primary undefined text-xl undefined font-bold
       subheadStyles: text-accent2 undefined text-xl mb-5 font-bold
