@@ -370,6 +370,7 @@ blocks:
     subhead: ''
     body: ''
     items:
+      - {}
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1664819277/logo-topl_l7hxkn.png
@@ -379,7 +380,7 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1664822123/logo-bacalhau_utuprn.png
+            https://res.cloudinary.com/protocolai/image/upload/v1665071653/CT-logo-sbs-blue-tag_wjgc7g.png
         headline: ''
         subhead: ''
         text: ''
