@@ -370,7 +370,6 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - {}
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1664819277/logo-topl_l7hxkn.png
@@ -380,10 +379,7 @@ blocks:
         text: ''
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1665071653/CT-logo-sbs-blue-tag_wjgc7g.png
-        headline: ''
-        subhead: ''
-        text: ''
+            https://res.cloudinary.com/protocolai/image/upload/v1664822123/logo-bacalhau_utuprn.png
     _template: photoCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
