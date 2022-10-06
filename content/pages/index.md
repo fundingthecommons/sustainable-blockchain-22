@@ -380,9 +380,6 @@ blocks:
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1664822123/logo-bacalhau_utuprn.png
-        headline: ''
-        subhead: ''
-        text: ''
     _template: photoCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
@@ -423,6 +420,10 @@ blocks:
         headline: ''
         subhead: ''
         text: ''
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1665072297/cointelegraph-logo-sbs-bl_jnoqeb.svg
+          alt: Cointelegraph
     navigationLabel: ''
     _template: photoCards
   - style:
