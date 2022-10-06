@@ -336,7 +336,7 @@ blocks:
             subhead: >-
               Juan José Giraldo Campuzano & Álvaro Vanegas, Green Digital
               Guardians
-          - time: '5:00'
+          - time: '5:15'
             headline: Happy Hour
             subhead: 'Featuring local music, food, and drinks'
           - time: '7:00'
