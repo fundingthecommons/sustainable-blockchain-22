@@ -86,10 +86,10 @@ blocks:
         company: Filecoin Green
         title: Project Lead
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290655/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.10.46_PM_gqxqed.png
-        speaker: Gregory Landua
-        company: Regen Network Development Inc.
-        title: CEO
+          https://res.cloudinary.com/protocolai/image/upload/v1665016862/sustainable-blockchain/Screen_Shot_2022-10-05_at_5.40.35_PM_uq1ktj.png
+        speaker: Laura Vidiella
+        company: LedgerPrime
+        title: VP of BD & Strategy
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1665010738/Screen_Shot_2022-10-05_at_3.58.54_PM_d8c22l.png
         speaker: Juan Duran
