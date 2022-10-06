@@ -275,7 +275,7 @@ blocks:
           - time: '4:35'
             headline: Ministry for the Future - LFG!
             subhead: 'Alan Ransil, Filecoin Green & Delton Chen, Global Carbon Reward '
-          - time: '5:00'
+          - time: '5:15'
             headline: Happy Hour
             subhead: 'Featuring local music, food, and drinks'
           - time: '7:00'
@@ -380,6 +380,7 @@ blocks:
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1664822123/logo-bacalhau_utuprn.png
+        text: ''
     _template: photoCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-10 sm:pl-10'
     _template: rule
@@ -424,6 +425,7 @@ blocks:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1665072297/cointelegraph-logo-sbs-bl_jnoqeb.svg
           alt: Cointelegraph
+        text: ''
     navigationLabel: ''
     _template: photoCards
   - style:
