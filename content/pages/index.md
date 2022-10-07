@@ -310,7 +310,7 @@ blocks:
             subhead: 'Azeem Khan, Gitcoin'
           - time: '2:45'
             headline: Aligning on a Baseline Carbon Token Standard
-            subhead: 'Tom X, Toucan Protocol'
+            subhead: 'John X, Toucan Protocol'
           - time: '3:00'
             headline: Reimagining the Money Game
             subhead: 'Lauren Luz, Giveth'
@@ -336,11 +336,6 @@ blocks:
             subhead: >-
               Juan José Giraldo Campuzano & Álvaro Vanegas, Green Digital
               Guardians
-          - time: '5:15'
-            headline: Happy Hour
-            subhead: 'Featuring local music, food, and drinks'
-          - time: '7:00'
-            headline: Event Ends
     navigationLabel: Agenda
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
