@@ -253,7 +253,7 @@ blocks:
             headline: Radical Transparency for Ecosystem Restoration Through NFTs
             subhead: 'Facundo Cajén, GainForest'
           - time: '2:45'
-            headline: The Revolution of Digital Property in the Amazonian
+            headline: 'ReFi: A Brand New Opportunity for the Amazonian'
             subhead: 'Brian Becerra Rojas, 21MBulls'
           - time: '3:05'
             headline: 'Keynote: The Global Carbon Reward'
