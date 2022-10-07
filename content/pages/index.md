@@ -273,7 +273,7 @@ blocks:
               Indigenous Peoples
             subhead: 'John Meisner, The Kayapo Project'
           - time: '4:35'
-            headline: Ministry for the Future - LFG!
+            headline: 'The *Real* Ministry for the Future: An Urgent Call to Action'
             subhead: 'Alan Ransil, Filecoin Green & Delton Chen, Global Carbon Reward '
           - time: '5:15'
             headline: Happy Hour
