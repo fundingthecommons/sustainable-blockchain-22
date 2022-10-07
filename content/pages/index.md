@@ -217,7 +217,7 @@ blocks:
         events:
           - time: '10:00'
             headline: Doors Open
-            subhead: Snacks provided
+            subhead: Light breakfast food provided
           - time: '10:45'
             headline: Building Blocks for the Regenerative Economy
             subhead: 'Alan Ransil, Filecoin Green'
