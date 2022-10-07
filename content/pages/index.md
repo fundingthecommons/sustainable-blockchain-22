@@ -219,7 +219,7 @@ blocks:
             headline: Doors Open
             subhead: Snacks provided
           - time: '10:45'
-            headline: Leapfrogging ESG with Web3
+            headline: Building Blocks for the Regenerative Economy
             subhead: 'Alan Ransil, Filecoin Green'
           - time: '11:05'
             headline: Unlocking Carbon Market Interoperability
@@ -256,7 +256,7 @@ blocks:
             headline: The Revolution of Digital Property in the Amazonian
             subhead: 'Brian Becerra Rojas, 21MBulls'
           - time: '3:05'
-            headline: 'Keynote: Delton Chen, PhD'
+            headline: 'Keynote: The Global Carbon Reward'
             subhead: 'Delton Chen PhD, Global Carbon Reward'
           - time: '3:30'
             headline: Greenverse Meets the Greenest Country on Earth
@@ -273,7 +273,7 @@ blocks:
               Indigenous Peoples
             subhead: 'John Meisner, The Kayapo Project'
           - time: '4:35'
-            headline: Ministry for the Future - LFG!
+            headline: 'The *Real* Ministry for the Future: An Urgent Call to Action'
             subhead: 'Alan Ransil, Filecoin Green & Delton Chen, Global Carbon Reward '
           - time: '5:15'
             headline: Happy Hour
@@ -310,7 +310,7 @@ blocks:
             subhead: 'Azeem Khan, Gitcoin'
           - time: '2:45'
             headline: Aligning on a Baseline Carbon Token Standard
-            subhead: 'Tom X, Toucan Protocol'
+            subhead: 'John X, Toucan Protocol'
           - time: '3:00'
             headline: Reimagining the Money Game
             subhead: 'Lauren Luz, Giveth'
@@ -336,11 +336,6 @@ blocks:
             subhead: >-
               Juan José Giraldo Campuzano & Álvaro Vanegas, Green Digital
               Guardians
-          - time: '5:15'
-            headline: Happy Hour
-            subhead: 'Featuring local music, food, and drinks'
-          - time: '7:00'
-            headline: Event Ends
     navigationLabel: Agenda
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
