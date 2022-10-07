@@ -256,7 +256,7 @@ blocks:
             headline: The Revolution of Digital Property in the Amazonian
             subhead: 'Brian Becerra Rojas, 21MBulls'
           - time: '3:05'
-            headline: 'Keynote: Delton Chen, PhD'
+            headline: 'Keynote: The Global Carbon Reward'
             subhead: 'Delton Chen PhD, Global Carbon Reward'
           - time: '3:30'
             headline: Greenverse Meets the Greenest Country on Earth
