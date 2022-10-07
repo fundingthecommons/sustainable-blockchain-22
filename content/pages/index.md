@@ -287,7 +287,7 @@ blocks:
         events:
           - time: '10:00'
             headline: Doors Open
-            subhead: Snacks provided
+            subhead: Light breakfast food provided
           - time: '11:45'
             headline: 'Topl-ing the World: Financial Innovation for Improved Impact'
             subhead: 'Erin Murphy & Chris Georgen, Topl'
