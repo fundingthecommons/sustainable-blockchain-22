@@ -76,6 +76,11 @@ blocks:
         company: Meta Carbon
         title: CEO
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1665200940/Screen_Shot_2022-10-07_at_8.48.53_PM_gqvwua.png
+        speaker: Sherlock Shi
+        company: Meson Network
+        title: CEO
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1664943771/sustainable-blockchain/Screen_Shot_2022-10-04_at_9.22.23_PM_mymg1c.png
         speaker: Sage Shelton
         company: ReSci Network
@@ -141,6 +146,11 @@ blocks:
         company: University Affiliation
         title: Blockchain Researcher
       - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663292830/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.46.49_PM_l2khxr.png
+        speaker: Stenver Jerkku
+        company: Solid World DAO
+        title: Chairman
+      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663289133/sustainable-blockchain/Screen_Shot_2022-09-15_at_5.45.22_PM_jslhnb.png
         speaker: Jahed Momand
         company: Cerulean Ventures
@@ -156,15 +166,20 @@ blocks:
         company: Carb0n.Fi
         title: 'BEng Agriculture | Master in Plant Science '
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663292830/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.46.49_PM_l2khxr.png
-        speaker: Stenver Jerkku
-        company: Solid World DAO
-        title: Chairman
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663291307/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.21.35_PM_mooyqz.png
         speaker: Marco Schletz
         company: Open Earth Foundation & Data-Driven Lab
         title: Climate Tech Innovation Fellow & Postdoc
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663292981/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.49.27_PM_rc6ilb.png
+        speaker: Joseph Hargreaves
+        company: 'Thallo '
+        title: Co-Founder
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663292660/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.44.06_PM_nvmvi4.png
+        speaker: Facundo Cajén
+        company: GainForest
+        title: LATAM Director
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1664690501/sustainable-blockchain/Screen_Shot_2022-10-01_at_11.00.54_PM_pnbkan.png
         speaker: John Meisner
@@ -176,29 +191,19 @@ blocks:
         company: Giveth
         title: Product Lead
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
-        speaker: Marcus Aurelius
-        company: KlimaDAO
-        title: Core Contributor
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663292660/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.44.06_PM_nvmvi4.png
-        speaker: Facundo Cajén
-        company: GainForest
-        title: LATAM Director
-      - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663292981/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.49.27_PM_rc6ilb.png
-        speaker: Joseph Hargreaves
-        company: 'Thallo '
-        title: Co-Founder
+          https://res.cloudinary.com/protocolai/image/upload/v1664944648/photo_19_endo8y.jpg
+        speaker: Brian Becerra Rojas
+        company: 21MBulls
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1664944269/Screen_Shot_2022-10-03_at_11.31.31_AM_xzbduk.png
         speaker: Álvaro Vanegas
         company: Green Digital Guardians
         title: Co-Founder
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1664944648/photo_19_endo8y.jpg
-        speaker: Brian Becerra Rojas
-        company: 21MBulls
+          https://res.cloudinary.com/protocolai/image/upload/v1663290148/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.02.02_PM_k0yl4r.png
+        speaker: Marcus Aurelius
+        company: KlimaDAO
+        title: Core Contributor
     navigationLabel: Speakers
     _template: speakerCards
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
