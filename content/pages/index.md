@@ -315,7 +315,7 @@ blocks:
             subhead: 'Azeem Khan, Gitcoin'
           - time: '2:45'
             headline: Aligning on a Baseline Carbon Token Standard
-            subhead: 'John X, Toucan Protocol'
+            subhead: 'Adam Spiers, Toucan Protocol'
           - time: '3:00'
             headline: Reimagining the Money Game
             subhead: 'Lauren Luz, Giveth'
