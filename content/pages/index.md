@@ -71,14 +71,14 @@ blocks:
         company: Cryptofintech
         title: CEO
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290519/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.08.12_PM_b7cksc.png
-        speaker: Tom Herman
-        company: Meta Carbon
-        title: CEO
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1665200940/Screen_Shot_2022-10-07_at_8.48.53_PM_gqvwua.png
         speaker: Sherlock Shi
         company: Meson Network
+        title: CEO
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290519/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.08.12_PM_b7cksc.png
+        speaker: Tom Herman
+        company: Meta Carbon
         title: CEO
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1664943771/sustainable-blockchain/Screen_Shot_2022-10-04_at_9.22.23_PM_mymg1c.png
@@ -86,15 +86,15 @@ blocks:
         company: ReSci Network
         title: Co-Founder
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663290049/sustainable-blockchain/alan_m8cpfd.jpg
-        speaker: 'Alan Ransil, PhD '
-        company: Filecoin Green
-        title: Project Lead
-      - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1665016862/sustainable-blockchain/Screen_Shot_2022-10-05_at_5.40.35_PM_uq1ktj.png
         speaker: Laura Vidiella
         company: LedgerPrime
         title: VP of BD & Strategy
+      - imageSrc: >-
+          https://res.cloudinary.com/protocolai/image/upload/v1663290049/sustainable-blockchain/alan_m8cpfd.jpg
+        speaker: 'Alan Ransil, PhD '
+        company: Filecoin Green
+        title: Project Lead
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1665010738/Screen_Shot_2022-10-05_at_3.58.54_PM_d8c22l.png
         speaker: Juan Duran
