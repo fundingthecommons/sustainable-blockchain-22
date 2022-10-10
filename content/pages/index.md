@@ -56,10 +56,10 @@ blocks:
         company: Global Carbon Reward
         title: Founder and Project Director
       - imageSrc: >-
-          https://res.cloudinary.com/protocolai/image/upload/v1663703452/Screen_Shot_2022-09-20_at_12.50.47_PM_nntnnx.png
-        speaker: John X
+          https://res.cloudinary.com/protocolai/image/upload/v1665377341/sustainable-blockchain/adam_1_omh9oe.jpg
+        speaker: Adam Spiers
         company: Toucan Protocol
-        title: 'Co-founder, Head of Ecosystem'
+        title: Co-Founder and Chief Architect
       - imageSrc: >-
           https://res.cloudinary.com/protocolai/image/upload/v1663290874/sustainable-blockchain/Screen_Shot_2022-09-15_at_6.14.08_PM_gkkexe.png
         speaker: Phil Fogel
