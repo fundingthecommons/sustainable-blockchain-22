@@ -320,7 +320,9 @@ blocks:
             headline: Reimagining the Money Game
             subhead: 'Lauren Luz, Giveth'
           - time: '3:15'
-            headline: Gamify ReFi to Make any Blockchain Provably Green
+            headline: >-
+              Blocks.garden - Gamify ReFi to Make any Blockchain Provably
+              GreenGamify ReFi to Make any Blockchain Provably Green
             subhead: 'Beltran Berrocal, ZeroLabs'
           - time: '3:35'
             headline: 'Making ReFi Real - Liquidity and Pricing of Ecological Assets '
