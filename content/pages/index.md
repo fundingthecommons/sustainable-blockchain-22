@@ -37,7 +37,7 @@ blocks:
 
       Join the world’s premiere forum at the intersection of web3 and the
       biosphere and help us solve these problems together.
-    navigationLabel: ''
+    navigationLabel: About
     _template: feature
   - padding: 'pt-0 undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
     _template: rule
