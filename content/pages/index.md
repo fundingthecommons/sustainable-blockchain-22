@@ -474,21 +474,20 @@ blocks:
     background:
       fillStyles: bg-white
     image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1651785834/sustainable-blockchain/sustainable-blockchain-logo_b9ofib.svg
-    video: 'https://www.youtube.com/embed/0BSjAct8KVw'
-    label: 'Previous Event: SBS EU'
-    headline: 'July 22-23, 2022'
-    subhead: 'Paris, France'
+      src: ''
+    video: 'https://www.youtube.com/embed/GS18H-3YFGw'
+    label: Highlights from SBS LATAM
+    headline: 'October 12, 2022'
+    subhead: 'Bogotá, Colombia'
     body: >
-      Hundreds of attendees gathered at SBS EU including representatives from
-      the UNFCCC, UNESCO, various government representatives, legacy energy
-      industry participants, NGOs, and a broad spectrum of web3 Refi/Regen
-      projects & networks.
+      Hundreds of attendees gathered at SBS LATAM including those with deep
+      expertise and deep curiosity in ReFi, Energy Systems, Carbon Markets, and
+      Cryptoeconomics to have wide-ranging discussions and build lasting
+      friendships.
     buttons:
       - label: Explore the content
-        link: 'https://youtube.com/playlist?list=PL_0VrY55uV1-rI6TyGHSxS9uSqEQbovgv'
-        type: minor
+        link: 'https://youtube.com/playlist?list=PL_0VrY55uV1-mrfuGiZK4-rNTcYxURA5J'
+        type: secondary
     _template: video
 meta:
   pageTitle: Sustainable Blockchain Summit LATAM
