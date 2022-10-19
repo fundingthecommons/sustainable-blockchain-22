@@ -8,8 +8,8 @@ blocks:
     body: |
       El Museo del Chicó
     buttons:
-      - label: Grab your ticket
-        link: 'https://www.eventbrite.com/e/397452199227'
+      - label: Watch Replays
+        link: 'https://youtube.com/playlist?list=PL_0VrY55uV1-mrfuGiZK4-rNTcYxURA5J'
         type: primary
     _template: hero
   - style:
@@ -37,7 +37,7 @@ blocks:
 
       Join the world’s premiere forum at the intersection of web3 and the
       biosphere and help us solve these problems together.
-    navigationLabel: ''
+    navigationLabel: About
     _template: feature
   - padding: 'pt-0 undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
     _template: rule
@@ -343,7 +343,7 @@ blocks:
             subhead: >-
               Juan José Giraldo Campuzano & Álvaro Vanegas, Green Digital
               Guardians
-    navigationLabel: Agenda
+    navigationLabel: ''
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
     _template: rule
@@ -431,22 +431,6 @@ blocks:
     navigationLabel: ''
     _template: photoCards
   - style:
-      alignment: 'flex-col text-left items-center items-start-vertical '
-      featureContent: 'w-full min-h-0 '
-      padding: 'pt-10 pb-32 pr-20 pl-20 sm:pt-0 sm:pb-10 sm:pr-6 sm:pl-6'
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-black font-1 text-5xl mb-0 '
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-black font-1 undefined mb-0 '
-      contentOrder: labelHeadingsContent
-    label: ''
-    headline: ''
-    subhead: ''
-    body: ''
-    _template: feature
-  - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-4/5 min-h-0 '
       padding: 'pt-20 pb-10 pr-20 pl-20 sm:pt-10 sm:pb-0 sm:pr-6 sm:pl-6'
@@ -458,21 +442,11 @@ blocks:
       textStyles: text-accent2 font-1 text-base mb-7 font-bold
       contentOrder: labelHeadingsContent
     label: ''
-    headline: Tickets
-    subhead: >-
-      All ticket proceeds will be donated to support environmental conservation
-      in Latin America. We welcome donations of any size. We  greatly appreciate
-      your support!
+    headline: ''
+    subhead: ''
     body: ''
-    navigationLabel: Tickets
-    _template: feature
-  - style:
-      minHeight: min-h-0
-      fullWidth: true
-      padding: 'pt-0 pb-40 pr-20 pl-20 sm:pt-0 sm:pb-20 sm:pr-6 sm:pl-6'
-    markup: <div id="eventbrite-widget-container-397452199227"></div>
     navigationLabel: ''
-    _template: embed
+    _template: feature
   - style:
       labelStyles: 'text-black font-1 text-sm mb-0 '
       headlineStyles: 'text-accent2 font-1 text-2xl mb-0 '
@@ -482,13 +456,14 @@ blocks:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/w_512/q_40/v1660077778/sustainable-blockchain/icon-tree-mask_lhgbtw.jpg
     label: ''
-    headline: Join us in Bogotá for this important gathering.
+    headline: 'Check out the replays from SBS LATAM '
     subhead: ''
     body: ''
     buttons:
-      - label: Register now
-        link: 'https://www.eventbrite.com/e/397452199227'
+      - label: Watch Replays
+        link: 'https://youtube.com/playlist?list=PL_0VrY55uV1-mrfuGiZK4-rNTcYxURA5J'
         type: secondary
+    navigationLabel: ''
     _template: cta
   - style:
       padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-6 sm:pl-6'
@@ -499,21 +474,20 @@ blocks:
     background:
       fillStyles: bg-white
     image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1651785834/sustainable-blockchain/sustainable-blockchain-logo_b9ofib.svg
-    video: 'https://www.youtube.com/embed/0BSjAct8KVw'
-    label: 'Previous Event: SBS EU'
-    headline: 'July 22-23, 2022'
-    subhead: 'Paris, France'
+      src: ''
+    video: 'https://www.youtube.com/embed/GS18H-3YFGw'
+    label: Highlights from SBS LATAM
+    headline: 'October 12, 2022'
+    subhead: 'Bogotá, Colombia'
     body: >
-      Hundreds of attendees gathered at SBS EU including representatives from
-      the UNFCCC, UNESCO, various government representatives, legacy energy
-      industry participants, NGOs, and a broad spectrum of web3 Refi/Regen
-      projects & networks.
+      Hundreds of attendees gathered at SBS LATAM including those with deep
+      expertise and deep curiosity in ReFi, Energy Systems, Carbon Markets, and
+      Cryptoeconomics to have wide-ranging discussions and build lasting
+      friendships.
     buttons:
       - label: Explore the content
-        link: 'https://youtube.com/playlist?list=PL_0VrY55uV1-rI6TyGHSxS9uSqEQbovgv'
-        type: minor
+        link: 'https://youtube.com/playlist?list=PL_0VrY55uV1-mrfuGiZK4-rNTcYxURA5J'
+        type: secondary
     _template: video
 meta:
   pageTitle: Sustainable Blockchain Summit LATAM
