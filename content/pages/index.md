@@ -458,21 +458,11 @@ blocks:
       textStyles: text-accent2 font-1 text-base mb-7 font-bold
       contentOrder: labelHeadingsContent
     label: ''
-    headline: Tickets
-    subhead: >-
-      All ticket proceeds will be donated to support environmental conservation
-      in Latin America. We welcome donations of any size. We  greatly appreciate
-      your support!
+    headline: ''
+    subhead: ''
     body: ''
-    navigationLabel: Tickets
-    _template: feature
-  - style:
-      minHeight: min-h-0
-      fullWidth: true
-      padding: 'pt-0 pb-40 pr-20 pl-20 sm:pt-0 sm:pb-20 sm:pr-6 sm:pl-6'
-    markup: <div id="eventbrite-widget-container-397452199227"></div>
     navigationLabel: ''
-    _template: embed
+    _template: feature
   - style:
       labelStyles: 'text-black font-1 text-sm mb-0 '
       headlineStyles: 'text-accent2 font-1 text-2xl mb-0 '
@@ -482,13 +472,16 @@ blocks:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/w_512/q_40/v1660077778/sustainable-blockchain/icon-tree-mask_lhgbtw.jpg
     label: ''
-    headline: Join us in Bogotá for this important gathering.
+    headline: >-
+      Check out replays from our most recent SBS event in Bogotá, Colombia on
+      October 12, 2022
     subhead: ''
     body: ''
     buttons:
-      - label: Register now
-        link: 'https://www.eventbrite.com/e/397452199227'
+      - label: Watch Replays
+        link: 'https://youtube.com/playlist?list=PL_0VrY55uV1-mrfuGiZK4-rNTcYxURA5J'
         type: secondary
+    navigationLabel: ''
     _template: cta
   - style:
       padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-6 sm:pl-6'
