@@ -8,8 +8,8 @@ blocks:
     body: |
       El Museo del Chicó
     buttons:
-      - label: Grab your ticket
-        link: 'https://www.eventbrite.com/e/397452199227'
+      - label: Watch Replays
+        link: 'https://youtube.com/playlist?list=PL_0VrY55uV1-mrfuGiZK4-rNTcYxURA5J'
         type: primary
     _template: hero
   - style:
@@ -473,8 +473,8 @@ blocks:
         https://res.cloudinary.com/protocolai/image/upload/w_512/q_40/v1660077778/sustainable-blockchain/icon-tree-mask_lhgbtw.jpg
     label: ''
     headline: >-
-      Check out replays from our most recent SBS event in Bogotá, Colombia on
-      October 12, 2022
+      Check out the replays from our most recent SBS event in Bogotá, Colombia
+      on October 12, 2022
     subhead: ''
     body: ''
     buttons:
