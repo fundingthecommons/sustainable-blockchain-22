@@ -431,22 +431,6 @@ blocks:
     navigationLabel: ''
     _template: photoCards
   - style:
-      alignment: 'flex-col text-left items-center items-start-vertical '
-      featureContent: 'w-full min-h-0 '
-      padding: 'pt-10 pb-32 pr-20 pl-20 sm:pt-0 sm:pb-10 sm:pr-6 sm:pl-6'
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-black font-1 text-5xl mb-0 '
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-black font-1 undefined mb-0 '
-      contentOrder: labelHeadingsContent
-    label: ''
-    headline: ''
-    subhead: ''
-    body: ''
-    _template: feature
-  - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-4/5 min-h-0 '
       padding: 'pt-20 pb-10 pr-20 pl-20 sm:pt-10 sm:pb-0 sm:pr-6 sm:pl-6'
@@ -472,9 +456,7 @@ blocks:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/w_512/q_40/v1660077778/sustainable-blockchain/icon-tree-mask_lhgbtw.jpg
     label: ''
-    headline: >-
-      Check out the replays from our most recent SBS event in Bogotá, Colombia
-      on October 12, 2022
+    headline: 'Check out the replays from SBS LATAM '
     subhead: ''
     body: ''
     buttons:
