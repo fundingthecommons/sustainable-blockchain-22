@@ -343,7 +343,7 @@ blocks:
             subhead: >-
               Juan José Giraldo Campuzano & Álvaro Vanegas, Green Digital
               Guardians
-    navigationLabel: Agenda
+    navigationLabel: ''
     _template: schedule
   - padding: 'undefined undefined pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
     _template: rule
