@@ -30,6 +30,15 @@ export const Footer = () => {
           </svg>
         </div>
       </div>
+      <div className="bg-accent2 text-white px-10 py-6 sm:pt-0">
+        <ul className="justify-center flex gap-6 mx-auto text-xs mb-4 justify-start sm:flex-col sm:mb-10">
+          <li><a className="underline" target="_blank" href="https://discuss.ipfs.tech/tos">Terms of Use</a></li>
+          <li><a className="underline" target="_blank" href="https://discuss.ipfs.tech/privacy">Privacy Policy</a></li>
+          <li><a className="underline" target="_blank" href="https://ipfs.tech/legal/">DMCA Policy</a></li>
+        </ul>
+        <p className="mx-auto text-center text-xs sm:text-left">Made with love by <a className="underline" href="https://protocol.ai/" target="_blank">Protocol Labs</a></p>
+      </div>
     </div>
+
   );
 };
